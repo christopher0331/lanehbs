@@ -92,7 +92,7 @@ export default function About() {
 
             {/* Experience badge */}
             <div className="absolute top-6 -right-6 bg-[#c9a458] text-[#0d0d0d] p-5 shadow-2xl">
-              <div className="font-display text-4xl font-bold leading-none">15+</div>
+              <div className="font-display text-4xl font-bold leading-none">30+</div>
               <div className="text-[10px] tracking-widest uppercase font-bold mt-1">Years<br />Experience</div>
             </div>
           </div>
