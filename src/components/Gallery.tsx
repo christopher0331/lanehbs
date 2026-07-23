@@ -5,15 +5,43 @@ import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, ZoomIn } from "lucide-react";
 
 const galleryImages = [
+  // Featured finished work
   { src: "/images/painting16.jpg", alt: "Kitchen cabinet painting — dark finish", label: "Interior" },
+  { src: "/images/from-lane/lane-03-45.jpg", alt: "Completed wraparound deck with modern railing", label: "Deck" },
   { src: "/images/painting3.jpg", alt: "Kitchen renovation in progress", label: "Renovation" },
+  { src: "/images/from-lane/lane-25-1450.jpg", alt: "Freshly stained multi-level deck", label: "Deck" },
   { src: "/images/painting.jpg", alt: "Exterior commercial painting", label: "Exterior" },
+  { src: "/images/from-lane/lane-33-1513.jpg", alt: "Luxury vinyl plank flooring installation", label: "Flooring" },
   { src: "/images/painting2.jpg", alt: "Cabinet painting workshop", label: "Cabinets" },
-  { src: "/images/painting4.jpg", alt: "Residential painting project", label: "Residential" },
-  { src: "/images/painting5.jpg", alt: "Interior painting detail", label: "Interior" },
+  { src: "/images/from-lane/lane-22-62.jpg", alt: "Modern deck on grey exterior home", label: "Deck" },
   { src: "/images/painting6.jpg", alt: "Exterior house painting", label: "Exterior" },
+  { src: "/images/from-lane/lane-20-1512.jpg", alt: "New cedar railing with black metal balusters", label: "Deck" },
   { src: "/images/painting7.jpg", alt: "Deck staining project", label: "Deck" },
+  { src: "/images/from-lane/lane-01-46.jpg", alt: "Elevated deck with water view", label: "Deck" },
+  { src: "/images/painting5.jpg", alt: "Interior painting detail", label: "Interior" },
+  { src: "/images/from-lane/lane-34-1511.jpg", alt: "Flooring install with underlayment", label: "Flooring" },
   { src: "/images/painting8.jpg", alt: "Professional painting work", label: "Residential" },
+  { src: "/images/from-lane/lane-16-48.jpg", alt: "Residential deck renovation", label: "Deck" },
+
+  // Process / active job photos
+  { src: "/images/from-lane/lane-04-4874.jpg", alt: "Vaulted ceiling room prepped for spray painting", label: "Interior" },
+  { src: "/images/from-lane/lane-19-7881148742819674473.jpg", alt: "Full room masking and paint prep", label: "Interior" },
+  { src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg", alt: "Deck pressure washing in progress", label: "Deck" },
+  { src: "/images/from-lane/lane-35-6625739179662692496.jpg", alt: "Protective masking before interior paint", label: "Interior" },
+  { src: "/images/from-lane/lane-08-4766.jpg", alt: "Hallway masked and ready for spray", label: "Interior" },
+  { src: "/images/from-lane/lane-13-4774.jpg", alt: "Fireplace remodel and drywall repair", label: "Remodel" },
+  { src: "/images/from-lane/lane-30-4772.jpg", alt: "Kitchen cabinet removal and remodel", label: "Renovation" },
+  { src: "/images/from-lane/lane-07-1199.jpg", alt: "Deck framing hardware and joist tape detail", label: "Deck" },
+  { src: "/images/from-lane/lane-21-101.jpg", alt: "New stair railing overlooking neighborhood", label: "Deck" },
+  { src: "/images/from-lane/lane-09-4771.jpg", alt: "Interior painting project in progress", label: "Interior" },
+  { src: "/images/from-lane/lane-10-4769.jpg", alt: "Residential paint prep detail", label: "Interior" },
+  { src: "/images/from-lane/lane-11-4765.jpg", alt: "Open living space paint preparation", label: "Interior" },
+  { src: "/images/from-lane/lane-12-1198.jpg", alt: "Exterior renovation work", label: "Exterior" },
+  { src: "/images/from-lane/lane-24-4768.jpg", alt: "Interior walls taped and protected", label: "Interior" },
+  { src: "/images/from-lane/lane-26-4767.jpg", alt: "Room protection during remodel", label: "Remodel" },
+  { src: "/images/from-lane/lane-27-4770.jpg", alt: "Paint and remodel job site", label: "Interior" },
+  { src: "/images/from-lane/lane-32-60.jpg", alt: "Completed exterior deck project", label: "Deck" },
+  { src: "/images/painting4.jpg", alt: "Residential painting project", label: "Residential" },
 ];
 
 export default function Gallery() {
@@ -69,12 +97,9 @@ export default function Gallery() {
               Transformations That{" "}
               <span className="text-gold-gradient">Speak for Themselves</span>
             </h2>
-            <a
-              href="#gallery"
-              className="flex-shrink-0 text-sm text-[#c9a458] tracking-widest uppercase font-medium hover:text-[#e0bc7a] transition-colors border-b border-[#c9a458]/40 pb-0.5"
-            >
-              View Full Gallery →
-            </a>
+            <p className="flex-shrink-0 text-sm text-white/40 tracking-widest uppercase font-medium">
+              {galleryImages.length} projects
+            </p>
           </div>
           <div className="mt-6 section-divider" />
         </div>
@@ -83,10 +108,10 @@ export default function Gallery() {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 auto-rows-[220px]">
           {galleryImages.map((img, i) => (
             <div
-              key={i}
+              key={img.src}
               className={`group relative overflow-hidden cursor-pointer ${
-                i === 0 ? "col-span-2 row-span-2" : ""
-              } ${i === 4 ? "col-span-2" : ""}`}
+                i === 0 || i === 5 || i === 16 ? "col-span-2 row-span-2" : ""
+              } ${i === 3 || i === 11 ? "col-span-2" : ""}`}
               onClick={() => setLightboxIdx(i)}
             >
               <Image
@@ -94,6 +119,7 @@ export default function Gallery() {
                 alt={img.alt}
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
+                sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
               />
               {/* Overlay */}
               <div className="absolute inset-0 bg-[#0d0d0d]/0 group-hover:bg-[#0d0d0d]/60 transition-all duration-500 flex items-center justify-center">
@@ -141,6 +167,7 @@ export default function Gallery() {
               alt={galleryImages[lightboxIdx].alt}
               fill
               className="object-contain"
+              sizes="90vw"
             />
           </div>
           <button
