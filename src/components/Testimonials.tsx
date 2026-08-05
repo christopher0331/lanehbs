@@ -225,7 +225,7 @@ export default function Testimonials() {
           </div>
           <div className="h-12 w-[1px] bg-white/10 hidden sm:block" />
           <a
-            href="#contact"
+            href="/contact"
             className="px-6 py-3 bg-[#c9a458] text-[#0d0d0d] text-xs font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-colors"
           >
             Become Our Next Success Story

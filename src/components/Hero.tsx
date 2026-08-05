@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { ArrowDown, CheckCircle } from "lucide-react";
 
 const badges = [
@@ -84,18 +85,18 @@ export default function Hero() {
 
           {/* CTAs */}
           <div className="flex flex-wrap gap-4">
-            <a
-              href="#contact"
+            <Link
+              href="/contact"
               className="px-8 py-4 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_30px_rgba(201,164,88,0.5)] hover:-translate-y-0.5"
             >
               Get a Free Estimate
-            </a>
-            <a
-              href="#services"
+            </Link>
+            <Link
+              href="/services"
               className="px-8 py-4 border border-white/30 text-white text-sm font-bold tracking-widest uppercase hover:border-[#c9a458] hover:text-[#c9a458] transition-all duration-300"
             >
               Our Services
-            </a>
+            </Link>
           </div>
         </div>
       </div>

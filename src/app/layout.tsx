@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const inter = Inter({
@@ -15,11 +17,23 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Lane Home & Business Services LLC | Expert Contractors in Lake Tapps, WA",
+  metadataBase: new URL("https://lanehbsllc.com"),
+  title: {
+    default: "Lane Home & Business Services LLC | Expert Contractors in Lake Tapps, WA",
+    template: "%s | Lane HBS",
+  },
   description:
-    "Lane Home and Business Services LLC — your trusted residential and commercial painting, remodeling, renovation, deck, and fence contractors serving Lake Tapps, Bonney Lake, and the greater Pierce County area. Call (253) 414-3937 for a free estimate today.",
+    "Lane Home and Business Services LLC — your trusted residential and commercial painting, remodeling, renovation, deck, and fence contractors serving Lake Tapps, Enumclaw, Maple Valley, Covington, and the greater Pierce & King County area. Call (253) 414-3937 for a free estimate today.",
   keywords:
-    "painting contractor Lake Tapps, Lake Tapps contractor, Bonney Lake painting, residential painting, commercial painting, remodeling, renovation, deck building, fence installation, Lane Vanderwaal",
+    "painting contractor Lake Tapps, Lake Tapps contractor, Enumclaw painting, Maple Valley contractor, Covington painting, residential painting, commercial painting, remodeling, renovation, deck building, fence installation, Lane Vanderwaal",
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    siteName: "Lane Home & Business Services LLC",
+  },
 };
 
 export default function RootLayout({
@@ -30,7 +44,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.variable} ${playfair.variable} antialiased`}>
-        {children}
+        <div className="min-h-screen bg-[#0d0d0d]">
+          <Navbar />
+          {children}
+          <Footer />
+        </div>
       </body>
     </html>
   );

@@ -148,7 +148,7 @@ export default function About() {
 
             <div className="mt-10">
               <a
-                href="#contact"
+                href="/contact"
                 className="inline-flex items-center gap-3 px-7 py-3.5 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_25px_rgba(201,164,88,0.4)]"
               >
                 Work With Us
