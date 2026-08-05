@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import ServiceAreaTemplate from "@/components/templates/ServiceAreaTemplate";
 import { SITE_CONFIG } from "@/constants/siteConfig";
+import { getServiceAreaArticle } from "@/content/service-areas";
 import { getAllCitySlugs, getCity } from "@/lib/locations";
 import { absoluteUrl } from "@/lib/seo";
 
@@ -33,9 +34,10 @@ export default async function CityServiceAreaPage({ params }: Props) {
   const { city: slug } = await params;
   const city = getCity(slug);
   if (!city) notFound();
+  const article = await getServiceAreaArticle(city.slug);
   return (
     <main>
-      <ServiceAreaTemplate city={city} />
+      <ServiceAreaTemplate city={city} article={article} />
     </main>
   );
 }

@@ -9,7 +9,9 @@ import {
   Sun,
 } from "lucide-react";
 import JsonLd from "@/components/seo/JsonLd";
+import ServiceAreaArticleBody from "@/components/ServiceAreaArticle";
 import { SITE_CONFIG } from "@/constants/siteConfig";
+import type { ServiceAreaArticle } from "@/content/service-areas/types";
 import type { ServiceAreaCity } from "@/lib/locations";
 import {
   buildBreadcrumbList,
@@ -20,9 +22,10 @@ import { servicePages } from "@/lib/services";
 
 type Props = {
   city: ServiceAreaCity;
+  article?: ServiceAreaArticle | null;
 };
 
-export default function ServiceAreaTemplate({ city }: Props) {
+export default function ServiceAreaTemplate({ city, article }: Props) {
   const canonicalPath = `/service-areas/${city.slug}`;
   const faqSchema = buildFaqPage(city.faqs);
   const structuredData = [
@@ -280,19 +283,23 @@ export default function ServiceAreaTemplate({ city }: Props) {
         </div>
       </section>
 
-      {/* Article SEO content */}
-      <section className="py-20 bg-[#0d0d0d]">
-        <div className="max-w-4xl mx-auto px-6 space-y-12">
-          {city.articleSections.map((section) => (
-            <article key={section.heading}>
-              <h2 className="font-display text-2xl md:text-3xl font-bold text-white mb-4">
-                {section.heading}
-              </h2>
-              <p className="text-white/55 leading-relaxed text-lg">{section.body}</p>
-            </article>
-          ))}
-        </div>
-      </section>
+      {/* Perplexity-generated local SEO article with links + embedded images */}
+      {article ? (
+        <ServiceAreaArticleBody article={article} />
+      ) : (
+        <section className="py-20 bg-[#0d0d0d]">
+          <div className="max-w-4xl mx-auto px-6 space-y-12">
+            {city.articleSections.map((section) => (
+              <article key={section.heading}>
+                <h2 className="font-display text-2xl md:text-3xl font-bold text-white mb-4">
+                  {section.heading}
+                </h2>
+                <p className="text-white/55 leading-relaxed text-lg">{section.body}</p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* FAQ */}
       <section className="py-20 bg-[#111111] border-y border-white/5">

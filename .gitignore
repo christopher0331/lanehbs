@@ -23,6 +23,10 @@
 # misc
 .DS_Store
 *.pem
+/tmp/
+
+# generated article scratch
+/tmp
 
 # debug
 npm-debug.log*
