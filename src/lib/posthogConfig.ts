@@ -1,5 +1,5 @@
 /**
- * Lane HBS lives in the billed Reactiv Labs / MyFence.com PostHog
+ * Lane HBS lives in the billed Reactiv Labs PostHog
  * organization as its own project. Do not use the MyFence token.
  */
 export const SITE_ID = String(process.env.NEXT_PUBLIC_SITE_ID ?? "lanehbs").trim() || "lanehbs";
