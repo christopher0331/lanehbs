@@ -134,6 +134,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-white/25">
             © {new Date().getFullYear()} Lane Home &amp; Business Services LLC — All Rights Reserved.
+            Analytics (PostHog) may record anonymized sessions with form fields masked.
           </p>
           <div className="flex items-center gap-6">
             <Link href="/" className="text-xs text-white/25 hover:text-white/50 transition-colors">

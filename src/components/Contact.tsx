@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
+import { trackLeadSubmitted, trackPhoneCall } from "@/lib/analytics";
 
 const hours = [
   { day: "Monday", time: "9:00 AM – 5:00 PM" },
@@ -51,6 +52,7 @@ export default function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // In production, send to backend/email service
+    trackLeadSubmitted("estimate", { service_type: form.service || "unspecified" });
     setSubmitted(true);
   };
 
@@ -87,6 +89,7 @@ export default function Contact() {
           </p>
           <a
             href="tel:2534143937"
+            onClick={() => trackPhoneCall("2534143937")}
             className="inline-flex items-center gap-3 px-10 py-5 bg-[#c9a458] text-[#0d0d0d] font-bold text-lg tracking-wide hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_40px_rgba(201,164,88,0.5)] hover:-translate-y-0.5"
           >
             <Phone size={22} />
@@ -218,6 +221,7 @@ export default function Contact() {
                 <div className="space-y-4">
                   <a
                     href="tel:2534143937"
+                    onClick={() => trackPhoneCall("2534143937")}
                     className="flex items-start gap-4 group"
                   >
                     <div className="w-10 h-10 bg-[#c9a458]/10 border border-[#c9a458]/20 flex items-center justify-center flex-shrink-0 group-hover:bg-[#c9a458]/20 transition-colors">
@@ -307,6 +311,7 @@ export default function Contact() {
                 </p>
                 <a
                   href="tel:2534143937"
+                  onClick={() => trackPhoneCall("2534143937")}
                   className="flex items-center gap-2 font-bold text-lg hover:opacity-80 transition-opacity"
                 >
                   <Phone size={20} />

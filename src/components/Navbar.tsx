@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, X, Phone } from "lucide-react";
+import { trackLeadIntent, trackPhoneCall } from "@/lib/analytics";
 
 const navLinks = [
   { label: "About", href: "/about" },
@@ -78,6 +79,7 @@ export default function Navbar() {
         <div className="hidden lg:flex items-center gap-4">
           <a
             href="tel:2534143937"
+            onClick={() => trackPhoneCall("2534143937")}
             className="flex items-center gap-2 text-[#c9a458] text-sm font-medium hover:text-[#e0bc7a] transition-colors"
           >
             <Phone size={15} />
@@ -85,6 +87,7 @@ export default function Navbar() {
           </a>
           <Link
             href="/contact"
+            onClick={() => trackLeadIntent("cta_contact")}
             className="px-6 py-2.5 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_20px_rgba(201,164,88,0.4)]"
           >
             Free Estimate
@@ -118,6 +121,7 @@ export default function Navbar() {
           ))}
           <a
             href="tel:2534143937"
+            onClick={() => trackPhoneCall("2534143937")}
             className="flex items-center gap-2 text-[#c9a458] text-sm font-medium mt-2"
           >
             <Phone size={14} />
@@ -125,8 +129,11 @@ export default function Navbar() {
           </a>
           <Link
             href="/contact"
+            onClick={() => {
+              setMenuOpen(false);
+              trackLeadIntent("cta_contact");
+            }}
             className="mt-1 px-6 py-3 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase text-center hover:bg-[#e0bc7a] transition-colors"
-            onClick={() => setMenuOpen(false)}
           >
             Free Estimate
           </Link>
