@@ -41,17 +41,45 @@ export function buildLocalBusiness({
   description,
   canonicalPath,
   city,
+  neighborhoodName,
   latitude,
   longitude,
+  geoRadiusMeters,
 }: {
   name: string;
   description: string;
   canonicalPath: string;
   city: string;
+  neighborhoodName?: string;
   latitude?: number;
   longitude?: number;
+  geoRadiusMeters?: number;
 }): Record<string, unknown> {
   const canonical = absoluteUrl(canonicalPath);
+  const geo = {
+    "@type": "GeoCoordinates",
+    latitude: latitude ?? SITE_CONFIG.coordinates.latitude,
+    longitude: longitude ?? SITE_CONFIG.coordinates.longitude,
+  };
+
+  const cityPlace = {
+    "@type": "City",
+    name: city,
+    containedInPlace: {
+      "@type": "State",
+      name: "Washington",
+    },
+  };
+
+  const areaServed = neighborhoodName
+    ? {
+        "@type": "Place",
+        name: neighborhoodName,
+        geo,
+        containedInPlace: cityPlace,
+      }
+    : cityPlace;
+
   return {
     "@type": ["LocalBusiness", "HomeAndConstructionBusiness"],
     "@id": `${canonical}#localbusiness`,
@@ -64,18 +92,19 @@ export function buildLocalBusiness({
     logo: { "@type": "ImageObject", url: SITE_CONFIG.logoUrl },
     address: SCHEMA_ADDRESS,
     founder: { "@type": "Person", name: SITE_CONFIG.owner },
-    geo:
-      latitude != null && longitude != null
-        ? {
-            "@type": "GeoCoordinates",
-            latitude,
-            longitude,
-          }
-        : {
-            "@type": "GeoCoordinates",
-            latitude: SITE_CONFIG.coordinates.latitude,
-            longitude: SITE_CONFIG.coordinates.longitude,
+    geo,
+    ...(geoRadiusMeters
+      ? {
+          serviceArea: {
+            "@type": "GeoCircle",
+            geoMidpoint: geo,
+            geoRadius: {
+              "@type": "Distance",
+              name: `${geoRadiusMeters} meters`,
+            },
           },
+        }
+      : {}),
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
@@ -84,13 +113,12 @@ export function buildLocalBusiness({
         closes: "17:00",
       },
     ],
-    areaServed: {
-      "@type": "City",
-      name: city,
-      containedInPlace: {
-        "@type": "State",
-        name: "Washington",
-      },
+    areaServed,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5",
+      bestRating: "5",
+      reviewCount: "5",
     },
     hasOfferCatalog: {
       "@type": "OfferCatalog",
@@ -107,7 +135,13 @@ export function buildLocalBusiness({
         itemOffered: {
           "@type": "Service",
           name: serviceName,
-          areaServed: { "@type": "City", name: city },
+          areaServed: neighborhoodName
+            ? {
+                "@type": "Place",
+                name: neighborhoodName,
+                containedInPlace: cityPlace,
+              }
+            : { "@type": "City", name: city },
         },
       })),
     },
@@ -118,15 +152,19 @@ export function buildServiceSchema({
   name,
   description,
   canonicalPath,
+  areaServedName,
+  serviceId,
 }: {
   name: string;
   description: string;
   canonicalPath: string;
+  areaServedName?: string;
+  serviceId?: string;
 }): Record<string, unknown> {
   const canonical = absoluteUrl(canonicalPath);
   return {
     "@type": "Service",
-    "@id": `${canonical}#service`,
+    "@id": `${canonical}#${serviceId ?? "service"}`,
     name,
     description,
     provider: {
@@ -136,8 +174,8 @@ export function buildServiceSchema({
       address: SCHEMA_ADDRESS,
     },
     areaServed: {
-      "@type": "State",
-      name: "Washington",
+      "@type": areaServedName ? "Place" : "State",
+      name: areaServedName ?? "Washington",
     },
     url: canonical,
   };
