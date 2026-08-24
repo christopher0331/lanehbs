@@ -1,0 +1,46 @@
+---
+description: How to add Lane HBS neighborhood pages (painting/remodeling, not fencing)
+globs: src/lib/locations.ts,src/components/templates/**/*.tsx,src/app/service-areas/**/*.tsx,src/content/service-areas/**
+alwaysApply: false
+---
+
+# Lane HBS — Neighborhood Pages
+
+Lane Home & Business Services is a **painting, remodeling, deck, and fence** contractor (`lanehbsllc.com`), not a fence-only company. Do not copy MyFence page structure, fence-style cards, `/quote` CTAs, warranty-year badges, or Fence Genius copy.
+
+## Architecture (do not create per-neighborhood files)
+
+Neighborhoods are **data**, not standalone route/component files.
+
+1. Add a `Neighborhood` object to the parent city in `src/lib/locations.ts`.
+2. The shared route `src/app/service-areas/[city]/[neighborhood]/page.tsx` and `NeighborhoodTemplate` render it.
+3. The city page (`ServiceAreaTemplate`) auto-links every `city.neighborhoods` entry — adding the object **is** the required city-page update.
+4. Sitemap entries come from `getAllNeighborhoodParams()`.
+
+Do **not** add `src/app/service-areas/{city}/{slug}/page.tsx` or `src/components/neighborhoods/{Name}Page.tsx`.
+
+## Neighborhood object
+
+```ts
+{
+  slug: "four-corners",
+  name: "Four Corners",
+  description: "One-sentence card copy for the city neighborhood grid.",
+  blurb: "Hero paragraph — local streets, housing, and Lane HBS services.",
+  highlights: ["Service unique to this neighborhood", "...", "..."],
+  faqs: [/* 3+ local Q&As */],
+  image: "/images/from-lane/....jpg", // owned photos only
+}
+```
+
+## Also update
+
+- Parent city FAQ / hero if it lists neighborhoods by name.
+- `scripts/generate-service-area-articles.ts` neighborhood list **and** the live article in `src/content/service-areas/{city}.ts` so the long-form article links the new page.
+
+## Copy and SEO
+
+- Services: interior/exterior/commercial painting, cabinets, remodeling, decks, fences, carpentry.
+- Phone `(253) 414-3937`; CTA `/contact` (not `/quote`); brand `Lane HBS` / `Lane Home & Business Services LLC`.
+- Unique local copy: streets, schools, HOAs, landmarks. No competitor phrasing, no fake reviews, no stock photos, no placeholder tokens.
+- Title pattern is already generated: `{Neighborhood} Painting & Remodeling | {City} | Lane HBS`.

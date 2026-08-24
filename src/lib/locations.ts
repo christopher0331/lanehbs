@@ -354,7 +354,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Four Corners, Tahoma & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -396,7 +396,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma-area neighborhoods, Lake Wilderness communities, and nearby Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Four Corners, Tahoma-area neighborhoods, Lake Wilderness communities, and nearby Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -472,6 +472,42 @@ export const serviceAreaCities: ServiceAreaCity[] = [
           },
         ],
         image: "/images/from-lane/lane-33-1513.jpg",
+      },
+      {
+        slug: "four-corners",
+        name: "Four Corners",
+        description:
+          "The SR 169 and Kent-Kangley crossroads — family homes, school-year schedules, and exteriors that take arterial weather and Pacific Northwest rain.",
+        blurb:
+          "Around Four Corners, Lane HBS paints interiors and exteriors, refinishes cabinets, and refreshes decks and fences for busy Tahoma-area households. We keep job sites tidy near SE Tahoma Way, Maple Valley Highway, and the Kent-Kangley corridor.",
+        highlights: [
+          "Exterior painting that holds up to arterial dust, rain, and UV",
+          "Interior paint and cabinet refinishing in occupied family homes",
+          "Deck staining and fence work on typical subdivision lots",
+        ],
+        faqs: [
+          {
+            question: "Do I need a permit to paint my Four Corners home?",
+            answer:
+              "Most interior and exterior repaints in Maple Valley do not need a building permit. Structural changes, new decks, or fence work that alters height or location may. We’ll flag anything that should be checked with the City of Maple Valley Building Division during your estimate.",
+          },
+          {
+            question: "What painting and remodel work fits Four Corners homes?",
+            answer:
+              "Many Four Corners houses are two-story 1990s–2000s family homes near Tahoma High School. The usual mix is a full exterior refresh, kitchen cabinet painting, interior walls in high-traffic rooms, and deck or fence staining that can take shade and wet winters.",
+          },
+          {
+            question: "How much does painting or remodeling cost in Four Corners?",
+            answer:
+              "Price depends on square footage, siding condition, access, and whether carpentry or deck work is included. Estimates are free — call (253) 414-3937 or use our contact form and we’ll walk the property and give a written scope.",
+          },
+          {
+            question: "How long does a typical Four Corners project take?",
+            answer:
+              "A single-family interior or exterior paint job is usually several days, scheduled around weather and school-year routines. Cabinet refinishing and deck staining add time for prep and cure. We confirm the calendar before we start so drop-off traffic on SE Tahoma Way and Kent-Kangley doesn’t become a surprise.",
+          },
+        ],
+        image: "/images/from-lane/lane-08-4766.jpg",
       },
       {
         slug: "ravensdale",

@@ -203,6 +203,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Lake Wilderness",
         path: "/service-areas/maple-valley/lake-wilderness",
       },
+      { name: "Four Corners", path: "/service-areas/maple-valley/four-corners" },
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
     ],
     knownLinks: [
