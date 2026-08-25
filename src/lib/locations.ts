@@ -1,4 +1,70 @@
 import type { FaqItem } from "@/lib/seo";
+import { covingtonNeighborhoods } from "@/lib/neighborhoods/covington";
+import { enumclawNeighborhoods } from "@/lib/neighborhoods/enumclaw";
+import { lakeTappsNeighborhoods } from "@/lib/neighborhoods/lake-tapps";
+import { mapleValleyNeighborhoods } from "@/lib/neighborhoods/maple-valley";
+
+export type NeighborhoodTrustIcon =
+  | "shield"
+  | "droplets"
+  | "home"
+  | "trees"
+  | "wind"
+  | "users"
+  | "paintbrush"
+  | "hammer"
+  | "sun"
+  | "waves"
+  | "clipboard"
+  | "car"
+  | "school"
+  | "heart";
+
+export type NeighborhoodTrustCard = {
+  icon: NeighborhoodTrustIcon;
+  title: string;
+  body: string;
+};
+
+export type NeighborhoodGalleryItem = {
+  src: string;
+  alt: string;
+  caption: string;
+};
+
+export type NeighborhoodCaseStudy = {
+  heading: string;
+  image: string;
+  imageAlt: string;
+  serviceType: string;
+  body: string;
+};
+
+export type NeighborhoodConsideration = {
+  heading: string;
+  body: string;
+};
+
+export type NeighborhoodCostDriver = {
+  title: string;
+  body: string;
+};
+
+export type NeighborhoodServiceHighlight = {
+  slug: string;
+  localDescription: string;
+};
+
+export type NeighborhoodProcessStep = {
+  title: string;
+  body: string;
+};
+
+export type LocalAttraction = {
+  name: string;
+  url: string;
+  description: string;
+};
 
 export type Neighborhood = {
   slug: string;
@@ -8,6 +74,31 @@ export type Neighborhood = {
   highlights: string[];
   faqs: FaqItem[];
   image: string;
+  heroIntro: string;
+  mapQuery: string;
+  latitude: number;
+  longitude: number;
+  geoRadiusMeters: number;
+  introHeading: string;
+  introLead: string;
+  introBody: string;
+  trustCards: NeighborhoodTrustCard[];
+  reviewNames: string[];
+  galleryHeading: string;
+  galleryNote: string;
+  gallery: NeighborhoodGalleryItem[];
+  caseStudy: NeighborhoodCaseStudy;
+  considerationsHeading: string;
+  considerations: NeighborhoodConsideration[];
+  costHeading: string;
+  costIntro: string;
+  costDrivers: NeighborhoodCostDriver[];
+  featuredServices: NeighborhoodServiceHighlight[];
+  estimateBandCopy: string;
+  processHeading: string;
+  processSteps: NeighborhoodProcessStep[];
+  attractions: LocalAttraction[];
+  localLivingParagraphs: string[];
 };
 
 export type ServiceAreaCity = {
@@ -103,97 +194,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
           "Call or text (253) 414-3937 or use our contact form. We’ll discuss your project and schedule a visit — estimates are free with no pressure.",
       },
     ],
-    neighborhoods: [
-      {
-        slug: "snag-island",
-        name: "Snag Island",
-        description:
-          "Peninsula living with waterfront exposure — exteriors and decks need moisture-smart prep and durable finishes.",
-        blurb:
-          "Snag Island properties sit close to the water. Lane HBS handles exterior painting, deck staining, and trim repairs with products and prep suited to humid lakeside conditions.",
-        highlights: [
-          "Waterfront-aware exterior painting and staining",
-          "Deck and railing refreshes that stand up to humidity",
-          "Clean job sites on tight peninsula lots",
-        ],
-        faqs: [
-          {
-            question: "Do you paint waterfront homes on Snag Island?",
-            answer:
-              "Yes. We prep thoroughly for moisture, use appropriate primers and topcoats, and protect landscaping and docks during the job.",
-          },
-          {
-            question: "Can you help with peeling deck stain near the lake?",
-            answer:
-              "We pressure wash, sand or scrape as needed, and recoat with stain/sealers chosen for lakeside wear.",
-          },
-        ],
-        image: "/images/from-lane/lane-25-1450.jpg",
-      },
-      {
-        slug: "driftwood-point",
-        name: "Driftwood Point",
-        description:
-          "Established lakeside streets where curb appeal and durable outdoor finishes matter year-round.",
-        blurb:
-          "From full-home exteriors to cabinet refinishing inside, Driftwood Point homeowners hire Lane HBS for careful prep, honest timelines, and finishes that look sharp after Northwest winters.",
-        highlights: [
-          "Full-home exterior painting",
-          "Interior paint and cabinet refinishing",
-          "Fence and deck touch-ups or rebuilds",
-        ],
-        faqs: [
-          {
-            question: "How long does exterior painting take in Driftwood Point?",
-            answer:
-              "Most single-family exteriors take several days depending on size, weather, and repair needs. We give a clear schedule before work starts.",
-          },
-        ],
-        image: "/images/from-lane/lane-01-46.jpg",
-      },
-      {
-        slug: "west-tapps",
-        name: "West Tapps",
-        description:
-          "West-side Lake Tapps homes with elevated decks, views, and Pacific Northwest weather exposure.",
-        blurb:
-          "West Tapps projects often mix exterior paint, deck rail upgrades, and interior refreshes. We coordinate the work so your home looks consistent from street to shoreline view.",
-        highlights: [
-          "Elevated deck staining and modern rail systems",
-          "Exterior color updates with lasting coatings",
-          "Interior painting for open living spaces",
-        ],
-        faqs: [
-          {
-            question: "Do you install or replace deck railings in West Tapps?",
-            answer:
-              "Yes — wood rails with metal balusters, staining, and related carpentry are common West Tapps projects for us.",
-          },
-        ],
-        image: "/images/from-lane/lane-22-62.jpg",
-      },
-      {
-        slug: "lake-tapps-plateau",
-        name: "Lake Tapps Plateau",
-        description:
-          "Plateau neighborhoods above the reservoir with larger lots and family-focused outdoor living.",
-        blurb:
-          "On the Lake Tapps Plateau we paint, remodel, and build outdoor spaces for growing families — kitchens, interiors, fences, and decks included.",
-        highlights: [
-          "Interior & exterior residential painting",
-          "Kitchen cabinet painting systems",
-          "Fence and outdoor living upgrades",
-        ],
-        faqs: [
-          {
-            question: "Can you paint cabinets instead of replacing them?",
-            answer:
-              "Yes. Our cabinet painting system includes heavy-duty cleaning, sanding, priming, and a durable topcoat — a cost-effective kitchen upgrade.",
-          },
-        ],
-        image: "/images/from-lane/lane-20-1512.jpg",
-      },
-    ],
+    neighborhoods: lakeTappsNeighborhoods,
     articleSections: [
       {
         heading: "Your Local Lake Tapps Painting & Remodeling Team",
@@ -271,71 +272,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
           "We do. Soft wood, failed caulk, and damaged trim get fixed so new paint has a sound surface.",
       },
     ],
-    neighborhoods: [
-      {
-        slug: "downtown-enumclaw",
-        name: "Downtown Enumclaw",
-        description:
-          "Main-street homes and businesses that need sharp exteriors and reliable commercial painting.",
-        blurb:
-          "Downtown Enumclaw projects range from storefront refresh work to nearby residential interiors. We keep sites tidy and schedules predictable.",
-        highlights: [
-          "Commercial and residential painting",
-          "Trim, door, and facade updates",
-          "Flexible scheduling for businesses",
-        ],
-        faqs: [
-          {
-            question: "Can work be done after business hours?",
-            answer:
-              "Often yes — we’ll discuss timing during your estimate so customers and neighbors aren’t disrupted.",
-          },
-        ],
-        image: "/images/painting.jpg",
-      },
-      {
-        slug: "boise-creek",
-        name: "Boise Creek",
-        description:
-          "Residential pockets near Boise Creek with family homes and outdoor living spaces.",
-        blurb:
-          "Boise Creek homeowners call Lane HBS for interior paint, exterior refresh, and deck or fence work that fits family yards.",
-        highlights: [
-          "Interior painting for busy households",
-          "Fence and deck upgrades",
-          "Honest pricing and clear communication",
-        ],
-        faqs: [
-          {
-            question: "Do you fence yards in Boise Creek?",
-            answer:
-              "Yes — fence installation, painting, and repairs are part of our outdoor services in Enumclaw.",
-          },
-        ],
-        image: "/images/from-lane/lane-16-48.jpg",
-      },
-      {
-        slug: "enumclaw-plateau",
-        name: "Enumclaw Plateau",
-        description:
-          "Larger plateau lots where exterior coatings and outdoor structures take a beating from wind and rain.",
-        blurb:
-          "On the Enumclaw Plateau we focus on durable exteriors, stained decks, and carpentry that keeps bigger properties looking maintained for years.",
-        highlights: [
-          "Weather-ready exterior painting",
-          "Deck staining and sealing",
-          "Siding and soffit repairs",
-        ],
-        faqs: [
-          {
-            question: "What prep do plateau exteriors need?",
-            answer:
-              "Washing, scraping failed paint, caulking, priming bare wood, and addressing repairs before the finish coats.",
-          },
-        ],
-        image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
-      },
-    ],
+    neighborhoods: enumclawNeighborhoods,
     articleSections: [
       {
         heading: "Enumclaw Painting & Remodeling Done Right",
@@ -354,7 +291,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Four Corners, Lake Wilderness & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -396,7 +333,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma-area neighborhoods, Lake Wilderness communities, and nearby Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Four Corners, Lake Wilderness communities, Tahoma-area streets, and nearby Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -409,96 +346,11 @@ export const serviceAreaCities: ServiceAreaCity[] = [
           "Most interior projects are done occupied. We protect floors, move furniture carefully, and keep work areas contained.",
       },
     ],
-    neighborhoods: [
-      {
-        slug: "wilderness-rim",
-        name: "Wilderness Rim",
-        description:
-          "Hillside, tree-lined lots where moisture-aware exteriors and solid outdoor structures matter.",
-        blurb:
-          "Wilderness Rim homes often need exterior paint that fights moss and shade, plus decks or fences that follow the terrain. Lane HBS brings careful prep and durable finishes.",
-        highlights: [
-          "Moisture-aware exterior painting",
-          "Sloped-lot deck staining and repairs",
-          "Fence work for wooded property lines",
-        ],
-        faqs: [
-          {
-            question: "Do you treat mildew before painting in Wilderness Rim?",
-            answer:
-              "Yes. Washing and appropriate treatments are part of exterior prep in shaded foothills neighborhoods.",
-          },
-        ],
-        image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
-      },
-      {
-        slug: "summit",
-        name: "Summit at Maple Valley",
-        description:
-          "Newer planned community with HOA standards and modern home exteriors.",
-        blurb:
-          "At Summit we deliver crisp exteriors, cabinet refinishing, and outdoor updates that meet community expectations without cutting corners on prep.",
-        highlights: [
-          "HOA-conscious exterior painting",
-          "Cabinet painting for modern kitchens",
-          "Clean, contained job sites",
-        ],
-        faqs: [
-          {
-            question: "Will you follow Summit HOA paint guidelines?",
-            answer:
-              "We’ll review your guidelines and approved colors during the estimate so the finished look stays compliant.",
-          },
-        ],
-        image: "/images/painting16.jpg",
-      },
-      {
-        slug: "lake-wilderness",
-        name: "Lake Wilderness",
-        description:
-          "Lake-adjacent Maple Valley living with parks, trails, and outdoor-focused homes.",
-        blurb:
-          "Near Lake Wilderness we paint, stain decks, and refresh interiors for homeowners who want their property to match the recreation lifestyle outside the door.",
-        highlights: [
-          "Interior and exterior painting",
-          "Deck staining near lake communities",
-          "Fence installation and repairs",
-        ],
-        faqs: [
-          {
-            question: "Do you work near Lake Wilderness Park?",
-            answer:
-              "Yes — surrounding neighborhoods are a regular part of our Maple Valley service area.",
-          },
-        ],
-        image: "/images/from-lane/lane-33-1513.jpg",
-      },
-      {
-        slug: "ravensdale",
-        name: "Ravensdale",
-        description:
-          "Wooded rural-residential area east of Maple Valley with larger lots and quiet foothills character.",
-        blurb:
-          "Ravensdale properties often mean longer fence runs, bigger exteriors, and wooded moisture. We bring the same professional standards as in-town Maple Valley jobs.",
-        highlights: [
-          "Larger-lot exterior painting",
-          "Fence installation and staining",
-          "Deck projects for rural residential homes",
-        ],
-        faqs: [
-          {
-            question: "Is Ravensdale inside your service area?",
-            answer:
-              "Yes. Ravensdale and nearby Maple Valley foothills communities are within our regular coverage.",
-          },
-        ],
-        image: "/images/from-lane/lane-01-46.jpg",
-      },
-    ],
+    neighborhoods: mapleValleyNeighborhoods,
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes and Four Corners along SR 169 and Kent-Kangley, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",
@@ -568,71 +420,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
           "Yes. Flooring installs and room refreshes can be scoped alongside paint and remodel work.",
       },
     ],
-    neighborhoods: [
-      {
-        slug: "lake-sawyer",
-        name: "Lake Sawyer",
-        description:
-          "Lake-adjacent Covington living with strong demand for exteriors, decks, and polished interiors.",
-        blurb:
-          "Around Lake Sawyer we help homeowners refresh exteriors, stain decks, and update interiors so properties feel as good as the setting.",
-        highlights: [
-          "Lakeside-area exterior painting",
-          "Deck staining and rail updates",
-          "Interior paint and cabinet work",
-        ],
-        faqs: [
-          {
-            question: "Do you work on homes near Lake Sawyer Regional Park?",
-            answer:
-              "Yes — Lake Sawyer neighborhoods are a regular Covington coverage area for Lane HBS.",
-          },
-        ],
-        image: "/images/from-lane/lane-03-45.jpg",
-      },
-      {
-        slug: "maple-hills",
-        name: "Maple Hills",
-        description:
-          "Established Covington neighborhood with family homes and classic exterior refresh needs.",
-        blurb:
-          "Maple Hills projects often include exterior repaints, fence updates, and interior upgrades for long-time homeowners ready for a new look.",
-        highlights: [
-          "Full exterior repaints",
-          "Fence painting and repairs",
-          "Interior room-by-room painting",
-        ],
-        faqs: [
-          {
-            question: "Can you paint just the exterior trim in Maple Hills?",
-            answer:
-              "Yes. We can scope trim-only, full exterior, or phased projects based on budget and timing.",
-          },
-        ],
-        image: "/images/painting6.jpg",
-      },
-      {
-        slug: "covington-woods",
-        name: "Covington Woods",
-        description:
-          "Tree-lined residential streets where moisture-aware prep keeps new paint looking fresh longer.",
-        blurb:
-          "In Covington Woods we wash, prep, and coat exteriors properly — and handle cabinets, decks, and fences when outdoor living needs a refresh too.",
-        highlights: [
-          "Shade-smart exterior prep and paint",
-          "Cabinet refinishing",
-          "Deck and outdoor projects",
-        ],
-        faqs: [
-          {
-            question: "Why does paint fail faster on shaded sides of the house?",
-            answer:
-              "Moisture and mildew linger on north/shaded elevations. Washing and correct primers dramatically improve coating life.",
-          },
-        ],
-        image: "/images/from-lane/lane-20-1512.jpg",
-      },
-    ],
+    neighborhoods: covingtonNeighborhoods,
     articleSections: [
       {
         heading: "Covington Painting, Cabinets & Remodeling",
