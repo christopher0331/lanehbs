@@ -365,7 +365,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Covington, WA",
     heroDescription:
-      "Covington painting, cabinet refinishing, remodeling, decks, and fences with clear communication from estimate to walkthrough. Call (253) 414-3937.",
+      "Covington painting, cabinet refinishing, remodeling, decks, and fences. Serving Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek & more. Call (253) 414-3937.",
     metaTitle: "Covington Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Covington painting, remodeling, deck & fence contractor. Cabinets, interiors, exteriors, flooring refreshes. Free estimates. (253) 414-3937.",
@@ -405,9 +405,9 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     longitude: -122.1472,
     faqs: [
       {
-        question: "Do you serve Lake Sawyer and Maple Hills?",
+        question: "Do you serve Lake Sawyer, Maple Hills, and Jenkins Creek?",
         answer:
-          "Yes. Lake Sawyer, Maple Hills, Covington Woods, and nearby Covington neighborhoods are all within our service area.",
+          "Yes. Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, and nearby Covington neighborhoods are all within our service area.",
       },
       {
         question: "Is cabinet painting durable enough for a busy kitchen?",
@@ -424,7 +424,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Covington Painting, Cabinets & Remodeling",
-        body: "Lane HBS helps Covington homeowners upgrade where it shows — kitchens, exteriors, decks, and living spaces — without the runaround. Licensed work, straightforward estimates, and finishes built for South King County weather.",
+        body: "Lane HBS helps Covington homeowners upgrade where it shows — kitchens, exteriors, decks, and living spaces — from Lake Sawyer and Maple Hills to Covington Woods and Jenkins Creek. Licensed work, straightforward estimates, and finishes built for South King County weather.",
       },
       {
         heading: "Cabinet Painting That Looks Like a Remodel",

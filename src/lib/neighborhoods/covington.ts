@@ -631,4 +631,224 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "Winter power is [Puget Sound Energy](https://www.pse.com/), and bigger park days sit with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We treat Woods exteriors as shade projects with family occupancy — not as a color-only punch list.",
     ],
   },
+  {
+    slug: "jenkins-creek",
+    name: "Jenkins Creek",
+    description:
+      "Creek-corridor Covington around Jenkins Creek Park — wetland edges, park-adjacent lots, and family homes on 180th Ave SE, Timberlane Drive, and SE 267th Street.",
+    blurb:
+      "Around Jenkins Creek, Lane HBS paints exteriors, stains decks and fences, and refreshes interiors for occupied homes next to the creek, Spring Pond, and Jenkins Creek Elementary. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Moisture-aware exterior painting on creek-adjacent lots",
+      "Deck staining and fence repairs in wet soil",
+      "Occupied interior painting around school-year calendars",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence in Jenkins Creek?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, or fence work that moves posts toward the creek, wetland buffers, or the park edge can need review. We flag that on the estimate and point you to the Covington Building Division — we do not guess shoreline-style rules that belong to the city.",
+      },
+      {
+        question:
+          "What prep actually lasts on Jenkins Creek homes next to the park and wetlands?",
+        answer:
+          "Wash, dry, then prime. Creek air, Spring Pond, and tree cover keep north elevations and fence boards damp longer than an open Covington street. We treat mildew and failed caulk before color. Stain on wet boards is a wasted trip.",
+      },
+      {
+        question: "How do you price painting and remodeling in Jenkins Creek?",
+        answer:
+          "Access off 180th Ave SE and SE 267th, moisture damage, occupied interiors, and whether carpentry or fence posts are in the scope. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Jenkins Creek exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Interiors are sequenced room by room while you live here. Deck stain waits on moisture, which is slower next to the creek than on a sunny Maple Hills elevation. We set the calendar after we see the wood, not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around Jenkins Creek Elementary traffic?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash and trailer placement around drop-off on 186th Ave SE and weekend parking that now uses the park entrance off Wax Road and 180th Ave SE.",
+      },
+    ],
+    image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+    heroIntro:
+      "Jenkins Creek is the Covington pocket around a 22-acre park that used to feel hidden — 180th Ave SE, Timberlane Drive, SE 267th Street, and the walking path to Jenkins Creek Elementary. Paint, decks, and fences here fight creek moisture and wet soil, not a lake dock and not a generic shade slogan.",
+    mapQuery: "Jenkins Creek Park, Covington, WA",
+    latitude: 47.3556,
+    longitude: -122.1085,
+    geoRadiusMeters: 1800,
+    introHeading: "Creek Air, Park Edges, and Siding That Stays Damp",
+    introLead:
+      "Lots along 180th Ave SE, SE 267th Street, Timberlane Drive, and 186th Ave SE sit against Jenkins Creek, Spring Pond, oak-prairie remnants, and the boardwalk that now opens off Wax Road. That microclimate is wetland and park edge — moss on fences, film on fascia, and posts in saturated soil. It is not Lake Sawyer splash, and it is not the same problem as a dry arterial storefront on SE 272nd.",
+    introBody:
+      "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a house count on Timberlane Drive. We will wash, repair soft trim, and wait for dry windows that are shorter here than on an open Maple Hills elevation. School mornings at Jenkins Creek Elementary change where a trailer can sit. Weekend park traffic on 180th and Wax Road is real now that the entrance is no longer a secret. Licensed work — LANEHHB7912R — with occupied-home protection as the default.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Creek and pond moisture, not lake living",
+        body: "Jenkins Creek and Spring Pond keep air wet without a bulkhead in the backyard. We spec wash and dry time for that — not a waterfront brochure copied from Lake Sawyer.",
+      },
+      {
+        icon: "school",
+        title: "Elementary-hour staging on 186th",
+        body: "A paved path runs through the park toward Jenkins Creek Elementary. Drop-off on 186th Ave SE is a real clock. We do not wash a street elevation into that queue.",
+      },
+      {
+        icon: "trees",
+        title: "Park-adjacent fences, pets, and privacy",
+        body: "Lots that back to trails and greenbelt get more neighbor traffic than a closed cul-de-sac. Fence staining and repairs have to respect pets, privacy, and wet post holes.",
+      },
+      {
+        icon: "droplets",
+        title: "Wetland buffers change the fence line",
+        body: "If a new fence or deck moves toward the creek, that is a city question, not a paint question. We keep cosmetic work honest and flag structure before anyone digs.",
+      },
+    ],
+    reviewNames: ["Tina W.", "David R.", "Jennifer L."],
+    galleryHeading: "Our Work Near Jenkins Creek",
+    galleryNote:
+      "Owned Lane HBS photos of deck prep, exteriors, and interiors from Covington-area and nearby jobs. They illustrate the work type for creek-adjacent homes and are not geo-tagged to 180th Ave SE or Timberlane Drive.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+        alt: "Deck pressure washing and prep",
+        caption: "Deck wash and prep — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Exterior painting in progress",
+        caption: "Exterior repaint — Covington-area job",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Jenkins Creek",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck",
+      serviceType: "Deck staining — nearby Covington-area home",
+      body: "Creek-adjacent decks stay gray because they stay wet, not because the last stain was the wrong color chip. On a nearby Covington-area deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on SE 267th Street. Timeline followed dry windows and occupied-home access, not a made-up linear-foot count. Fence posts in the same yards often need an honest look before anyone promises stain-only.",
+    },
+    considerationsHeading: "Jenkins Creek-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Jenkins Creek moisture along the park",
+        body: "North walls and fence runs that face the creek corridor hold mildew after rain. Washing is the job. Coating damp wood to hit a weekend is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Jenkins Creek Elementary and park-entrance access",
+        body: "186th Ave SE fills at drop-off. The park entrance off Wax Road and 180th Ave SE now brings weekend parking that used to stay hidden. We stage wash water and trailers so neighbors and walkers still have the street.",
+      },
+      {
+        heading: "Jenkins Creek fence lines, pets, and greenbelt",
+        body: "Privacy fencing along trail edges takes more wear — dogs, damp soil, and people on the other side of the boards. We inspect posts before another coat. New structure near buffers is a permit conversation with the city.",
+      },
+      {
+        heading: "Occupied interiors during the school year",
+        body: "These are primary homes, not cabins. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work so a bathroom and a bedroom remain usable.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Jenkins Creek",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Jenkins Creek pricing moves with moisture prep, access off collector streets, occupied interiors, fence-post condition, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and dry time next to the creek",
+        body: "Shade and wetland air add labor before any coating. Cheap quotes skip it and fail on the north elevation first.",
+      },
+      {
+        title: "Fence posts in wet soil",
+        body: "Stain-only is a site decision. Lean and rot change the scope. We price repairs as repairs.",
+      },
+      {
+        title: "Occupied rooms and school-year sequencing",
+        body: "Lived-in houses take protection time. Cabinet or interior phases are written separately so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Creek-adjacent Jenkins Creek exteriors need wash, scrape, and prime for mildew and rain — then coatings that can take South King County winters.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks and privacy fences along park and greenbelt lots — clean, dry, repair posts if needed, then finish. Not a stain over wet boards.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors near Jenkins Creek Elementary — walls, trim, and room-by-room protection around school calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Jenkins Creek house ready for paint, a deck refresh, or fence repairs? Free on-site estimate — call or send the form. We plan around creek moisture and elementary traffic, not a generic suburban calendar.",
+    processHeading: "Our Jenkins Creek Process",
+    processSteps: [
+      {
+        title: "Jenkins Creek Site Assessment",
+        body: "Creek and park exposure, wet soil, occupied vs vacant, and whether the job is siding, deck, or fence line.",
+      },
+      {
+        title: "Jenkins Creek Scope, Colors & Neighbors",
+        body: "Street-facing colors, park-edge sightlines, and anything that looks like it needs Covington Building review — written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim or posts. This is the Lane HBS differentiator on previously coated houses.",
+      },
+      {
+        title: "Jenkins Creek Paint / Build Days",
+        body: "Weather windows plus school-street and weekend park timing. We do not wash 180th Ave SE into pickup traffic.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Jenkins Creek Park",
+        url: "https://www.covingtonwa.gov/parks/jenkinscreekpark.php",
+        description:
+          "Twenty-two acres of creek, Spring Pond, boardwalk, and oak-prairie remnants at 26708 180th Ave SE. The new Wax Road entrance changed how this pocket of Covington gets used — and how we think about weekend staging on 180th.",
+      },
+      {
+        name: "Jenkins Creek Elementary",
+        url: "https://www.kent.k12.wa.us/o/jces",
+        description:
+          "Kent School District’s Jaguars at 26915 186th Ave SE. A trail through the park connects east-west to the school, which is why drop-off — not a lake launch — sets the weekday clock for paint days.",
+      },
+      {
+        name: "Covington Community Park",
+        url: "https://www.covingtonwa.gov/city_departments/parks/covingtoncommunitypark.php",
+        description:
+          "Fields, trails, and the Margaret Harto Pavilion a short drive north on 180th Ave SE at SE 240th. Jenkins Creek households still spend Saturdays here, then come home to decks that have to survive the same rain.",
+      },
+      {
+        name: "Founders Park",
+        url: "https://www.covingtonwa.gov/parks/socopark.php",
+        description:
+          "Open lawn and walkways on SE Wax Road — the same corridor that now feeds the Jenkins Creek Park entrance. A reminder that this neighborhood sits between a quiet creek pocket and Covington’s civic streets.",
+      },
+      {
+        name: "City of Covington",
+        url: "https://www.covingtonwa.gov/",
+        description:
+          "Parks, permits, and city services for the households that live against Jenkins Creek and still run errands on SE 272nd.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Jenkins Creek runs on park walks at [Jenkins Creek Park](https://www.covingtonwa.gov/parks/jenkinscreekpark.php), bells at [Jenkins Creek Elementary](https://www.kent.k12.wa.us/o/jces), and city services through the [City of Covington](https://www.covingtonwa.gov/). Anything beyond a straightforward repaint starts at the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php).",
+      "School calendars sit with the [Kent School District](https://www.kent.k12.wa.us/). Indoor research still happens at the [King County Library System](https://kcls.org/). Longer trail days pick up the [Soos Creek Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that creek-and-school rhythm — not as a name-swap of Maple Hills or Lake Sawyer.",
+    ],
+  },
 ];

@@ -268,6 +268,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Covington Woods",
         path: "/service-areas/covington/covington-woods",
       },
+      {
+        name: "Jenkins Creek",
+        path: "/service-areas/covington/jenkins-creek",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -278,6 +282,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Puget Sound Energy", url: "https://www.pse.com/" },
       { name: "Kent School District", url: "https://www.kent.k12.wa.us/" },
       { name: "King County Library System", url: "https://kcls.org/" },
+      {
+        name: "Jenkins Creek Park",
+        url: "https://www.covingtonwa.gov/parks/jenkinscreekpark.php",
+      },
       {
         name: "Lake Sawyer Regional Park",
         url: "https://kingcounty.gov/en/dept/natural-resources-parks/parks",
