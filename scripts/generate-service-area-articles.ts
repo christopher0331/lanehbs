@@ -61,6 +61,7 @@ const AREAS: Record<string, AreaSeed> = {
     zipCodes: ["98391"],
     neighborhoods: [
       { name: "Snag Island", path: "/service-areas/lake-tapps/snag-island" },
+      { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
       { name: "Driftwood Point", path: "/service-areas/lake-tapps/driftwood-point" },
       { name: "West Tapps", path: "/service-areas/lake-tapps/west-tapps" },
       {
@@ -95,6 +96,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "City of Bonney Lake",
         url: "https://www.bonneylake.gov/",
+      },
+      {
+        name: "Tapps Island Golf Course",
+        url: "https://www.tappsislandgolf.com/",
+      },
+      {
+        name: "Dieringer School District",
+        url: "https://www.dieringer.wednet.edu/",
       },
     ],
     peers: [
