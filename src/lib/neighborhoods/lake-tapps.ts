@@ -841,4 +841,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Power and winter storms still matter up here; [Puget Sound Energy](https://www.pse.com/) outages change paint schedules. For research and quiet indoor time, the [Pierce County Library System](https://mypcls.org/) is the local habit. We treat plateau jobs as family-home projects with real calendars, not generic suburban filler.",
     ],
   },
+  {
+    slug: "tapps-island",
+    name: "Tapps Island",
+    description:
+      "Gated east-shore community off Island Parkway East — golf-course lots, channel waterfront, and Tapps Island Association streets that need HOA-aware paint and moisture-honest decks.",
+    blurb:
+      "On Tapps Island, Lane HBS handles exterior painting, deck staining, and interiors for gated Island Parkway East homes — golf-course lots and channel waterfront alike. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "HOA-aware exterior painting on Island Parkway East",
+      "Deck and rail work for channel lots and inland golf-course yards",
+      "Occupied interiors scheduled around Dieringer school calendars",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint or rebuild a deck on Tapps Island?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. Tapps Island Association still cares about street-facing colors and how a job site looks behind the gate — we work from your approved palette when you have one. New decks, rail-height changes, or shoreline-adjacent structure can need Pierce County review and Cascade Water Alliance guidance. We flag that on the estimate instead of guessing from the fairway.",
+      },
+      {
+        question:
+          "What prep fits Tapps Island’s golf-course lots versus channel waterfront?",
+        answer:
+          "Inland lots off Island Parkway East pick up irrigation overspray and dust from a public 9-hole course. Channel houses stay damp in the coves between islands. Both need wash, dry, and prime — but they are not the same exposure as Snag Island’s open-water peninsula. We do not coat wet wood to hit a weekend tee time.",
+      },
+      {
+        question: "How do you price painting and remodeling on Tapps Island?",
+        answer:
+          "Gate access, HOA color samples, moisture damage, occupied interiors, and whether carpentry belongs in the same scope. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Tapps Island exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Channel decks wait on moisture longer than a sunny inland elevation. Interiors are sequenced room by room while you live here. We set the calendar after we see the house and confirm gate logistics — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you get through the gate?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash water, trailers, and parking so Island Parkway East and courts like 199th Ave Ct E stay usable. We coordinate guest or vendor access with you so the gate is not a surprise on day one. Weekday timing also respects Dieringer drop-off, which is a different clock than Sumner-Bonney Lake streets on the plateau.",
+      },
+    ],
+    image: "/images/from-lane/lane-01-46.jpg",
+    heroIntro:
+      "Tapps Island is the gated east-side cluster off Island Parkway East — golf-course lots, channel waterfront, and courts such as 199th Ave Ct E and 197th Ave Ct E behind a gate, not on a public peninsula. Paint and decks here have to satisfy association curb appeal and two different kinds of moisture.",
+    mapQuery: "Tapps Island Golf Course, Island Parkway East, Lake Tapps, WA",
+    latitude: 47.2328,
+    longitude: -122.1572,
+    geoRadiusMeters: 1600,
+    introHeading: "Golf-Course Lots, Channel Houses, and a Gate That Changes Staging",
+    introLead:
+      "Homes along Island Parkway East sit on a handful of islands tied together by vehicle and walking bridges. Inland elevations face fairways and the public 9-hole course at 20818 Island Parkway East — irrigation mist, weekend golf traffic, and neighbors who notice a sloppy exterior from the cart path. Channel lots face quieter water between islands, not the same open-water fetch as Snag Island Drive. That split is why one Tapps Island street can need extra wash time while the next one is fighting sprinkler stain on south siding.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on 199th Ave Ct E or claim a gate-code résumé. We will wash, repair soft trim, and wait for dry windows that differ from lot to lot. Tapps Island Association expectations, occupied-home protection, and Dieringer School District calendars — Lake Tapps Elementary and North Tapps Middle School, not the Sumner-Bonney Lake clock used on the plateau — shape how we stage a trailer behind the gate. Licensed work: LANEHHB7912R.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "Association colors without a paint-only shortcut",
+        body: "Tapps Island Association streets are close and visible. We work from your approved palette when you have one, keep the job site tidy for neighbors and golf traffic, and repair trim before color so the elevation still looks finished in a year.",
+      },
+      {
+        icon: "droplets",
+        title: "Two moisture stories on the same island chain",
+        body: "Channel houses stay damp in the coves. Inland golf-course lots take irrigation and reflected heat off turf. We spec wash and dry time for the lot you actually own — not a copied waterfront paragraph from Snag Island.",
+      },
+      {
+        icon: "car",
+        title: "Gate, bridges, and Island Parkway East access",
+        body: "This is not a wide suburban cul-de-sac you can block with a sprayer. We plan vendor entry, wash runoff, and parking so bridges and private roads stay passable for residents heading to the course or the water.",
+      },
+      {
+        icon: "school",
+        title: "Dieringer calendars, not the plateau’s district",
+        body: "Tapps Island households run on Dieringer School District timing. Interior sequencing and noisy wash days follow that calendar — a different weekday rhythm than plateau streets tied to Sumner-Bonney Lake.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Sarah M."],
+    galleryHeading: "Our Work Near Tapps Island",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for gated east-shore homes and are not geo-tagged to Island Parkway East, 199th Ave Ct E, or 197th Ave Ct E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-01-46.jpg",
+        alt: "Elevated deck with lake-area view",
+        caption: "Elevated deck and rail — nearby Lake Tapps work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Exterior painting in progress",
+        caption: "Exterior repaint — Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Tapps Island",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck",
+      serviceType: "Deck staining — nearby Lake Tapps home",
+      body: "East-shore decks fail when they stay wet or when irrigation and shade never let the last coat cure. On a nearby Lake Tapps deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on Island Parkway East. Timeline followed dry windows, occupied-home access, and how the crew actually gets on site. We do not invent linear footage or a Tapps Island street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Tapps Island-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Tapps Island Association colors and job-site appearance",
+        body: "Gated streets magnify a messy exterior. Street-facing elevations, garage doors, and trim get the same prep as a waterfront wall. If the association wants samples or a written color, we build that into the start of the job — not as an afterthought when the sprayer is already out.",
+      },
+      {
+        heading: "Tapps Island channel humidity versus golf-course irrigation",
+        body: "Channel lots pick up cove fog and splash without being a Snag Island peninsula. Inland lots take sprinkler overspray and turf dust off the public course. North walls and fence runs still grow mildew. Washing is the job. Coating damp wood to look good for a Saturday round is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Tapps Island gate, bridges, and golf-day traffic",
+        body: "Island Parkway East is a private spine, not a county arterial you can close. Golf days and resident traffic share the same bridges. We stage wash water and trailers so neighbors still get to the course, the pool, and the water. Vendor gate access is planned with you before day one.",
+      },
+      {
+        heading: "Occupied interiors during the Dieringer school year",
+        body: "These are primary homes, not weekend cabins. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work around Lake Tapps Elementary and North Tapps Middle School calendars so a bathroom and a bedroom remain usable.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Tapps Island",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Tapps Island pricing moves with gate and staging logistics, HOA samples, moisture prep that differs from channel lot to golf-course lot, occupied interiors, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures, two prep clocks",
+        body: "Channel humidity and fairway irrigation add labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access behind the gate",
+        body: "Bridges, private roads, and occupied driveways change how long wash and material drops take. We price that time instead of pretending Island Parkway East is a wide public street.",
+      },
+      {
+        title: "Occupied rooms and association sequencing",
+        body: "Lived-in houses take protection time. Color samples and punch-list walkthroughs are written into the schedule so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Tapps Island exteriors need wash, scrape, and prime for channel moisture or golf-course irrigation — then coatings that can take Pierce County winters and association scrutiny.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Channel decks and inland privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the weekend before a round.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors on Island Parkway East — walls, trim, and room-by-room protection around Dieringer school calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Tapps Island house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around the gate, association colors, and which side of the island your lot actually sits on.",
+    processHeading: "Our Tapps Island Process",
+    processSteps: [
+      {
+        title: "Tapps Island Site Assessment",
+        body: "Channel vs golf-course exposure, gate and bridge access, occupied vs vacant, and whether the job is siding, deck, or both.",
+      },
+      {
+        title: "Tapps Island Scope, Colors & HOA",
+        body: "Tapps Island Association palettes when they exist, neighbor sightlines from the fairway or the cove, and anything that looks like Pierce County or shoreline review — written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated east-shore houses.",
+      },
+      {
+        title: "Tapps Island Paint / Build Days",
+        body: "Weather windows plus gate timing and golf-day traffic on Island Parkway East. We do not wash a private road into resident and cart traffic.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Tapps Island Golf Course",
+        url: "https://www.tappsislandgolf.com/",
+        description:
+          "The public 9-hole course at 20818 Island Parkway East is why inland Tapps Island lots live next to carts, irrigation, and weekend traffic. We treat that as a staging and overspray problem — not a lifestyle brochure.",
+      },
+      {
+        name: "Dieringer School District",
+        url: "https://www.dieringer.wednet.edu/",
+        description:
+          "East-shore addresses sit in Dieringer, not Sumner-Bonney Lake. Preschool through eighth grade here is a different weekday clock than plateau households, and we schedule noisy exterior days with that in mind.",
+      },
+      {
+        name: "Lake Tapps Elementary",
+        url: "https://ltes.dieringer.wednet.edu/",
+        description:
+          "The elementary campus Tapps Island families actually use. Interior paint days and material drops follow that calendar so occupied homes still function on school mornings.",
+      },
+      {
+        name: "North Tapps Middle School",
+        url: "https://ntms.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s middle school at 20029 12th Street East. Sports and pickup windows are part of how we think about trailer placement on the east side of the lake — even when the job itself is behind the Tapps Island gate.",
+      },
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+        description:
+          "Pierce County’s north-shore swim and launch park at 2022 198th Avenue East — just off the island chain. Summer park traffic is nearby public life; Tapps Island’s own parks and launch stay private. We do not confuse the two when we talk about access.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Tapps Island runs on a gated east-shore rhythm: Dieringer bells, a public course in the middle of the community, and private roads that still have to stay open. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/). The [Tapps Island Golf Course](https://www.tappsislandgolf.com/) at 20818 Island Parkway East is the landmark non-residents already know — which is why we treat golf-day traffic as a real constraint, not scenery.",
+      "Channel and near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations. Structural decks and additions typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). On hot weekends the public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) just off the island; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that gate-and-school rhythm — not as a name-swap of Snag Island or the plateau.",
+    ],
+  },
 ];

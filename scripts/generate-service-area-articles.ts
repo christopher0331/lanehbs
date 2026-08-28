@@ -67,6 +67,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Lake Tapps Plateau",
         path: "/service-areas/lake-tapps/lake-tapps-plateau",
       },
+      { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
     ],
     knownLinks: [
       {
@@ -95,6 +96,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "City of Bonney Lake",
         url: "https://www.bonneylake.gov/",
+      },
+      {
+        name: "Tapps Island Golf Course",
+        url: "https://www.tappsislandgolf.com/",
+      },
+      {
+        name: "Dieringer School District",
+        url: "https://www.dieringer.wednet.edu/",
       },
     ],
     peers: [
