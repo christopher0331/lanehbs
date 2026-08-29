@@ -272,6 +272,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Jenkins Creek",
         path: "/service-areas/covington/jenkins-creek",
       },
+      {
+        name: "Downtown Covington",
+        path: "/service-areas/covington/downtown-covington",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
