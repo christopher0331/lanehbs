@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { Star, ChevronLeft, ChevronRight, Quote } from "lucide-react";
 import { TESTIMONIALS as reviews } from "@/lib/testimonials";
 
@@ -43,22 +43,22 @@ export default function Testimonials() {
     return () => observer.disconnect();
   }, []);
 
-  // Auto-advance
-  useEffect(() => {
-    const interval = setInterval(() => {
-      go((active + 1) % reviews.length);
-    }, 6000);
-    return () => clearInterval(interval);
-  }, [active]);
-
-  function go(idx: number) {
+  const go = useCallback((idx: number) => {
     if (animating) return;
     setAnimating(true);
     setTimeout(() => {
       setActive(idx);
       setAnimating(false);
     }, 300);
-  }
+  }, [animating]);
+
+  // Auto-advance
+  useEffect(() => {
+    const interval = setInterval(() => {
+      go((active + 1) % reviews.length);
+    }, 6000);
+    return () => clearInterval(interval);
+  }, [active, go]);
 
   const review = reviews[active];
 

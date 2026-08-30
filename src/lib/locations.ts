@@ -134,7 +134,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "Pierce County",
     heroTitle: "Painting & Remodeling Contractor in Lake Tapps, WA",
     heroDescription:
-      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations. Free estimates. Call (253) 414-3937.",
+      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations. Serving Snag Island, Driftwood Point, West Tapps, Deer Island & the plateau. Call (253) 414-3937.",
     metaTitle: "Lake Tapps Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Licensed painting, remodeling, deck & fence contractor in Lake Tapps, WA. Interior/exterior paint, cabinets, waterfront decks. Free estimates. (253) 414-3937.",
@@ -174,9 +174,9 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     longitude: -122.1951,
     faqs: [
       {
-        question: "Do you serve all of Lake Tapps and Bonney Lake?",
+        question: "Do you serve Deer Island and the rest of Lake Tapps?",
         answer:
-          "Yes. We regularly work throughout Lake Tapps, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
+          "Yes. We work Snag Island, Driftwood Point, West Tapps, Deer Island, the Lake Tapps Plateau, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
       },
       {
         question: "What painting services do you offer in Lake Tapps?",
@@ -198,7 +198,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Your Local Lake Tapps Painting & Remodeling Team",
-        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
+        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets — from Deer Island Drive E to plateau cul-de-sacs. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
       },
       {
         heading: "Services Built for Lakeside Living",
@@ -291,7 +291,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Four Corners, Lake Wilderness & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -333,7 +333,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma-area neighborhoods, Lake Wilderness communities, and nearby Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Four Corners, Lake Wilderness communities, Tahoma-area streets, and nearby Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -350,7 +350,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes and Four Corners along SR 169 and Kent-Kangley, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",
@@ -365,7 +365,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Covington, WA",
     heroDescription:
-      "Covington painting, cabinet refinishing, remodeling, decks, and fences with clear communication from estimate to walkthrough. Call (253) 414-3937.",
+      "Covington painting, cabinet refinishing, remodeling, decks, and fences. Serving Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington & more. Call (253) 414-3937.",
     metaTitle: "Covington Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Covington painting, remodeling, deck & fence contractor. Cabinets, interiors, exteriors, flooring refreshes. Free estimates. (253) 414-3937.",
@@ -377,7 +377,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Jenkins Creek Park",
       "Covington Community Park",
       "Soos Creek Trail",
-      "Downtown Covington",
+      "Downtown Covington / SE 272nd",
     ],
     climateDescription:
       "Covington shares the South King County wet-season pattern — damp winters, moss pressure on north elevations, and UV that fades neglected exteriors. Consistent washing and quality paint systems keep neighborhoods looking sharp.",
@@ -405,9 +405,9 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     longitude: -122.1472,
     faqs: [
       {
-        question: "Do you serve Lake Sawyer and Maple Hills?",
+        question: "Do you serve Lake Sawyer, Maple Hills, Jenkins Creek, and Downtown Covington?",
         answer:
-          "Yes. Lake Sawyer, Maple Hills, Covington Woods, and nearby Covington neighborhoods are all within our service area.",
+          "Yes. Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington along SE 272nd, and nearby Covington neighborhoods are all within our service area.",
       },
       {
         question: "Is cabinet painting durable enough for a busy kitchen?",
@@ -424,7 +424,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Covington Painting, Cabinets & Remodeling",
-        body: "Lane HBS helps Covington homeowners upgrade where it shows — kitchens, exteriors, decks, and living spaces — without the runaround. Licensed work, straightforward estimates, and finishes built for South King County weather.",
+        body: "Lane HBS helps Covington homeowners and shop owners upgrade where it shows — kitchens, exteriors, decks, storefronts, and living spaces — from Lake Sawyer and Maple Hills to Covington Woods, Jenkins Creek, and Downtown Covington along SE 272nd. Licensed work, straightforward estimates, and finishes built for South King County weather.",
       },
       {
         heading: "Cabinet Painting That Looks Like a Remodel",

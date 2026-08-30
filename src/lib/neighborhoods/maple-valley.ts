@@ -632,6 +632,222 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     ],
   },
   {
+    slug: "four-corners",
+    name: "Four Corners",
+    description:
+      "The SR 169 and Kent-Kangley crossroads — family homes, school-year schedules, and exteriors that take arterial weather and Pacific Northwest rain.",
+    blurb:
+      "Around Four Corners, Lane HBS paints interiors and exteriors, refinishes cabinets, and refreshes decks and fences for busy Tahoma-area households. We keep job sites tidy near SE Tahoma Way, Maple Valley Highway, and the Kent-Kangley corridor.",
+    highlights: [
+      "Exterior painting that holds up to arterial dust, rain, and UV",
+      "Interior paint and cabinet refinishing in occupied family homes",
+      "Deck staining and fence work on typical subdivision lots",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or build a deck in Four Corners?",
+        answer:
+          "Most interior and exterior repaints in Maple Valley are maintenance and do not need a building permit. New decks, structural changes, or fence work that changes height or location can. We flag anything that should be checked with the City of Maple Valley Building Division during the estimate.",
+      },
+      {
+        question: "What prep fits Four Corners homes along SR 169 and Kent-Kangley?",
+        answer:
+          "Highway-facing siding collects dust and film between rain cycles. We wash thoroughly, scrape failed coatings, and prime before color — especially on two-story 1990s–2000s elevations that take both UV and wet winters. Cabinets and interiors get the same occupied-home protection we use elsewhere in Maple Valley.",
+      },
+      {
+        question: "How do you price painting and remodeling in Four Corners?",
+        answer:
+          "Story count, siding condition, access off collector streets, occupied interiors, and whether carpentry or deck work is included. There is no published square-foot chart. Estimates are free — call (253) 414-3937 or use the contact form and we walk the property.",
+      },
+      {
+        question: "How long does a typical Four Corners interior or exterior take?",
+        answer:
+          "A single-family interior or exterior is usually several days, scheduled around weather and school-year drop-off on SE Tahoma Way and Kent-Kangley. Cabinet refinishing and deck staining add dry time. We confirm the calendar before we start so parking and staging are not a surprise.",
+      },
+      {
+        question: "Can you paint while we live here — and around Tahoma High traffic?",
+        answer:
+          "Yes. Most Four Corners interiors happen occupied, with floors and furniture protected. For exteriors we plan wash and spray windows around weekday school traffic and retail parking, not during the worst Kent-Kangley backups if we can help it.",
+      },
+    ],
+    image: "/images/from-lane/lane-08-4766.jpg",
+    heroIntro:
+      "Four Corners is Maple Valley’s south commercial-and-residential node — SR 169, Kent-Kangley Road, and streets like SE Tahoma Way that fill up when Tahoma High lets out. Paint and decks here have to survive arterial dust and rain, and the work has to fit occupied family houses.",
+    mapQuery: "Kent-Kangley Road and SR 169, Maple Valley, WA",
+    latitude: 47.3664,
+    longitude: -122.0472,
+    geoRadiusMeters: 2000,
+    introHeading: "Exteriors That Survive Four Corners Traffic and Rain",
+    introLead:
+      "Four Corners is not a quiet cul-de-sac pocket. Maple Valley Highway (SR 169) and Kent-Kangley (SR 516) split the shopping quadrants, and the houses behind them — two-story 1990s–2000s family homes, townhome-style lots, and apartments mixed with retail — take road film, wet winters, and UV on the elevations that actually face the arterials. Prep here is washing grit off siding as much as it is fighting moss in the trees.",
+    introBody:
+      "Lane Vanderwaal and Lane HBS estimate Maple Valley jobs from Lake Tapps with the same licensed standards we use on quieter streets. We will not invent a claim that we have painted forty houses on SE Tahoma Way. We will plan parking and wash runoff around school-year traffic, keep trailers off landscaping, and treat highway-facing paint as a dirt-and-moisture problem — not a color-only refresh.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Arterial dust is part of the spec",
+        body: "SR 169 and Kent-Kangley throw grit onto street-facing siding. A coat over film fails early. We wash first so the primer actually bonds, especially on the walls that face the highway.",
+      },
+      {
+        icon: "school",
+        title: "Tahoma High clocks the weekday",
+        body: "SE Tahoma Way and the Kent-Kangley corridor clog at drop-off and pickup. We stage so we are not blocking neighbors or fighting the school queue with a trailer.",
+      },
+      {
+        icon: "users",
+        title: "Occupied homes next to retail",
+        body: "Four Corners mixes family interiors with storefronts a few blocks away. Interiors stay contained. Commercial painting, when it is a shop or office, gets hours that respect customers.",
+      },
+      {
+        icon: "droplets",
+        title: "Rain still wins if you skip wash",
+        body: "South Maple Valley is not drier than Wilderness Rim just because there are parking lots. North elevations still grow film. We treat mildew and failed caulk before color.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Mike T.", "Jennifer L."],
+    galleryHeading: "Our Work Near Four Corners",
+    galleryNote:
+      "Owned Lane HBS photos of interiors, exteriors, and cabinet work from Maple Valley-area and nearby jobs. These are not geo-tagged to a Four Corners street address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-08-4766.jpg",
+        alt: "Interior painting and trim work",
+        caption: "Interior painting in an occupied home",
+      },
+      {
+        src: "/images/painting.jpg",
+        alt: "Exterior house painting",
+        caption: "Exterior repaint — nearby South King County work",
+      },
+      {
+        src: "/images/painting16.jpg",
+        alt: "Kitchen cabinet painting",
+        caption: "Kitchen cabinet painting",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Four Corners",
+      image: "/images/painting3.jpg",
+      imageAlt: "Kitchen renovation painting in progress",
+      serviceType: "Kitchen cabinet painting — nearby family-home work",
+      body: "Busy two-story households near arterials often start with the kitchen, not the highway elevation. On a nearby Maple Valley-area cabinet job we degreased, sanded, primed, and topcoated so the finish could take daily use — not a weekend wipe of paint over cooking film. The photo is Lane HBS work, not a house on SE Tahoma Way. Access and occupied-home protection set the pace more than the door count. When the same family later wants the street-facing exterior, the wash-and-prime sequence has to account for arterial dust the kitchen never saw.",
+    },
+    considerationsHeading: "Four Corners-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Four Corners arterial dust and UV",
+        body: "Elevations that face Maple Valley Highway or Kent-Kangley collect road film and get more sun than a wooded lot. Washing is not optional cosmetics. Skipping it is how a “fresh” exterior looks tired before the next school year.",
+      },
+      {
+        heading: "Four Corners school-year access",
+        body: "Tahoma High on SE Tahoma Way and collector traffic on Kent-Kangley change where a trailer can sit. We plan arrival, wash, and spray around those windows instead of treating the site like a quiet plateau cul-de-sac.",
+      },
+      {
+        heading: "Occupied interiors on family lots",
+        body: "Most Four Corners houses are lived in. Hallways, kitchens, and kids’ rooms need contained work zones, daily cleanup, and a sequence that leaves a bathroom and a bedroom usable.",
+      },
+      {
+        heading: "Storefronts mixed with subdivision fences",
+        body: "The four retail quadrants sit next to apartments and backyard fence lines. Commercial painting and residential fence staining can happen in the same ZIP; they do not get the same staging plan. Pets, privacy, and customer parking all change the day.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Four Corners",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Four Corners pricing moves with prep (dust and mildew), two-story access, occupied interiors, HOA or neighbor sightlines, and whether carpentry or deck work is in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and height on arterial lots",
+        body: "Two-story siding that faces a highway needs more wash time and safer access than a single-story backyard fence. Labor follows that, not a floor-plan shortcut.",
+      },
+      {
+        title: "Occupied kitchens and interiors",
+        body: "Cabinet painting and room-by-room interiors cost more in protection and sequencing than an empty house. That is the honest part of a family-home estimate.",
+      },
+      {
+        title: "Decks, fences, and repairs before paint",
+        body: "Soft trim, failed caulk, and tired deck boards show up after a wet winter. We price repairs as repairs — not as a hidden line inside a cheap spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Highway-facing Four Corners exteriors need wash, scrape, and prime for dust and rain — then coatings that can take South King County winters.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Tahoma-area houses: walls, trim, and cabinet refinishing with floors protected and rooms phased so the family can still live here.",
+      },
+      {
+        slug: "commercial-painting",
+        localDescription:
+          "Storefronts and small offices in the Four Corners retail quadrants — scheduled so customers still have a door, not a barricade.",
+      },
+    ],
+    estimateBandCopy:
+      "Four Corners house or shop ready for paint, cabinets, or a deck refresh? Free on-site estimate — call or send the form. We plan around Kent-Kangley and school traffic, not around a generic calendar.",
+    processHeading: "Our Four Corners Process",
+    processSteps: [
+      {
+        title: "Four Corners Site Assessment",
+        body: "Arterial exposure, parking, occupied vs vacant, and whether the job is a house, fence line, or storefront.",
+      },
+      {
+        title: "Four Corners Scope, Colors & HOA",
+        body: "Approved colors if a subdivision packet exists. Commercial hours if it is a shop. Written scope before anyone shows up with a sprayer.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash the grit off, scrape, prime, and fix trim or carpentry so new paint is not covering rot.",
+      },
+      {
+        title: "Four Corners Paint / Build Days",
+        body: "Weather windows plus school-street timing. We do not wash a highway elevation into the Tahoma High pickup line.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Tahoma High School",
+        url: "https://tahomahighschool.tahomasd.us/",
+        description:
+          "The weekday clock for Four Corners. SE Tahoma Way fills when the Bears come and go, which is why exterior wash and trailer staging have to respect that calendar instead of treating the neighborhood like an empty Saturday lot.",
+      },
+      {
+        name: "Summit Park",
+        url: "https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php",
+        description:
+          "On SE Tahoma Way near the high school — fields, playground, skate park, and the dog park that keep Four Corners households outdoors even when the highway is loud. Deck and fence work here is for people who actually use the backyard after practice.",
+      },
+      {
+        name: "Legacy Site",
+        url: "https://www.maplevalleywa.gov/government/departments/community_development/legacy_site.php",
+        description:
+          "City-owned acreage on Maple Valley Black Diamond Road (SR 169) across from Rock Creek Elementary — pavilion, farmers market staging, and trail access. A reminder that Four Corners is civic land as well as strip-mall corners.",
+      },
+      {
+        name: "Lake Wilderness Park",
+        url: "https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5",
+        description:
+          "A short drive north of the Kent-Kangley crossroads. Four Corners families still spend weekends at the beach and playground, then come home to decks and siding that have to look as tended as the park.",
+      },
+      {
+        name: "City of Maple Valley",
+        url: "https://www.maplevalleywa.gov/",
+        description:
+          "Permits, parks, and city services for the households and small businesses that sit on both sides of the Four Corners intersection.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Four Corners daily life runs on [Tahoma School District](https://www.tahomasd.us/) bells, errands at the SR 169 / Kent-Kangley shops, and weekends that still end at [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) or [Summit Park](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php) on SE Tahoma Way. Permit questions start at [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and the [City of Maple Valley](https://www.maplevalleywa.gov/). Trail days often pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails) via the Green-to-Cedar corridor near the [Legacy Site](https://www.maplevalleywa.gov/government/departments/community_development/legacy_site.php).",
+      "Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). Broader recreation sits with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule Four Corners coatings around arterial access, school traffic, and those calendars — not as a name-swap of a quieter Maple Valley street.",
+    ],
+  },
+  {
     slug: "ravensdale",
     name: "Ravensdale",
     description:
