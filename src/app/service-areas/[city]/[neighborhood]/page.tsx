@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const match = getNeighborhood(citySlug, neighborhoodSlug);
   if (!match) return { title: "Neighborhood" };
   const { city, neighborhood } = match;
-  const title = `${neighborhood.name} Painting & Remodeling | ${city.name} | Lane HBS`;
+  const title = `${neighborhood.name} Painting & Remodeling | ${city.name}`;
   const description = `${neighborhood.blurb} Serving ${neighborhood.name} in ${city.name}, ${city.state}. Call ${SITE_CONFIG.phone}.`;
   return {
     title,
