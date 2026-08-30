@@ -69,6 +69,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/lake-tapps/lake-tapps-plateau",
       },
       { name: "Deer Island", path: "/service-areas/lake-tapps/deer-island" },
+      { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
     ],
     knownLinks: [
       {
