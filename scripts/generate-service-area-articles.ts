@@ -67,6 +67,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Lake Tapps Plateau",
         path: "/service-areas/lake-tapps/lake-tapps-plateau",
       },
+      { name: "Deer Island", path: "/service-areas/lake-tapps/deer-island" },
     ],
     knownLinks: [
       {
@@ -78,6 +79,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Sumner-Bonney Lake School District",
         url: "https://www.sumnersd.org/",
+      },
+      {
+        name: "Dieringer School District",
+        url: "https://www.dieringer.wednet.edu/",
       },
       { name: "Pierce County Library System", url: "https://mypcls.org/" },
       {
