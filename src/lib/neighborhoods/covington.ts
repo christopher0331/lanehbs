@@ -851,4 +851,224 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "School calendars sit with the [Kent School District](https://www.kent.k12.wa.us/). Indoor research still happens at the [King County Library System](https://kcls.org/). Longer trail days pick up the [Soos Creek Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that creek-and-school rhythm — not as a name-swap of Maple Hills or Lake Sawyer.",
     ],
   },
+  {
+    slug: "downtown-covington",
+    name: "Downtown Covington",
+    description:
+      "Covington’s civic and retail core along SE 272nd Street, Wax Road, and Covington Way — storefronts, offices, apartments, and nearby family homes.",
+    blurb:
+      "Along SE 272nd and Wax Road, Lane HBS paints storefronts after hours, refreshes occupied interiors, and coats highway-facing exteriors for shops and homes in Downtown Covington. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "After-hours commercial painting for open shops and offices",
+      "Highway-facing exteriors that take arterial dust and rain",
+      "Occupied interiors for apartments and side-street family homes",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint a Downtown Covington storefront or house?",
+        answer:
+          "Repainting existing siding, trim, or interior walls is usually maintenance. Changing signs, openings, occupancy, or structure can trigger review. We point you to the Covington Building Division during the estimate and do not guess Downtown Plan rules that belong to the city.",
+      },
+      {
+        question:
+          "What prep fits Downtown Covington’s SE 272nd and Wax Road conditions?",
+        answer:
+          "Street-facing elevations collect road film from SR 516 and Highway 18 traffic. We wash grit off, scrape failed coatings, and prime before color. North walls still grow mildew after rain — this is not a dry-climate corridor. Occupied shops get a containment plan so customers still have a door.",
+      },
+      {
+        question: "How do you price painting and remodeling in Downtown Covington?",
+        answer:
+          "Occupied retail hours, facade height, parking-lot staging, and whether the job is a shop, apartment, or side-street house. There is no published square-foot or storefront menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical downtown facade, office, or house job take?",
+        answer:
+          "A storefront elevation can be a few dry days; an occupied office or apartment interior depends on square footage and after-hours windows. Side-street houses follow weather and room sequencing. We set the calendar after we see access and hours, not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while the shop is open — or while we live above or next door?",
+        answer:
+          "Yes. Mixed commercial and residential uses sit on the same blocks. We phase interiors, protect entries, and plan wash and trailer placement around SE 272nd backups, Cedar Heights drop-off, and Town Center Lawn event weekends on Wax Road.",
+      },
+    ],
+    image: "/images/from-lane/lane-12-1198.jpg",
+    heroIntro:
+      "Downtown Covington is not a brick main street. It is SE 272nd Street (SR 516 / Kent-Kangley), Wax Road, Covington Way SE, and the 164th Avenue interchange with Highway 18 — shops, offices, apartments, and family houses that share parking lots and arterial weather.",
+    mapQuery: "SE 272nd Street and SE Wax Road, Covington, WA",
+    latitude: 47.3565,
+    longitude: -122.1498,
+    geoRadiusMeters: 1600,
+    introHeading: "Storefronts and Side Streets Off a Highway, Not a Main Street",
+    introLead:
+      "Covington grew as an auto-oriented retail hub. The elevations that face SE 272nd, Wax Road, and Covington Way take road film, wet winters, and UV on parking-lot walls. Just off the corridor — SE 271st Street at City Hall, 164th Avenue by the library, and the residential streets around Town Center Lawn — houses and apartments still need occupied-home interiors. Prep here is washing grit and staging around customers, not fighting creek shade or a lake dock.",
+    introBody:
+      "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a storefront count on 164th Avenue SE. We will schedule around open hours, keep sidewalks and stall rows usable, and repair trim before coatings on older commercial wood and tired 1980s–2000s house elevations. Licensed work — LANEHHB7912R — with the same occupied-space discipline we use on a family kitchen. Town Center Lawn event days and Cedar Heights traffic on SE 272nd change where a trailer can sit. We plan for that instead of treating downtown like a quiet cul-de-sac.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Arterial dust is part of the spec",
+        body: "SR 516 and Highway 18 throw grit onto street-facing siding and fascia. A coat over film fails early. We wash first so primer bonds — especially on the walls that face the highway, not only the courtyard elevation.",
+      },
+      {
+        icon: "clipboard",
+        title: "Open-for-business staging",
+        body: "Clinics, shops, and offices on SE 272nd cannot lose a week of customers to ladders and fumes. We discuss nights, weekends, and phased rooms on the estimate, then keep entries usable.",
+      },
+      {
+        icon: "school",
+        title: "272nd clocks and civic weekends",
+        body: "Cedar Heights Middle School sits on SE 272nd. Town Center Lawn at 17070 SE Wax Road pulls Maker’s Markets and movie nights. We do not wash a facade into that queue or block Founders Park overflow.",
+      },
+      {
+        icon: "users",
+        title: "Shops, apartments, and side-street houses together",
+        body: "Someone may live above or behind the suite. Mixed-use blocks need two protection plans. We write that complexity instead of pretending downtown is only retail paint.",
+      },
+    ],
+    reviewNames: ["Mike T.", "Sarah M.", "Jennifer L."],
+    galleryHeading: "Our Work Near Downtown Covington",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and prep from Covington-area and nearby jobs. They illustrate the work type for storefront- and highway-adjacent projects and are not labeled as a specific SE 272nd or Wax Road address.",
+    gallery: [
+      {
+        src: "/images/painting.jpg",
+        alt: "Exterior commercial and residential painting",
+        caption: "Commercial / residential exterior painting",
+      },
+      {
+        src: "/images/from-lane/lane-09-4771.jpg",
+        alt: "Interior painting project in progress",
+        caption: "Occupied interior painting in progress",
+      },
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Residential paint prep detail",
+        caption: "Residential paint prep",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for buildings like these in Downtown Covington",
+      image: "/images/from-lane/lane-08-4766.jpg",
+      imageAlt: "Hallway masked and ready for spray",
+      serviceType: "Occupied interior painting — nearby commercial-style work",
+      body: "Downtown interiors fail when prep is rushed in a space that still has to open in the morning. On a nearby occupied interior we masked thoroughly, contained dust, and coated on a compressed schedule so the room could return to use quickly. The photo is Lane HBS work, not a named Covington storefront on SE 272nd. That occupied-shop and occupied-apartment discipline is what Wax Road and 164th Avenue projects actually need — plus a wash-and-prime sequence on any highway-facing elevation that the kitchen never saw.",
+    },
+    considerationsHeading: "Downtown Covington-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Downtown Covington arterial dust and parking lots",
+        body: "Elevations that face SE 272nd, Wax Road, or Covington Way collect road film between rain cycles. Washing is not optional cosmetics. Ladders and wash water also compete with stall rows and delivery vans. We stage so customers still have a path to the door.",
+      },
+      {
+        heading: "Downtown Covington hours, signs, and city review",
+        body: "A straight repaint is usually maintenance. New openings, signage, or occupancy changes can sit under the Downtown Plan and the Building Division. We flag the difference on the estimate instead of treating every facade like a house color refresh.",
+      },
+      {
+        heading: "Town Center Lawn and Wax Road event traffic",
+        body: "The 7-acre civic lawn at 17070 SE Wax Road — former elementary grounds, still used in part by police — hosts markets and movie nights across from Founders Park. Those weekends fill the same streets we need for trailers. We time noisy wash days when we can.",
+      },
+      {
+        heading: "Occupied interiors next to retail",
+        body: "Apartments and 1980s–2000s houses sit a block off the shops. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence so a bathroom remains usable — the same rule we use when the “bedroom” is an office that opens at 9.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Downtown Covington",
+    costIntro:
+      "We do not publish dollar-per-square-foot or storefront menus. Downtown Covington pricing moves with occupied hours, facade height, parking-lot access, arterial wash time, and whether carpentry or interior rooms belong in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Occupied retail and office hours",
+        body: "Night and weekend work costs more labor time than an empty house. Combined shop-plus-residence scopes mean two protection plans. We say so up front.",
+      },
+      {
+        title: "Wash and height on highway-facing walls",
+        body: "Two-story siding that faces SR 516 or Highway 18 needs more wash time and safer access than a backyard fence. Labor follows that, not a floor-plan shortcut.",
+      },
+      {
+        title: "Repairs on older commercial wood and house trim",
+        body: "Failed caulk, tired bulkheads, and soft fascia add days before color. We price repairs as repairs — not as a hidden line inside a cheap spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "commercial-painting",
+        localDescription:
+          "Offices, clinics, and retail interiors along SE 272nd and Wax Road — scheduled so customers still have a door, not a barricade.",
+      },
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Highway-facing Downtown Covington exteriors need wash, scrape, and prime for arterial dust and South King County rain — then coatings that can take both.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Apartments and side-street houses painted while people still live there — rooms phased, floors protected, entries usable.",
+      },
+    ],
+    estimateBandCopy:
+      "Downtown Covington shop, office, or house ready for paint? Free on-site estimate — call or send the form. We plan around SE 272nd hours and Wax Road event days, not a generic suburban calendar.",
+    processHeading: "Our Downtown Covington Process",
+    processSteps: [
+      {
+        title: "Downtown Covington Site Assessment",
+        body: "Hours of operation, parking-lot access, occupied vs vacant, and whether the job is a facade, suite, or side-street house.",
+      },
+      {
+        title: "Downtown Covington Scope, Colors & City Rules",
+        body: "We confirm colors, any signage constraints, and Building Division questions before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash the grit off, scrape, prime, and fix trim so new paint is not covering rot. Storefronts included.",
+      },
+      {
+        title: "Downtown Covington Paint / Build Days",
+        body: "Phased around customers, Cedar Heights traffic on SE 272nd, and Town Center Lawn weekends on Wax Road.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You (or your tenant) walk it with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Town Center Lawn",
+        url: "https://www.covingtonwa.gov/towncenterlawn/",
+        description:
+          "The city’s 7-acre civic lawn at 17070 SE Wax Road — former elementary grounds, playground still in place, police using remaining buildings. Maker’s Markets and movie nights are why we treat Wax Road weekends as a staging problem, not a blank Saturday.",
+      },
+      {
+        name: "Founders Park",
+        url: "https://www.covingtonwa.gov/parks/socopark.php",
+        description:
+          "Open lawn and walkways at 17081 SE Wax Road, directly across from Town Center Lawn. Downtown households use it between errands on 272nd — and its parking pattern overlaps the same corridor we need for exterior wash days.",
+      },
+      {
+        name: "Covington Library",
+        url: "https://kcls.org/locations/covington/",
+        description:
+          "King County Library System’s Covington branch at 27100 164th Avenue SE, at the Highway 18 and Kent-Kangley corner. Indoor hours still happen here while a storefront or apartment is under paper.",
+      },
+      {
+        name: "Cedar Heights Middle School",
+        url: "https://www.kent.k12.wa.us/ch",
+        description:
+          "Kent School District’s Timberwolves on SE 272nd Street. Drop-off — not a lake launch — is the weekday clock for noisy wash and trailer placement on the arterial.",
+      },
+      {
+        name: "City of Covington",
+        url: "https://www.covingtonwa.gov/",
+        description:
+          "City Hall at 16720 SE 271st Street, permits, and the Downtown Plan that shapes how this corridor is supposed to grow. Civic errands and paint jobs share the same few blocks.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Downtown Covington daily life runs on errands along SE 272nd and Wax Road, civic time at the [City of Covington](https://www.covingtonwa.gov/) on SE 271st, events at [Town Center Lawn](https://www.covingtonwa.gov/towncenterlawn/), and walks across the street at [Founders Park](https://www.covingtonwa.gov/parks/socopark.php). Indoor research still happens at the [Covington Library](https://kcls.org/locations/covington/). Anything beyond a straightforward repaint starts at the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php).",
+      "School bells sit with [Cedar Heights Middle School](https://www.kent.k12.wa.us/ch) and the broader [Kent School District](https://www.kent.k12.wa.us/). Longer trail days pick up the [Soos Creek Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails), and power is [Puget Sound Energy](https://www.pse.com/). We schedule downtown coatings around arterial hours and those calendars — not as a name-swap of Jenkins Creek shade or Lake Sawyer humidity.",
+    ],
+  },
 ];

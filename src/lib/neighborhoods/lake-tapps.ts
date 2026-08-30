@@ -842,6 +842,226 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     ],
   },
   {
+    slug: "deer-island",
+    name: "Deer Island",
+    description:
+      "A one-street west-side peninsula — every lot waterfront on Deer Island Drive E, no HOA, Dieringer schools.",
+    blurb:
+      "On Deer Island, Lane HBS paints exteriors, stains waterfront decks, and repairs trim for occupied homes on a dead-end street where every yard meets the reservoir. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Western-exposure exterior painting on all-waterfront lots",
+      "Deck staining and rail work staged on a single dead-end street",
+      "Carpentry before paint on cabin-to-year-round additions",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence on Deer Island?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, bulkhead-adjacent structure, or fence posts that move toward the water can need review. Deer Island parcels are typically unincorporated Pierce County with Cascade Water Alliance shoreline rules on top. We flag that on the estimate and point you to Pierce County Planning & Public Works — we do not guess over-water rules.",
+      },
+      {
+        question:
+          "What prep actually lasts on Deer Island’s western-exposure waterfront homes?",
+        answer:
+          "Wash algae, scrape failed film, prime bare wood, then coat on a dry window. Afternoon sun off the west side of the lake cooks south- and west-facing siding while the water keeps north walls damp. Skipping wash or prime is why lakeside paint peels first on the lake elevation. Stain on wet boards is a wasted trip.",
+      },
+      {
+        question: "How do you price painting and remodeling on Deer Island?",
+        answer:
+          "Access on a single dead-end street, height to the water, moisture damage, occupied interiors, and whether trim or rails need carpentry. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Deer Island exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Interiors are sequenced room by room while you live here. Deck stain waits on moisture, which is slower in a cove than on an open plateau fence. We set the calendar after we see the wood and the driveway, not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle Deer Island Drive E access?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. The peninsula is one paved street off Sumner-Tapps Highway E. We stage wash water and the trailer so neighbors can still turn around at the dead end and emergency access stays open.",
+      },
+    ],
+    image: "/images/from-lane/lane-03-45.jpg",
+    heroIntro:
+      "Deer Island is a short west-side peninsula — Deer Island Drive E, a dead-end T off Sumner-Tapps Highway E, and waterfront lots on both sides. Paint, stain, and carpentry here fight afternoon sun and reservoir humidity on a street that has no inland buffer and no HOA color board.",
+    mapQuery: "Deer Island Drive E, Lake Tapps, WA",
+    latitude: 47.22566,
+    longitude: -122.19151,
+    geoRadiusMeters: 1200,
+    introHeading: "One Street, Every Lot on the Water",
+    introLead:
+      "Deer Island Drive E is the neighborhood. There is no second loop, no plateau cul-de-sac behind the docks. Houses sit on low-bank and bulkhead lots with western afternoon light and splash off the reservoir. Siding, fascia, and decks fail from sun and moisture together — not from a generic “lakeside” slogan copied from a wider West Tapps Highway street, and not from the same peninsula geometry as Snag Island.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on Deer Island Drive E. We will plan a job around one dead-end road, Dieringer school-year traffic on the highway, and occupied cabins that became year-round homes. Licensed work — LANEHHB7912R — with wash, repair, and prime before color. Shoreline questions stay with Pierce County and Cascade Water Alliance, not with a paint chip.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Dead-end staging, not a wide suburban lot",
+        body: "The entire peninsula shares Deer Island Drive E. A trailer that blocks the T blocks everyone. We plan wash runoff, ladder placement, and material drops so turnarounds and neighbor driveways stay usable.",
+      },
+      {
+        icon: "sun",
+        title: "Western sun and reservoir humidity in the same week",
+        body: "West-facing elevations cook in the afternoon; the lake still keeps north walls and deck undersides damp. We spec wash, dry time, and primers for that pair — not a one-coat color change.",
+      },
+      {
+        icon: "school",
+        title: "Dieringer calendars, not a plateau sports-complex clock",
+        body: "Households here run on Lake Tapps Elementary and North Tapps Middle School, then the highway toward Auburn and Sumner. We do not schedule a noisy wash into that morning stack on Sumner-Tapps Highway E.",
+      },
+      {
+        icon: "hammer",
+        title: "Cabin additions that need carpentry before paint",
+        body: "Many Deer Island houses grew in pieces — original waterfront rooms plus later wings. Soft trim, mismatched siding, and tired rails show up before color. We repair first so the finish is not covering active decay.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Sarah M."],
+    galleryHeading: "Our Work Near Deer Island",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for west-side waterfront homes and are not geo-tagged to Deer Island Drive E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New deck railing installation in progress",
+        caption: "Deck rail work — Lake Tapps / nearby",
+      },
+      {
+        src: "/images/from-lane/lane-16-48.jpg",
+        alt: "Residential deck renovation",
+        caption: "Residential deck renovation",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting",
+        caption: "Exterior repaint — Pierce County home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Deer Island",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck",
+      serviceType: "Deck staining — nearby Lake Tapps waterfront-style home",
+      body: "West-side waterfront decks gray from sun on the walking surface and moisture underneath, not from the wrong color chip. On a nearby Lake Tapps deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on Deer Island Drive E. Timeline followed dry windows and occupied-home access on a tight lot, not a made-up linear-foot count. Rails that get grabbed all summer were part of the same walk-through.",
+    },
+    considerationsHeading: "Deer Island-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Deer Island’s single-street access off Sumner-Tapps Highway E",
+        body: "There is one way in and one place to turn around. Weekend boat traffic on the highway and neighbor trailers in driveways change where a wash setup can sit. We treat the street as shared infrastructure, not a private staging yard.",
+      },
+      {
+        heading: "Deer Island western exposure and lake-side moisture",
+        body: "Afternoon UV on west elevations fades cheap film fast. The same houses keep mildew on shaded fascia and deck joists. Both problems are on one property. Coating damp wood to hit a Friday is how last year’s stain already looks tired.",
+      },
+      {
+        heading: "Deer Island shoreline rules vs. a simple restain",
+        body: "Cosmetic paint on existing siding is usually maintenance. New structure toward the water, rail-height changes, or work at a bulkhead can involve Pierce County and Cascade Water Alliance. We keep cosmetic scopes honest and flag structure before anyone digs.",
+      },
+      {
+        heading: "Occupied interiors in converted waterfront houses",
+        body: "These are primary homes now, even when the original footprint was a cabin. Kitchens and bedrooms stay in use. We contain rooms, protect floors, and sequence work so a bathroom remains usable while the living room is open to the view.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Deer Island",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Deer Island pricing moves with dead-end access, western-elevation prep, moisture repairs, occupied interiors, and whether rails or trim need carpentry before coating. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash, sun-side scrape, and dry time",
+        body: "West walls and lake-side decks take more labor before any coating. Cheap quotes skip it and fail on the water elevation first.",
+      },
+      {
+        title: "Carpentry on additions and rails",
+        body: "Soft fascia, patched siding at an old addition, and tired guards change the scope. We price repairs as repairs.",
+      },
+      {
+        title: "Occupied rooms and one-street staging",
+        body: "Lived-in houses take protection time. A tight peninsula takes extra setup time so the dead end stays open. Those hours belong in the estimate.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Deer Island exteriors need wash, scrape, and prime for western sun and reservoir moisture — then coatings that can take both, not a color-only punch list.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Waterfront decks and rails on Deer Island Drive E — clean, dry, repair what is soft, then finish. Not a stain over wet boards or a guess at shoreline structure.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Trim, fascia, and addition seams on older waterfront houses. Carpentry first is how paint lasts on a peninsula with no HOA inspector and every neighbor in sight.",
+      },
+    ],
+    estimateBandCopy:
+      "Deer Island house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around one dead-end street and reservoir weather, not a generic suburban calendar.",
+    processHeading: "Our Deer Island Process",
+    processSteps: [
+      {
+        title: "Deer Island Site Assessment",
+        body: "Dead-end access, western vs. lake elevations, occupied vs. vacant, and whether the job is siding, deck, or carpentry at an addition.",
+      },
+      {
+        title: "Deer Island Scope, Colors & Shoreline",
+        body: "No HOA palette — neighbor sightlines still matter. Anything that looks like Pierce County or Cascade Water Alliance review is written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim or rails. This is the Lane HBS differentiator on previously coated waterfront houses.",
+      },
+      {
+        title: "Deer Island Paint / Build Days",
+        body: "Weather windows plus highway and dead-end timing. We do not wash Deer Island Drive E into a blocked turnaround.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight on the lake side and the street side. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Lake Tapps Elementary",
+        url: "https://ltes.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s elementary at 1320 178th Ave E. Morning drop-off and afternoon pickup set the weekday clock on Sumner-Tapps Highway E more than a south-lake boat launch does.",
+      },
+      {
+        name: "North Tapps Middle School",
+        url: "https://ntms.dieringer.wednet.edu/",
+        description:
+          "The district’s middle school at 20029 12th Street E. Sports and activity nights are why we ask about the week’s calendar before we schedule a noisy exterior day on the peninsula.",
+      },
+      {
+        name: "Dieringer School District",
+        url: "https://www.dieringer.wednet.edu/",
+        description:
+          "K–8 for the north and west lake — not Sumner-Bonney Lake. Deer Island households live on that calendar, then commute toward Auburn or Sumner for high school and errands.",
+      },
+      {
+        name: "Cascade Water Alliance",
+        url: "https://cascadewater.org/",
+        description:
+          "The agency that operates Lake Tapps as a reservoir. Lake level, shoreline guidance, and licensing sit here when a project is more than paint on existing siding.",
+      },
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+        description:
+          "Pierce County’s 135-acre swim and boat-launch park on 198th Ave E. Summer gate and parking rules change weekend traffic around the north lake even if you launch from your own bulkhead.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Deer Island runs on one street, [Dieringer School District](https://www.dieringer.wednet.edu/) bells at [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/), and reservoir rules from [Cascade Water Alliance](https://cascadewater.org/). Anything beyond a straightforward repaint starts at [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works).",
+      "Shoreline questions also sit with the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). Indoor research still happens at the [Pierce County Library System](https://mypcls.org/). Power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that Dieringer-and-dead-end rhythm — not as a name-swap of Snag Island or a West Tapps Highway view-deck page.",
+    ],
+  },
+  {
     slug: "tapps-island",
     name: "Tapps Island",
     description:
@@ -1060,5 +1280,6 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Daily life on Tapps Island runs on a gated east-shore rhythm: Dieringer bells, a public course in the middle of the community, and private roads that still have to stay open. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/). The [Tapps Island Golf Course](https://www.tappsislandgolf.com/) at 20818 Island Parkway East is the landmark non-residents already know — which is why we treat golf-day traffic as a real constraint, not scenery.",
       "Channel and near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations. Structural decks and additions typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). On hot weekends the public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) just off the island; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that gate-and-school rhythm — not as a name-swap of Snag Island or the plateau.",
     ],
-  },
+  }
+
 ];
