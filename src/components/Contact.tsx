@@ -2,8 +2,10 @@
 
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
-import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from "lucide-react";
+import { Phone, Mail, MapPin, Clock, Send, CheckCircle, Loader2 } from "lucide-react";
 import { trackLeadSubmitted, trackPhoneCall } from "@/lib/analytics";
+import { ESTIMATE_FORM_NAME } from "@/lib/contact";
+import { submitEstimate } from "@/lib/submitEstimate";
 
 const hours = [
   { day: "Monday", time: "9:00 AM – 5:00 PM" },
@@ -17,12 +19,15 @@ const hours = [
 
 export default function Contact() {
   const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const [form, setForm] = useState({
     name: "",
     email: "",
     phone: "",
     service: "",
     message: "",
+    company: "",
   });
   const leftRef = useRef<HTMLDivElement>(null);
   const rightRef = useRef<HTMLDivElement>(null);
@@ -49,9 +54,24 @@ export default function Contact() {
     animateEl(rightRef.current, "right");
   }, []);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // In production, send to backend/email service
+    if (submitting) return;
+    setError(null);
+    setSubmitting(true);
+    const result = await submitEstimate({
+      name: form.name,
+      email: form.email,
+      phone: form.phone,
+      service: form.service,
+      message: form.message,
+      company: form.company,
+    });
+    setSubmitting(false);
+    if (!result.ok) {
+      setError(result.error || "Could not send your request. Please call us.");
+      return;
+    }
     trackLeadSubmitted("estimate", { service_type: form.service || "unspecified" });
     setSubmitted(true);
   };
@@ -126,7 +146,27 @@ export default function Contact() {
                   </p>
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-5">
+                <form
+                  name={ESTIMATE_FORM_NAME}
+                  method="POST"
+                  data-netlify="true"
+                  netlify-honeypot="company"
+                  onSubmit={handleSubmit}
+                  className="space-y-5"
+                >
+                  <input type="hidden" name="form-name" value={ESTIMATE_FORM_NAME} />
+                  <div className="absolute -left-[9999px] h-0 w-0 overflow-hidden" aria-hidden="true">
+                    <label htmlFor="company">Company</label>
+                    <input
+                      id="company"
+                      type="text"
+                      name="company"
+                      tabIndex={-1}
+                      autoComplete="off"
+                      value={form.company}
+                      onChange={(e) => setForm({ ...form, company: e.target.value })}
+                    />
+                  </div>
                   <div className="grid sm:grid-cols-2 gap-5">
                     <div>
                       <label className="text-xs tracking-widest uppercase text-white/40 block mb-2">
@@ -134,6 +174,7 @@ export default function Contact() {
                       </label>
                       <input
                         type="text"
+                        name="name"
                         required
                         value={form.name}
                         onChange={(e) => setForm({ ...form, name: e.target.value })}
@@ -147,6 +188,7 @@ export default function Contact() {
                       </label>
                       <input
                         type="email"
+                        name="email"
                         required
                         value={form.email}
                         onChange={(e) => setForm({ ...form, email: e.target.value })}
@@ -162,6 +204,7 @@ export default function Contact() {
                       </label>
                       <input
                         type="tel"
+                        name="phone"
                         value={form.phone}
                         onChange={(e) => setForm({ ...form, phone: e.target.value })}
                         placeholder="(253) 000-0000"
@@ -173,6 +216,7 @@ export default function Contact() {
                         Service Needed
                       </label>
                       <select
+                        name="service"
                         value={form.service}
                         onChange={(e) => setForm({ ...form, service: e.target.value })}
                         className="w-full bg-[#1a1a1a] border border-white/10 text-white/70 px-4 py-3.5 text-sm focus:outline-none focus:border-[#c9a458]/50 transition-colors appearance-none cursor-pointer"
@@ -193,6 +237,7 @@ export default function Contact() {
                       Project Details
                     </label>
                     <textarea
+                      name="message"
                       rows={5}
                       value={form.message}
                       onChange={(e) => setForm({ ...form, message: e.target.value })}
@@ -200,12 +245,18 @@ export default function Contact() {
                       className="w-full bg-[#1a1a1a] border border-white/10 text-white placeholder-white/20 px-4 py-3.5 text-sm focus:outline-none focus:border-[#c9a458]/50 transition-colors resize-none"
                     />
                   </div>
+                  {error && (
+                    <p className="text-sm text-red-400" role="alert">
+                      {error}
+                    </p>
+                  )}
                   <button
                     type="submit"
-                    className="flex items-center gap-3 px-8 py-4 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_25px_rgba(201,164,88,0.4)] hover:-translate-y-0.5"
+                    disabled={submitting}
+                    className="flex items-center gap-3 px-8 py-4 bg-[#c9a458] text-[#0d0d0d] text-sm font-bold tracking-widest uppercase hover:bg-[#e0bc7a] transition-all duration-300 hover:shadow-[0_0_25px_rgba(201,164,88,0.4)] hover:-translate-y-0.5 disabled:opacity-60 disabled:hover:translate-y-0 disabled:hover:shadow-none"
                   >
-                    <Send size={16} />
-                    Send My Request
+                    {submitting ? <Loader2 size={16} className="animate-spin" /> : <Send size={16} />}
+                    {submitting ? "Sending..." : "Send My Request"}
                   </button>
                 </form>
               )}
