@@ -222,6 +222,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Four Corners",
         path: "/service-areas/maple-valley/four-corners",
       },
+      { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
     ],
     knownLinks: [
@@ -229,6 +230,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Maple Valley Building Permits",
         url: "https://www.maplevalleywa.gov/179/Building",
+      },
+      {
+        name: "King County Permitting",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits",
+      },
+      {
+        name: "Taylor Mountain Forest",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
       },
       { name: "Puget Sound Energy", url: "https://www.pse.com/" },
       { name: "Tahoma School District", url: "https://www.tahomasd.us/" },

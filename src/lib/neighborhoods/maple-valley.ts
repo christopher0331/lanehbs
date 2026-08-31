@@ -1057,4 +1057,222 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "Libraries remain [King County Library System](https://kcls.org/), power is [Puget Sound Energy](https://www.pse.com/), and longer trail days may use the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We estimate Ravensdale as rural-residential King County with Maple Valley-quality finish, not as a forgotten edge.",
     ],
   },
+  {
+    slug: "hobart",
+    name: "Hobart",
+    description:
+      "Unincorporated acreage north of Maple Valley along Issaquah-Hobart Road — horse lots, custom homes, and Taylor Mountain weather, not a subdivision HOA.",
+    blurb:
+      "In Hobart, Lane HBS paints exteriors, stains decks, and repairs fences on unincorporated King County lots where Issaquah-Hobart Road, Taylor Mountain shade, and occupied acreage set the job — not a city-grid color packet. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for canopy lots and SR 18 / Issaquah-Hobart Road exposure",
+      "Deck staining and horse-property fence work with honest post inspection",
+      "Carpentry before paint on custom homes, shops, and additions",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint, build a deck, or replace a fence in Hobart?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, or fence that moves location or height can need review. Most Hobart parcels are unincorporated King County, not City of Maple Valley — structural questions go to King County Permitting (Department of Local Services), not the Maple Valley Building Division. A few lots sit closer to city limits; we flag jurisdiction on the estimate instead of guessing.",
+      },
+      {
+        question:
+          "What prep or services fit Hobart’s foothills moisture, creeks, and highway-facing walls?",
+        answer:
+          "Laterals off Issaquah-Hobart Road and Hobart-Taylor Mountain Road SE sit under trees and near Holder and Carey Creek drainages — moss, slow dry times, and stain that fails if you skip wash. Elevations that face Issaquah-Hobart Road or SR 18 pick up road film the way Four Corners picks up Kent-Kangley grit. We wash, scrape, prime, and repair soft trim before color. Horse fencing and long privacy runs get a ground-line inspection, not a stain-only promise.",
+      },
+      {
+        question: "How do you price painting and remodeling in Hobart?",
+        answer:
+          "House and shop size, canopy vs. highway exposure, driveway staging, occupied interiors, and whether fence or deck carpentry is in the same scope. There is no published square-foot or linear-foot menu and no “rural discount.” Free on-site estimate — call (253) 414-3937 or use the contact form. We walk the property.",
+      },
+      {
+        question: "How long does a typical Hobart interior, exterior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time; shade under Taylor Mountain-side trees stretches that. Interiors are room-phased while you live here. Deck stain waits on moisture. Horse-property fence work depends on how many posts have failed at the soil line. We set the calendar after we see access off Issaquah-Hobart Road, not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle long drives, well/septic, and school traffic?",
+        answer:
+          "Yes. Most Hobart interiors happen occupied, with floors protected. We keep wash water and trailers off well heads, septic fields, and pasture you still use. Tahoma Elementary on SE 216th Street and bus runs on Issaquah-Hobart Road change morning access; we do not park the only turnout shut during drop-off if we can help it.",
+      },
+    ],
+    image: "/images/from-lane/lane-12-1198.jpg",
+    heroIntro:
+      "Hobart is the unincorporated pocket north of Maple Valley — Issaquah-Hobart Road becoming 276th Avenue SE, SR 18 overhead, and acreage that runs toward Taylor Mountain. Paint, decks, and fences here have to handle foothills moisture, horse-lot access, and a commute corridor, not a Summit HOA color board.",
+    mapQuery: "Hobart, WA",
+    latitude: 47.41111,
+    longitude: -121.99722,
+    geoRadiusMeters: 4500,
+    introHeading: "Acreage Weather, Not a Cul-de-Sac Color Packet",
+    introLead:
+      "Hobart is not in-town Maple Valley and it is not Ravensdale’s coal-country south edge. Issaquah-Hobart Road and SE 208th Street still carry farm equipment and horse trailers. Custom houses, shops, and older farmhouses sit on lots that stay wet under alder and fir, while the walls that face the highway take grit from SR 18. Prep is two problems at once: moss in the trees and film on the arterial elevation.",
+    introBody:
+      "Lane Home & Business Services LLC covers Hobart as part of Maple Valley work from a Lake Tapps base — licensed LANEHHB7912R, Lane Vanderwaal on the estimate. We will not invent a gate-code list on Hobart-Taylor Mountain Road SE. We will walk your siding, deck, and fence line, tell you what is King County structural versus paint, and stage so pasture, well, and the neighbor’s turnout stay usable.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Issaquah-Hobart Road is a commute, not a quiet lane",
+        body: "Highway-facing paint fails when you coat over film. We wash SR 18 and Issaquah-Hobart elevations like arterial work — then treat the wooded sides as a different dry-time problem.",
+      },
+      {
+        icon: "trees",
+        title: "Taylor Mountain shade and creek air",
+        body: "Holder Creek and Carey Creek drainages keep north walls damp. Canopy lots toward the forest do not get Four Corners sun. Wash and prime are the job, not a brochure extra.",
+      },
+      {
+        icon: "hammer",
+        title: "Horse fence and shop buildings in the same conversation",
+        body: "Pasture runs fail at the ground line. Shops need a different coating conversation than the house. We itemize instead of hiding carpentry inside a cheap spray bid.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County rules, not a Maple Valley HOA packet",
+        body: "Unincorporated parcels do not get Summit architectural colors. New decks still need the right permit office. We help you ask King County Permitting when the scope leaves maintenance.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Hobart",
+    galleryNote:
+      "Owned Lane HBS photos of exterior renovation, decks, and rails from Maple Valley-area and nearby jobs. They illustrate the work type for acreage and foothills homes — not geo-tagged to an Issaquah-Hobart Road address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior renovation work",
+        caption: "Exterior renovation — nearby foothills work",
+      },
+      {
+        src: "/images/from-lane/lane-32-60.jpg",
+        alt: "Completed exterior deck project",
+        caption: "Deck refresh — Maple Valley-area project",
+      },
+      {
+        src: "/images/from-lane/lane-21-101.jpg",
+        alt: "New stair railing on an elevated deck",
+        caption: "Deck rail work — nearby larger-lot home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Hobart",
+      image: "/images/from-lane/lane-07-1199.jpg",
+      imageAlt: "Deck framing hardware and joist tape during a rebuild",
+      serviceType: "Deck carpentry before stain — nearby acreage-style lot",
+      body: "Hobart decks often sit off a house that already has a shop, a slope, or a horse paddock in the same view. On a nearby Maple Valley-area deck we opened the framing, detailed hardware and flashing, and only then talked stain — because coating failed boards is not a favor. The photo is owned Lane HBS work in the parent region, not a house on SE 208th Street. Access on a long drive and real dry time, not a fictional linear-foot count, ran the schedule. When the same property later wants the highway-facing exterior, that elevation gets a wash the backyard never needed.",
+    },
+    considerationsHeading: "Hobart-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Hobart canopy moisture versus highway film",
+        body: "The same house can have a mossy north wall under firs and a dirty west wall that faces Issaquah-Hobart Road or SR 18. Those elevations do not get the same wash recipe. Skipping either side is how a “fresh” exterior looks tired on the commute home.",
+      },
+      {
+        heading: "Hobart horse lots, pets, and fence lines",
+        body: "Taking down a pasture run for post replacement means a temporary plan for animals. We talk through that before demo. Stain on leaning, rotten posts is not in the scope we will sell.",
+      },
+      {
+        heading: "Hobart well, septic, and long-drive staging",
+        body: "Unincorporated lots often keep infrastructure in the only wide place a trailer wants to sit. Tell us what we cannot drive over. Wash runoff is planned so it is not a hillside or paddock problem.",
+      },
+      {
+        heading: "Occupied custom homes and shop phasing",
+        body: "Most Hobart houses are lived in year-round. Interiors stay room-phased. The shop or barn can be a later invoice — we will not pretend it is the same coating system as the house.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Hobart",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Hobart pricing moves with wash (moss and arterial film), height and access on long drives, occupied interiors, fence and deck carpentry, and whether a shop is in the same trip. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures on one house",
+        body: "Canopy wash plus highway-facing film is more labor than a single sunny elevation. The estimate says so instead of averaging it into a fake unit price.",
+      },
+      {
+        title: "Fence, paddock, and shop add-ons",
+        body: "The house may be the smaller line. We itemize pasture fence, deck, and outbuildings so you can phase them.",
+      },
+      {
+        title: "Occupied interiors and rural access time",
+        body: "Protection, sequencing, and driveway staging add hours versus an empty in-town lot. That is the honest part of an acreage estimate.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Hobart exteriors need wash for both Taylor Mountain shade and Issaquah-Hobart Road film — then primers that can take wet King County winters.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks, privacy fence, and horse-lot runs with a ground-line inspection. We stain what is sound and repair what is not.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Soffit, fascia, and outdoor repairs so foothills moisture is not sealed into failed wood before paint goes on.",
+      },
+    ],
+    estimateBandCopy:
+      "Hobart house, shop, deck, or fence ready for a real walk-through? Free on-site estimate for your property — call or send the form. We plan around Issaquah-Hobart Road access, not a generic city-grid calendar.",
+    processHeading: "Our Hobart Process",
+    processSteps: [
+      {
+        title: "Hobart Site Assessment",
+        body: "Canopy vs. highway elevations, driveway, well/septic, animals, occupied vs. vacant, house and shop.",
+      },
+      {
+        title: "Hobart Scope, Colors & County Rules",
+        body: "No HOA packet on most lots — but King County still cares about new decks. Written scope before anyone shows up with a sprayer.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash moss and film, scrape, prime, and fix trim, posts, or deck boards so new coatings are not covering rot.",
+      },
+      {
+        title: "Hobart Paint / Build Days",
+        body: "Weather windows under trees, plus school-bus timing on Issaquah-Hobart Road and SE 216th. We wait rather than trap moisture.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and fence lines walked in daylight. Licensed closeout — LANEHHB7912R — same as every other Maple Valley-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Taylor Mountain Forest",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
+        description:
+          "King County’s 1,900-acre working forest east of Issaquah-Hobart Road — Holder Creek, Carey Creek, and horse-trailer parking at SE 188th and 276th. Hobart lots inherit that canopy weather. Exterior wash here is not a suburban extra.",
+      },
+      {
+        name: "Tahoma Elementary School",
+        url: "https://tahomaelementary.tahomasd.us/",
+        description:
+          "The district’s oldest campus at 24425 SE 216th Street — the 1926 building that still carries the TaHoMa name (Taylor, Hobart, Maple Valley). School-day traffic on SE 216th is why we do not treat Hobart staging like an empty Saturday lot.",
+      },
+      {
+        name: "Cedar River Trail",
+        url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails",
+        description:
+          "The regional trail Hobart households still pick up toward Landsburg and Maple Valley. Weekend bike and horse-trailer traffic is real on the same roads we use for material drops.",
+      },
+      {
+        name: "King County Parks",
+        url: "https://kingcounty.gov/en/dept/natural-resources-parks/parks",
+        description:
+          "Levdansky Park and Johnny Lazor Hobart Field sit on the Issaquah-Ravensdale Road edge of this community. Game days change parking on nearby streets the same way park fields do in Boise Creek — we plan around them.",
+      },
+      {
+        name: "King County Permitting",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits",
+        description:
+          "The permit desk for unincorporated Hobart. Paint is usually maintenance; a new deck or a fence that changes height is not something we will shrug off as “rural, so skip it.”",
+      },
+    ],
+    localLivingParagraphs: [
+      "Hobart daily life runs on [Tahoma School District](https://www.tahomasd.us/) bells, trailers headed to [Taylor Mountain Forest](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain), and errands that still drop into the [City of Maple Valley](https://www.maplevalleywa.gov/) for groceries. Structural permits on unincorporated lots start with [King County Permitting](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits), not a Maple Valley city HOA packet.",
+      "Weekends often add the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails) and other [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) sites. Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We schedule Hobart coatings around acreage access, school-bus timing on Issaquah-Hobart Road, and those calendars — not as a name-swap of Ravensdale or Wilderness Rim.",
+    ],
+  },
 ];

@@ -292,7 +292,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Four Corners, Lake Wilderness & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Four Corners, Lake Wilderness, Hobart, Ravensdale & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -305,6 +305,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Cedar River Trail",
       "Maple Valley Community Center",
       "Legacy Park",
+      "Taylor Mountain Forest",
     ],
     climateDescription:
       "Maple Valley sits in the Cascade foothills with more precipitation and tree cover than many lowland suburbs. Shade, moss, and moisture mean exteriors and decks need washing, mildew awareness, and coatings chosen for wetter microclimates.",
@@ -334,7 +335,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Four Corners, Lake Wilderness communities, Tahoma-area streets, and nearby Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Four Corners, Lake Wilderness communities, Tahoma-area streets, nearby Hobart along Issaquah-Hobart Road, and Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -351,7 +352,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes and Four Corners along SR 169 and Kent-Kangley, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes, Four Corners along SR 169 and Kent-Kangley, and unincorporated Hobart along Issaquah-Hobart Road, Lane HBS helps Maple Valley-area homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",
