@@ -73,7 +73,7 @@ export async function POST(request: Request) {
 
   const from =
     String(process.env.RESEND_FROM ?? "").trim() ||
-    `${SITE_CONFIG.shortName} <noreply@${new URL(SITE_CONFIG.url).hostname}>`;
+    `${SITE_CONFIG.shortName} <noreply@lanehbs.com>`;
 
   try {
     const resend = new Resend(apiKey);
