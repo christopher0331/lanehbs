@@ -631,4 +631,223 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Schools remain [Enumclaw School District](https://www.enumclaw.wednet.edu/), libraries are [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We plan plateau coatings around wind, rain, and those calendars — not a lowland suburban template.",
     ],
   },
+  {
+    slug: "elk-meadows",
+    name: "Elk Meadows",
+    description:
+      "Holdener Farm PUD streets off Riggs Drive E and Bondgard Avenue E — 2000s family homes with city design standards and occupied-house painting.",
+    blurb:
+      "In Elk Meadows, Lane HBS paints interiors and exteriors, refinishes cabinets, and refreshes decks for occupied Holdener Farm homes — with HOA and city PUD colors on the table. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "HOA- and PUD-aware exterior colors for Holdener Farm streets",
+      "Occupied interiors and cabinet refinishing in 2000s family homes",
+      "Deck staining and trim repairs on close sidewalk lots",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint or build a deck in Elk Meadows?",
+        answer:
+          "Repainting existing siding, trim, or interiors is usually maintenance with the Enumclaw Building Division. New decks, openings, or structural changes can need city review. Elk Meadows also sits in the Holdener Farm PUD — Phase I design standards adopted in 2002 still apply to Elk Meadows I and II — and the Elk Meadows Homeowners' Association may want color samples. We help you sort city permit vs. PUD/HOA review during the estimate.",
+      },
+      {
+        question:
+          "What prep fits Elk Meadows’ 2000s siding and plateau weather?",
+        answer:
+          "These are sidewalk lots, not farm-edge acreage, but wind-driven rain still finds failed caulk and thin film on south and west walls. We wash, scrape, prime, and repair builder trim before color. North elevations and street trees still grow mildew. Skipping wash so an HOA-approved chip can go on faster is how 2000s paint peels in a couple of winters.",
+      },
+      {
+        question: "How do you price painting and remodeling in Elk Meadows?",
+        answer:
+          "Story count, repair quantity, occupied-home protection, HOA sample walls if required, and whether cabinets or a deck belong in the same scope. There is no published square-foot or PUD special rate. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question: "How long does a typical Elk Meadows interior or exterior take?",
+        answer:
+          "A single-family interior or exterior is usually several dry days once repairs and any color approval are done. Cabinet refinishing and deck staining add dry time. We set the calendar after we see access on Riggs Drive E, Bondgard Avenue E, and the laterals — not from a listing photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around Southwood and high-school traffic?",
+        answer:
+          "Yes. Most Elk Meadows interiors happen occupied, with floors and furniture protected and a bathroom left usable. For exteriors we plan wash and trailer placement around weekday bells at Southwood Elementary and Enumclaw High, and around Warner Avenue / Suntop Boulevard N traffic that feeds SR 410 — not during the worst drop-off queue if we can help it.",
+      },
+    ],
+    image: "/images/painting16.jpg",
+    heroIntro:
+      "Elk Meadows is Enumclaw’s Holdener Farm plat — Riggs Drive East, Bondgard Avenue East, Bruhn Lane North, Petersen Drive East — sidewalks and 2000s family houses, not a farm-edge acreage and not Cole Street storefronts. Paint here has to pass neighbor and design-standard scrutiny and still survive plateau weather.",
+    mapQuery: "Riggs Drive East, Enumclaw, WA",
+    latitude: 47.1941,
+    longitude: -121.9674,
+    geoRadiusMeters: 1200,
+    introHeading: "Approved Colors Still Need Wash, Prime, and Room to Stage",
+    introLead:
+      "Elk Meadows I and II sit inside the City of Enumclaw’s Holdener Farm Planned Unit Development. Phase I design standards, adopted in June 2002, still apply to these plats and to Suntop Division I next door. Lots on Riggs Drive E, Bondgard Ave E, Bruhn Lane N, Petersen Drive E, and Sigrist Drive E sit closer together than plateau farm parcels. Side yards, street trees, and HOA sightlines mean wash runoff and trailer placement matter as much as the color chip.",
+    introBody:
+      "Lane Home & Business Services LLC covers Enumclaw from Lake Tapps. Lane Vanderwaal will not invent a house count on Bondgard Avenue. We will review your HOA packet and the city’s Holdener Farm PUD guidelines when you have them, keep trailers off sidewalks, and prep 2000s siding so an approved color actually lasts through wind-driven rain. Licensed work — LANEHHB7912R — with occupied-home protection as the default. Southwood Elementary on McDougall Avenue and Enumclaw High on Semanski Street change where a trailer can sit on Warner Avenue and Suntop Boulevard N. That is a school-and-sidewalk problem, not a downtown facade schedule and not a creek-lot moss slogan.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "PUD design standards plus the HOA packet",
+        body: "Elk Meadows is not a color-free cul-de-sac. City Community Development still administers Holdener Farm Phase I guidelines, and the Elk Meadows Homeowners' Association may want samples before full coating. We match the approved palette; we do not pretend to sit on the Design Review Board.",
+      },
+      {
+        icon: "home",
+        title: "Close lots, occupied 2000s houses",
+        body: "Sidewalk streets and small side yards leave little room to hide a messy job. Interiors stay livable. We protect floors, contain spray, and talk to the neighbor whose driveway we will share for a day.",
+      },
+      {
+        icon: "wind",
+        title: "Plateau weather on production siding",
+        body: "A named subdivision does not shelter south walls. Wind-driven rain and UV still punish thin film and failed caulk. We treat elevations as weather problems, not as a suburban brochure.",
+      },
+      {
+        icon: "school",
+        title: "Warner Avenue and school-year clocks",
+        body: "Southwood Elementary and Enumclaw High set the weekday. Suntop Boulevard N and Warner Avenue feed SR 410. We do not wash a street elevation into drop-off or block the trail parking at 2309 Warner when we can avoid it.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "Tina W."],
+    galleryHeading: "Our Work Near Elk Meadows",
+    galleryNote:
+      "Owned Lane HBS photos of cabinet finishes, occupied interiors, and decks from Enumclaw-area and nearby jobs. They illustrate the work type for 2000s family homes and are not geo-tagged to Riggs Drive E or Bondgard Avenue E.",
+    gallery: [
+      {
+        src: "/images/painting16.jpg",
+        alt: "Kitchen cabinet painting finish",
+        caption: "Kitchen cabinet painting",
+      },
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Interior spray prep in a vaulted living space",
+        caption: "Occupied interior spray prep",
+      },
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Residential deck project",
+        caption: "Deck refresh on a family home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Elk Meadows",
+      image: "/images/from-lane/lane-30-4772.jpg",
+      imageAlt: "Kitchen remodel work in progress",
+      serviceType: "Cabinet and kitchen refresh — occupied 2000s-style home",
+      body: "Builder kitchens in 2000s plats wear out long before the floor plan does. On a nearby occupied interior we masked thoroughly, refinished cabinets, and sequenced rooms so the household could cook around the work. The photo is Lane HBS work, not a named Riggs Drive address. That occupied-home discipline — plus HOA-safe exterior colors when the same family is ready for siding — is what Elk Meadows projects actually need. We do not invent a linear-foot or cabinet-door count for a street we have not walked.",
+    },
+    considerationsHeading: "Elk Meadows-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Elk Meadows HOA colors and Holdener Farm PUD rules",
+        body: "A straight repaint is usually city maintenance, but the plat is not color-optional. Phase I Holdener Farm guidelines and the Elk Meadows HOA can constrain palettes and elevation details. We ask for the packet on the estimate so we are not coating a color the committee will reject.",
+      },
+      {
+        heading: "Elk Meadows sidewalk lots and neighbor access",
+        body: "Riggs, Bondgard, Bruhn, Petersen, and Sigrist are close. Wash water, ladders, and material drops compete with parked cars and shared side yards. We stage so the sidewalk stays passable and we are not painting your house onto the neighbor’s driveway.",
+      },
+      {
+        heading: "Elk Meadows weather on 2000s trim and siding",
+        body: "These houses are newer than downtown millwork, but builder caulk and thin film still fail in plateau wind and rain. Soft fascia and window heads get carpentry before paint. We do not treat a 2002 elevation like a barn on an open farm road, and we do not treat it like a creek-shaded Boise Creek lot either.",
+      },
+      {
+        heading: "Occupied interiors during the school year",
+        body: "Homework tables and kitchens stay in use. We phase rooms, protect floors, and time noisy wash days around Southwood and Enumclaw High calendars — plus Warner Avenue traffic that already backs up toward SR 410.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Elk Meadows",
+    costIntro:
+      "We do not publish dollar-per-square-foot or HOA special rates. Elk Meadows pricing moves with occupied-home protection, close-lot staging, repair quantity on 2000s trim, HOA sample walls if required, and whether cabinets or a deck belong in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "HOA samples and two-story access",
+        body: "A sample wall or extra story adds labor time before full coating. Street-facing elevations still need wash. We say so up front instead of hiding it in a cheap spray bid.",
+      },
+      {
+        title: "Occupied kitchens and interiors",
+        body: "Cabinet refinishing and room-by-room interiors cost more protection time than an empty house. Most Elk Meadows jobs happen while someone is cooking dinner.",
+      },
+      {
+        title: "Carpentry on builder trim",
+        body: "Failed caulk, tired fascia, and soft window trim add days before color. We price repairs as repairs — not as a footnote inside an exterior number.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Holdener Farm exteriors with wash, prime, and PUD-aware colors so plateau rain is not undercutting an HOA-approved chip.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Elk Meadows interiors — walls, trim, and room sequencing around school calendars on Warner Avenue and Suntop Boulevard N.",
+      },
+      {
+        slug: "remodeling-renovation",
+        localDescription:
+          "Cabinet refinishing and kitchen refreshes for 2000s floor plans that still work — without a full gut and without emptying the house.",
+      },
+    ],
+    estimateBandCopy:
+      "Elk Meadows house ready for paint, cabinets, or a deck refresh? Free on-site estimate — call or send the form. We plan around HOA colors and school-year streets, not a generic suburban calendar.",
+    processHeading: "Our Elk Meadows Process",
+    processSteps: [
+      {
+        title: "Elk Meadows Site Assessment",
+        body: "Lot access, occupied vs vacant, siding condition, and whether HOA or PUD color rules apply to this elevation.",
+      },
+      {
+        title: "Elk Meadows Scope, Colors & HOA",
+        body: "We confirm the palette against your packet and the Holdener Farm Phase I standards, then write cabinets, interiors, and exteriors as one scope or as honest phases.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, carpentry, prime — the Lane HBS differentiator on 2000s trim that has already seen two decades of plateau weather.",
+      },
+      {
+        title: "Elk Meadows Paint / Build Days",
+        body: "Phased around neighbors, Southwood and high-school traffic, and dry windows. We wait rather than trap moisture to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You walk elevations and rooms with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Ellenson Park",
+        url: "https://www.cityofenumclaw.net/facilities/facility/details/Ellenson-Park-10",
+        description:
+          "The city’s 2.6-acre neighborhood park at 2550 Farman Street — playground, picnic tables, soccer field, and an off-leash dog area. Elk Meadows households use it more than a downtown pocket park, and Farman Street parking is part of how we time weekday wash days.",
+      },
+      {
+        name: "Holdener Farm PUD Design Standards",
+        url: "https://www.cityofenumclaw.net/220/Holdener-Farm-PUD-Design-Standards",
+        description:
+          "City of Enumclaw’s Phase I guidelines (June 2002) for Elk Meadows I and II and Suntop Division I. This is why exterior color is not a free-for-all on Riggs and Bondgard — Community Development still publishes the packet.",
+      },
+      {
+        name: "Southwood Elementary",
+        url: "https://swe.enumclaw.wednet.edu/",
+        description:
+          "Enumclaw School District’s elementary at 3240 McDougall Avenue. Bus and drop-off clocks, not a creek trailhead, set when noisy exterior work can sit on nearby streets.",
+      },
+      {
+        name: "Enumclaw High School",
+        url: "https://www.enumclaw.wednet.edu/o/ehs/",
+        description:
+          "The Hornets campus at 226 Semanski Street South. High-school traffic still reaches Warner Avenue and the SR 410 edge — useful when we schedule trailers instead of guessing a quiet cul-de-sac.",
+      },
+      {
+        name: "Foothills Trail",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/foothills-trail",
+        description:
+          "King County’s Foothills Trail corridor. The city also lists a trail facility at 2309 Warner Avenue, a short hop from Bondgard and Riggs — weekend parking there is why we do not treat Warner as an empty staging street.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Elk Meadows runs on sidewalk loops, playground time at [Ellenson Park](https://www.cityofenumclaw.net/facilities/facility/details/Ellenson-Park-10) on Farman Street, and city services through the [City of Enumclaw](https://www.cityofenumclaw.net/). Exterior colors still sit under the [Holdener Farm PUD Design Standards](https://www.cityofenumclaw.net/220/Holdener-Farm-PUD-Design-Standards). Anything beyond a straightforward repaint starts at the [Enumclaw Building Division](https://www.cityofenumclaw.net/159/Building-Division).",
+      "School bells sit with [Southwood Elementary](https://swe.enumclaw.wednet.edu/) and the rest of the [Enumclaw School District](https://www.enumclaw.wednet.edu/). Longer rides pick up the [Foothills Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/foothills-trail). Power is [Puget Sound Energy](https://www.pse.com/). We schedule Elk Meadows coatings around those sidewalk and school rhythms — not as a name-swap of downtown storefronts, Boise Creek shade, or open plateau acreage.",
+    ],
+  },
 ];
