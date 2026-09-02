@@ -1057,4 +1057,220 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "Libraries remain [King County Library System](https://kcls.org/), power is [Puget Sound Energy](https://www.pse.com/), and longer trail days may use the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We estimate Ravensdale as rural-residential King County with Maple Valley-quality finish, not as a forgotten edge.",
     ],
   },
+  {
+    slug: "shadow-lake",
+    name: "Shadow Lake",
+    description:
+      "Unincorporated kettle-lake and bog country along Petrovitsky and Sweeney Road — wooded lots, school-year traffic, and King County permits.",
+    blurb:
+      "Shadow Lake sits between Maple Valley and Covington: private lake lots, wetland shade, and Tahoma-area houses on Sweeney Road SE and 184th Ave SE. Lane HBS paints interiors and exteriors, stains decks, and repairs trim without treating this CDP like in-town Lake Wilderness.",
+    highlights: [
+      "Moisture-aware exteriors on wooded, wetland-adjacent lots",
+      "Occupied-home interiors around Shadow Lake Elementary hours",
+      "Deck and fence work that respects bog drainage and long drives",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or rebuild a deck in Shadow Lake?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, or work near wetlands and shorelines can need King County review — most Shadow Lake parcels are unincorporated, not City of Maple Valley. We flag jurisdiction during the estimate and point you to King County Permitting when the work is structural.",
+      },
+      {
+        question: "What prep fits Shadow Lake’s bog shade and Petrovitsky dust?",
+        answer:
+          "Lots around the kettle lake and SHADOW preserve stay damp under canopy. Highway-adjacent elevations on SE Petrovitsky Road also collect road film. We wash, treat mildew, scrape failed coatings, and prime before color — then wait for wood to actually dry. Skip-prep paint fails first on north walls and fence lines in wet soil.",
+      },
+      {
+        question: "How do you price painting and remodeling in Shadow Lake?",
+        answer:
+          "Access off Sweeney Road SE or 184th Ave SE, story count, moss and carpentry, occupied interiors, and whether the lot sits in a wetland buffer. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or send the contact form.",
+      },
+      {
+        question: "How long does a typical Shadow Lake interior or exterior take?",
+        answer:
+          "A single-family interior is usually several contained days. Exteriors and decks depend on dry windows under the trees — shade here stretches wash-to-coat time compared with an open Four Corners lot. We set the calendar after we see the house, not from a generic Maple Valley average.",
+      },
+      {
+        question: "Can you paint while we live here, around Shadow Lake Elementary traffic?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected and a bathroom left usable. For exteriors we plan trailer parking and wash windows around drop-off and pickup on Sweeney Road SE (22620 Sweeney Road SE) so we are not blocking the school queue or a single long driveway.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Shadow Lake is the unincorporated CDP northwest of Maple Valley — SE Petrovitsky Road, Sweeney Road SE, 184th Ave SE, and a small kettle lake that is not a city beach. Paint and decks here fail from bog shade and wet winters, and the work has to fit occupied Tahoma-area houses.",
+    mapQuery: "Shadow Lake, Maple Valley, WA",
+    latitude: 47.4017,
+    longitude: -122.0763,
+    geoRadiusMeters: 2500,
+    introHeading: "Bog Shade and Petrovitsky Weather, Not a City-Park Lake",
+    introLead:
+      "The Shadow Lake census place sits between Maple Valley to the southeast, Covington to the south, and Maple Heights–Lake Desire to the north. SE Petrovitsky Road is the commuter edge. The namesake lake is a small, mostly private kettle in the western part of the CDP — useful humidity, not Lake Wilderness Park’s public beach and playground. Houses along 184th Ave SE, Peter Grubb Road SE, SE Lake Youngs Road, and the numbered laterals (SE 213th, SE 216th) sit under trees next to wetland and bog soils.",
+    introBody:
+      "Lane Home & Business Services LLC covers this stretch from Lake Tapps as part of regular Maple Valley work. Lane Vanderwaal will not invent a house count on Sweeney Road SE or a shoreline resume on the kettle lake. We will wash moss, inspect fence posts in wet ground, and schedule around Shadow Lake Elementary so a trailer is not sitting in the 22620 Sweeney Road SE pickup line. Licensed as LANEHHB7912R. Mailing addresses here often say Maple Valley 98038 or Renton 98058; the permit office is usually King County, not city hall.",
+    trustCards: [
+      {
+        icon: "trees",
+        title: "Wetland canopy is the design condition",
+        body: "SHADOW’s bog and the trees around the kettle lake keep north siding damp. We wash and prime for shade, not for a sunny subdivision brochure. Moss on fences is maintenance, not a surprise.",
+      },
+      {
+        icon: "school",
+        title: "Sweeney Road runs on elementary bells",
+        body: "Shadow Lake Elementary at 22620 Sweeney Road SE clocks weekday traffic. We stage wash and material drops so we are not competing with drop-off or blocking the only driveway on a wooded lot.",
+      },
+      {
+        icon: "clipboard",
+        title: "Unincorporated rules, Maple Valley errands",
+        body: "Most parcels are King County for decks and structures. Groceries and city parks still pull people into Maple Valley. We help you ask the right office instead of assuming a city building counter.",
+      },
+      {
+        icon: "car",
+        title: "Petrovitsky film on the north edge",
+        body: "SE Petrovitsky Road is the Renton–Maple Valley arterial. Street-facing elevations collect grit the bog lots never see. Those walls get a real wash before primer.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Shadow Lake",
+    galleryNote:
+      "Owned Lane HBS photos of deck work, exteriors, and interiors from Maple Valley-area and nearby jobs. They are not geo-tagged to Sweeney Road SE, 184th Ave SE, or the kettle lake.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Deck staining and rail work",
+        caption: "Deck staining — nearby foothills work",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting",
+        caption: "Exterior repaint after wash and prime",
+      },
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Interior spray prep in a vaulted living space",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Shadow Lake",
+      image: "/images/from-lane/lane-30-4772.jpg",
+      imageAlt: "Kitchen remodel work in progress",
+      serviceType: "Kitchen cabinet painting — nearby Tahoma-area family home",
+      body: "Wooded Shadow Lake houses are lived in year-round, not weekend cabins. On a nearby Maple Valley-area kitchen we degreased, sanded, primed, and topcoated cabinets so the finish could take school-year use — not a weekend wipe over cooking film. The photo is Lane HBS work in the parent region, not a house on 184th Ave SE or Peter Grubb Road SE. Occupied sequencing and dry time set the pace. When the same household later wants the north elevation, the wash-and-wait sequence has to account for bog shade the kitchen never saw.",
+    },
+    considerationsHeading: "Shadow Lake-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Shadow Lake bog moisture and kettle-lake humidity",
+        body: "The preserve boardwalk at 21656 184th Ave SE exists because this is wetland, not dry plateau. Fence posts, bottom siding courses, and north elevations stay wet longer than a Summit cul-de-sac. We do not coat damp wood to hit a Saturday date.",
+      },
+      {
+        heading: "Shadow Lake school-year access on Sweeney Road",
+        body: "Elementary traffic on Sweeney Road SE is a real constraint, not a footnote. Wash runoff, trailer parking, and spray windows get planned around the bell schedule so neighbors and buses still have a lane.",
+      },
+      {
+        heading: "King County jurisdiction versus Maple Valley city lots",
+        body: "The CDP is unincorporated. A new deck or a fence that changes height can be a King County permit even when the mail says Maple Valley. Paint is still usually maintenance. We write the distinction into the estimate instead of guessing at city hall.",
+      },
+      {
+        heading: "Older trim under trees and Petrovitsky-facing walls",
+        body: "1970s–1990s wood on shaded lots often needs carpentry before color. Elevations that face Petrovitsky pick up arterial film. Those are two prep problems on one parcel — we treat them that way.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Shadow Lake",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Shadow Lake pricing moves with moss and dry time, driveway and school-street access, occupied interiors, carpentry on older trim, and whether deck or fence work sits in wet soil. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade dry time and wash labor",
+        body: "Canopy lots take longer to wash and longer to dry than an open arterial house. Labor follows the weather, not a floor-plan shortcut.",
+      },
+      {
+        title: "Access on long wooded drives",
+        body: "A single driveway off 184th or Sweeney costs staging time. We plan drops so we are not chewing up gravel or blocking the only way in.",
+      },
+      {
+        title: "Repairs before paint on older siding",
+        body: "Soft fascia and failed caulk show up after wet winters. We price carpentry as carpentry — not as a hidden line inside a cheap spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Shadow Lake exteriors need wash, mildew treatment, and prime for bog shade — plus a real wash on any wall that faces Petrovitsky grit.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks and fence lines in wet soil get a post-and-board look before stain. We will not coat leaning, rotten runs and call the job finished.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Tahoma-area interiors: walls, trim, and cabinet refinishing phased around school mornings so the house stays livable.",
+      },
+    ],
+    estimateBandCopy:
+      "Shadow Lake house ready for paint, cabinets, or a deck that has sat in the shade too long? Free on-site estimate — call or send the form. We plan around Sweeney Road bells and wetland dry time.",
+    processHeading: "Our Shadow Lake Process",
+    processSteps: [
+      {
+        title: "Shadow Lake Site Assessment",
+        body: "Canopy, wetland setbacks, Petrovitsky exposure, driveway access, occupied vs vacant, and whether King County or the city owns the permit question.",
+      },
+      {
+        title: "Shadow Lake Scope, Colors & Jurisdiction",
+        body: "Written scope. Structural work flagged for King County Permitting. Colors chosen for shade and moss, not only a sunny chip.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator — coatings wait for a sound surface.",
+      },
+      {
+        title: "Shadow Lake Paint / Build Days",
+        body: "Weather windows under the trees plus Sweeney Road school timing. We do not wash a north elevation into the elementary pickup line.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same standard as in-town Maple Valley.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Shadow Lake Elementary",
+        url: "https://shadowlake.tahomasd.us/",
+        description:
+          "Tahoma School District’s elementary at 22620 Sweeney Road SE. The weekday clock for this CDP — drop-off, pickup, and why exterior staging has to respect a school street instead of treating the lot like an empty Saturday.",
+      },
+      {
+        name: "SHADOW Lake Nature Preserve",
+        url: "https://shadowhabitat.org/",
+        description:
+          "A private nonprofit preserve at 21656 184th Ave SE (Renton 98058 mailing). Boardwalk through the bog, upland trails off Peter Grubb Road SE. It is not a city park and not a swim beach — it is why so many nearby lots stay damp.",
+      },
+      {
+        name: "Lake Youngs Trail",
+        url: "https://www.wta.org/go-hiking/hikes/lake-youngs",
+        description:
+          "King County’s soft-surface loop around the fenced Seattle Public Utilities reservoir, reached via SE Petrovitsky / Old Petrovitsky. Shadow Lake households use it; the reservoir itself is drinking water, not a recreation lake.",
+      },
+      {
+        name: "Tahoma School District",
+        url: "https://www.tahomasd.us/",
+        description:
+          "The district that runs Shadow Lake Elementary and the later Tahoma campuses. Interior paint days still follow sports and conference calendars, not only the weather app.",
+      },
+      {
+        name: "King County Parks",
+        url: "https://kingcounty.gov/en/dept/natural-resources-parks/parks",
+        description:
+          "The county park system that owns the regional trail layer around Lake Youngs and Soos Creek — the outdoor network this unincorporated pocket actually uses.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Shadow Lake daily life is [Shadow Lake Elementary](https://shadowlake.tahomasd.us/) on Sweeney Road SE, preserve hours at [SHADOW Lake Nature Preserve](https://shadowhabitat.org/), and commutes along Petrovitsky. Structural questions on unincorporated lots start with [King County building and land-use permits](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use/permit-forms-application-materials), not only [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Errands still run through the [City of Maple Valley](https://www.maplevalleywa.gov/) and [Tahoma School District](https://www.tahomasd.us/) events.",
+      "Weekends often mean the [Lake Youngs Trail](https://www.wta.org/go-hiking/hikes/lake-youngs) or a drive to [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) — a public beach this CDP does not have at home. Indoor hours sit with the [King County Library System](https://kcls.org/). Power is [Puget Sound Energy](https://www.pse.com/). Broader green space is [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule coatings around wetland dry time, school traffic, and those calendars — not as a name-swap of Lake Wilderness or Ravensdale.",
+    ],
+  },
 ];
