@@ -39,6 +39,12 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
         answer:
           "We protect plantings, contain interiors, and plan wash runoff so it is not a hillside mud problem for the neighbor downhill.",
       },
+      {
+        question:
+          "How long does a typical Wilderness Rim painting, deck, or fence job take?",
+        answer:
+          "Timelines depend on access on the slope, moss/drying conditions, and how much repair carpentry the home needs before coating. We schedule exterior and deck work around dry-weather windows, while interiors are usually handled room-by-room so your home stays usable through the project.",
+      },
     ],
     image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
     heroIntro:
@@ -455,9 +461,16 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
           "Wash, dry, prime. Lake Wilderness air holds moisture. We do not stain wet boards to make a weekend.",
       },
       {
-        question: "Can interiors happen while we use the house as a base for park days?",
+        question:
+          "Can you paint while we live in Lake Wilderness during park days?",
         answer:
-          "Yes. We phase rooms so the house still functions between coats.",
+          "Yes. We phase rooms so the house still functions between coats, and we protect floors and contain dust so your day-to-day life doesn’t get hijacked. Since Lake Wilderness Park days can be busy, we also plan access and staging so the home stays easy to reach.",
+      },
+      {
+        question:
+          "How long does a typical Lake Wilderness painting, deck, or fence job take?",
+        answer:
+          "Timelines depend on wash/dry windows, what repairs are needed, and how busy the park area is on event days. We plan exterior and deck work around dry weather, then sequence interiors so rooms come back to use as the job progresses — with a written calendar after the site assessment.",
       },
     ],
     image: "/images/from-lane/lane-33-1513.jpg",
@@ -629,6 +642,222 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Lake Wilderness daily life is the [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) loop, the [Lake Wilderness Arboretum](https://www.lakewildernessarboretum.org/), and [Tahoma School District](https://www.tahomasd.us/) hours. City questions go to the [City of Maple Valley](https://www.maplevalleywa.gov/) and [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Longer rides use the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails).",
       "Indoor hours still include the [King County Library System](https://kcls.org/) and winter outages via [Puget Sound Energy](https://www.pse.com/). [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) is the broader recreation layer. We plan coatings around park weekends and lake humidity together.",
+    ],
+  },
+  {
+    slug: "tahoma",
+    name: "Tahoma",
+    description:
+      "SE Tahoma Way family homes between schools and parks — occupied-house painting, exteriors, decks, and cabinet refreshes.",
+    blurb:
+      "Along SE Tahoma Way and nearby Maple Valley streets, Lane HBS handles interior and exterior painting, cabinet refinishing, and deck or fence work with school-year staging and Pacific Northwest prep.",
+    highlights: [
+      "Occupied-home interior and cabinet painting",
+      "Exterior repaints with wash, scrape, and prime",
+      "Deck staining and fence work on typical family lots",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or rebuild a deck on SE Tahoma Way?",
+        answer:
+          "Repainting existing siding, trim, and restaining an existing deck are usually maintenance. New decks, structural rail changes, or fence work that changes height can need review through Maple Valley Building. We flag anything structural during the free estimate.",
+      },
+      {
+        question: "What prep fits Tahoma-area homes near schools and collector traffic?",
+        answer:
+          "Street-facing elevations pick up road film and moisture between rain cycles. We wash thoroughly, treat mildew on north walls, scrape failed coatings, and prime bare wood before color. Interiors get the same occupied-home protection we use across Maple Valley.",
+      },
+      {
+        question: "How do you price painting and remodeling in the Tahoma area?",
+        answer:
+          "Story count, siding and trim condition, occupied interiors, deck or fence repairs, and safe access off SE Tahoma Way all move the estimate. There is no published square-foot menu. Call (253) 414-3937 or use the contact form for a free on-site scope.",
+      },
+      {
+        question: "How long does a typical Tahoma interior, exterior, or deck job take?",
+        answer:
+          "Most single-family interiors or exteriors run several days depending on prep and weather windows. Deck staining adds dry time after washing. We confirm the calendar after the site visit so school drop-off, parking, and occupied rooms are not a surprise mid-project.",
+      },
+      {
+        question: "Can you paint while we live here during the school year?",
+        answer:
+          "Yes. Tahoma-area houses are family homes, not vacant flips. We phase rooms, protect floors and furniture, and plan exterior wash and spray around Tahoma School District traffic on SE Tahoma Way and near Rock Creek Elementary whenever we can.",
+      },
+    ],
+    image: "/images/from-lane/lane-08-4766.jpg",
+    heroIntro:
+      "Tahoma is Maple Valley’s SE Tahoma Way corridor — family subdivisions, school traffic, and two-story homes that take rain, moss, and weekday drop-off on the same street. Paint and decks here have to fit occupied houses and real parking, not a quiet plateau cul-de-sac.",
+    mapQuery: "SE Tahoma Way, Maple Valley, WA",
+    latitude: 47.3728,
+    longitude: -122.0515,
+    geoRadiusMeters: 2000,
+    introHeading: "Family Homes on a Street That Runs on the School Bell",
+    introLead:
+      "SE Tahoma Way connects Maple Valley neighborhoods to Maple View Middle School, Rock Creek Elementary, Summit Park, and the high school traffic farther south. The houses along it — 1980s through 2000s ramblers and two-stories with fenced backyards — see the same wet winters as Wilderness Rim but with collector-road dust on the elevations that face the pavement.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Tahoma-area jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on your block. We will walk trim, decks, and interior wear honestly, then schedule wash, repair, and coating around school-year access and occupied-home routines.",
+    trustCards: [
+      {
+        icon: "school",
+        title: "School-year staging is part of the job",
+        body: "Drop-off and pickup change where a trailer can sit on SE Tahoma Way. We plan exterior days around those windows instead of fighting the queue.",
+      },
+      {
+        icon: "home",
+        title: "Occupied interiors by default",
+        body: "Most Tahoma projects happen while someone is cooking dinner. Protection, containment, and daily cleanup are built in.",
+      },
+      {
+        icon: "car",
+        title: "Collector-road film on street elevations",
+        body: "Even without a highway frontage, SE Tahoma Way throws grit onto siding. Wash and prime come before color.",
+      },
+      {
+        icon: "paintbrush",
+        title: "Kitchens and exteriors in one relationship",
+        body: "Cabinet refreshes and exterior repaints often land a few years apart in the same house. One crew keeps finishes coherent.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "Mike T."],
+    galleryHeading: "Our Work Near Tahoma",
+    galleryNote:
+      "Owned Lane HBS photos of interiors, exteriors, and cabinet work from Maple Valley-area jobs. Shown as nearby examples, not as a specific SE Tahoma Way address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-08-4766.jpg",
+        alt: "Interior painting and trim work",
+        caption: "Interior painting in an occupied home",
+      },
+      {
+        src: "/images/painting5.jpg",
+        alt: "Interior painting detail on trim",
+        caption: "Trim and wall painting detail",
+      },
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Modern deck on a grey exterior home",
+        caption: "Deck and exterior living upgrade",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Tahoma",
+      image: "/images/from-lane/lane-04-4874.jpg",
+      imageAlt: "Vaulted living room prepped for spray painting",
+      serviceType: "Interior painting — nearby Maple Valley family home",
+      body: "Two-story Tahoma-area households often refresh interiors before they tackle the street-facing elevation. On a nearby Maple Valley job we prepped a vaulted living space for spray lines with floor protection and phased access so the family kept using the kitchen. The photo is owned Lane HBS work in the parent city area — not a house on SE Tahoma Way. School-year scheduling and cure time set the pace more than square footage.",
+    },
+    considerationsHeading: "Tahoma-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Tahoma school traffic and parking",
+        body: "Rock Creek Elementary and Maple View Middle School calendars shape weekday noise and parking. We stage exteriors so neighbors can still reach driveways at bell time.",
+      },
+      {
+        heading: "Tahoma moisture on north elevations",
+        body: "Tree-lined lots still stay damp in winter. Moss and failed caulk on north siding need wash and prime, not another coat over chalking paint.",
+      },
+      {
+        heading: "Occupied kitchens and mudrooms",
+        body: "Sports gear and daily cooking wear cabinets and walls faster than a show home. Durable systems and room-by-room sequencing matter.",
+      },
+      {
+        heading: "Backyard decks after practice",
+        body: "Summit Park and school fields mean decks and fences get used hard. Stain only works after structure and dry boards say yes.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Tahoma",
+    costIntro:
+      "We do not publish dollar-per-square-foot charts. Tahoma pricing follows prep (wash, scrape, carpentry), two-story access, occupied interiors, deck condition, and how school-year traffic affects staging.",
+    costDrivers: [
+      {
+        title: "Prep and repairs before color",
+        body: "Soft trim, failed caulk, and tired deck boards add real days. We price them openly instead of hiding labor inside a low bid.",
+      },
+      {
+        title: "Occupied-home sequencing",
+        body: "Room-by-room interiors and protected kitchens cost more in labor than an empty house — because the house stays livable.",
+      },
+      {
+        title: "Exterior access off a collector street",
+        body: "Parking, ladder placement, and wash runoff on SE Tahoma Way change how safely and quickly we can work street elevations.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Tahoma-area interiors — walls, trim, and halls phased so bedrooms and kitchens stay usable.",
+      },
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, and prime for Maple Valley rain and road film on SE Tahoma Way-facing elevations.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck staining, rails, and backyard fences built for families who use Summit Park and the school fields.",
+      },
+    ],
+    estimateBandCopy:
+      "Tahoma-area interior, exterior, or deck on your list? Free on-site estimate for your SE Tahoma Way property — call or send the form.",
+    processHeading: "Our Tahoma Process",
+    processSteps: [
+      {
+        title: "Tahoma Site Assessment",
+        body: "Occupancy, school-traffic access, siding and deck condition, and which elevations face the collector road.",
+      },
+      {
+        title: "Tahoma Scope, Colors & Neighbors",
+        body: "Written scope before coating days. HOA packet if your subdivision has one. Neighbor parking respected.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash road film, scrape failed paint, repair trim, prime bare wood, inspect deck structure.",
+      },
+      {
+        title: "Tahoma Paint / Build Days",
+        body: "Weather windows for exteriors; phased rooms for interiors; school-year timing for street staging.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You walk the job with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Maple View Middle School",
+        url: "https://mapleview.tahomasd.us/",
+        description:
+          "One of Tahoma School District’s middle schools serving Maple Valley — weekday drop-off and pickup rhythms that shape when exterior wash and trailer staging can happen safely near SE Tahoma Way.",
+      },
+      {
+        name: "Rock Creek Elementary",
+        url: "https://rockcreek.tahomasd.us/",
+        description:
+          "The centrally located elementary campus on Maple Valley-Black Diamond Road that many Tahoma-area families pass daily — part of why parking and noise windows matter on nearby streets.",
+      },
+      {
+        name: "Summit Park",
+        url: "https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php",
+        description:
+          "Fields, playground, and dog park on SE Tahoma Way that keep backyard decks and fences in regular use after school and on weekends.",
+      },
+      {
+        name: "Lake Wilderness Park",
+        url: "https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5",
+        description:
+          "A short drive north for Tahoma households — the city beach and playground that explain why mudrooms and exterior finishes take daily wear.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "Where structural deck, fence, and remodel questions go even when the repaint itself is maintenance.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Tahoma daily life runs on [Tahoma School District](https://www.tahomasd.us/) bells — [Maple View Middle School](https://mapleview.tahomasd.us/), [Rock Creek Elementary](https://rockcreek.tahomasd.us/), and errands toward [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5). Civic questions go to the [City of Maple Valley](https://www.maplevalleywa.gov/) and [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). After-school hours often spill into [Summit Park](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php) on SE Tahoma Way.",
+      "Libraries stay with [King County Library System](https://kcls.org/), power with [Puget Sound Energy](https://www.pse.com/), and longer trail days with the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) covers the broader greenbelt context. We schedule Tahoma coatings around school traffic, occupied homes, and those calendars together.",
     ],
   },
   {
@@ -884,6 +1113,12 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
         question: "Can you work occupied rural homes?",
         answer:
           "Yes. We plan around long driveways, well/septic setbacks where they affect staging, and family occupancy.",
+      },
+      {
+        question:
+          "How long does a typical Ravensdale exterior, deck, or fence project take?",
+        answer:
+          "On acreage lots, timelines depend on access, longer fence lines, and dry-weather windows for coating to cure correctly. We start with wash/repairs/carpentry, then schedule coating when materials are dry enough, and we sequence occupied homes so daily routines and entrances stay workable.",
       },
     ],
     image: "/images/from-lane/lane-01-46.jpg",

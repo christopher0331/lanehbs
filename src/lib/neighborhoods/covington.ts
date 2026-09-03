@@ -39,6 +39,12 @@ export const covingtonNeighborhoods: Neighborhood[] = [
         answer:
           "Yes. Lake Sawyer houses are homes, not cabins. We phase occupied rooms.",
       },
+      {
+        question:
+          "How long does a typical Lake Sawyer painting, deck, or rail job take?",
+        answer:
+          "Timelines depend on how much prep and repair carpentry is needed and on dry-weather windows for coating. Lake Sawyer humidity and the deck/rail condition determine when we can apply finish, then we sequence indoor rooms so your home stays functional through the job.",
+      },
     ],
     image: "/images/from-lane/lane-03-45.jpg",
     heroIntro:
@@ -248,6 +254,12 @@ export const covingtonNeighborhoods: Neighborhood[] = [
         question: "Can you work room-by-room while we live here?",
         answer:
           "Yes. Established family houses stay occupied. We sequence rooms and protect floors.",
+      },
+      {
+        question:
+          "How long does a typical Maple Hills exterior, fence, or interior painting project take?",
+        answer:
+          "Most timelines are driven by prep: washing, scraping, priming, and any carpentry repairs before coating can happen. After we see your trim, siding, and fence condition, we schedule coating days around dry windows and sequence interior rooms so your household isn’t disrupted longer than necessary.",
       },
     ],
     image: "/images/painting6.jpg",

@@ -459,6 +459,12 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
         answer:
           "Yes. Elevated decks mean we plan fall protection and staging so living spaces below stay usable whenever possible.",
       },
+      {
+        question:
+          "How long does a typical West Tapps painting, deck, or railing job take?",
+        answer:
+          "Most timelines come down to prep and dry-weather windows. We build schedules around washing and repairs on the exterior and deck, then coordinate indoor rooms and protection so your home stays functional throughout the project.",
+      },
     ],
     image: "/images/from-lane/lane-22-62.jpg",
     heroIntro:

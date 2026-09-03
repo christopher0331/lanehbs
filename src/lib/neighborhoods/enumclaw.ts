@@ -245,9 +245,14 @@ export const enumclawNeighborhoods: Neighborhood[] = [
           "Yes — fence installation, painting, and repairs are part of our outdoor services in Enumclaw.",
       },
       {
-        question: "Can you paint interiors during the school year?",
+        question: "Can you paint while we live in Boise Creek during the school year?",
         answer:
-          "Yes. We sequence rooms so bedrooms return to use at night. Enumclaw School District calendars are part of how families actually live here.",
+          "Yes. We work room-by-room with contained work zones so the house stays usable, and bedrooms return to use at night. We also plan around Enumclaw School District routines and real street access so pickup, deliveries, and parking aren’t disrupted longer than necessary.",
+      },
+      {
+        question: "How long does a typical Boise Creek painting, deck, or fence job take?",
+        answer:
+          "Timelines depend on what needs repair and the dry windows available for exterior coating and deck work. After we assess your site, we give you a written schedule for washing, prep/repairs, coating days, and walkthrough closeout so occupied homes aren’t left in a mess.",
       },
     ],
     image: "/images/from-lane/lane-16-48.jpg",
@@ -458,6 +463,11 @@ export const enumclawNeighborhoods: Neighborhood[] = [
         question: "How long does a typical plateau exterior take?",
         answer:
           "Several dry days to more than a week with repairs and weather holds. We do not coat in a storm to hit a date.",
+      },
+      {
+        question: "Can you paint occupied homes on the Enumclaw Plateau while we live here?",
+        answer:
+          "Yes. Most exterior and deck work happens in scheduled phases, and interior rooms can be sequenced occupied when access allows. We contain dust, protect floors, and plan staging so entryways, parking, and daily routines stay as normal as possible through the job.",
       },
     ],
     image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
