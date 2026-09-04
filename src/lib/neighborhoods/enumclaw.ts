@@ -641,4 +641,220 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Schools remain [Enumclaw School District](https://www.enumclaw.wednet.edu/), libraries are [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We plan plateau coatings around wind, rain, and those calendars — not a lowland suburban template.",
     ],
   },
+  {
+    slug: "osceola",
+    name: "Osceola",
+    description:
+      "Historic farm-grid south of Enumclaw — Osceola Loop roads, acreage houses, and outbuildings that need weather-honest paint and carpentry.",
+    blurb:
+      "On the Osceola Loop south of Enumclaw — SE 448th Street, SE 456th Way, 196th Avenue SE, and 220th Avenue SE — Lane HBS handles exterior painting, deck and fence work, and carpentry on farmhouses and acreage homes with licensed, moisture-aware prep.",
+    highlights: [
+      "Exterior painting for open farm elevations and older trim",
+      "Fence, rail, and deck work on acreage and horse lots",
+      "Carpentry before paint on farmhouse siding and outbuildings",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or build a deck in Osceola?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, and some accessory buildings need review — through the Enumclaw Building Division if the parcel is in city limits, or King County Local Services Permitting if it is unincorporated. We flag the difference on the free estimate instead of guessing from the mailbox city.",
+      },
+      {
+        question: "What prep fits Osceola’s open farm-grid weather and older wood?",
+        answer:
+          "South-plateau lots along SE 448th and SE 456th sit more exposed than a tree-lined Boise Creek yard. We wash wind film, scrape failed coatings on late-19th and 20th-century farmhouse trim, prime bare wood, and repair soft fascia before color. Stain-only quotes that skip that inspection do not last here.",
+      },
+      {
+        question: "How do you price painting and remodeling in Osceola?",
+        answer:
+          "Story count, repair quantity, gravel-drive access, occupied interiors, and whether a shop or barn is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Osceola exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and decks depend on wash-dry windows and carpentry. Longer service drives and outbuildings add staging time. We write the calendar after we see the parcel — we do not coat in a storm to hit a date.",
+      },
+      {
+        question: "Can you paint while we live on an Osceola acreage lot?",
+        answer:
+          "Yes. Most Osceola houses are occupied, and many have animals that still need a working fence line. We phase rooms, protect entries, and plan temporary fence or gate logistics before we pull boards. Parking and trailer placement on SE 448th or 196th get discussed at the site visit.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Osceola is the historic farm grid south of Enumclaw — SE 448th Street, SE 456th Way, 196th Avenue SE, and 220th Avenue SE — not the in-town Osceola Street near Sunrise Elementary. Paint, decks, and fences here face open plateau weather, older farmhouse wood, and acreage access, not a Cole Street storefront schedule.",
+    mapQuery: "SE 448th Street and 196th Avenue SE, Enumclaw, WA",
+    latitude: 47.195,
+    longitude: -122.03722,
+    geoRadiusMeters: 2800,
+    introHeading: "Farm Roads, Older Wood, and Weather That Hits Every Elevation",
+    introLead:
+      "King County’s Osceola Loop Heritage Corridor still traces Porter’s Prairie: SE 448th Street east from 196th Avenue SE, south on 244th Avenue SE, west on SE 456th Way, and back north on 196th. Houses here sit on dairy- and horse-era lots with Rainier-facing fields, gravel drives, and shops that are not the same scope as the house. Wind-driven rain and UV find thin paint faster than they do on a sheltered in-town cul-de-sac.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Osceola jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a farm-road portfolio or claim a named house on 220th Avenue SE. We will walk your trim, fence posts, and outbuilding siding honestly, then tell you whether the parcel is likely city or King County before anyone talks color.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City line vs. King County on the same loop",
+        body: "Osceola addresses can sit inside Enumclaw or in unincorporated King County. Permit path for a new deck or shop is not the same as a downtown Cole Street facade. We treat that as part of the estimate, not a surprise mid-job.",
+      },
+      {
+        icon: "hammer",
+        title: "Farmhouse carpentry before coatings",
+        body: "Late-19th and early-20th-century trim, fascia, and outbuilding siding fail at joints first. Paint is not a patch on soft wood. We repair, then prime.",
+      },
+      {
+        icon: "wind",
+        title: "Open south-plateau exposure",
+        body: "Fields along SE 456th Way do not give the tree shelter Boise Creek lots have. Elevations take weather on more sides, so we treat them as separate problems when they are.",
+      },
+      {
+        icon: "home",
+        title: "House, shop, and fence in one conversation",
+        body: "Acreage parcels often need the farmhouse, a shop, and a run of horse or privacy fence. We can phase them as three invoices or one written scope — your call.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Osceola",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and carpentry work from Enumclaw-area and nearby jobs. Shown as examples of weather-facing acreage-style work — not claimed as a house on SE 448th Street or 220th Avenue SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Exterior renovation and trim work",
+        caption: "Exterior renovation and trim repair",
+      },
+      {
+        src: "/images/from-lane/lane-01-46.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior house painting",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "Deck staining and outdoor living work",
+        caption: "Deck staining after wash and dry time",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Osceola",
+      image: "/images/from-lane/lane-30-4772.jpg",
+      imageAlt: "Carpentry and exterior repair before coating",
+      serviceType: "Repairs and exterior prep — nearby plateau-style home",
+      body: "Osceola farmhouses fail at the same places every wet season: fascia returns, window heads, and siding that has been recoated over failed caulk. On a nearby Enumclaw-area exterior we opened those joints, replaced what was soft, primed bare wood, and then coated — instead of spraying over movement. The photo is owned Lane HBS work in the parent-city region, not a named Osceola Loop address. Access down a long drive and a real dry window set the schedule more than square footage.",
+    },
+    considerationsHeading: "Osceola-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Osceola Loop access and gravel drives",
+        body: "SE 448th, SE 456th Way, and 196th Avenue SE are working farm roads, not cul-de-sacs. Wash water, trailers, and material staging have to respect gravel, livestock gates, and neighbor equipment. We plan that at the site visit.",
+      },
+      {
+        heading: "Osceola farmhouse wood and outbuildings",
+        body: "The historic schoolhouse still stands at 45623 220th Avenue SE as a reminder that this was a farm crossroads, not a PUD. Shops and barns need different coatings and schedules than the house. We do not pretend they are one elevation.",
+      },
+      {
+        heading: "Osceola city vs. county permits",
+        body: "A mailbox that says Enumclaw does not always mean city jurisdiction. Structural decks and new accessory buildings can land at King County Permitting. Cosmetic repaints usually do not, but we still say so in writing.",
+      },
+      {
+        heading: "Occupied acreage and fence lines",
+        body: "Dogs, horses, and kids still use the property during a job. Pulling a fence run means a temporary plan. Interior rooms get phased so the kitchen and bedrooms stay usable.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Osceola",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Osceola pricing follows repair quantity on older wood, open-elevation prep, gravel-drive staging, occupied interiors, and whether a shop or fence line is in the same visit.",
+    costDrivers: [
+      {
+        title: "Repair quantity on weathered farmhouse trim",
+        body: "Soft fascia and failed caulk can outweigh the paint labor. The estimate lists that work instead of hiding it inside a low bid.",
+      },
+      {
+        title: "Access and outbuilding phasing",
+        body: "Long drives and a second structure add staging days. You can coat the house this season and the shop next — we price phases separately.",
+      },
+      {
+        title: "Occupied interiors and working fence lines",
+        body: "Protection, room sequencing, and temporary gates cost more labor than an empty flip. We include it so the property stays livable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and coat for Osceola Loop elevations that take wind and rain on more than one side.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on farmhouse and shop wood so new paint is not hiding an active leak.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck stain and fence work for acreage and horse lots — structure first, then coating after a real dry window.",
+      },
+    ],
+    estimateBandCopy:
+      "Osceola farmhouse, shop, or fence on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Osceola Process",
+    processSteps: [
+      {
+        title: "Osceola Site Assessment",
+        body: "City vs. county parcel, gravel-drive access, occupied vs. vacant, house vs. shop, and fence or livestock logistics.",
+      },
+      {
+        title: "Osceola Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Neighbor gates and shared fence lines get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, carpentry, prime — the Lane HBS differentiator on older plateau wood.",
+      },
+      {
+        title: "Osceola Paint / Build Days",
+        body: "Weather windows on open fields; school-year trips into town on 196th and SR 164 when we can avoid the rush.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "King County Historic and Scenic Corridors",
+        url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/projects-and-programs/historic-and-scenic-corridors",
+        description:
+          "The county program that designated the Osceola Loop Heritage Corridor — SE 448th Street, 244th Avenue SE, SE 456th Way, and 196th Avenue SE — as a community landmark. Useful context for why these farm roads still look like working plateau, not a new subdivision.",
+      },
+      {
+        name: "Enumclaw History Museum",
+        url: "https://www.enumclawhistorymuseum.com/",
+        description:
+          "The Enumclaw Plateau Historical Society’s museum on Marion Street holds the schoolhouse-era record of Osceola as a farm crossroads. It is in town, but it is the public place that still tells this neighborhood’s story.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where unincorporated Osceola parcels go for building and land-use questions once a deck or shop leaves the cosmetic-repaint category.",
+      },
+      {
+        name: "Enumclaw Building Division",
+        url: "https://www.cityofenumclaw.net/159/Building-Division",
+        description:
+          "The city permit desk for Osceola addresses that sit inside Enumclaw limits — the other half of the city-vs-county split on this loop.",
+      },
+      {
+        name: "Flaming Geyser State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/flaming-geyser-state-park",
+        description:
+          "A Green River day-use park west of the plateau that Osceola households actually drive to — not a Mud Mountain Dam substitute, and not on SE 448th itself.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Osceola daily life still runs on farm-road time: the [King County Historic and Scenic Corridors](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/projects-and-programs/historic-and-scenic-corridors) loop, errands into the [City of Enumclaw](https://www.cityofenumclaw.net/), and school calendars from [Enumclaw School District](https://www.enumclaw.wednet.edu/). Structural questions start at the [Enumclaw Building Division](https://www.cityofenumclaw.net/159/Building-Division) or [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use), depending on the parcel. Weekend river days often point to [Flaming Geyser State Park](https://parks.wa.gov/find-parks/state-parks/flaming-geyser-state-park).",
+      "Plateau history lives at the [Enumclaw History Museum](https://www.enumclawhistorymuseum.com/). Libraries stay with the [King County Library System](https://kcls.org/), power with [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Osceola coatings around occupied acreage, livestock gates, and those calendars — not a downtown storefront template and not an in-town Osceola Street address.",
+    ],
+  },
 ];
