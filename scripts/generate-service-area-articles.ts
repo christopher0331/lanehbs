@@ -292,6 +292,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Downtown Covington",
         path: "/service-areas/covington/downtown-covington",
       },
+      {
+        name: "Soos Creek",
+        path: "/service-areas/covington/soos-creek",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -312,7 +316,7 @@ const AREAS: Record<string, AreaSeed> = {
       },
       {
         name: "Soos Creek Trail",
-        url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail",
       },
       {
         name: "Washington Contractors Registration",

@@ -1083,4 +1083,224 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "School bells sit with [Cedar Heights Middle School](https://www.kent.k12.wa.us/ch) and the broader [Kent School District](https://www.kent.k12.wa.us/). Longer trail days pick up the [Soos Creek Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails), and power is [Puget Sound Energy](https://www.pse.com/). We schedule downtown coatings around arterial hours and those calendars — not as a name-swap of Jenkins Creek shade or Lake Sawyer humidity.",
     ],
   },
+  {
+    slug: "soos-creek",
+    name: "Soos Creek",
+    description:
+      "Covington’s western trail edge along 148th Ave SE and SE 256th — creek wetlands, King County trail traffic, and family homes next to Covington Elementary.",
+    blurb:
+      "Along 148th Ave SE and SE 256th, Lane HBS paints exteriors, stains decks and fences, and refreshes interiors for occupied Soos Creek homes that sit against the regional trail and salmon-stream wetlands. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Moisture-aware exterior painting on trail- and wetland-adjacent lots",
+      "Deck and fence work that waits on creek-corridor dry time",
+      "Occupied interiors scheduled around Covington Elementary hours",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence in Soos Creek?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, or fence posts that move toward the Soos Creek corridor, wetland buffers, or the King County trail edge can need review. Western lots sit on a city line — Covington Building Division for Covington addresses, City of Kent if the parcel is west of the boundary. We flag the office on the estimate instead of guessing buffer rules.",
+      },
+      {
+        question:
+          "What prep fits Soos Creek’s trail wetlands and shaded west-edge lots?",
+        answer:
+          "Wash, dry, then prime. The paved trail and the soft-surface horse path sit in a salmon-stream corridor — cattail marsh, forest, and a heron rookery south of the 148th Ave SE parking. North walls and fence boards stay damp longer than an open Maple Hills elevation. We treat mildew and failed caulk before color. Stain on wet boards is a wasted trip.",
+      },
+      {
+        question: "How do you price painting and remodeling in Soos Creek?",
+        answer:
+          "Access off 148th Ave SE, SE 256th, and 156th Ave SE; moisture damage; occupied interiors; and whether carpentry or fence posts belong in the scope. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Soos Creek exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Interiors are sequenced room by room while you live here. Deck stain waits on moisture, which is slower next to the creek than on a sunny downtown parking-lot wall. We set the calendar after we see the wood and the trailhead parking pattern — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around Covington Elementary and trailhead traffic?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash water and trailers around drop-off at Covington Elementary on 156th Ave SE and weekend parking at the 148th Ave SE trailheads (SE 266th and the barn lot near 24810 148th). We do not block a trail crossing on SE 256th.",
+      },
+    ],
+    image: "/images/from-lane/lane-22-62.jpg",
+    heroIntro:
+      "Soos Creek on the Covington side is the city’s western edge — 148th Ave SE trailheads, the SE 256th Street crossing, 156th Ave SE by Covington Elementary, and houses that back to King County parkland. Paint and decks here fight creek-corridor moisture and trail traffic, not a lake dock and not a storefront on SE 272nd.",
+    mapQuery: "Soos Creek Trail, 148th Avenue SE and SE 266th Street, Covington, WA",
+    latitude: 47.3552,
+    longitude: -122.1458,
+    geoRadiusMeters: 2000,
+    introHeading: "Trail Wetlands on the City Line, Not a Hidden Creek Park",
+    introLead:
+      "Covington’s comprehensive-plan maps treat the Soos Creek trail and parkland as the city’s western boundary. Lots along 148th Ave SE, SE 256th Street, SE 266th Street, 152nd Ave SE, and 156th Ave SE sit against a paved regional path, a parallel horse trail, and a salmon stream that stays wet after rain. That is a different problem than Jenkins Creek Park’s boardwalk on 180th, and it is not Lake Sawyer splash. Weekend walkers, bikes, and riders use the same streets we need for a trailer.",
+    introBody:
+      "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a house count on 148th Ave SE, and this page is not the Kent East Hill pocket around Soos Creek Elementary on SE 218th Place. We work the Covington-side trail edge: wash, repair soft trim, and wait for dry windows that are shorter here than on an open arterial wall. School mornings at Covington Elementary (25811 156th Ave SE) change where a trailer can sit. Licensed work — LANEHHB7912R — with occupied-home protection as the default. If the parcel is just west of the city line, we say so on the estimate instead of assuming every address is Covington Building.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Salmon-stream air, not a city park pond",
+        body: "Soos Creek is a working salmon corridor with marsh and a heron rookery south of the 148th Ave SE parking. We spec wash and dry time for that — not a Spring Pond boardwalk copied from Jenkins Creek, and not a Lake Sawyer launch.",
+      },
+      {
+        icon: "car",
+        title: "Trailhead parking is part of the spec",
+        body: "The southern lot at 148th and SE 266th and the barn lot near 24810 148th Ave SE fill on fair weekends. SE 256th is a marked trail crossing without a signal. We time wash days so walkers, horses, and neighbors still have the street.",
+      },
+      {
+        icon: "school",
+        title: "Covington Elementary hours on 156th",
+        body: "The Huskies at 25811 156th Ave SE set the weekday clock for this west-edge pocket. We do not wash a street elevation into drop-off. That is a different bell than Jenkins Creek Elementary on 186th.",
+      },
+      {
+        icon: "clipboard",
+        title: "Covington or Kent — we check the parcel",
+        body: "The trail is the city line. Cosmetic paint is usually maintenance either way. New structure toward the creek or trail can sit under Covington Building or Kent, depending on the lot. We write the office instead of guessing.",
+      },
+    ],
+    reviewNames: ["Tina W.", "David R.", "Sarah M."],
+    galleryHeading: "Our Work Near Soos Creek",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, interiors, and outdoor work from Covington-area and nearby jobs. They illustrate the work type for trail-adjacent homes and are not geo-tagged to 148th Ave SE or SE 256th Street.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Exterior and outdoor living project",
+        caption: "Exterior refresh — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Interior spray prep in a vaulted living space",
+        caption: "Occupied interior prep",
+      },
+      {
+        src: "/images/from-lane/lane-33-1513.jpg",
+        alt: "Interior flooring and room refresh",
+        caption: "Interior room refresh",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Soos Creek",
+      image: "/images/from-lane/lane-01-46.jpg",
+      imageAlt: "Completed exterior and outdoor living work",
+      serviceType: "Exterior painting and outdoor living — nearby Covington-area home",
+      body: "Trail-edge houses fail coatings when last year’s painter skipped the wash on the wall that faces the greenbelt. On a nearby Covington-area exterior we washed mildew off, repaired soft trim, primed, and recoated only after the substrate was dry. The photo is owned Lane HBS work in the parent city area — not a named house on 148th Ave SE. Timeline followed dry windows, Covington Elementary hours, and occupied-home access, not a made-up square-foot count. Fence runs that back to the horse path often need the same honest post check before anyone promises stain-only.",
+    },
+    considerationsHeading: "Soos Creek-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Soos Creek wetland and trail-edge moisture",
+        body: "North walls and fence runs that face the King County corridor hold mildew after rain. The creek is a salmon stream, not a decorative ditch. Washing is the job. Coating damp wood to hit a Saturday ride is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Soos Creek trailhead and SE 256th access",
+        body: "148th Ave SE carries trailhead lots. SE 256th is a moderately busy crossing with a crosswalk and no light. We stage wash water and trailers so bikes, horses, and school traffic still move. This is not downtown stall-row staging on SE 272nd.",
+      },
+      {
+        heading: "Soos Creek fence lines, pets, and the horse path",
+        body: "Privacy fencing along the paved trail and the soft-surface equestrian path takes more wear — dogs, damp soil, and people on the other side of the boards. We inspect posts before another coat. New structure near buffers is a permit conversation with the right city.",
+      },
+      {
+        heading: "Occupied interiors during the Kent School District year",
+        body: "These are primary homes. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work so a bathroom remains usable while Covington Elementary is in session.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Soos Creek",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Soos Creek pricing moves with creek-corridor wash time, trailhead access, occupied interiors, fence-post condition, and whether the parcel sits in Covington or just into Kent. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and dry time next to the trail wetlands",
+        body: "Shade and salmon-stream air add labor before any coating. Cheap quotes skip it and fail on the greenbelt elevation first.",
+      },
+      {
+        title: "Fence posts in wet soil along the path",
+        body: "Stain-only is a site decision. Lean and rot change the scope. We price repairs as repairs.",
+      },
+      {
+        title: "Occupied rooms and elementary-hour sequencing",
+        body: "Lived-in houses take protection time. Cabinet or interior phases are written separately so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "West-edge Soos Creek exteriors need wash, scrape, and prime for trail-corridor mildew and South King County rain — then coatings that can take both.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks and privacy fences that back to the paved trail or horse path — clean, dry, repair posts if needed, then finish. Not a stain over wet boards.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors near Covington Elementary — walls, trim, and room-by-room protection around Kent School District calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Soos Creek house ready for paint, a deck refresh, or fence repairs? Free on-site estimate — call or send the form. We plan around creek moisture, 148th Ave SE trailheads, and Covington Elementary hours.",
+    processHeading: "Our Soos Creek Process",
+    processSteps: [
+      {
+        title: "Soos Creek Site Assessment",
+        body: "Trail and wetland exposure, city vs Kent parcel, occupied vs vacant, and whether the job is siding, deck, or fence line.",
+      },
+      {
+        title: "Soos Creek Scope, Colors & City Line",
+        body: "Street-facing colors, trail-edge sightlines, and which building desk applies — written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim or posts. This is the Lane HBS differentiator on previously coated houses.",
+      },
+      {
+        title: "Soos Creek Paint / Build Days",
+        body: "Weather windows plus Covington Elementary drop-off and weekend trailhead timing. We do not wash 148th or SE 256th into that queue.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Soos Creek Trail",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail",
+        description:
+          "King County’s paved regional path with a parallel soft-surface horse trail. The southern lot sits at 148th Ave SE and SE 266th; another access is the barn parking on 148th. This is the greenbelt that keeps west-edge siding damp — and the weekend traffic we plan around.",
+      },
+      {
+        name: "Covington Elementary",
+        url: "https://www.kent.k12.wa.us/o/CES",
+        description:
+          "Kent School District’s Huskies at 25811 156th Ave SE. Drop-off on 156th — not a lake launch and not Jenkins Creek Elementary on 186th — is the weekday clock for noisy wash and trailer placement in this pocket.",
+      },
+      {
+        name: "Lake Meridian Park",
+        url: "https://www.kentwa.gov/departments/kent-parks/parks-places/parks-trails/lake-meridian-park",
+        description:
+          "Kent’s 19.6-acre beach, dock, and boat launch at 14800 SE 272nd Street, a short walk west of the southern trailhead. Soos Creek households use it; we do not treat Covington trail-edge lots as if they were waterfront on Lake Meridian.",
+      },
+      {
+        name: "City of Covington",
+        url: "https://www.covingtonwa.gov/",
+        description:
+          "City Hall, parks, and the planning maps that already name Soos Creek trail and parkland as Covington’s western edge. Civic errands still run east toward SE 272nd while the paint job sits on the trail.",
+      },
+      {
+        name: "Covington Community Park",
+        url: "https://www.covingtonwa.gov/city_departments/parks/covingtoncommunitypark.php",
+        description:
+          "Fields, forest trails, and the Margaret Harto Pavilion at 17649 SE 240th Street. West-edge families still spend Saturdays here, then come home to decks that have to survive the same rain as the creek corridor.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Covington’s Soos Creek edge runs on walks along the [Soos Creek Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail), bells at [Covington Elementary](https://www.kent.k12.wa.us/o/CES), and city services through the [City of Covington](https://www.covingtonwa.gov/). Anything beyond a straightforward repaint starts at the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php) — or Kent, if the lot is west of the line.",
+      "School calendars sit with the [Kent School District](https://www.kent.k12.wa.us/). Beach and launch days happen at [Lake Meridian Park](https://www.kentwa.gov/departments/kent-parks/parks-places/parks-trails/lake-meridian-park). Indoor research still happens at the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that trail-and-school rhythm — not as a name-swap of Jenkins Creek Park or Downtown Covington’s highway dust.",
+    ],
+  },
 ];
