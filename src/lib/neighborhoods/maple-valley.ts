@@ -1292,4 +1292,221 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "Libraries remain [King County Library System](https://kcls.org/), power is [Puget Sound Energy](https://www.pse.com/), and longer trail days may use the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We estimate Ravensdale as rural-residential King County with Maple Valley-quality finish, not as a forgotten edge.",
     ],
   },
+  {
+    slug: "lake-desire",
+    name: "Lake Desire",
+    description:
+      "Unincorporated Maple Heights–Lake Desire — two kettle lakes, county forest, and WDFW access, not Maple Valley’s city beach.",
+    blurb:
+      "Around West and East Lake Desire Drive SE and the Spring Lake loops, Lane HBS paints interiors and exteriors, stains decks, and handles carpentry for wooded lake-loop homes. Estimates are free — call (253) 414-3937.",
+    highlights: [
+      "Moisture-aware exteriors on lake-loop and forest lots",
+      "Deck staining and rail work for shaded, elevated yards",
+      "Occupied-home interiors with King County permit awareness",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or rebuild a deck in Lake Desire?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, or fence work that changes height typically go through King County Department of Local Services — this CDP is unincorporated, not City of Maple Valley. We flag jurisdiction during the free estimate.",
+      },
+      {
+        question:
+          "What prep fits Lake Desire’s two-lake humidity and forest shade?",
+        answer:
+          "West Lake Desire Drive and the Spring Lake streets sit between water and Echo Mountain canopy. North elevations stay damp, and lake air slows dry times. We wash, treat mildew, scrape failed coatings, and prime bare wood — we do not coat wet siding to hit a weekend.",
+      },
+      {
+        question: "How do you price painting and remodeling in Lake Desire?",
+        answer:
+          "Access on narrow lake loops, wash-and-dry time, trim repairs, occupied interiors, and whether a deck faces water or woods all move the number. There is no published square-foot menu. Call (253) 414-3937 or use the contact form for a free on-site scope.",
+      },
+      {
+        question: "How long does a typical Lake Desire interior, exterior, or deck job take?",
+        answer:
+          "A single-family interior or exterior is usually several days once prep is honest. Deck staining adds dry time after washing, especially in shade between the two lakes. We set the calendar after we see the lot — including launch-day parking on the WDFW access weekends.",
+      },
+      {
+        question: "Can you paint while we live here, and how do you handle lake-road access?",
+        answer:
+          "Yes. These are year-round houses, not cabins. We phase rooms, protect floors, and stage trailers so neighbors on West Spring Lake Drive SE and the Desire loops can still reach driveways. Trailhead and boat-access traffic is part of the plan, not a surprise mid-wash.",
+      },
+    ],
+    image: "/images/from-lane/lane-34-1511.jpg",
+    heroIntro:
+      "Lake Desire is the Maple Heights–Lake Desire pocket north of Maple Valley — West Lake Desire Drive SE, Spring Lake loops, and houses that sit between two small lakes and county forest. Paint and decks here fail from shade and humidity, not from city-beach crowds.",
+    mapQuery: "Lake Desire, WA",
+    latitude: 47.4423,
+    longitude: -122.1075,
+    geoRadiusMeters: 2500,
+    introHeading: "Two Lakes, County Forest, and Siding That Dries Slowly",
+    introLead:
+      "Lake Desire sits on the west side of the CDP; Spring Lake sits on the east. Between them, Echo Mountain and Spring Lake / Lake Desire Park keep a lot of siding in shade. West Lake Desire Drive SE, East Lake Desire Drive SE, West Spring Lake Drive SE, and East Spring Lake Drive SE are residential loops — not Witte Road park frontage and not a gated golf island. The WDFW gravel access and fishing platform bring weekend trailers onto those same streets.",
+    introBody:
+      "Lane Home & Business Services LLC covers this unincorporated strip from Lake Tapps as part of Maple Valley-area work. Lane Vanderwaal will not invent a house count on 196th Avenue SE or claim a launch-day resume. We will walk elevations, decks, and trim honestly, then wash, repair, and coat for kettle-lake moisture and forest dry times. Licensed as LANEHHB7912R — King County rules when the work is structural.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Two-lake humidity, not a city swimming beach",
+        body: "Lake Desire and Spring Lake hold damp air against north walls. This is not Lake Wilderness Park lawn culture. Coatings wait for dry wood, especially after a wash near the water.",
+      },
+      {
+        icon: "trees",
+        title: "Echo Mountain canopy and trailhead streets",
+        body: "County forest between the lakes means moss, needles, and shade. Trailhead parking at the end of West Spring Lake Drive SE is a neighbor issue we plan around, not a marketing backdrop.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County permits, not Maple Valley City Hall",
+        body: "Most Lake Desire parcels are unincorporated. Paint is usually maintenance. A new deck or rail height change starts with King County Local Services, not the city’s building counter.",
+      },
+      {
+        icon: "car",
+        title: "WDFW access days and narrow lake loops",
+        body: "The public ramp and fishing platform put extra cars on West Lake Desire Drive. We time wash and material drops so the loop still functions for residents.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Lake Desire",
+    galleryNote:
+      "Owned Lane HBS photos of interiors, decks, and carpentry from Maple Valley-area and nearby jobs. They illustrate the work type — they are not geo-tagged to West Lake Desire Drive or Spring Lake.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-09-4771.jpg",
+        alt: "Hallway masked and papered for interior painting",
+        caption: "Interior painting prep in an occupied home",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Deck framing with joist tape and structural hardware",
+        caption: "Deck carpentry and moisture-aware framing",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting by Lane HBS",
+        caption: "Exterior repaint — nearby Lane HBS work",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Lake Desire",
+      image: "/images/from-lane/lane-32-60.jpg",
+      imageAlt: "Painted stair stringers with stained rail and metal balusters",
+      serviceType: "Deck stairs and rail finish — nearby wooded lot",
+      body: "Lake Desire and Spring Lake lots often send stairs and rails into shade where stain fails first on treads. On a nearby wooded-lot job we recoated stair stringers, refreshed the handrail, and kept metal balusters so the run stayed safe and readable after rain. The photo is owned Lane HBS work in the parent region — not a West Lake Desire Drive address. Dry time after wash, not a fictional board-foot quote, set the schedule. Occupied-home access and a gravel landing were part of the scope.",
+    },
+    considerationsHeading: "Lake Desire-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Desire and Spring Lake moisture",
+        body: "Two small lakes plus a peat bog on the Spring Lake shore keep humidity in the trees. North and lakeside elevations need wash, dry, and prime. We will not stain boards that are still cold and wet from overnight fog.",
+      },
+      {
+        heading: "Lake Desire trailhead and launch traffic",
+        body: "King County’s Three Lakes Loop trailhead sits at the end of West Spring Lake Drive SE. WDFW’s gravel ramp sits on the Desire side. Exterior days have to leave room for residents, hikers, and boat trailers — especially on 196th Avenue SE and SE 183rd Street approaches.",
+      },
+      {
+        heading: "Unincorporated Maple Heights–Lake Desire rules",
+        body: "SR 169 / Maple Valley Highway is the north edge of the CDP; SE Petrovitsky Road is the south line. Civic identity is King County, with 98058 Renton-style mail on many houses. We do not treat your permit question as a Maple Valley city form by default.",
+      },
+      {
+        heading: "Occupied interiors on lake-loop lots",
+        body: "These are primary homes in Maple Valley Heights and around both lakes. We phase kitchens and halls, contain dust, and keep the only driveway on a loop usable. School assignment is parcel-specific — we follow your drop-off, not a guessed district.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Desire",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot charts. Lake Desire pricing follows prep (moss, wash, carpentry), two-story or hillside access, occupied interiors, deck condition toward water or woods, and how launch- or trailhead-day parking affects staging.",
+    costDrivers: [
+      {
+        title: "Shade and dry time between the lakes",
+        body: "Canopy and kettle-lake air add wash-and-wait labor. That time is in the estimate instead of hidden inside a cheap spray bid.",
+      },
+      {
+        title: "Narrow-loop access and height",
+        body: "West Lake Desire Drive and the Spring Lake courts are not wide suburban collectors. Ladder placement, runoff, and trailer timing change the labor hours.",
+      },
+      {
+        title: "Repairs before color",
+        body: "Soft trim, failed caulk, and tired stair treads are common under trees. We price carpentry openly so the finish is not sealing decay.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, and prime for Lake Desire and Spring Lake shade — street and lakeside elevations treated as moisture jobs, not a one-coat refresh.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck staining, rails, and fence lines that run into county forest. Structure first, then stain — especially on stairs that stay slick.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied lake-loop interiors phased room-by-room so kitchens and bedrooms stay usable while we work.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Desire or Spring Lake loop on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Lake Desire Process",
+    processSteps: [
+      {
+        title: "Lake Desire Site Assessment",
+        body: "Which lake the lot faces, canopy, access on the loop, occupancy, and whether trailhead or WDFW traffic will shape wash days.",
+      },
+      {
+        title: "Lake Desire Scope, Colors & County Rules",
+        body: "Written scope before coating. Structural decks and rails noted as King County questions. Neighbor parking respected on the loop.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew, scrape failed paint, repair trim and stair wood, prime bare substrate. This is the Lane HBS differentiator.",
+      },
+      {
+        title: "Lake Desire Paint / Build Days",
+        body: "Weather windows under trees; phased interiors; staging that leaves the lake road open.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You walk the job with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Spring Lake / Lake Desire Park",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/spring-lake",
+        description:
+          "King County forest between Spring Lake and Lake Desire — Echo Mountain, a peat bog, and trailheads that empty onto West Spring Lake Drive SE and 190th Avenue SE. Why shade, needles, and weekend parking matter on a paint or deck job here.",
+      },
+      {
+        name: "Lake Desire (WDFW)",
+        url: "https://wdfw.wa.gov/fishing/locations/lowland-lakes/lake-desire",
+        description:
+          "The west-side kettle lake in this CDP — public fishing access, not a Maple Valley city swim beach. Shoreline humidity and launch traffic are the conditions exteriors actually see.",
+      },
+      {
+        name: "Lake Desire water access site",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/lake-desire-343",
+        description:
+          "WDFW’s gravel ramp, fishing platform, and parking on Lake Desire. A reminder that some weekdays and most summer weekends put extra trailers on the same residential loops we have to keep open.",
+      },
+      {
+        name: "Cedar River Trail",
+        url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails",
+        description:
+          "The paved river corridor along SR 169 at the north edge of the CDP — where Maple Heights–Lake Desire households connect toward Renton and Maple Valley without using Lake Wilderness Park as their backyard.",
+      },
+      {
+        name: "King County building permits",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Department of Local Services — the office for structural decks, additions, and land-use questions on unincorporated Lake Desire parcels.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Lake Desire daily life is two lakes and county woods: trail days at [Spring Lake / Lake Desire Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/spring-lake), fishing notes from [WDFW’s Lake Desire page](https://wdfw.wa.gov/fishing/locations/lowland-lakes/lake-desire), and structural questions through [King County building permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). The river corridor and [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails) sit on the SR 169 edge. Broader green space is [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks).",
+      "Groceries and civic errands still run into the [City of Maple Valley](https://www.maplevalleywa.gov/) or Renton, depending on the trip. School calendars are parcel-specific; many Maple Valley-area families still track [Tahoma School District](https://www.tahomasd.us/) even when the house mails to 98058. Indoor hours stay with the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around lake-loop access and those calendars — not as a name-swap of Lake Wilderness or Shadow Lake.",
+    ],
+  },
 ];
