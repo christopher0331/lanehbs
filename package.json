@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "test": "node --import tsx --test src/lib/contact.test.ts src/lib/sendEstimateEmail.test.ts",
     "generate:articles": "npx tsx scripts/generate-service-area-articles.ts"
   },
   "dependencies": {
