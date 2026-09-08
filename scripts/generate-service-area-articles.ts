@@ -224,6 +224,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/maple-valley/four-corners",
       },
       { name: "Tahoma", path: "/service-areas/maple-valley/tahoma" },
+      { name: "Lake Desire", path: "/service-areas/maple-valley/lake-desire" },
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
     ],
     knownLinks: [
@@ -246,6 +247,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Cedar River Trail",
         url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails",
+      },
+      {
+        name: "Spring Lake / Lake Desire Park",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/spring-lake",
       },
     ],
     peers: [
