@@ -1,4 +1,5 @@
 export const ESTIMATE_FORM_NAME = "estimate";
+export const ESTIMATE_HONEYPOT_FIELD = "bot_check";
 
 export type EstimatePayload = {
   name: string;
@@ -8,6 +9,7 @@ export type EstimatePayload = {
   message: string;
   page?: string;
   company?: string;
+  bot_check?: string;
 };
 
 export type EstimateResult = {
@@ -26,6 +28,7 @@ export function normalizeEstimate(input: EstimatePayload): EstimatePayload {
     message: input.message.trim(),
     page: input.page?.trim() || "",
     company: input.company?.trim() || "",
+    bot_check: input.bot_check?.trim() || "",
   };
 }
 
@@ -61,7 +64,12 @@ export function estimateFromFields(fields: Record<string, unknown>): EstimatePay
     message: fieldString(fields.message),
     page: fieldString(fields.page),
     company: fieldString(fields.company),
+    bot_check: fieldString(fields.bot_check),
   };
+}
+
+export function isEstimateHoneypot(input: EstimatePayload): boolean {
+  return Boolean(input.company?.trim() || input.bot_check?.trim());
 }
 
 export function estimateFromFormData(formData: FormData): EstimatePayload {
