@@ -13,6 +13,14 @@ const valid = {
 describe("sendEstimateEmail", () => {
   it("quietly accepts honeypot spam", async () => {
     const outcome = await sendEstimateEmail(
+      { ...valid, bot_check: "http://spam.example" },
+      { apiKey: "re_test", send: async () => ({ error: "should not send" }) }
+    );
+    assert.deepEqual(outcome, { ok: true, ignored: true });
+  });
+
+  it("still treats a filled company field as spam for old clients", async () => {
+    const outcome = await sendEstimateEmail(
       { ...valid, company: "Bot Co" },
       { apiKey: "re_test", send: async () => ({ error: "should not send" }) }
     );
@@ -47,7 +55,7 @@ describe("sendEstimateEmail", () => {
       from: "Lane HBS <noreply@lanehbs.com>",
       send: async (message) => {
         sent.push(message);
-        return { error: null };
+        return { error: null, id: "re_123" };
       },
     });
     assert.deepEqual(outcome, { ok: true, ignored: false });
@@ -57,6 +65,15 @@ describe("sendEstimateEmail", () => {
     assert.equal(sent[0].replyTo, "jane@example.com");
     assert.match(sent[0].subject, /Jane Neighbor/);
     assert.match(sent[0].html, /Interior Painting/);
+  });
+
+  it("returns 502 when Resend does not return a message id", async () => {
+    const outcome = await sendEstimateEmail(valid, {
+      apiKey: "re_test",
+      send: async () => ({ error: null }),
+    });
+    assert.equal(outcome.ok, false);
+    if (!outcome.ok) assert.equal(outcome.status, 502);
   });
 
   it("returns 502 when the mailer rejects the message", async () => {

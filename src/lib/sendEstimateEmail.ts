@@ -2,6 +2,7 @@ import { Resend } from "resend";
 import { SITE_CONFIG } from "@/constants/siteConfig";
 import {
   escapeHtml,
+  isEstimateHoneypot,
   normalizeEstimate,
   validateEstimate,
   type EstimatePayload,
@@ -17,7 +18,7 @@ export type EstimateMailer = (message: {
   replyTo: string;
   subject: string;
   html: string;
-}) => Promise<{ error: unknown }>;
+}) => Promise<{ error: unknown; id?: string }>;
 
 export type SendEstimateOptions = {
   apiKey?: string;
@@ -65,7 +66,7 @@ export async function sendEstimateEmail(
   options: SendEstimateOptions = {}
 ): Promise<SendEstimateOutcome> {
   const data = normalizeEstimate(input);
-  if (data.company) {
+  if (isEstimateHoneypot(data)) {
     return { ok: true, ignored: true };
   }
 
@@ -87,12 +88,12 @@ export async function sendEstimateEmail(
     options.send ??
     (async (message) => {
       const resend = new Resend(apiKey);
-      const { error } = await resend.emails.send(message);
-      return { error };
+      const { data: sent, error } = await resend.emails.send(message);
+      return { error, id: sent?.id };
     });
 
   try {
-    const { error } = await send({
+    const { error, id } = await send({
       from,
       to: notifyList(options.extraRecipients ?? process.env.CONTACT_NOTIFY_EMAIL),
       replyTo: data.email,
@@ -100,8 +101,8 @@ export async function sendEstimateEmail(
       html: buildEstimateEmailHtml(data),
     });
 
-    if (error) {
-      console.error("Resend rejected estimate email:", error);
+    if (error || !id) {
+      console.error("Resend rejected estimate email:", error ?? "missing message id");
       return {
         ok: false,
         error: "Could not send your request. Please call us.",
@@ -109,6 +110,7 @@ export async function sendEstimateEmail(
       };
     }
 
+    console.info("Estimate email sent", { id });
     return { ok: true, ignored: false };
   } catch (error) {
     console.error("Estimate email failed:", error);

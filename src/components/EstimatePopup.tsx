@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
 import { CheckCircle, Loader2, Phone, X } from "lucide-react";
-import { ESTIMATE_FORM_NAME } from "@/lib/contact";
+import { ESTIMATE_FORM_NAME, ESTIMATE_HONEYPOT_FIELD } from "@/lib/contact";
 import {
   ESTIMATE_POPUP_COPY,
   ESTIMATE_POPUP_DELAY_MS,
@@ -29,7 +29,7 @@ export default function EstimatePopup() {
     name: "",
     email: "",
     phone: "",
-    company: "",
+    bot_check: "",
   });
   const dialogRef = useRef<HTMLDivElement>(null);
   const closeButtonRef = useRef<HTMLButtonElement>(null);
@@ -148,7 +148,7 @@ export default function EstimatePopup() {
       phone: form.phone,
       service: "Popup estimate request",
       message: "Requested a free estimate from the site popup.",
-      company: form.company,
+      bot_check: form.bot_check,
     });
     setSubmitting(false);
     if (!result.ok) {
@@ -232,15 +232,17 @@ export default function EstimatePopup() {
                 value="Requested a free estimate from the site popup."
               />
               <div className="absolute -left-[9999px] h-0 w-0 overflow-hidden" aria-hidden="true">
-                <label htmlFor="popup-company">Company</label>
+                <label htmlFor={`popup-${ESTIMATE_HONEYPOT_FIELD}`}>Website</label>
                 <input
-                  id="popup-company"
+                  id={`popup-${ESTIMATE_HONEYPOT_FIELD}`}
                   type="text"
-                  name="company"
+                  name={ESTIMATE_HONEYPOT_FIELD}
                   tabIndex={-1}
                   autoComplete="off"
-                  value={form.company}
-                  onChange={(e) => setForm({ ...form, company: e.target.value })}
+                  data-lpignore="true"
+                  data-1p-ignore="true"
+                  value={form.bot_check}
+                  onChange={(e) => setForm({ ...form, bot_check: e.target.value })}
                 />
               </div>
               <div className="grid gap-3 sm:grid-cols-2">

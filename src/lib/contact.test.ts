@@ -3,6 +3,7 @@ import { describe, it } from "node:test";
 import {
   estimateFromFields,
   estimateFromFormData,
+  isEstimateHoneypot,
   normalizeEstimate,
   validateEstimate,
   wantsHtmlRedirect,
@@ -76,6 +77,12 @@ describe("estimateFromFields", () => {
     const payload = estimateFromFields({ name: 1, email: null });
     assert.equal(payload.name, "");
     assert.equal(payload.email, "");
+  });
+
+  it("reads the bot_check honeypot", () => {
+    const payload = estimateFromFields({ bot_check: "http://spam.example" });
+    assert.equal(isEstimateHoneypot(payload), true);
+    assert.equal(isEstimateHoneypot(estimateFromFields({ name: "Lane" })), false);
   });
 });
 
