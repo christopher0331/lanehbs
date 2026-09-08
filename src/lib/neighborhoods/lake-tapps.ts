@@ -1286,6 +1286,226 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Daily life on Tapps Island runs on a gated east-shore rhythm: Dieringer bells, a public course in the middle of the community, and private roads that still have to stay open. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/). The [Tapps Island Golf Course](https://www.tappsislandgolf.com/) at 20818 Island Parkway East is the landmark non-residents already know — which is why we treat golf-day traffic as a real constraint, not scenery.",
       "Channel and near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations. Structural decks and additions typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). On hot weekends the public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) just off the island; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that gate-and-school rhythm — not as a name-swap of Snag Island or the plateau.",
     ],
-  }
+  },
+  {
+    slug: "allan-yorke",
+    name: "Allan Yorke",
+    description:
+      "South-end Bonney Lake streets around the 45-acre city park — boat-launch weekends, restricted parking, and occupied homes that still take reservoir moisture.",
+    blurb:
+      "Around Allan Yorke Park, Lane HBS paints exteriors, stains decks, and refreshes interiors for Bonney Lake city streets that live with public launch traffic — 194th Ave E, Church Lake Drive E, Bonney Lake Boulevard E. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting staged around park-weekend traffic and city parking rules",
+      "Deck and fence work for south-shore humidity without a gated-island playbook",
+      "Occupied interiors on Sumner-Bonney Lake calendars, not Dieringer bells",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence near Allan Yorke Park?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, fence height, or shoreline-adjacent structure typically go through the City of Bonney Lake Permit Center — these south-end streets are incorporated Bonney Lake, not a default unincorporated Pierce County parcel and not the Tapps Island gate. We flag that on the estimate and point you to Bonney Lake building permits instead of guessing from the boat launch.",
+      },
+      {
+        question:
+          "What prep fits Allan Yorke’s mix of south-shore humidity and park-adjacent dust?",
+        answer:
+          "Wash first. Church Lake Drive E lots that sit on the south shore stay damp; inland streets off 194th Ave E, 193rd Ave E, and 76th St E pick up trailer dust, exhaust, and foot traffic from the public launch and Tunes @ Tapps weekends. Both need dry time before prime. We do not coat damp wood to finish before a Saturday concert, and we do not treat this as West Tapps Highway view-deck wind or a gated golf-course irrigation story.",
+      },
+      {
+        question: "How do you price painting and remodeling in Allan Yorke?",
+        answer:
+          "Park-weekend staging, city parking restrictions, moisture on the south shore versus inland lots, occupied interiors, and whether trim or rails need carpentry. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Allan Yorke exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. South-shore decks wait on moisture longer than a sunny inland elevation a few blocks off Bonney Lake Boulevard E. Interiors are sequenced room by room while you live here. We set the calendar after we see the house and how the street behaves on a launch weekend — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle park traffic and school mornings?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. The city restricts on-street parking on streets such as 194th Ave E, 193rd Ave E, Church Lake Drive E, and 76th St E so residents can still park when the park fills up. We stage the trailer so neighbors keep those spaces and emergency access stays open. Weekday timing also respects Sumner-Bonney Lake drop-off — Emerald Hills Elementary on South Tapps Drive E and Bonney Lake Elementary on 80th St E — a different clock than Dieringer households on the east-shore islands.",
+      },
+    ],
+    image: "/images/from-lane/lane-16-48.jpg",
+    heroIntro:
+      "Allan Yorke is the south end of Lake Tapps in Bonney Lake city limits — the 45-acre public park at West Tapps Highway E and Bonney Lake Boulevard E, plus the residential streets the city itself calls the Allan Yorke Park neighborhood. Paint and decks here fight launch-day congestion and south-shore moisture, not a gated fairway or a one-street peninsula.",
+    mapQuery: "Allan Yorke Park, Bonney Lake, WA",
+    latitude: 47.1786,
+    longitude: -122.1875,
+    geoRadiusMeters: 1600,
+    introHeading: "A Public Park in the Front Yard Changes How Paint Gets Done",
+    introLead:
+      "Homes along 194th Avenue East, 193rd Avenue East, Church Lake Drive East, 76th Street East, and Bonney Lake Boulevard East sit against the city’s busiest Lake Tapps park: boat launch, beach, skate park, ball fields, and summer concerts. That is a different job than West Tapps Highway view decks farther north, and it is not Tapps Island behind a gate. Siding picks up dust from trailers; north walls still stay damp off the reservoir; neighbors notice a messy job site because the whole city uses this shoreline on weekends.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on Church Lake Drive E or claim we painted every elevation facing the launch. We will wash, repair soft trim, and wait for dry windows that differ from a south-shore lot to an inland street a block off the park. City of Bonney Lake permits, occupied-home protection, and Sumner-Bonney Lake School District calendars — Emerald Hills Elementary at 19515 South Tapps Drive E and Bonney Lake Elementary at 18715 80th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Church Lake Drive is part of this south-end cluster; we are not building a separate Church Lake page.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Launch-day streets, not a quiet cul-de-sac",
+        body: "Allan Yorke Park fills with boat trailers, concert traffic, and Bonney Lake Days crowds. We plan wash water and parking so 194th, 193rd, and Church Lake Drive stay usable for residents who already live under city restricted-parking rules.",
+      },
+      {
+        icon: "droplets",
+        title: "South-shore humidity without copying a peninsula page",
+        body: "Church Lake Drive lots that face the water stay wet. Inland park-adjacent houses still grow mildew on north elevations. We spec wash and dry time for the lot you own — not Snag Island fetch, not Deer Island’s dead-end, not Tapps Island irrigation.",
+      },
+      {
+        icon: "clipboard",
+        title: "Bonney Lake city permits, not a county default",
+        body: "These streets are typically City of Bonney Lake. Structural decks and additions start at the city Permit Center. Cosmetic paint is usually maintenance. We do not treat every Lake Tapps parcel as unincorporated Pierce County.",
+      },
+      {
+        icon: "school",
+        title: "Sumner-Bonney Lake mornings, not Dieringer",
+        body: "South-end households run on Sumner-Bonney Lake timing. Interior sequencing and noisy wash days follow Emerald Hills and Bonney Lake Elementary calendars — a different weekday rhythm than east-shore island streets tied to Dieringer.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Tina W.", "David R."],
+    galleryHeading: "Our Work Near Allan Yorke",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for south-end Bonney Lake homes and are not geo-tagged to Allan Yorke Park, 194th Ave E, Church Lake Drive E, or 76th St E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Exterior siding and trim painting",
+        caption: "Exterior repaint — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-30-4772.jpg",
+        alt: "Deck staining and outdoor living",
+        caption: "Deck staining — Lake Tapps and nearby work",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim in an occupied home",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Allan Yorke",
+      image: "/images/from-lane/lane-21-101.jpg",
+      imageAlt: "Stair and rail work on a neighborhood home",
+      serviceType: "Exterior and rail refresh — nearby Lake Tapps home",
+      body: "South-end houses fail when wash water, park dust, and damp north walls get a one-coat shortcut. On a nearby Lake Tapps job we washed, repaired what was soft, and coated only after the substrate said so — the same sequence park-adjacent and Church Lake Drive homes actually need. The photo is owned Lane HBS work in the parent city area, not a house on 194th Ave E or Bonney Lake Boulevard E. Timeline followed dry windows, occupied-home access, and how trailers already clog the south shore on launch days. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Allan Yorke-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Allan Yorke Park weekends, concerts, and restricted parking",
+        body: "The city restricts on-street parking near the park so residents on 194th Ave E, 193rd Ave E, Church Lake Drive E, 76th St E, and connecting courts can still park when the launch and Tunes @ Tapps fill the lot. We stage materials so we are not the extra trailer blocking a permit-only curb. This is public-park congestion, not Tapps Island golf-cart traffic and not West Tapps Highway view-lot access.",
+      },
+      {
+        heading: "Allan Yorke south-shore moisture versus inland park lots",
+        body: "Church Lake Drive E winds along the south shore; some lots take reservoir humidity and splash. A block inland toward Bonney Lake Boulevard E the problem is often dust, north-wall mildew, and fence posts in wet soil. Washing is still the job. Coating damp wood so the house looks finished for Bonney Lake Days is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Allan Yorke city permits and mixed association rules",
+        body: "Most of this neighborhood is Bonney Lake city, so structural work starts at the city building counter. Some Church Lake Drive addresses also have a private community park and launch with neighbor expectations — that is not the Tapps Island Association gate, and we do not copy that HOA playbook onto every 193rd Ave E ranch. We ask which rules actually apply to your parcel.",
+      },
+      {
+        heading: "Occupied interiors during the Sumner-Bonney Lake school year",
+        body: "These are primary homes, not weekend cabins. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work around Emerald Hills Elementary on South Tapps Drive E and Bonney Lake Elementary on 80th St E so a bathroom and a bedroom remain usable. Lakeridge Middle School on Myers Road E is part of the same district clock.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Allan Yorke",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Allan Yorke pricing moves with park-weekend staging, city parking limits, moisture prep that differs from south-shore lot to inland street, occupied interiors, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures on the same south end",
+        body: "Church Lake Drive humidity and inland park dust add labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access when the park is full",
+        body: "Launch days, concerts, and restricted curbs change how long wash and material drops take. We price that time instead of pretending Bonney Lake Boulevard E is a quiet suburban loop.",
+      },
+      {
+        title: "Occupied rooms and city sequencing",
+        body: "Lived-in houses take protection time. Permit questions for new decks or fence height are written into the schedule so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Allan Yorke exteriors need wash, scrape, and prime for south-shore moisture or park-adjacent dust — then coatings that can take Pierce County winters and neighbor scrutiny from a public shoreline.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "South-shore decks and inland privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the weekend of a concert at the park.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors on Bonney Lake Boulevard E and Church Lake Drive E — walls, trim, and room-by-room protection around Sumner-Bonney Lake school calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Allan Yorke house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around the park, city parking rules, and whether your lot sits on the south shore or a block inland.",
+    processHeading: "Our Allan Yorke Process",
+    processSteps: [
+      {
+        title: "Allan Yorke Site Assessment",
+        body: "South-shore vs inland exposure, park-weekend access, occupied vs vacant, and whether the job is siding, deck, or both.",
+      },
+      {
+        title: "Allan Yorke Scope, Colors & City Rules",
+        body: "Bonney Lake permit questions when the work is structural, neighbor sightlines from the park or Church Lake Drive, and color so the elevation still looks finished after a dusty launch weekend.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated south-end houses.",
+      },
+      {
+        title: "Allan Yorke Paint / Build Days",
+        body: "Weather windows plus launch-day and concert traffic on Bonney Lake Boulevard E and West Tapps Highway E. We do not wash a restricted residential street into park overflow.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Allan Yorke Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+        description:
+          "Bonney Lake’s 45-acre south-end park at West Tapps Highway E and Bonney Lake Boulevard E — launch, beach, skate park, fields, and Tunes @ Tapps. We treat that as a staging and dust problem for the houses next door, not a lifestyle brochure.",
+      },
+      {
+        name: "Emerald Hills Elementary",
+        url: "https://ehe.sumnersd.org/",
+        description:
+          "The Lakers campus at 19515 South Tapps Drive E sits in the same south-shore attendance area as Church Lake Drive E and Bonney Lake Boulevard E. Interior paint days and material drops follow that calendar so occupied homes still function on school mornings.",
+      },
+      {
+        name: "Bonney Lake Elementary",
+        url: "https://ble.sumnersd.org/",
+        description:
+          "The Vikings campus at 18715 80th St E is a short hop from 76th St E and the park-adjacent grid. Another Sumner-Bonney Lake clock we respect when we schedule noisy exterior wash.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "South-end parcels are typically city, not a Pierce County default. New decks, fence height, and remodels start here. We point you to the Permit Center instead of inventing a shoreline shortcut.",
+      },
+      {
+        name: "Bonney Lake parking passes",
+        url: "https://www.bonneylake.gov/266/Parking-Passes",
+        description:
+          "The city restricts parking on named streets around the park so residents can still park when the launch fills. That ordinance is why we will not leave a sprayer trailer on a permit-only curb.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Allan Yorke runs on a public-park rhythm: Sumner-Bonney Lake bells, boat trailers on West Tapps Highway E, and residential streets the city already protects with restricted parking. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars, including [Emerald Hills Elementary](https://ehe.sumnersd.org/) on South Tapps Drive E and Bonney Lake Elementary on 80th St E. [Allan Yorke Park](https://www.bonneylake.gov/293/Parks-Trails) is the landmark non-residents already know — which is why we treat launch days and concerts as a real constraint, not scenery. Resident parking rules live on the city’s [parking passes](https://www.bonneylake.gov/266/Parking-Passes) page.",
+      "Structural decks and additions on these Bonney Lake streets typically start with [City of Bonney Lake building permits](https://www.bonneylake.gov/279/Building-Permits). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations. Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/visit-the-library/locations-hours/) Bonney Lake branch at 18501 90th St E; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that park-and-school rhythm — not as a name-swap of West Tapps view decks, the plateau, or gated Tapps Island.",
+    ],
+  },
 
 ];
