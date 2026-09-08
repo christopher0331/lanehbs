@@ -218,7 +218,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Enumclaw, WA",
     heroDescription:
-      "Plateau-ready painting, remodeling, decks, and fences for Enumclaw homes and businesses. Licensed local craftsmanship. Free estimates at (253) 414-3937.",
+      "Plateau-ready painting, remodeling, decks, and fences for Enumclaw homes and businesses — including Downtown, Boise Creek, the Enumclaw Plateau, and Osceola along the heritage-loop farm roads south of town. Licensed local craftsmanship. Free estimates at (253) 414-3937.",
     metaTitle: "Enumclaw Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Enumclaw painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, repairs for plateau homes. Free estimates. (253) 414-3937.",
@@ -231,6 +231,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Federation Forest State Park",
       "Downtown Enumclaw",
       "Boise Creek",
+      "Osceola Loop",
     ],
     climateDescription:
       "Enumclaw’s plateau climate brings cooler temperatures, wind exposure, and wet winters that punish thin exterior paint and neglected decks. Proper surface prep and quality coatings make the difference between a one-year fade and a lasting finish.",
@@ -258,6 +259,11 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     longitude: -121.9915,
     faqs: [
       {
+        question: "Which Enumclaw neighborhoods do you serve?",
+        answer:
+          "We work Downtown Enumclaw, Boise Creek, the Enumclaw Plateau, and Osceola along SE 448th Street, SE 456th Way, 196th Avenue SE, and 220th Avenue SE — plus nearby King County parcels.",
+      },
+      {
         question: "Do you take Enumclaw exterior painting jobs year-round?",
         answer:
           "We schedule exteriors around weather windows. Spring through early fall is ideal; we can often stage interior work during wetter months.",
@@ -277,7 +283,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Enumclaw Painting & Remodeling Done Right",
-        body: "Lane HBS brings Lake Tapps–based craftsmanship to Enumclaw with the same standards: proper prep, premium materials, and a job site you’d be comfortable having neighbors see. From downtown facades to plateau homes, we treat every project like our reputation depends on it — because it does.",
+        body: "Lane HBS brings Lake Tapps–based craftsmanship to Enumclaw with the same standards: proper prep, premium materials, and a job site you’d be comfortable having neighbors see. From downtown facades to Boise Creek yards, plateau homes, and Osceola farm-grid parcels on the heritage loop south of town, we treat every project like our reputation depends on it — because it does.",
       },
       {
         heading: "Exteriors That Survive Plateau Weather",

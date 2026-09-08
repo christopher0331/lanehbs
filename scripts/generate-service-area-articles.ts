@@ -153,6 +153,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Enumclaw Plateau",
         path: "/service-areas/enumclaw/enumclaw-plateau",
       },
+      { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
