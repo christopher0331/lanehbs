@@ -48,6 +48,35 @@ export function escapeHtml(value: string): string {
     .replace(/"/g, "&quot;");
 }
 
-export function encodeFormBody(data: Record<string, string>): string {
-  return new URLSearchParams(data).toString();
+function fieldString(value: unknown): string {
+  return typeof value === "string" ? value : "";
+}
+
+export function estimateFromFields(fields: Record<string, unknown>): EstimatePayload {
+  return {
+    name: fieldString(fields.name),
+    email: fieldString(fields.email),
+    phone: fieldString(fields.phone),
+    service: fieldString(fields.service),
+    message: fieldString(fields.message),
+    page: fieldString(fields.page),
+    company: fieldString(fields.company),
+  };
+}
+
+export function estimateFromFormData(formData: FormData): EstimatePayload {
+  const fields: Record<string, unknown> = {};
+  for (const [key, value] of formData.entries()) {
+    if (typeof value === "string") fields[key] = value;
+  }
+  return estimateFromFields(fields);
+}
+
+export function wantsHtmlRedirect(request: Request): boolean {
+  const contentType = request.headers.get("content-type") ?? "";
+  if (contentType.includes("application/json")) return false;
+  return (
+    contentType.includes("application/x-www-form-urlencoded") ||
+    contentType.includes("multipart/form-data")
+  );
 }

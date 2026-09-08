@@ -8,7 +8,21 @@ export const metadata: Metadata = {
     "Request a free estimate from Lane Home & Business Services LLC. Call (253) 414-3937 or send a message — serving Lake Tapps, Enumclaw, Maple Valley, and Covington.",
 };
 
-export default function ContactPage() {
+type ContactPageProps = {
+  searchParams?: Promise<Record<string, string | string[] | undefined>>;
+};
+
+export default async function ContactPage({ searchParams }: ContactPageProps) {
+  const params = (await searchParams) ?? {};
+  const sent = params.sent === "1";
+  const errorParam = typeof params.error === "string" ? params.error : "";
+  const initialError =
+    errorParam === "invalid"
+      ? "Please check the form and try again."
+      : errorParam === "send"
+        ? "Could not send your request. Please call (253) 414-3937."
+        : null;
+
   return (
     <main>
       <PageHero
@@ -20,7 +34,7 @@ export default function ContactPage() {
           { label: "Contact" },
         ]}
       />
-      <Contact />
+      <Contact initialSubmitted={sent} initialError={sent ? null : initialError} />
     </main>
   );
 }

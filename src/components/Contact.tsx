@@ -17,10 +17,16 @@ const hours = [
   { day: "Sunday", time: "Closed" },
 ];
 
-export default function Contact() {
-  const [submitted, setSubmitted] = useState(false);
+export default function Contact({
+  initialSubmitted = false,
+  initialError = null,
+}: {
+  initialSubmitted?: boolean;
+  initialError?: string | null;
+}) {
+  const [submitted, setSubmitted] = useState(initialSubmitted);
   const [submitting, setSubmitting] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(initialError);
   const [form, setForm] = useState({
     name: "",
     email: "",
@@ -149,8 +155,7 @@ export default function Contact() {
                 <form
                   name={ESTIMATE_FORM_NAME}
                   method="POST"
-                  data-netlify="true"
-                  netlify-honeypot="company"
+                  action="/api/contact"
                   onSubmit={handleSubmit}
                   className="space-y-5"
                 >
