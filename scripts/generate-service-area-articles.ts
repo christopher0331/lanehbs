@@ -298,6 +298,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Downtown Covington",
         path: "/service-areas/covington/downtown-covington",
       },
+      { name: "Pipe Lake", path: "/service-areas/covington/pipe-lake" },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -319,6 +320,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Soos Creek Trail",
         url: "https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails",
+      },
+      {
+        name: "About Our Lakes — Pipe Lake & Lake Lucerne",
+        url: "https://www.maplevalleywa.gov/government/departments/public_records_request/about_our_lakes/index.php",
       },
       {
         name: "Washington Contractors Registration",

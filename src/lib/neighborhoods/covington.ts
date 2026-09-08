@@ -1083,4 +1083,223 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "School bells sit with [Cedar Heights Middle School](https://www.kent.k12.wa.us/ch) and the broader [Kent School District](https://www.kent.k12.wa.us/). Longer trail days pick up the [Soos Creek Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails), and power is [Puget Sound Energy](https://www.pse.com/). We schedule downtown coatings around arterial hours and those calendars — not as a name-swap of Jenkins Creek shade or Lake Sawyer humidity.",
     ],
   },
+  {
+    slug: "pipe-lake",
+    name: "Pipe Lake",
+    description:
+      "Private shoreline on the Covington–Maple Valley line — older lake lots, dual-city permits, and decks that stay damp without a public launch.",
+    blurb:
+      "Around Pipe Lake, Lane HBS paints exteriors, stains private-shore decks, and refreshes occupied interiors for homes on 212th Ave SE, 214th Ave SE, and SE 268th Court. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Private-shore moisture prep — no public-park staging shortcut",
+      "Dual-city permit awareness (Covington vs Maple Valley parcels)",
+      "Occupied interiors and carpentry on older lake-lot trim",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint or rebuild a deck on Pipe Lake?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, or shoreline-adjacent structure follow the parcel — Covington Building Division on the 98042 side, Maple Valley Building on the 98038 side. Pipe Lake has no public park or boat ramp, but that does not mean structure at the water is unregulated. We flag the office during the free estimate instead of guessing from the shoreline.",
+      },
+      {
+        question:
+          "What prep fits Pipe Lake’s private shoreline versus Lake Sawyer or Lake Wilderness?",
+        answer:
+          "Pipe Lake is a 52-acre private lake that drains into Lake Lucerne. There is no public beach, so lots stay close, shaded, and damp without park-day traffic. We wash algae and film, scrape failed coatings, and prime bare wood. We do not coat wet boards to hit a weekend. This is not Lake Sawyer’s public-launch weekend pattern and not Lake Wilderness Park’s city beach.",
+      },
+      {
+        question: "How do you price painting and remodeling at Pipe Lake?",
+        answer:
+          "Access on tight lake streets such as 212th Ave SE and SE 268th Court, moisture damage, older trim that needs carpentry, occupied interiors, and which city the parcel sits in. There is no published square-foot or waterfront menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Pipe Lake exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Private-shore decks wait on moisture longer than an open Maple Hills elevation. Interiors are sequenced room by room while you live here. We set the calendar after we see the wood and confirm which city reviews any structural work — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on private lake streets?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash water, trailers, and parking so 212th Ave SE, 214th Ave SE, and courts like SE 268th Court stay usable for neighbors. Weekday timing also respects Kent School District drop-off for many Covington-side addresses — Cedar Valley Elementary and Cedar Heights Middle School — a different clock than Tahoma-side Maple Valley parcels across the same water.",
+      },
+    ],
+    image: "/images/from-lane/lane-01-46.jpg",
+    heroIntro:
+      "Pipe Lake is the private 52-acre shoreline on the Covington–Maple Valley line — 212th Ave SE, 214th Ave SE, SE 268th Court, and older lake lots with no public park or boat ramp. Paint and decks here have to handle closed-in humidity and two city permit desks, not a regional-park weekend.",
+    mapQuery: "Pipe Lake, Covington, WA",
+    latitude: 47.3661,
+    longitude: -122.0533,
+    geoRadiusMeters: 1600,
+    introHeading: "Private Shore, Two Cities, and Siding That Never Fully Dries",
+    introLead:
+      "Homes along 212th Ave SE, 214th Ave SE, 210th Ave SE, and SE 268th Court sit on a kettle lake with no public beach. Pipe Lake drains through a short canal into Lake Lucerne, which sits entirely in Maple Valley. The shoreline is private property on both sides, so decks, docks, and north elevations stay close to the water and to each other. That is a different moisture and staging problem than Lake Sawyer Regional Park or the city swim beach at Lake Wilderness.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Pipe Lake jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 212th Ave SE or claim a dock résumé. We will walk trim, rails, and occupied interiors honestly, then ask which city the parcel sits in before anyone talks structure. Covington-side addresses often run on Kent School District time. Maple Valley-side lots across the same water can be a different building desk. Prep still starts the same way: wash, repair, prime, then coat.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Private shoreline, not a public-launch weekend",
+        body: "There is no Pipe Lake park lot to absorb trailers. Neighbors share tight streets and the same still water. We plan wash runoff and ladder placement so docks and driveways stay usable.",
+      },
+      {
+        icon: "clipboard",
+        title: "Two cities on one lake",
+        body: "A repaint is usually maintenance. A new deck or rail change is not. We treat Covington Building and Maple Valley Building as different offices — not one “lake permit.”",
+      },
+      {
+        icon: "hammer",
+        title: "Older lake-lot trim before color",
+        body: "Many Pipe Lake houses are 1970s–1990s stock with fascia, soffit, and rail details that fail in shade. Carpentry first is how new paint lasts.",
+      },
+      {
+        icon: "school",
+        title: "Kent bells on the Covington side",
+        body: "Cedar Valley Elementary and Cedar Heights Middle School set weekday noise and parking for many 98042 addresses. We do not wash a lake street into that queue.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Sarah M."],
+    galleryHeading: "Our Work Near Pipe Lake",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and interiors from Covington-area and nearby jobs. They illustrate the work type for private-shore homes and are not geo-tagged to 212th Ave SE, 214th Ave SE, or SE 268th Court.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-01-46.jpg",
+        alt: "Elevated deck with lake-area view",
+        caption: "Elevated deck and rail — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Exterior painting in progress",
+        caption: "Exterior repaint — Covington-area job",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these at Pipe Lake",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck",
+      serviceType: "Deck staining — nearby Covington-area home",
+      body: "Private-shore decks stay gray because they stay wet and shaded, not because the last stain was the wrong color chip. On a nearby Covington-area deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on SE 268th Court or 212th Ave SE. Timeline followed dry windows, occupied-home access, and tight-street staging. We do not invent linear footage or a Pipe Lake address for a job we cannot verify.",
+    },
+    considerationsHeading: "Pipe Lake-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Pipe Lake humidity without a public beach",
+        body: "Closed-in shoreline and tree cover keep north walls and railings damp after rain. Algae on fascia is common. Washing is the job. Coating damp wood to look good for a Saturday is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Pipe Lake and Lake Lucerne jurisdiction split",
+        body: "The lake sits in both Covington and Maple Valley; Lucerne is Maple Valley only. Cosmetic repaints rarely need a permit. New structure, rail height, or work toward the water follows the parcel’s city — we will not treat it as one shoreline rulebook.",
+      },
+      {
+        heading: "Pipe Lake streets, docks, and neighbor sightlines",
+        body: "212th Ave SE, 214th Ave SE, and courts like SE 268th Court are not arterial staging lots. Docks and plantings sit close. We plan material drops so neighbors still reach the water and the driveway.",
+      },
+      {
+        heading: "Occupied interiors and older trim carpentry",
+        body: "These are year-round homes, not cabins. Kitchens and bedrooms stay in use. Soft soffits and tired rails on 1970s–1990s lake stock need an honest look before anyone promises paint-only.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Pipe Lake",
+    costIntro:
+      "We do not publish dollar-per-square-foot or waterfront menus. Pipe Lake pricing moves with moisture prep, tight-street access, older trim repairs, occupied interiors, and whether the parcel needs Covington or Maple Valley review for anything structural. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and dry time on a private shore",
+        body: "Shade and still water add labor before any coating. Cheap quotes skip the difference and fail on the lake elevation first.",
+      },
+      {
+        title: "Access on 212th and the courts",
+        body: "Private lake streets change how long wash and material drops take. We price that time instead of pretending this is a wide suburban cul-de-sac.",
+      },
+      {
+        title: "Carpentry and occupied rooms",
+        body: "Soft fascia and lived-in kitchens take protection and repair time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Pipe Lake exteriors need wash, scrape, and prime for private-shore shade and film — then coatings that can take South King County winters.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Private-shore decks and privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the weekend before guests.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Older lake-lot soffits, fascia, and rails often need carpentry before paint. We repair what will fail under a new coat.",
+      },
+    ],
+    estimateBandCopy:
+      "Pipe Lake house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around private-shore access and which city your parcel actually sits in.",
+    processHeading: "Our Pipe Lake Process",
+    processSteps: [
+      {
+        title: "Pipe Lake Site Assessment",
+        body: "Shore exposure, tight-street access, occupancy, and whether the parcel is Covington or Maple Valley.",
+      },
+      {
+        title: "Pipe Lake Scope, Colors & Neighbors",
+        body: "Neighbor sightlines from the water, any lake-association color notes you already have, and structural items that belong at the correct building desk — written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim or rails. This is the Lane HBS differentiator on previously coated lake houses.",
+      },
+      {
+        title: "Pipe Lake Paint / Build Days",
+        body: "Weather windows plus school-year timing on the Covington side. We do not wash 212th Ave SE into neighbor dock traffic.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "About Our Lakes — Pipe Lake & Lake Lucerne",
+        url: "https://www.maplevalleywa.gov/government/departments/public_records_request/about_our_lakes/index.php",
+        description:
+          "Maple Valley’s official lake page is where the cities document Pipe Lake (52 acres, no public park) and Lake Lucerne (16 acres, Maple Valley only). We use it as the civic fact sheet — not as a brochure — when we talk about private shoreline and why this is not Lake Wilderness.",
+      },
+      {
+        name: "Cedar Creek Park",
+        url: "https://www.covingtonwa.gov/city_departments/parks/cedarcreekpark.php",
+        description:
+          "Covington’s 32-acre natural area at SE 248th Street, west of 214th Avenue SE, plus King County’s adjoining Cedar Downs acreage. Forest and creek trails — not a swim beach — are the public outdoor life next to a lake that itself has no public access.",
+      },
+      {
+        name: "Cedar Valley Elementary",
+        url: "https://www.kent.k12.wa.us/o/CVE",
+        description:
+          "Kent School District’s Cheetahs at 26500 Timberlane Way SE. Many Covington-side Pipe Lake households run on this elementary clock, which is why weekday wash and trailer placement have to respect drop-off.",
+      },
+      {
+        name: "Cedar Heights Middle School",
+        url: "https://www.kent.k12.wa.us/o/chms",
+        description:
+          "The Timberwolves campus at 19640 SE 272nd Street. Covington-side Pipe Lake families share this Kent feeder path — a different weekday rhythm than Tahoma-side Maple Valley parcels across the same water.",
+      },
+      {
+        name: "Covington Building Division",
+        url: "https://www.covingtonwa.gov/city_departments/community_development/building.php",
+        description:
+          "Where 98042 Pipe Lake parcels take structural deck, rail, and remodel questions. Maple Valley-side lots use Maple Valley Building instead — we name the desk after we see the address.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life at Pipe Lake is private shoreline plus a city line: errands still run through the [City of Covington](https://www.covingtonwa.gov/), while the civic facts about the water live on Maple Valley’s [About Our Lakes](https://www.maplevalleywa.gov/government/departments/public_records_request/about_our_lakes/index.php) page. Public woods sit at [Cedar Creek Park](https://www.covingtonwa.gov/city_departments/parks/cedarcreekpark.php) on SE 248th, west of 214th — not a launch on the lake itself. Covington-side building questions start at the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php).",
+      "School calendars for many 98042 addresses sit with the [Kent School District](https://www.kent.k12.wa.us/). Indoor research still happens at the [King County Library System](https://kcls.org/). Longer trail days pick up [King County’s Cedar Creek](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/cedar-creek) acreage, and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that private-shore and school rhythm — not as a name-swap of Lake Sawyer’s public launch or Jenkins Creek’s park path.",
+    ],
+  },
 ];
