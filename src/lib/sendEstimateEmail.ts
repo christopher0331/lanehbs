@@ -67,6 +67,7 @@ export async function sendEstimateEmail(
 ): Promise<SendEstimateOutcome> {
   const data = normalizeEstimate(input);
   if (isEstimateHoneypot(data)) {
+    console.info("Estimate ignored as honeypot");
     return { ok: true, ignored: true };
   }
 
