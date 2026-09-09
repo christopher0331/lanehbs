@@ -1507,5 +1507,225 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and additions on these Bonney Lake streets typically start with [City of Bonney Lake building permits](https://www.bonneylake.gov/279/Building-Permits). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations. Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/visit-the-library/locations-hours/) Bonney Lake branch at 18501 90th St E; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that park-and-school rhythm — not as a name-swap of West Tapps view decks, the plateau, or gated Tapps Island.",
     ],
   },
+  {
+    slug: "tacoma-point",
+    name: "Tacoma Point",
+    description:
+      "Northwest peninsulas — Tacoma Point Drive E and Evergreen Point streets sharing private parks, an optional improvement club, and Dieringer schools.",
+    blurb:
+      "On Tacoma Point and Evergreen Point, Lane HBS paints exteriors, stains decks, and refreshes interiors for mixed waterfront and inland lots off Lake Tapps Parkway E — Tacoma Point Drive E, 184th Ave E, 186th Ave E, 17th St E. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for mixed waterfront and inland lots on the same peninsula pair",
+      "Deck and fence work staged around private-park launch traffic and narrow point roads",
+      "Occupied interiors on the Dieringer split-campus calendar, not a Bonney Lake city-park clock",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence on Tacoma Point or Evergreen Point?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, fence height, or shoreline-adjacent structure typically go through Pierce County Planning & Public Works — these northwest peninsulas are generally unincorporated Pierce County, not City of Bonney Lake like Allan Yorke and not behind the Tapps Island gate. We flag that on the estimate. Cosmetic paint is not a shoreline permit, and we do not guess over-water rules for Cascade Water Alliance lots.",
+      },
+      {
+        question:
+          "What prep fits Tacoma Point’s mix of cove humidity and inland park-road dust?",
+        answer:
+          "Wash first. Waterfront lots on Tacoma Point Drive E stay damp in the coves; inland streets such as 184th Ave E, 186th Ave E, 17th St E, and 14th Street Ct E pick up trailer dust from the private Big Park launch and tree shade on north walls. Both need dry time before prime. We do not coat damp wood to finish before a Saturday launch, and we do not treat this as Deer Island’s one-street western fetch, West Tapps Highway view-deck wind, or Tapps Island golf-course irrigation.",
+      },
+      {
+        question: "How do you price painting and remodeling on Tacoma Point?",
+        answer:
+          "Peninsula staging, optional Improvement Club park-key logistics, moisture that differs from a Tacoma Point Drive bulkhead to an inland 17th St E lot, occupied interiors, and whether trim or rails need carpentry. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Tacoma Point exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Cove decks wait on moisture longer than a sunny inland elevation a few blocks off Lake Tapps Parkway E. Interiors are sequenced room by room while you live here. We set the calendar after we see the house and how Tacoma Point Drive E behaves when members are launching — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle park traffic, gates, and school mornings?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. The Improvement Club’s Big Park near the Tacoma Point Drive entrance uses a vehicle gate and keys for members; we stage the trailer so we are not the extra boat-day blockage on a narrow peninsula road. Weekday timing follows Dieringer drop-off — Lake Tapps Elementary on 178th Ave E, Dieringer Heights Elementary on 34th St E, and North Tapps Middle School on 12th St E — a different clock than Sumner-Bonney Lake streets on the plateau or at Allan Yorke.",
+      },
+    ],
+    image: "/images/from-lane/lane-12-1198.jpg",
+    heroIntro:
+      "Tacoma Point and Evergreen Point are the northwest peninsulas residents call The Points — Tacoma Point Drive E, 184th and 186th Ave E, 17th St E, and the two private parks they share. Paint and decks here fight cove moisture and launch-day congestion, not a gated fairway or a one-street dead-end off Sumner-Tapps Highway E.",
+    mapQuery: "Tacoma Point Drive E, Lake Tapps, WA",
+    latitude: 47.2412,
+    longitude: -122.2085,
+    geoRadiusMeters: 1800,
+    introHeading: "Two Peninsulas, Shared Parks, and Two Kinds of Moisture",
+    introLead:
+      "Homes along Tacoma Point Drive E sit on the water or a short walk from it. Evergreen Point streets and inland loops such as 184th Avenue East, 186th Avenue East, 17th Street East, and 14th Street Court East share the same Improvement Club parks without every lot being a bulkhead. Access typically comes off Lake Tapps Parkway E and 182nd Ave E — a different geometry than Deer Island’s single T off Sumner-Tapps Highway E, and nothing like West Tapps Highway view decks farther south. Siding picks up cove fog on the lake side and trailer dust inland; neighbors notice a messy job site because the private launch and Big Park sit at the entrance.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on Tacoma Point Drive E or claim we painted every elevation facing the small-park pier. We will wash, repair soft trim, and wait for dry windows that differ from a cove lot to an acreage rambler on 17th St E. Pierce County permits, occupied-home protection, and Dieringer School District calendars — Lake Tapps Elementary at 1320 178th Ave E, Dieringer Heights Elementary at 21727 34th St E, and North Tapps Middle School at 20029 12th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Evergreen Point is the sister peninsula on this page; we are not building a separate Evergreen Point route.",
+    trustCards: [
+      {
+        icon: "users",
+        title: "Optional club parks, not a mandatory color board",
+        body: "The Tacoma and Evergreen Point Improvement Club is volunteer-run. Membership unlocks the Big Park launch and the south-end Small Park — it is not the Tapps Island Association gate or a Deer Island no-HOA street. We ask which rules actually apply to your parcel instead of assuming a palette letter.",
+      },
+      {
+        icon: "droplets",
+        title: "Cove lots and inland lots on the same pair of points",
+        body: "Waterfront houses stay wet in the inlets. Inland 184th and 17th St E houses still grow mildew on north walls and fence posts. We spec wash and dry time for the lot you own — not a copied western-sun paragraph from Deer Island.",
+      },
+      {
+        icon: "car",
+        title: "Narrow point roads and a member launch at the entrance",
+        body: "Tacoma Point Drive E is not a wide suburban collector you can block with a sprayer. Boat days at the Big Park and dead-end courts change where a trailer can sit. We plan wash runoff so neighbors still reach the park, the pier, and Lake Tapps Parkway E.",
+      },
+      {
+        icon: "school",
+        title: "Dieringer’s split campuses, not a single neighborhood school",
+        body: "Point households run on Dieringer timing across two elementary campuses and North Tapps Middle. Interior sequencing and noisy wash days follow that calendar — a different weekday rhythm than Allan Yorke’s Sumner-Bonney Lake mornings.",
+      },
+    ],
+    reviewNames: ["David R.", "Sarah M.", "Tina W."],
+    galleryHeading: "Our Work Near Tacoma Point",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for northwest-peninsula homes and are not geo-tagged to Tacoma Point Drive E, 184th Ave E, Evergreen Point, or the private parks.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior renovation work on a residential home",
+        caption: "Exterior repaint — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-32-60.jpg",
+        alt: "Completed exterior deck project",
+        caption: "Deck staining — Lake Tapps and nearby work",
+      },
+      {
+        src: "/images/from-lane/lane-09-4771.jpg",
+        alt: "Interior painting project in progress",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Tacoma Point",
+      image: "/images/from-lane/lane-01-46.jpg",
+      imageAlt: "Elevated deck with a lake-area view",
+      serviceType: "Deck staining — nearby Lake Tapps home",
+      body: "Northwest-peninsula decks fail when cove moisture never lets the last coat cure or when inland lots get a one-coat shortcut after a dusty launch weekend. On a nearby Lake Tapps deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on Tacoma Point Drive E or 17th St E. Timeline followed dry windows, occupied-home access, and how trailers already use the point roads on member launch days. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Tacoma Point-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Tacoma Point private parks, keys, and launch-day access",
+        body: "The Big Park near the Tacoma Point Drive entrance has a swimming beach, boat launch, and courts; the Small Park at the south end of Tacoma Point has a fishing pier and a quieter shoreline. Those are member amenities, not Allan Yorke’s public city park and not Pierce County’s North Lake Tapps Park on 198th Ave E. We stage materials so we are not the extra trailer at a gated park entrance. Evergreen Point households use the same two parks — one page covers both peninsulas.",
+      },
+      {
+        heading: "Tacoma Point cove humidity versus inland 17th Street lots",
+        body: "Bulkhead and low-bank houses on Tacoma Point Drive E take reservoir humidity and splash. A few blocks inland toward 184th Ave E, 186th Ave E, and 17th St E the problem is often shade, north-wall mildew, and fence posts in wet soil. Washing is still the job. Coating damp wood so the house looks finished for a holiday weekend is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Tacoma Point county permits and optional club rules",
+        body: "Most of these parcels are unincorporated Pierce County, so structural decks and additions start at Planning & Public Works — not the Bonney Lake Permit Center used on Allan Yorke streets. The Improvement Club is optional membership for park keys, not a mandatory HOA color letter like Tapps Island Association. Some lots still have neighbor expectations. We ask which rules apply instead of copying a gated-island playbook onto every 186th Ave E ranch.",
+      },
+      {
+        heading: "Occupied interiors during the Dieringer school year",
+        body: "These are primary homes, including older lake houses that became year-round and newer ramblers on inland acreage. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work around Lake Tapps Elementary on 178th Ave E (grades 1–3) and Dieringer Heights Elementary on 34th St E (preschool, kindergarten, 4–5) so a bathroom and a bedroom remain usable. North Tapps Middle School on 12th St E is part of the same district clock.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Tacoma Point",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Tacoma Point pricing moves with peninsula staging, moisture prep that differs from a cove lot to an inland street, occupied interiors, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures on the same pair of points",
+        body: "Cove humidity and inland shade add labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access when members are launching",
+        body: "Narrow roads, dead-end courts, and the Big Park gate change how long wash and material drops take. We price that time instead of pretending Tacoma Point Drive E is a wide public collector.",
+      },
+      {
+        title: "Occupied rooms and county sequencing",
+        body: "Lived-in houses take protection time. Permit questions for new decks or fence height are written into the schedule so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Tacoma Point exteriors need wash, scrape, and prime for cove moisture or inland shade — then coatings that can take Pierce County winters and neighbor scrutiny from a shared park road.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Waterfront decks and inland privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning of a member launch.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors on Tacoma Point Drive E and 17th St E — walls, trim, and room-by-room protection around Dieringer’s split-campus calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Tacoma Point or Evergreen Point house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around the private parks, peninsula roads, and whether your lot sits on the water or a block inland.",
+    processHeading: "Our Tacoma Point Process",
+    processSteps: [
+      {
+        title: "Tacoma Point Site Assessment",
+        body: "Cove vs inland exposure, park-road and gate access, occupied vs vacant, and whether the job is siding, deck, or both.",
+      },
+      {
+        title: "Tacoma Point Scope, Colors & Club Rules",
+        body: "Pierce County permit questions when the work is structural, neighbor sightlines from the Big Park or the Small Park pier, and whether your parcel actually has Improvement Club or CC&R color expectations.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated northwest-peninsula houses.",
+      },
+      {
+        title: "Tacoma Point Paint / Build Days",
+        body: "Weather windows plus launch-day traffic on Tacoma Point Drive E and Lake Tapps Parkway E. We do not wash a narrow point road into member trailers.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Tacoma and Evergreen Point Improvement Club",
+        url: "https://www.tacoma-evergreen.org/",
+        description:
+          "The volunteer club that maintains the two private parks The Points share. We treat membership, keys, and the Big Park vehicle gate as a staging constraint — not a lifestyle brochure — and we do not confuse those parks with a public city launch.",
+      },
+      {
+        name: "Lake Tapps Elementary",
+        url: "https://ltes.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s grades 1–3 campus at 1320 178th Ave E sits on the north-lake side Point families actually drive. Interior paint days and material drops follow that calendar so occupied homes still function on school mornings.",
+      },
+      {
+        name: "Dieringer Heights Elementary",
+        url: "https://dhes.dieringer.wednet.edu/",
+        description:
+          "The preschool, kindergarten, and grades 4–5 campus at 21727 34th St E. Same district, second elementary clock — which is why a Tacoma Point household can have drop-off in two directions on the same weekday.",
+      },
+      {
+        name: "North Tapps Middle School",
+        url: "https://ntms.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s middle school at 20029 12th Street East. Sports and pickup windows are part of how we think about trailer placement on Lake Tapps Parkway E even when the job itself is on Tacoma Point Drive E.",
+      },
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+        description:
+          "Pierce County’s public swim and launch park at 2022 198th Avenue East — nearby north-shore life, not the Improvement Club’s private Big Park. Summer public-park traffic is a different weekend stack than member keys on Tacoma Point Drive.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Tacoma Point and Evergreen Point runs on a Dieringer-and-launch rhythm: split elementary campuses, a volunteer club for park keys, and peninsula roads that still have to stay open. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) on 178th Ave E, [Dieringer Heights Elementary](https://dhes.dieringer.wednet.edu/) on 34th St E, and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/). The [Tacoma and Evergreen Point Improvement Club](https://www.tacoma-evergreen.org/) is how members reach the private launch — which is why we treat boat days as a real constraint, not scenery.",
+      "Structural decks and additions on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). The public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) on hot weekends a short drive east; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that point-and-school rhythm — not as a name-swap of Deer Island, West Tapps Highway view decks, or gated Tapps Island.",
+    ],
+  },
 
 ];
