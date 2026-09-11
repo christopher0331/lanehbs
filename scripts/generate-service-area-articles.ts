@@ -71,6 +71,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Deer Island", path: "/service-areas/lake-tapps/deer-island" },
       { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
       { name: "Allan Yorke", path: "/service-areas/lake-tapps/allan-yorke" },
+      { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
     ],
     knownLinks: [
       {
@@ -111,6 +112,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Dieringer School District",
         url: "https://www.dieringer.wednet.edu/",
+      },
+      {
+        name: "Tacoma and Evergreen Point Improvement Club",
+        url: "https://www.tacoma-evergreen.org/",
       },
     ],
     peers: [

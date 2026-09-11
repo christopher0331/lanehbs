@@ -134,7 +134,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "Pierce County",
     heroTitle: "Painting & Remodeling Contractor in Lake Tapps, WA",
     heroDescription:
-      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations — including Tapps Island, Deer Island, Snag Island, Driftwood Point, West Tapps, Allan Yorke, and the plateau. Free estimates. Call (253) 414-3937.",
+      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations — including Tapps Island, Deer Island, Snag Island, Driftwood Point, West Tapps, Allan Yorke, Tacoma Point, and the plateau. Free estimates. Call (253) 414-3937.",
     metaTitle: "Lake Tapps Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Licensed painting, remodeling, deck & fence contractor in Lake Tapps, WA. Interior/exterior paint, cabinets, waterfront decks. Free estimates. (253) 414-3937.",
@@ -146,6 +146,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Allan Yorke Park",
       "North Lake Tapps Park",
       "Tapps Island Golf Course",
+      "Tacoma Point / Evergreen Point",
       "West Hylebos Wetlands",
       "Daffodil Valley",
     ],
@@ -177,7 +178,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Do you serve Tapps Island, Deer Island, and the rest of Lake Tapps?",
         answer:
-          "Yes. We work Tapps Island, Deer Island, Snag Island, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, the Lake Tapps Plateau, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
+          "Yes. We work Tapps Island, Deer Island, Snag Island, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point on the northwest peninsulas, the Lake Tapps Plateau, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
       },
       {
         question: "What painting services do you offer in Lake Tapps?",
@@ -199,7 +200,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Your Local Lake Tapps Painting & Remodeling Team",
-        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets — from gated Tapps Island off Island Parkway East to Deer Island Drive E, Snag Island, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, and the plateau. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
+        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets — from gated Tapps Island off Island Parkway East to Deer Island Drive E, Snag Island, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point off Lake Tapps Parkway E, and the plateau. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
       },
       {
         heading: "Services Built for Lakeside Living",
