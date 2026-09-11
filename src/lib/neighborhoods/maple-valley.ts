@@ -2159,4 +2159,220 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "Weekends often mean the [Lake Youngs Trail](https://www.wta.org/go-hiking/hikes/lake-youngs) or a drive to [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) — a public beach this CDP does not have at home. Indoor hours sit with the [King County Library System](https://kcls.org/). Power is [Puget Sound Energy](https://www.pse.com/). Broader green space is [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule coatings around wetland dry time, school traffic, and those calendars — not as a name-swap of Lake Wilderness or Ravensdale.",
     ],
   },
+  {
+    slug: "cedar-downs",
+    name: "Cedar Downs",
+    description:
+      "1976 Maple Valley HOA off Witte Road — large lots, ACC paint review, and a King County trailhead on SE 253rd, not Pipe Lake shoreline lots.",
+    blurb:
+      "In Cedar Downs, Lane HBS paints exteriors that need HOA color review, stains decks under mature trees, and repairs trim on 1970s custom homes along SE 254th Place, 215th Place SE, and SE 253rd Street. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "ACC-aware exterior painting — including same-color repaints",
+      "Moss and algae prep on large, tree-covered lots",
+      "Deck, fence, and carpentry work staged around the SE 253rd trailhead",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit or HOA approval to paint or build a deck in Cedar Downs?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually City of Maple Valley maintenance. New decks, rail-height changes, and some fences still go through Maple Valley Building. Separately, Cedar Downs HOA’s Architectural Control Committee reviews exterior paint — including a same-color repaint — plus decks, fences, and other exterior changes. We flag both desks on the free estimate instead of guessing from the mailbox.",
+      },
+      {
+        question: "What prep fits Cedar Downs’ canopy, algae, and 1970s custom homes?",
+        answer:
+          "Lots off SE 254th Place and 215th Place SE sit under mature cedars and maples. North walls collect algae and moss that the HOA already treats as a maintenance issue. We wash, scrape failed coatings, prime bare wood, and repair soft fascia before color. A one-coat quote that skips that inspection does not last here — and it will not look finished next to a neighbor the ACC already reviewed.",
+      },
+      {
+        question: "How do you price painting and remodeling in Cedar Downs?",
+        answer:
+          "Story count, wash-and-dry time under trees, trim carpentry on 1970s stock, occupied interiors, ACC sample rounds, and whether SE 253rd trailhead parking will slow staging. There is no published square-foot or HOA menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Cedar Downs exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Shade slows decks more than an open Four Corners elevation. Occupied interiors are sequenced room by room. We set the calendar after we see the wood, confirm ACC timing, and plan around weekday traffic on Witte Road SE — not from a photo.",
+      },
+      {
+        question: "Can you paint while we live here — and how do you stage on Cedar Downs streets?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash water, trailers, and parking so SE 254th Place, 215th Place SE, SE 252nd Place, and SE 253rd Street stay usable for neighbors and for hikers using the King County trailhead. City street-parking rules and HOA limits on commercial vehicles overnight are part of that plan, not an afterthought.",
+      },
+    ],
+    image: "/images/from-lane/lane-10-4769.jpg",
+    heroIntro:
+      "Cedar Downs is the 1976 Maple Valley HOA off Witte Road SE — SE 254th Place, 215th Place SE, SE 252nd Place, and SE 253rd Street — 170 custom homes on large, tree-covered lots. Paint and decks here have to clear Architectural Control Committee review and survive canopy moisture, not a Four Corners arterial schedule or a Pipe Lake shoreline permit split.",
+    mapQuery: "SE 254th Place and 215th Place SE, Maple Valley, WA",
+    latitude: 47.3576,
+    longitude: -122.0512,
+    geoRadiusMeters: 1400,
+    introHeading: "Canopy Lots, ACC Colors, and a Trailhead on the Same Streets",
+    introLead:
+      "Homes in Cedar Downs sit inside five recorded HOA divisions (1, 2, 3, 5, and 7) entered from Witte Road SE onto SE 254th Place. King County’s Cedar Creek forest opens from a trailhead on SE 253rd Street, between 212th Place SE and SE 252nd Place. That is a different moisture and staging problem than SR 169 dust at Four Corners, the city swim beach at Lake Wilderness, or the private shoreline lots we write about on the Covington Pipe Lake page. Most Cedar Downs houses are inland custom homes from the mid-1970s onward — large lots, mature trees, and algae on north siding — with member access to a private park on Pipe Lake rather than a dock in every backyard.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Cedar Downs jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 215th Place SE or claim a résumé of ACC hearings. We will walk trim, rails, and occupied interiors honestly, then ask what the Architectural Control Committee already expects before anyone talks color. Maple Valley Building still owns structural decks and new fences. Prep still starts the same way: wash, repair, prime, then coat.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "ACC review is not optional paint paperwork",
+        body: "Cedar Downs requires Architectural Control Committee approval for exterior painting, including a same-color repaint, plus decks and fences. We write samples and scope so you are not surprising the committee after the sprayer arrives.",
+      },
+      {
+        icon: "trees",
+        title: "Canopy moisture, not arterial film",
+        body: "Cedars and maples keep north walls damp. Algae and moss show first on fascia and shaded siding. We treat that as the job — not a Four Corners highway-dust wash.",
+      },
+      {
+        icon: "car",
+        title: "SE 253rd trailhead staging",
+        body: "Hikers park on the shoulder for King County’s Cedar Creek trails. We plan trailers so neighbors still reach driveways and the dead-end stays open.",
+      },
+      {
+        icon: "hammer",
+        title: "1970s custom trim before color",
+        body: "Large-lot houses from the mid-1970s often need soffit, fascia, and rail carpentry before a new coat. Paint-only bids that skip that inspection fail first under the trees.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Cedar Downs",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and interiors from Maple Valley-area and nearby jobs. They illustrate the work type for large-lot canopy homes and are not geo-tagged to SE 254th Place, 215th Place SE, or SE 253rd Street.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Exterior painting on a tree-lined home",
+        caption: "Exterior repaint — Maple Valley-area job",
+      },
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Modern deck on a wooded lot",
+        caption: "Deck and rail — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Cedar Downs",
+      image: "/images/from-lane/lane-07-1199.jpg",
+      imageAlt: "Exterior painting in progress on a residential home",
+      serviceType: "Exterior painting — nearby Maple Valley-area home",
+      body: "Canopy lots fail paint when wash and carpentry are skipped, not because the last color chip was wrong. On a nearby Maple Valley-area exterior we washed algae, let the siding dry, repaired soft fascia, and primed before color. The photo is owned Lane HBS work in the parent city area — not a house on SE 254th Place or 215th Place SE. Timeline followed dry windows, occupied-home access, and street-shoulder staging. We do not invent square footage or a Cedar Downs address for a job we cannot verify. On an actual CDHA lot we would also pause for Architectural Control Committee approval before the first finish coat.",
+    },
+    considerationsHeading: "Cedar Downs-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Cedar Downs HOA and ACC color review",
+        body: "The association’s Architectural Control Committee reviews exterior paint — including the same color — plus decks, fences, and other outside changes across the five divisions. We help you document samples. We do not treat ACC approval as a city building permit, and we do not treat a city permit as HOA approval.",
+      },
+      {
+        heading: "Cedar Downs shade, moss, and algae",
+        body: "Mature trees along SE 254th Place, 215th Place SE, and the 210th–214th Avenue SE loops keep north elevations damp. Algae on siding is common enough that the HOA lists it as a maintenance item. Washing is the job. Coating damp wood to look good for a Saturday is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Cedar Downs trailhead parking on SE 253rd",
+        body: "King County’s Cedar Creek trailhead sits on SE 253rd Street between 212th Place SE and SE 252nd Place. Street parking and weekend hikers are part of the neighborhood, not a surprise mid-wash. We stage so the dead-end and driveways stay usable.",
+      },
+      {
+        heading: "Occupied interiors and 1970s carpentry",
+        body: "These are year-round custom homes, not cabins. Kitchens and bedrooms stay in use. Soft soffits and tired rails on mid-1970s stock need an honest look before anyone promises paint-only. Member park days at the private Pipe Lake pavilion do not change that — most lots never touch the water.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Cedar Downs",
+    costIntro:
+      "We do not publish dollar-per-square-foot or HOA menus. Cedar Downs pricing moves with canopy wash time, trim repairs on 1970s homes, occupied interiors, ACC sample rounds, and trailhead-street access. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and dry time under the canopy",
+        body: "Shade and algae add labor before any coating. Cheap quotes skip the difference and fail on the north elevation first.",
+      },
+      {
+        title: "Access on SE 254th and SE 253rd",
+        body: "HOA streets and a public trailhead change how long wash and material drops take. We price that time instead of pretending this is an empty cul-de-sac.",
+      },
+      {
+        title: "Carpentry, ACC samples, and occupied rooms",
+        body: "Soft fascia, lived-in kitchens, and committee color review take protection and calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Cedar Downs exteriors need wash, scrape, and prime for canopy algae — then coatings that can take South King County winters and an ACC file.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Large-lot decks and privacy fences — clean, dry, repair what is soft, then finish. New fence or deck height still belongs in both the city and ACC conversations.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "1970s custom soffits, fascia, and rails often need carpentry before paint. We repair what will fail under a new coat.",
+      },
+    ],
+    estimateBandCopy:
+      "Cedar Downs house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around ACC review, canopy dry time, and the SE 253rd trailhead.",
+    processHeading: "Our Cedar Downs Process",
+    processSteps: [
+      {
+        title: "Cedar Downs Site Assessment",
+        body: "Canopy, lot access off Witte and SE 254th, occupancy, trailhead traffic, and whether the work is cosmetic or structural.",
+      },
+      {
+        title: "Cedar Downs Scope, Colors & HOA",
+        body: "Architectural Control Committee samples — including same-color repaints — plus any Maple Valley Building items written before a sprayer shows up.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash algae, scrape, prime, and carpentry on soft trim or rails. This is the Lane HBS differentiator on previously coated canopy houses.",
+      },
+      {
+        title: "Cedar Downs Paint / Build Days",
+        body: "Weather windows under trees plus weekday timing on Witte Road SE. We do not wash SE 253rd into trailhead parking.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Cedar Creek — King County Parks",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/cedar-creek",
+        description:
+          "King County’s 130-acre forest between Maple Valley and Covington. Official directions enter Cedar Downs from Witte Road SE onto SE 254th Place, then 215th Place SE and SE 252nd Place, to a trailhead on SE 253rd Street. Why weekend shoulder parking matters on a wash day.",
+      },
+      {
+        name: "Maple Valley Library",
+        url: "https://kcls.org/locations/maple-valley/",
+        description:
+          "King County Library System’s branch at 21844 SE 248th Street, just north of the Witte Road approach into Cedar Downs. Indoor hours for households that do not treat Lake Wilderness Park as the only civic stop.",
+      },
+      {
+        name: "Lake Wilderness Elementary",
+        url: "https://lakewilderness.tahomasd.us/",
+        description:
+          "Tahoma School District campus at 24216 Witte Road SE — the same arterial that feeds SE 254th Place. We do not assign every Cedar Downs lot to this school; we do plan weekday staging around Witte Road bells when the calendar is busy.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "Where Cedar Downs parcels take structural deck, rail, and remodel questions. Cosmetic repaints are usually maintenance. ACC approval is a separate HOA file — we name both after we see the address.",
+      },
+      {
+        name: "Lake Wilderness Park",
+        url: "https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5",
+        description:
+          "Maple Valley’s public swim beach and arboretum — useful for weekends, not a substitute for Cedar Downs’ private Pipe Lake park or for King County’s Cedar Creek woods behind SE 253rd.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Cedar Downs is large-lot streets plus a forest edge: trail days start at [King County’s Cedar Creek](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/cedar-creek) on SE 253rd, errands still run through the [City of Maple Valley](https://www.maplevalleywa.gov/), and indoor research sits at the [Maple Valley Library](https://kcls.org/locations/maple-valley/) on SE 248th. Structural questions start at [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). HOA color and exterior-change questions sit with the [Cedar Downs Homeowners Association](https://cedardownsmvhoa.com/).",
+      "School calendars are [Tahoma School District](https://www.tahomasd.us/) — Lake Wilderness Elementary is the nearby campus on Witte Road, not a claim about every lot. Public beach days still use [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5). Power is [Puget Sound Energy](https://www.pse.com/), and longer paved miles pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We schedule coatings around ACC timing, canopy dry windows, and that trailhead — not as a name-swap of Four Corners retail or the Covington Pipe Lake shoreline page.",
+    ],
+  },
 ];

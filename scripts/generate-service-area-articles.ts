@@ -247,6 +247,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
       { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
+      { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },

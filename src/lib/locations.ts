@@ -306,7 +306,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Lake Wilderness, Lake Desire, Meadows at Rock Creek, Hobart, Shadow Lake & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Lake Wilderness, Lake Desire, Meadows at Rock Creek, Hobart, Shadow Lake, Cedar Downs & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -321,6 +321,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Maple Valley Community Center",
       "Legacy Park",
       "Taylor Mountain Forest",
+      "Cedar Downs / Cedar Creek Park",
     ],
     climateDescription:
       "Maple Valley sits in the Cascade foothills with more precipitation and tree cover than many lowland suburbs. Shade, moss, and moisture mean exteriors and decks need washing, mildew awareness, and coatings chosen for wetter microclimates.",
@@ -350,7 +351,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Lake Wilderness communities, Lake Desire (Maple Heights–Lake Desire), Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, and Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Lake Wilderness communities, Lake Desire (Maple Heights–Lake Desire), Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs off Witte Road SE, and Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -367,7 +368,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, unincorporated Hobart along Issaquah-Hobart Road, and Shadow Lake along Petrovitsky and Sweeney Road, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, unincorporated Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, and Cedar Downs’ 1976 HOA lots off Witte Road SE, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",
