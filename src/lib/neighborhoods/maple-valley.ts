@@ -1509,4 +1509,220 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "Groceries and civic errands still run into the [City of Maple Valley](https://www.maplevalleywa.gov/) or Renton, depending on the trip. School calendars are parcel-specific; many Maple Valley-area families still track [Tahoma School District](https://www.tahomasd.us/) even when the house mails to 98058. Indoor hours stay with the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around lake-loop access and those calendars — not as a name-swap of Lake Wilderness or Shadow Lake.",
     ],
   },
+  {
+    slug: "meadows-at-rock-creek",
+    name: "Meadows at Rock Creek",
+    description:
+      "Mid-2000s Maple Valley HOA on narrow streets — ARC paint swatches, no-street-parking staging, and hillside drainage around SE 268th.",
+    blurb:
+      "On SE 268th Street, 225th Place SE, 226th Place SE, and 227th Place SE, Lane HBS handles ARC-reviewed exterior painting, occupied interiors, and deck or fence work inside the Meadows at Rock Creek HOA. Free estimates — call (253) 414-3937.",
+    highlights: [
+      "ARC color samples and exterior painting that survive Maple Valley rain",
+      "Occupied-home interiors on close 2000s craftsman lots",
+      "Deck stain and lot-line fence work planned around no-street-parking rules",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit or HOA approval to paint or build a deck in Meadows at Rock Creek?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually city maintenance. New decks, structural rail changes, or fence height changes can need Maple Valley Building review. Separately, the Meadows at Rock Creek Architectural Review Committee requires written approval before exterior repainting, reroofing, fencing, sheds, or covered decks — even when the city does not. We treat ARC and city as two checklists on the free estimate.",
+      },
+      {
+        question: "What prep fits Meadows at Rock Creek’s hillside drainage and 2000s siding?",
+        answer:
+          "The plat was designed so stormwater runs down the main boulevard and the hill toward SE 268th Street. North and downhill elevations stay damp, and cement-plank craftsman siding still grows film between rain cycles. We wash, scrape failed coatings, prime bare trim, and wait for dry wood — we do not coat a wet north wall to beat an ARC calendar.",
+      },
+      {
+        question: "How do you price painting and remodeling in Meadows at Rock Creek?",
+        answer:
+          "Story count, ARC sample time, repair quantity, occupied interiors, deck or fence condition, and staging on streets that do not allow on-street parking. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site scope.",
+      },
+      {
+        question: "How long does a typical Meadows at Rock Creek interior, exterior, or deck job take?",
+        answer:
+          "A single-family interior or exterior is usually several days once prep is honest. ARC review can take up to 30 days after a complete packet, and approvals last six months, so we plan samples before coating days. Deck staining adds wash-and-dry time on shaded backyard elevations. We set the calendar after we see the lot — including where a trailer can sit without blocking a sidewalk.",
+      },
+      {
+        question: "Can you paint while we live here, and how do you stage on no-parking streets?",
+        answer:
+          "Yes. These are occupied family homes, not vacant flips. We phase rooms, protect floors, and keep driveways usable. The 2004 street design traded width for density and wrote no on-street parking into the plat — including driveway aprons that sit on the sidewalk. We stage from your driveway and discuss material drops on 225th Place SE, 226th Place SE, or 227th Place SE at the site visit so we are not the extra vehicle the association is enforcing against.",
+      },
+    ],
+    image: "/images/from-lane/lane-01-46.jpg",
+    heroIntro:
+      "Meadows at Rock Creek is the mid-2000s HOA pocket just north of Kent-Kangley — SE 268th Street, 225th Place SE, 226th Place SE, and 227th Place SE. Paint and decks here run on ARC samples, narrow-street staging, and hillside drainage, not on Four Corners retail parking or a SE Tahoma Way collector.",
+    mapQuery: "SE 268th Street and 225th Place SE, Maple Valley, WA",
+    latitude: 47.3708,
+    longitude: -122.0385,
+    geoRadiusMeters: 1400,
+    introHeading: "Narrow Streets, ARC Swatches, and Siding That Faces a Drain Line",
+    introLead:
+      "The Meadows at Rock Creek plat was laid out in 2004 so the builder could fit more homes on narrower streets. In exchange, the city and the CC&Rs banned on-street parking. Houses along 225th Place SE, 226th Place SE, and 227th Place SE are close-in 2000s craftsman two-stories — cement plank, stone accents, backyard decks — sitting on a hill that is designed to shed water toward SE 268th Street. The south perimeter looks at Kent-Kangley (SE 272nd). That is a different job than the SR 169 strip-mall corners a few blocks west, and it is not Summit’s newer streetscape or Wilderness Rim’s canopy hillside.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Meadows at Rock Creek jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 227th Place SE or claim a seat on the Architectural Review Committee. We will walk siding, decks, and trim honestly, help you put manufacturer names and color codes on the ARC packet, paint the required 3×3 base and 1×1 trim swatches when you need them, then wash, repair, and coat so the approved color actually lasts. City permits still sit with Maple Valley Building when the work is structural.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "ARC packets, not a color-chip guess",
+        body: "Meadows at Rock Creek requires ARC approval before exterior paint. The published process asks for manufacturer, color names, code numbers, a 3×3 base swatch on the front elevation, and 1×1 trim and accent samples. We build that into the schedule instead of showing up with a sprayer on day one.",
+      },
+      {
+        icon: "car",
+        title: "No-street-parking staging is the access plan",
+        body: "These streets were approved as narrow on purpose. Parking on the street or on a driveway apron that covers the sidewalk is a rules issue, not a courtesy. We stage from the driveway and time material drops so neighbors on 226th Place SE can still reach their own garage.",
+      },
+      {
+        icon: "droplets",
+        title: "Hillside drains, not a leaky-sprinkler story",
+        body: "Water that runs the boulevard and the hill toward SE 268th is how the plat was designed. Downhill and north elevations stay wet longer. Coatings wait for dry substrate, especially after a wash.",
+      },
+      {
+        icon: "users",
+        title: "Close lots and a working HOA, not arterial retail",
+        body: "Neighbors see the job site from the next driveway. This is not Four Corners storefront staging and not a large-lot 1970s HOA. We keep sidewalks clear, contain interiors, and treat the association’s common-area parks as places kids still use during a paint week.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "David R."],
+    galleryHeading: "Our Work Near Meadows at Rock Creek",
+    galleryNote:
+      "Owned Lane HBS photos of interiors, cabinets, and deck carpentry from Maple Valley-area and nearby jobs. They illustrate the work type — they are not geo-tagged to SE 268th Street or 226th Place SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Occupied living room masked and painted",
+        caption: "Interior painting with occupied-home protection",
+      },
+      {
+        src: "/images/painting16.jpg",
+        alt: "Kitchen cabinet painting in a family home",
+        caption: "Kitchen cabinet painting",
+      },
+      {
+        src: "/images/from-lane/lane-16-48.jpg",
+        alt: "New wood rail cap and post on a deck",
+        caption: "Deck rail carpentry before finish",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Meadows at Rock Creek",
+      image: "/images/painting16.jpg",
+      imageAlt: "Refinished kitchen cabinets in an occupied family home",
+      serviceType: "Kitchen cabinet painting — nearby Maple Valley family home",
+      body: "Meadows at Rock Creek kitchens are daily family rooms in 2000s two-stories, not show houses. On a nearby Maple Valley job we cleaned, sanded, primed, and recoated cabinets so the kitchen stayed usable while rooms around it stayed in circulation. The photo is owned Lane HBS work in the parent-city area — not a 227th Place SE address. For exteriors on these streets the extra step is the ARC swatch wall; for interiors it is containment on a lot where the neighbor’s driveway is a few feet away. Timeline followed cure time and occupied-home sequencing, not a fictional cabinet-door count.",
+    },
+    considerationsHeading: "Meadows at Rock Creek-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Meadows at Rock Creek ARC and color samples",
+        body: "The association’s published painting rule is specific: complete the ARC application, list manufacturer and color codes, and put a 3×3 base swatch plus 1×1 trim and accent samples on the front of the house. The committee has 30 days after a complete packet, and an approval is good for six months. We do not treat that as optional paperwork, and we do not start a full elevation before the sample is accepted.",
+      },
+      {
+        heading: "Meadows at Rock Creek narrow streets and parking",
+        body: "SE 268th Street, 225th Place SE, 226th Place SE, and 227th Place SE were drawn narrow so more lots would fit. The plat and the rules ban street parking and apron parking that sits on the sidewalk. Wash water, ladders, and a trailer have to live in the driveway plan. We write that down at the estimate so we are not the vehicle a parking patrol photographs.",
+      },
+      {
+        heading: "Meadows at Rock Creek hillside moisture and perimeter fences",
+        body: "Storm drains on the boulevard and the hill toward 268th are working as designed; the HOA has said so publicly. That still means downhill siding and backyard decks stay damp. Lot-line fences are the homeowner’s. The association stains only the published perimeter runs that face Kent-Kangley and SE 268th — Sherwin-Williams Woodscapes Cedar Bark #3511, semi-transparent, on those HOA faces. We do not assume your backyard fence is an HOA asset.",
+      },
+      {
+        heading: "Occupied craftsman interiors next door",
+        body: "These are primary homes. Kitchens, bonus rooms, and upstairs halls get used during a job. We phase rooms, protect floors, and keep the only legal parking — the driveway — open for the household. School assignment is parcel-specific; the HOA community page lists Cedar River Elementary, Summit Trail Middle School, and Tahoma High, and we follow your drop-off, not a guessed campus.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Meadows at Rock Creek",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot charts. Meadows at Rock Creek pricing follows ARC sample time, wash-and-dry on hillside elevations, carpentry on 2000s trim and decks, occupied interiors, and the extra labor of staging on streets that cannot take a parked trailer.",
+    costDrivers: [
+      {
+        title: "ARC samples and two-story access",
+        body: "Swatch walls, committee calendars, and ladder time on craftsman elevations add days before color. That labor is in the written estimate.",
+      },
+      {
+        title: "Narrow-street staging",
+        body: "No on-street parking means more trips, tighter material drops, and driveway protection. We price the access you actually have, not a wide-collector fantasy.",
+      },
+      {
+        title: "Repairs, decks, and lot-line fences",
+        body: "Soft trim, tired deck boards, and homeowner fence runs are separate from the HOA’s Kent-Kangley perimeter stain. We scope them openly so the bid is not hiding carpentry.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and coat for Meadows at Rock Creek elevations — ARC samples first, then weather-honest prep on hillside and street sides.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied 2000s interiors phased room-by-room so kitchens and bedrooms stay usable on close lots.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard deck stain and homeowner lot-line fences. Structure first, then coating — and we will not treat your fence as the HOA perimeter run unless it is.",
+      },
+    ],
+    estimateBandCopy:
+      "Meadows at Rock Creek exterior, kitchen, or deck on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Meadows at Rock Creek Process",
+    processSteps: [
+      {
+        title: "Meadows at Rock Creek Site Assessment",
+        body: "Driveway staging, hillside drainage, occupancy, siding and deck condition, and whether the fence is yours or an HOA perimeter face.",
+      },
+      {
+        title: "Meadows at Rock Creek Scope, Colors & HOA",
+        body: "Written scope plus ARC packet support: manufacturer, color codes, and the 3×3 / 1×1 swatches the committee publishes. City structural notes if a deck or fence changes height.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash film off cement plank, scrape failed paint, repair trim, prime bare wood, inspect deck structure. This is the Lane HBS differentiator.",
+      },
+      {
+        title: "Meadows at Rock Creek Paint / Build Days",
+        body: "Weather windows after a real dry-out; phased interiors; material drops that leave 225th, 226th, and 227th Place SE passable.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You walk elevations and rooms with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Meadows at Rock Creek HOA",
+        url: "https://www.meadowsatrockcreek.com/",
+        description:
+          "The association’s public site — ARC process, parking rules, and common-area notes that actually govern paint, fences, and trailer staging on these streets. We read it as a job constraint, not a brochure.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "The city counter for structural decks, additions, and fence questions. ARC approval does not replace a building permit when the work leaves the cosmetic-repaint category.",
+      },
+      {
+        name: "Cedar River Elementary",
+        url: "https://cedarriver.tahomasd.us/",
+        description:
+          "The Tahoma campus at 22615 Sweeney Road SE that the HOA community page lists for many Meadows at Rock Creek households. Assignment is still parcel-specific — we follow your bell time, not a guessed school.",
+      },
+      {
+        name: "Tahoma High School",
+        url: "https://tahomahighschool.tahomasd.us/",
+        description:
+          "At 23499 SE Tahoma Way — the high-school clock for this side of Maple Valley. Kent-Kangley and SE Tahoma Way fill at release; we do not time a wash on the 268th edge for that queue.",
+      },
+      {
+        name: "Maple Valley Parks & Trails",
+        url: "https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php",
+        description:
+          "The city’s directory for Lake Wilderness Park, Legacy Site, and the gravel rail-trail that already meets Kent-Kangley at the south edge of this HOA. Weekend park and trail use is why backyard decks here wear like family furniture, not like a vacant lot.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life inside Meadows at Rock Creek runs on the [Meadows at Rock Creek HOA](https://www.meadowsatrockcreek.com/) calendar and [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) when a deck or fence leaves maintenance. School days follow [Tahoma School District](https://www.tahomasd.us/) — the HOA lists [Cedar River Elementary](https://cedarriver.tahomasd.us/); confirm your address before you assume a campus.",
+      "Civic errands go through the [City of Maple Valley](https://www.maplevalleywa.gov/). Indoor hours often land at the [Maple Valley Library](https://kcls.org/locations/maple-valley/) at 21844 SE 248th Street. Weekend miles use [Maple Valley Parks & Trails](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php). Power and streetlights on the public streets sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around ARC samples, no-parking streets, and those calendars — not as a name-swap of Four Corners retail, Summit, or Wilderness Rim.",
+    ],
+  },
 ];
