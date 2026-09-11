@@ -24,6 +24,7 @@ import {
 } from "lucide-react";
 import AboutTheArea, { LinkedCopy } from "@/components/AboutTheArea";
 import JsonLd from "@/components/seo/JsonLd";
+import ServiceAreaMap from "@/components/ServiceAreaMap";
 import { SITE_CONFIG } from "@/constants/siteConfig";
 import type { Neighborhood, NeighborhoodTrustIcon, ServiceAreaCity } from "@/lib/locations";
 import {
@@ -80,7 +81,6 @@ function StarRating({ rating }: { rating: number }) {
 
 export default function NeighborhoodTemplate({ city, neighborhood }: Props) {
   const canonicalPath = `/service-areas/${city.slug}/${neighborhood.slug}`;
-  const mapSrc = `https://maps.google.com/maps?q=${encodeURIComponent(neighborhood.mapQuery)}&z=14&output=embed`;
   const reviews = getTestimonialsByName(neighborhood.reviewNames);
   const faqSchema = buildFaqPage(neighborhood.faqs);
   const siblings = city.neighborhoods.filter((n) => n.slug !== neighborhood.slug);
@@ -181,13 +181,13 @@ export default function NeighborhoodTemplate({ city, neighborhood }: Props) {
               </Link>
             </div>
           </div>
-          <div className="aspect-[4/3] border border-white/15 overflow-hidden bg-[#111111]">
-            <iframe
-              title={`Map of ${neighborhood.name}, ${city.name}`}
-              src={mapSrc}
-              className="w-full h-full border-0"
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
+          <div className="relative aspect-[4/3] border border-white/15 overflow-hidden bg-[#111111]">
+            <ServiceAreaMap
+              className="absolute inset-0 h-full w-full"
+              latitude={neighborhood.latitude}
+              longitude={neighborhood.longitude}
+              radiusMeters={neighborhood.geoRadiusMeters}
+              label={`${neighborhood.name}, ${city.name}, ${city.state}`}
             />
           </div>
         </div>

@@ -61,9 +61,24 @@ body {
   background-clip: text;
 }
 
-/* Section divider */
 .section-divider {
   width: 60px;
   height: 3px;
   background: linear-gradient(90deg, var(--gold), var(--gold-light));
+}
+
+.service-area-map {
+  isolation: isolate;
+  z-index: 0;
+}
+.service-area-map .leaflet-container {
+  background: #111111;
+  font: inherit;
+  height: 100%;
+  width: 100%;
+}
+
+.service-area-map-pin {
+  background: none !important;
+  border: none !important;
 }
