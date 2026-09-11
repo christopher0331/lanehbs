@@ -159,6 +159,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/enumclaw/enumclaw-plateau",
       },
       { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
+      { name: "Elk Meadows", path: "/service-areas/enumclaw/elk-meadows" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -179,6 +180,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Enumclaw Expo Center",
         url: "https://www.enumclawexpo.com/",
+      },
+      {
+        name: "Holdener Farm PUD Design Standards",
+        url: "https://www.cityofenumclaw.net/220/Holdener-Farm-PUD-Design-Standards",
+      },
+      {
+        name: "Ellenson Park",
+        url: "https://www.cityofenumclaw.net/facilities/facility/details/Ellenson-Park-10",
       },
       {
         name: "Washington State Department of Labor & Industries",
