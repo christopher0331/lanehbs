@@ -245,6 +245,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/maple-valley/meadows-at-rock-creek",
       },
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
+      { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -270,6 +271,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Spring Lake / Lake Desire Park",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/spring-lake",
+      },
+      {
+        name: "King County Permitting",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits",
+      },
+      {
+        name: "Taylor Mountain Forest",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
       },
     ],
     peers: [
