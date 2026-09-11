@@ -119,12 +119,15 @@ async function mountLeafletMap(
   const map = L.map(el, {
     scrollWheelZoom: false,
     attributionControl: true,
-    zoomControl: true,
+    zoomControl: false,
   }).setView([point.latitude, point.longitude], zoomForRadiusMeters(point.radiusMeters));
 
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+  L.control.zoom({ position: "bottomright" }).addTo(map);
+
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 19,
   }).addTo(map);
 
   const icon = L.divIcon({
@@ -197,13 +200,13 @@ export default function ServiceAreaMap({
         id={titleId}
         role="region"
         aria-label={`Map of ${label}`}
-        className="absolute inset-0"
+        className="absolute inset-0 z-0"
       />
       <a
         href={googleMapsSearchUrl(latitude, longitude)}
         target="_blank"
         rel="noreferrer"
-        className="absolute left-3 top-3 z-[2] bg-white px-3 py-1.5 text-xs font-semibold text-[#1a73e8] shadow-sm hover:underline"
+        className="absolute left-3 top-3 z-20 bg-white px-3 py-1.5 text-xs font-semibold text-[#1a73e8] shadow-sm hover:underline"
       >
         Open in Maps ↗
       </a>
