@@ -226,6 +226,10 @@ const AREAS: Record<string, AreaSeed> = {
       },
       { name: "Tahoma", path: "/service-areas/maple-valley/tahoma" },
       { name: "Lake Desire", path: "/service-areas/maple-valley/lake-desire" },
+      {
+        name: "Meadows at Rock Creek",
+        path: "/service-areas/maple-valley/meadows-at-rock-creek",
+      },
       { name: "Ravensdale", path: "/service-areas/maple-valley/ravensdale" },
     ],
     knownLinks: [
