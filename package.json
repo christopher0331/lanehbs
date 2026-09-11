@@ -7,11 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --import tsx --test src/lib/contact.test.ts src/lib/sendEstimateEmail.test.ts src/lib/estimatePopup.test.ts",
+    "test": "node --import tsx --test src/lib/contact.test.ts src/lib/sendEstimateEmail.test.ts src/lib/estimatePopup.test.ts src/lib/serviceAreaMap.test.ts",
     "generate:articles": "npx tsx scripts/generate-service-area-articles.ts"
   },
   "dependencies": {
     "framer-motion": "^12.37.0",
+    "leaflet": "^1.9.4",
     "lucide-react": "^0.577.0",
     "next": "16.1.7",
     "react": "19.2.3",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@netlify/plugin-nextjs": "^5.15.9",
     "@tailwindcss/postcss": "^4",
+    "@types/leaflet": "^1.9.22",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",

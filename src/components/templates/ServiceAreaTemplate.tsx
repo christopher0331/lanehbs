@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 import JsonLd from "@/components/seo/JsonLd";
 import ServiceAreaArticleBody from "@/components/ServiceAreaArticle";
+import ServiceAreaMap from "@/components/ServiceAreaMap";
 import { SITE_CONFIG } from "@/constants/siteConfig";
 import type { ServiceAreaArticle } from "@/content/service-areas/types";
 import type { ServiceAreaCity } from "@/lib/locations";
@@ -18,6 +19,7 @@ import {
   buildFaqPage,
   buildLocalBusiness,
 } from "@/lib/seo";
+import { cityServiceRadiusMeters } from "@/lib/serviceAreaMap";
 import { servicePages } from "@/lib/services";
 
 type Props = {
@@ -116,6 +118,35 @@ export default function ServiceAreaTemplate({ city, article }: Props) {
           <span className="flex items-center gap-2">
             <MapPin size={16} className="text-[#c9a458]" /> Based in Lake Tapps
           </span>
+        </div>
+      </section>
+
+      <section className="py-16 bg-[#0d0d0d]">
+        <div className="max-w-7xl mx-auto px-6 grid lg:grid-cols-[1.1fr_0.9fr] gap-10 items-center">
+          <div>
+            <div className="flex items-center gap-3 mb-4">
+              <div className="h-px w-10 bg-[#c9a458]" />
+              <span className="text-[#c9a458] text-xs tracking-[0.4em] uppercase">
+                Service Area
+              </span>
+            </div>
+            <h2 className="font-display text-3xl md:text-4xl font-bold text-white mb-4">
+              {city.name} on the map
+            </h2>
+            <p className="text-white/55 leading-relaxed">
+              We work in {city.name} and nearby {city.county} neighborhoods from this center
+              point. The circle is the local service radius — call if you are just outside it.
+            </p>
+          </div>
+          <div className="relative aspect-[4/3] border border-white/15 overflow-hidden bg-[#111111]">
+            <ServiceAreaMap
+              className="absolute inset-0 h-full w-full"
+              latitude={city.latitude}
+              longitude={city.longitude}
+              radiusMeters={cityServiceRadiusMeters(city)}
+              label={`${city.name}, ${city.state}`}
+            />
+          </div>
         </div>
       </section>
 
