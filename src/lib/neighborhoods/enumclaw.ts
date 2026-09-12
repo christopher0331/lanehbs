@@ -1076,4 +1076,220 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "School bells sit with [Southwood Elementary](https://swe.enumclaw.wednet.edu/) and the rest of the [Enumclaw School District](https://www.enumclaw.wednet.edu/). Longer rides pick up the [Foothills Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/foothills-trail). Power is [Puget Sound Energy](https://www.pse.com/). We schedule Elk Meadows coatings around those sidewalk and school rhythms — not as a name-swap of downtown storefronts, Boise Creek shade, or open plateau acreage.",
     ],
   },
+  {
+    slug: "krain",
+    name: "Krain",
+    description:
+      "Historic crossroads north of Enumclaw at SR 169 and SE 400th — acreage houses, highway film, and King County permits, not a city PUD.",
+    blurb:
+      "At Krain Corner — SR 169, SE 400th Street, 264th Avenue SE, and 254th Avenue SE — Lane HBS paints exteriors, repairs farmhouse wood, and stains decks or fences on unincorporated lots that take highway dust and plateau weather. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for SR 169 film and open plateau elevations",
+      "Carpentry before paint on farmhouse trim, shops, and older siding",
+      "Deck stain and livestock-fence work planned around gravel drives",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit to paint, build a deck, or replace a fence in Krain?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, accessory buildings, and some fence-height changes typically go through King County Local Services Permitting — Krain is the unincorporated crossroads at SR 169 and SE 400th, even when the mailbox says Enumclaw 98022. We flag city-edge vs. county parcels on the free estimate instead of guessing from the restaurant corner.",
+      },
+      {
+        question: "What prep fits Krain’s highway dust, wind, and older farmhouse wood?",
+        answer:
+          "SE 400th and 264th Avenue SE sit in the slipstream of SR 169. South and west walls collect road film; open pasture elevations take wind-driven rain; north walls and tree lots still grow mildew. We wash first, scrape failed coatings on late-19th and 20th-century trim, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a highway-facing farmhouse.",
+      },
+      {
+        question: "How do you price painting and remodeling in Krain?",
+        answer:
+          "Story count, repair quantity on older wood, highway-side wash time, gravel-drive staging, occupied interiors, and whether a shop, barn, or fence run is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Krain exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and decks depend on wash-dry windows after highway film comes off and after carpentry. Longer drives, livestock gates, and a second structure add staging time. We write the calendar after we see the parcel — we do not coat in a storm to hit a date.",
+      },
+      {
+        question: "Can you paint while we live on a Krain acreage lot?",
+        answer:
+          "Yes. Most Krain houses are occupied, and many still have animals that need a working fence line. We phase rooms, protect entries, and plan temporary gates before we pull boards. Trailer placement on SE 400th, 264th Avenue SE, or a gravel spur gets discussed at the site visit so we are not the extra vehicle in the SR 169 / 400th queue.",
+      },
+    ],
+    image: "/images/from-lane/lane-21-101.jpg",
+    heroIntro:
+      "Krain is the historic crossroads just north of Enumclaw — SR 169 at SE 400th Street, 264th Avenue SE, and the cemetery corner at 254th. Paint, decks, and fences here face highway film, acreage access, and older farmhouse wood, not a Cole Street storefront or a Holdener Farm color packet.",
+    mapQuery: "Krain Corner, Enumclaw, WA",
+    latitude: 47.24278,
+    longitude: -121.98917,
+    geoRadiusMeters: 2400,
+    introHeading: "Highway Film, Farmhouse Wood, and a Corner That Still Has a Name",
+    introLead:
+      "Locals still call this Krain Corner: the light at State Route 169 and SE 400th Street, the inn at 39929 264th Avenue SE, and the pasture cemetery a half-mile west at SE 400th and 254th Avenue SE. Houses along SE 400th Street, SE 400th Way, 264th Avenue SE, and 272nd Avenue SE sit on working acreage — 1920s farmhouses, later ramblers, shops, and horse fence — not sidewalk lots. Porter Street in town becomes 264th as it runs north; that is a different geometry than Osceola’s south-loop farm grid on SE 448th and SE 456th Way, and it is not Boise Creek’s park-adjacent yards.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Krain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 264th Avenue SE or claim we painted the inn. We will walk your trim, highway-facing siding, and outbuilding boards honestly, then tell you whether the parcel is King County before anyone talks color. Wabash is the older name you still hear east along 400th toward Veazie-Cumberland Road; it is the same corridor on this page, not a second neighborhood route.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "County permits on an Enumclaw mailbox",
+        body: "Krain addresses read Enumclaw 98022 and still sit in unincorporated King County more often than not. A new deck or shop is not the same desk as a Cole Street facade. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "car",
+        title: "SR 169 film is a wash problem, not a color problem",
+        body: "Traffic at the 169 / 400th light throws dust and road spray onto south and west elevations. We wash and wait for dry wood. Skipping that step so a farmhouse can look “fresh” for a weekend is how film prints through the next winter.",
+      },
+      {
+        icon: "hammer",
+        title: "Farmhouse and shop wood before coatings",
+        body: "Late-19th and early-20th-century trim, plus later shop siding, fail at joints first. Paint is not a patch on soft fascia. We repair, then prime — house and outbuilding as separate elevations when they are.",
+      },
+      {
+        icon: "home",
+        title: "Occupied acreage, not a PUD sidewalk",
+        body: "Dogs, horses, and kids still use the lot during a job. There is no Holdener Farm color board here and no downtown after-hours storefront clock. We phase rooms and gates so the property stays livable.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Sarah M."],
+    galleryHeading: "Our Work Near Krain",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and carpentry work from Enumclaw-area and nearby jobs. Shown as examples of weather-facing acreage-style work — not claimed as a house on SE 400th Street or 264th Avenue SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-21-101.jpg",
+        alt: "Exterior painting on a weather-facing home",
+        caption: "Exterior house painting after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "Deck railing carpentry before finish",
+        caption: "Deck rail carpentry before stain",
+      },
+      {
+        src: "/images/from-lane/lane-30-4772.jpg",
+        alt: "Trim and siding repair before coating",
+        caption: "Carpentry repair before exterior paint",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Krain",
+      image: "/images/from-lane/lane-07-1199.jpg",
+      imageAlt: "Exterior renovation and trim repair on a plateau-style home",
+      serviceType: "Repairs and exterior prep — nearby Enumclaw-area home",
+      body: "Krain farmhouses fail at the same places every wet season: fascia returns, window heads, and siding that has been recoated over highway film and failed caulk. On a nearby Enumclaw-area exterior we opened those joints, replaced what was soft, primed bare wood, and then coated — instead of spraying over movement. The photo is owned Lane HBS work in the parent-city region, not a named SE 400th or 264th Avenue SE address. Access down a gravel drive and a real dry window after wash set the schedule more than square footage.",
+    },
+    considerationsHeading: "Krain-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Krain Corner traffic and SE 400th access",
+        body: "SR 169 between SE 400th and SE 416th is a working state highway, not a cul-de-sac. Wash water, trailers, and material staging have to respect the light, neighbor drives, and livestock gates. We plan that at the site visit so we are not blocking the corner the restaurant and cemetery traffic already use.",
+      },
+      {
+        heading: "Krain farmhouse wood and outbuildings",
+        body: "Holy Family Cemetery on SE 400th is a reminder this was a farm and church crossroads, not a 2000s plat. Shops and barns need different coatings and schedules than the house. We do not pretend they are one elevation, and we do not treat a chicken coop or hay barn as a Holdener Farm trim detail.",
+      },
+      {
+        heading: "Krain moisture, wind, and highway film",
+        body: "Open pasture lots take wind-driven rain on more sides than a tree-lined Boise Creek yard. Highway-facing walls add a film layer that has to come off before primer. North and shaded elevations still grow mildew. Coatings wait for dry substrate after the wash.",
+      },
+      {
+        heading: "Occupied acreage and school-year timing",
+        body: "Most interiors happen while someone is living here. We phase rooms and keep a bathroom usable. School assignment is parcel-specific in Enumclaw School District; many Krain addresses sit nearer Westwood Elementary on SE 416th Street and Thunder Mountain Middle on 264th Avenue SE than to in-town Southwood. We follow your drop-off, not a guessed campus, and we do not time a noisy wash for the 169 / 400th queue.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Krain",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Krain pricing follows repair quantity on older wood, highway-side wash and dry time, gravel-drive staging, occupied interiors, and whether a shop or fence line is in the same visit.",
+    costDrivers: [
+      {
+        title: "Repair quantity on weathered farmhouse trim",
+        body: "Soft fascia and failed caulk can outweigh the paint labor. The estimate lists that work instead of hiding it inside a low bid.",
+      },
+      {
+        title: "Highway wash time and access",
+        body: "Film on SR 169 elevations and long or gravel drives add staging days. You can coat the house this season and the shop next — we price phases separately.",
+      },
+      {
+        title: "Occupied interiors and working fence lines",
+        body: "Protection, room sequencing, and temporary gates cost more labor than an empty flip. We include it so the property stays livable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash highway film, scrape, prime, and coat for Krain elevations that take SR 169 spray on one side and open-plateau weather on the others.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on farmhouse and shop wood so new paint is not hiding an active leak.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck stain and fence work for acreage and horse lots — structure first, then coating after a real dry window.",
+      },
+    ],
+    estimateBandCopy:
+      "Krain farmhouse, shop, or fence on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Krain Process",
+    processSteps: [
+      {
+        title: "Krain Site Assessment",
+        body: "County vs. city-edge parcel, SR 169 / 400th access, occupied vs. vacant, house vs. shop, and fence or livestock logistics.",
+      },
+      {
+        title: "Krain Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Neighbor gates and shared fence lines get agreed, not assumed. There is no PUD color board unless your parcel actually has one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash film, scrape, carpentry, prime — the Lane HBS differentiator on older plateau wood.",
+      },
+      {
+        title: "Krain Paint / Build Days",
+        body: "Weather windows on open fields; school-year trips on 264th and SR 169 when we can avoid the rush at the 400th light.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Krain Corner",
+        url: "https://kraincorner.com/",
+        description:
+          "The inn and restaurant at 39929 264th Avenue SE — the working landmark at SR 169 and SE 400th since 1916. This is the corner people mean when they say they live at Krain, and it is why trailer staging cannot treat the light as an empty intersection.",
+      },
+      {
+        name: "Holy Family Cemetery",
+        url: "https://www.sacredheartenumclaw.org/holy-family-cemetery",
+        description:
+          "Sacred Heart’s pasture cemetery on SE 400th Street at 254th Avenue SE, still called the Krain cemetery by residents. All Saints candlelight gatherings and weekday visitors are part of 400th traffic — we do not block the entrance for a wash day.",
+      },
+      {
+        name: "Nolte State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/nolte-state-park",
+        description:
+          "The Deep Lake day-use park east of Krain via SE 400th Street and Veazie-Cumberland Road (284th Avenue SE). Weekend swim and kayak traffic uses the same 400th corridor we stage from — useful when we time a trailer, not a substitute for a backyard beach.",
+      },
+      {
+        name: "Westwood Elementary",
+        url: "https://wwe.enumclaw.wednet.edu/",
+        description:
+          "Enumclaw School District’s campus at 21200 SE 416th Street, south of the Krain light. Many nearby addresses list Westwood; assignment is still parcel-specific. We follow your bell time instead of guessing Southwood or Black Diamond Elementary.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where most Krain parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. The Enumclaw Building Division is the other desk if your lot actually sits inside city limits.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life at Krain still runs through the [Krain Corner](https://kraincorner.com/) light on SR 169, errands into the [City of Enumclaw](https://www.cityofenumclaw.net/), and school calendars from [Enumclaw School District](https://www.enumclaw.wednet.edu/). Many households sit nearer [Westwood Elementary](https://wwe.enumclaw.wednet.edu/) and [Thunder Mountain Middle School](https://tmms.enumclaw.wednet.edu/) on 264th Avenue SE — confirm your address. Structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use), or the [Enumclaw Building Division](https://www.cityofenumclaw.net/159/Building-Division) if the parcel is inside the city.",
+      "Weekend lake days often point east to [Nolte State Park](https://parks.wa.gov/find-parks/state-parks/nolte-state-park). Parish history for the cemetery on 400th lives with [Sacred Heart Enumclaw](https://www.sacredheartenumclaw.org/holy-family-cemetery). Libraries stay with the [King County Library System](https://kcls.org/), power with [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Krain coatings around occupied acreage, highway access, and those calendars — not a downtown storefront template and not an Elk Meadows PUD packet.",
+    ],
+  },
 ];
