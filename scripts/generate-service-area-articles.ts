@@ -160,6 +160,7 @@ const AREAS: Record<string, AreaSeed> = {
       },
       { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
       { name: "Elk Meadows", path: "/service-areas/enumclaw/elk-meadows" },
+      { name: "Krain", path: "/service-areas/enumclaw/krain" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -188,6 +189,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Ellenson Park",
         url: "https://www.cityofenumclaw.net/facilities/facility/details/Ellenson-Park-10",
+      },
+      {
+        name: "Krain Corner",
+        url: "https://kraincorner.com/",
+      },
+      {
+        name: "Holy Family Cemetery",
+        url: "https://www.sacredheartenumclaw.org/holy-family-cemetery",
+      },
+      {
+        name: "Nolte State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/nolte-state-park",
       },
       {
         name: "Washington State Department of Labor & Industries",
