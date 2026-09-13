@@ -74,6 +74,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
       { name: "Prairie Ridge", path: "/service-areas/lake-tapps/prairie-ridge" },
       { name: "Inlet Island", path: "/service-areas/lake-tapps/inlet-island" },
+      {
+        name: "North Lake Tapps",
+        path: "/service-areas/lake-tapps/north-lake-tapps",
+      },
     ],
     knownLinks: [
       {
@@ -130,6 +134,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Inlet Island & Maple Point",
         url: "https://inletislandpark.com/",
+      },
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
       },
     ],
     peers: [
