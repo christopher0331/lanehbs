@@ -1727,5 +1727,225 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and additions on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). The public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) on hot weekends a short drive east; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that point-and-school rhythm — not as a name-swap of Deer Island, West Tapps Highway view decks, or gated Tapps Island.",
     ],
   },
+  {
+    slug: "north-lake-tapps",
+    name: "North Lake Tapps",
+    description:
+      "North-shore streets around the county park — 198th Ave E, 9th St E, and 12th St E — with public launch weekends and Dieringer school clocks.",
+    blurb:
+      "On North Lake Tapps, Lane HBS paints exteriors, stains decks, and refreshes interiors for occupied homes on 198th Ave E, 9th St E, 8th St Ct E, and 12th St E — the public-park side of the reservoir, not a gated peninsula. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting staged around county-park traffic on 198th Ave E",
+      "Deck and fence work for mixed inland lots and near-shore humidity",
+      "Occupied interiors on the Dieringer calendar, with North Tapps Middle next door",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence in North Lake Tapps?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, fence height, or shoreline-adjacent structure typically go through Pierce County Planning & Public Works — these north-shore streets are generally unincorporated Pierce County even when the park listing says Bonney Lake 98391. We flag that on the estimate. Cosmetic paint is not a shoreline permit, and we do not guess over-water rules for Cascade Water Alliance lots.",
+      },
+      {
+        question:
+          "What prep fits North Lake Tapps’ mix of park-road dust and north-shore moisture?",
+        answer:
+          "Wash first. Houses on 198th Ave E, 9th St E, 8th St Ct E, and 11th St E pick up trailer dust and exhaust when the county park fills; lots closer to the water and north elevations still stay damp. Both need dry time before prime. We do not coat damp wood to finish before a Saturday launch, and we do not treat this as Tacoma Point’s private Improvement Club parks, Allan Yorke’s south-end city launch, or a gated Tapps Island irrigation story.",
+      },
+      {
+        question: "How do you price painting and remodeling in North Lake Tapps?",
+        answer:
+          "Park-weekend staging, no-parking barricades on 9th St E and 198th Ave E in peak season, moisture that differs from a near-shore lot to an inland 12th St E rambler, occupied interiors, and whether trim or rails need carpentry. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical North Lake Tapps exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Near-shore decks wait on moisture longer than a sunny inland elevation off Lake Tapps Parkway E / 12th St E. Interiors are sequenced room by room while you live here. We set the calendar after we see the house and how 198th Ave E behaves when the park is at capacity — not from a listing photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle park traffic and school mornings?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. Pierce County has used no-parking barricades along 9th St E to 201st Ave E and along 198th Ave E to the park gate at 2022 198th Ave E; a deputy is often at 9th and 198th on busy days. We stage the trailer so we are not extra overflow on those roads. Weekday timing follows Dieringer drop-off — North Tapps Middle School on 12th St E, Lake Tapps Elementary on 178th Ave E, and Dieringer Heights Elementary on 34th St E — a different clock than Sumner-Bonney Lake streets on the plateau or at Allan Yorke.",
+      },
+    ],
+    image: "/images/from-lane/lane-21-101.jpg",
+    heroIntro:
+      "North Lake Tapps is the public north shore — 198th Avenue East into the county park, 9th Street East and 8th Street Court East taking the overflow, and 12th Street East (Lake Tapps Parkway) carrying school traffic past North Tapps Middle. Paint and decks here fight launch-day congestion and mixed humidity, not a private peninsula gate.",
+    mapQuery: "North Lake Tapps Park, 2022 198th Ave E, Bonney Lake, WA",
+    latitude: 47.2488,
+    longitude: -122.1702,
+    geoRadiusMeters: 2000,
+    introHeading: "A County Park at the End of the Street Changes the Job",
+    introLead:
+      "Homes along 198th Avenue East, 9th Street East, 8th Street Court East, 11th Street East, and 12th Street East sit against Pierce County’s 135-acre North Lake Tapps Park — sandy swim beach, boat launch, picnic tables, and a peninsula walk to a Mount Rainier viewpoint. That is a different job than Tacoma Point Drive E behind optional Improvement Club keys, and it is not Allan Yorke’s city park at the south end. Siding picks up dust from trailers queued on 198th; north walls still stay damp off the reservoir; neighbors notice a messy job site because the whole county uses this shoreline on weekends.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on 198th Ave E or claim we painted every elevation facing the park gate. We will wash, repair soft trim, and wait for dry windows that differ from a near-shore lot to an inland rambler a block off 12th St E. Pierce County permits, occupied-home protection, and Dieringer School District calendars — North Tapps Middle School at 20029 12th St E, Lake Tapps Elementary at 1320 178th Ave E, and Dieringer Heights Elementary at 21727 34th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Dieringer is the historic school-community name for this north-shore cluster; we are not building a separate Dieringer page, and we are not creating a Lakeridge or West Tapps Maintenance Co. route.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Public-park weekends, not a quiet cul-de-sac",
+        body: "North Lake Tapps Park fills with boat reservations, beach traffic, and visitors who used to park on 9th St E and 198th Ave E until the county put up barricades. We plan wash water and trailer placement so residents still reach their drives when the park closes the gate at capacity.",
+      },
+      {
+        icon: "droplets",
+        title: "North-shore humidity without copying a peninsula page",
+        body: "Lots closer to the water stay wet. Inland 12th St E and 11th St E houses still grow mildew on north elevations and fence posts. We spec wash and dry time for the lot you own — not Deer Island’s one-street western fetch, not Tacoma Point cove fog, not Tapps Island golf irrigation.",
+      },
+      {
+        icon: "school",
+        title: "North Tapps Middle is on the same collector",
+        body: "20029 12th Street East is not a distant bus ride — it is the weekday pulse of this neighborhood. Interior sequencing and noisy wash days follow that bell, plus the split elementary campuses on 178th Ave E and 34th St E. High school is a later choice among Auburn, Sumner-Bonney Lake, and White River; we do not pretend there is a neighborhood high school on 198th.",
+      },
+      {
+        icon: "clipboard",
+        title: "Pierce County permits, not a city-park default",
+        body: "These streets are typically unincorporated even when mail and the park address say Bonney Lake. Structural decks and additions start at Planning & Public Works. Cosmetic paint is usually maintenance. We do not treat every North Lake Tapps parcel as a Bonney Lake Permit Center job the way Allan Yorke streets often are.",
+      },
+    ],
+    reviewNames: ["David R.", "Sarah M.", "Tina W."],
+    galleryHeading: "Our Work Near North Lake Tapps",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for north-shore family homes and are not geo-tagged to 198th Ave E, 9th St E, 12th St E, or North Lake Tapps Park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-03-45.jpg",
+        alt: "Completed deck and exterior project near Lake Tapps",
+        caption: "Deck and exterior refresh — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting by Lane HBS",
+        caption: "Exterior repaint — Lake Tapps and nearby work",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New deck railing installation in progress",
+        caption: "Deck rail work in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in North Lake Tapps",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining — nearby Lake Tapps home",
+      body: "North-shore decks fail when park-road dust, damp north boards, and a Saturday launch calendar get a one-coat shortcut. On a nearby Lake Tapps deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on 198th Ave E or 9th St E. Timeline followed dry windows, occupied-home access, and how trailers already use 198th when the county park is full. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "North Lake Tapps-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "North Lake Tapps Park weekends, barricades, and launch reservations",
+        body: "The county park at 2022 198th Ave E is first-come for general parking and reservation-based for the boat launch in season. Barricades have gone up along 9th St E and 198th Ave E to the gate so overflow does not block resident drives. We stage materials so we are not the extra trailer on a no-parking shoulder. This is public-county congestion, not Tacoma Point’s member keys and not Allan Yorke’s city restricted-parking grid.",
+      },
+      {
+        heading: "North Lake Tapps mixed lots — inland family yards and near-shore humidity",
+        body: "Not every house here is a bulkhead. Many 198th and 11th St E lots are one-third-acre family yards; some 12th St E parcels run larger with shops. Near-water lots take reservoir humidity and splash. Inland lots still grow mildew and collect park dust. Washing is the job either way. Coating damp wood so the house looks finished for a holiday weekend is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "North Lake Tapps county permits and optional association rules",
+        body: "Most of these parcels are unincorporated Pierce County, so structural decks and additions start at Planning & Public Works — not the Bonney Lake Permit Center used on Allan Yorke streets. Some pockets have a modest HOA; most do not have a color board like Tapps Island Association. We ask which rules apply instead of copying a gated-island playbook onto every 9th St E rambler. Lakeridge and the West Tapps Maintenance Co. sit on a different shore and are not this page.",
+      },
+      {
+        heading: "Occupied interiors during the Dieringer school year",
+        body: "These are primary homes, including 1980s and 1990s family houses that never were weekend cabins. Bedrooms and kitchens stay in use. We contain rooms, protect floors, and sequence work around North Tapps Middle on 12th St E and the split elementary campuses so a bathroom and a bedroom remain usable. Dieringer is K–8; high school choice is a later conversation, not a neighborhood campus we schedule around on 198th.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in North Lake Tapps",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. North Lake Tapps pricing moves with park-weekend staging, moisture prep that differs from a near-shore lot to an inland street, occupied interiors, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures on the same north shore",
+        body: "Near-water humidity and inland park dust add labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access when the county park is full",
+        body: "Launch reservations, beach days, and no-parking barricades change how long wash and material drops take. We price that time instead of pretending 198th Ave E is a quiet suburban loop.",
+      },
+      {
+        title: "Occupied rooms and county sequencing",
+        body: "Lived-in houses take protection time. Permit questions for new decks or fence height are written into the schedule so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "North Lake Tapps exteriors need wash, scrape, and prime for park-road dust or near-shore moisture — then coatings that can take Pierce County winters and neighbor scrutiny from a public shoreline.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Family-yard decks and privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning the park opens the launch.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied family interiors on 198th Ave E and 12th St E — walls, trim, and room-by-room protection around North Tapps Middle and the Dieringer split-campus calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "North Lake Tapps house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around the county park, 198th Ave E traffic, and whether your lot sits near the water or a block inland.",
+    processHeading: "Our North Lake Tapps Process",
+    processSteps: [
+      {
+        title: "North Lake Tapps Site Assessment",
+        body: "Near-shore vs inland exposure, park-weekend and barricade access, occupied vs vacant, and whether the job is siding, deck, or both.",
+      },
+      {
+        title: "North Lake Tapps Scope, Colors & County Rules",
+        body: "Pierce County permit questions when the work is structural, neighbor sightlines from 198th Ave E or 12th St E, and whether your parcel actually has HOA color expectations.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated north-shore houses.",
+      },
+      {
+        title: "North Lake Tapps Paint / Build Days",
+        body: "Weather windows plus launch-day traffic on 198th Ave E and Lake Tapps Parkway E / 12th St E. We do not wash a no-parking shoulder into park overflow.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+        description:
+          "Pierce County’s 135-acre public swim and launch park at 2022 198th Avenue East — beach, picnic tables, trails, and a peninsula viewpoint. We treat summer capacity, launch reservations, and the 198th Ave E gate as a staging problem for the houses next door, not a lifestyle brochure.",
+      },
+      {
+        name: "North Tapps Middle School",
+        url: "https://ntms.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s grades 6–8 campus at 20029 12th Street East sits on the same collector residents already drive. Sports and pickup windows are part of how we think about trailer placement even when the job itself is on 198th Ave E or 9th St E.",
+      },
+      {
+        name: "Lake Tapps Elementary",
+        url: "https://ltes.dieringer.wednet.edu/",
+        description:
+          "Dieringer’s grades 1–3 campus at 1320 178th Ave E. North-shore households still run that morning clock — interior paint days and material drops follow it so occupied homes function on school days.",
+      },
+      {
+        name: "Dieringer Heights Elementary",
+        url: "https://dhes.dieringer.wednet.edu/",
+        description:
+          "The preschool, kindergarten, and grades 4–5 campus at 21727 34th St E. Same district, second elementary clock — which is why a North Lake Tapps household can have drop-off in two directions on the same weekday.",
+      },
+      {
+        name: "Pierce County Planning & Public Works",
+        url: "https://www.piercecountywa.gov/91/Planning-Public-Works",
+        description:
+          "Structural decks, fence-height questions, and additions on these unincorporated streets typically start here — not at the Bonney Lake Permit Center used on south-end city parcels. We point you to the right counter instead of inventing a shoreline shortcut.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in North Lake Tapps runs on a public-park and Dieringer rhythm: middle-school traffic on 12th St E, boat reservations at the county gate, and residential streets the sheriff already protects with summer barricades. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including [North Tapps Middle School](https://ntms.dieringer.wednet.edu/) on 12th St E, [Lake Tapps Elementary](https://ltes.dieringer.wednet.edu/) on 178th Ave E, and [Dieringer Heights Elementary](https://dhes.dieringer.wednet.edu/) on 34th St E. [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) is the landmark non-residents already know — which is why we treat launch days as a real constraint, not scenery.",
+      "Structural decks and additions on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that park-and-school rhythm — not as a name-swap of Tacoma Point’s private parks, Allan Yorke’s city launch, or gated Tapps Island.",
+    ],
+  },
 
 ];
