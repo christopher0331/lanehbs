@@ -314,7 +314,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Lake Wilderness, Lake Desire, Lake Francis, Meadows at Rock Creek, Hobart, Shadow Lake, Cedar Downs, Maple Ridge Highlands & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Lake Wilderness, Lake Desire, Lake Francis, Meadows at Rock Creek, Hobart, Shadow Lake, Cedar Downs, Maple Ridge Highlands, Dorre Don & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -333,6 +333,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Cedar Downs / Cedar Creek Park",
       "Henry's Ridge Open Space",
       "Maple Ridge Highlands / Maple Woods",
+      "Dorre Don / Cedar River",
     ],
     climateDescription:
       "Maple Valley sits in the Cascade foothills with more precipitation and tree cover than many lowland suburbs. Shade, moss, and moisture mean exteriors and decks need washing, mildew awareness, and coatings chosen for wetter microclimates.",
@@ -362,7 +363,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Lake Wilderness communities, Lake Desire (Maple Heights–Lake Desire), Lake Francis along SE Lake Francis Road, Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs off Witte Road SE, Maple Ridge Highlands and Maple Woods on SE Maple Ridge Drive, and Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Lake Wilderness communities, Lake Desire (Maple Heights–Lake Desire), Lake Francis along SE Lake Francis Road, Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs off Witte Road SE, Maple Ridge Highlands and Maple Woods on SE Maple Ridge Drive, Dorre Don along Dorre Don Way SE and the Cedar River, and Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -379,7 +380,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, Lake Francis’s private kettle lake on SE Lake Francis Road, unincorporated Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs’ 1976 HOA lots off Witte Road SE, and Maple Ridge Highlands’ 2007 hillside streets off SE Maple Ridge Drive, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, Lake Francis’s private kettle lake on SE Lake Francis Road, unincorporated Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs’ 1976 HOA lots off Witte Road SE, Maple Ridge Highlands’ 2007 hillside streets off SE Maple Ridge Drive, and Dorre Don’s Cedar River lots on Dorre Don Way SE, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",

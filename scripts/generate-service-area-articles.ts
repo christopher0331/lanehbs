@@ -309,6 +309,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Maple Ridge Highlands",
         path: "/service-areas/maple-valley/maple-ridge-highlands",
       },
+      { name: "Dorre Don", path: "/service-areas/maple-valley/dorre-don" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -358,6 +359,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Henry's Ridge Open Space",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/henrys-ridge",
+      },
+      {
+        name: "Cedar River Water & Sewer District",
+        url: "https://www.crwsd.com/",
       },
     ],
     peers: [
