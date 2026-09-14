@@ -261,6 +261,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
       { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
+      { name: "Dorre Don", path: "/service-areas/maple-valley/dorre-don" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -294,6 +295,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Taylor Mountain Forest",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
+      },
+      {
+        name: "Cedar River Water & Sewer District",
+        url: "https://www.crwsd.com/",
       },
     ],
     peers: [

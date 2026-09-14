@@ -2375,4 +2375,224 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "School calendars are [Tahoma School District](https://www.tahomasd.us/) — Lake Wilderness Elementary is the nearby campus on Witte Road, not a claim about every lot. Public beach days still use [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5). Power is [Puget Sound Energy](https://www.pse.com/), and longer paved miles pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We schedule coatings around ACC timing, canopy dry windows, and that trailhead — not as a name-swap of Four Corners retail or the Covington Pipe Lake shoreline page.",
     ],
   },
+  {
+    slug: "dorre-don",
+    name: "Dorre Don",
+    description:
+      "Cedar River hamlet on Dorre Don Way SE — converted cabins, flood-phase access, and King County river lots, not Wilderness Rim hillside or Hobart acreage.",
+    blurb:
+      "In Dorre Don, Lane HBS paints river-damp exteriors, stains decks above the Cedar, and repairs cabin-era trim on Dorre Don Way SE, Lower Dorre Don Way SE, Upper Dorre Don Way SE, and Dorre Don Court SE. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for Cedar River humidity and SR 169 film",
+      "Deck and rail work staged around flood-phase road closures",
+      "Carpentry on converted fishing cabins before a new coat",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Dorre Don?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, additions, or fences that move location or height typically go to King County Permitting — most Dorre Don Way SE parcels are unincorporated, with a Maple Valley 98038 mailbox, not City of Maple Valley building review. Work near the Cedar River can also raise floodplain and shoreline questions. We flag the office on the free estimate instead of guessing from the ZIP code.",
+      },
+      {
+        question:
+          "What prep fits Dorre Don’s river humidity, flood history, and cabin-era wood?",
+        answer:
+          "Lower Dorre Don Way SE and Dorre Don Court SE sit in the Cedar River air — moss, slow dry times, and stain that fails if you coat damp boards. Upper Dorre Don Way SE is drier but still under trees. Elevations that face SR 169 / Maple Valley Highway pick up arterial film the river side never sees. Converted fishing cabins hide soft trim and old caulk. We wash, scrape, prime, and repair before color. A one-coat quote that skips that inspection does not last here.",
+      },
+      {
+        question: "How do you price painting and remodeling in Dorre Don?",
+        answer:
+          "River vs. upper-bank moisture, access when King County flood phases close Lower Dorre Don Way SE or Dorre Don Court SE, trim carpentry on older cabins, occupied interiors, and whether the lot is on a county road with no wide staging pad. There is no published square-foot or waterfront menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Dorre Don exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. River-side decks wait longer than an open Four Corners wall. Occupied interiors are sequenced room by room. We set the calendar after we see the wood, the driveway, and the Landsburg flood phase — not from a photo, and not during an active road-overtopping warning.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on Dorre Don streets?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. For exteriors we plan wash water, trailers, and parking so Dorre Don Way SE, Lower Dorre Don Way SE, Upper Dorre Don Way SE, Dorre Don Court SE, and SE 225th Street stay usable for neighbors. When King County lists those roads at flood Phase 3 or 4, we reschedule wash days instead of trapping a crew — or a household — on a closed river street.",
+      },
+    ],
+    image: "/images/from-lane/lane-10-4769.jpg",
+    heroIntro:
+      "Dorre Don is the Cedar River hamlet north of Maple Valley city — Dorre Don Way SE, Lower Dorre Don Way SE, Upper Dorre Don Way SE, and Dorre Don Court SE — converted fishing cabins and later houses on unincorporated King County lots. Paint and decks here have to survive river humidity and flood-phase access, not a Wilderness Rim hillside HOA packet or Hobart’s Issaquah-Hobart Road acreage.",
+    mapQuery: "Dorre Don Way SE, Maple Valley, WA",
+    latitude: 47.397879,
+    longitude: -122.029561,
+    geoRadiusMeters: 2000,
+    introHeading: "River Air, Cabin Wood, and a Road That Sometimes Closes",
+    introLead:
+      "Homes along Dorre Don Way SE sit between the Cedar River and SR 169. Lower Dorre Don Way SE and the island addressed as Dorre Don Court SE take the wettest air; Upper Dorre Don Way SE climbs the bank under trees. Orchard Grove is the older south-end plat on the same corridor — not a separate Lake Wilderness beach neighborhood. King County’s Dorre Don Reach Natural Area holds roughly seventy acres of riparian land along about a mile and a half of river, so the “park next door” is ecological land, not a swim beach. Winter 2025 floods even closed a stretch of the Cedar River Trail near that natural area; the same weather is why siding and decks here fail from moisture, not from a missing HOA color chip.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Dorre Don jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Lower Dorre Don Way SE or claim a résumé of flood buyouts. We will walk trim, rails, and occupied interiors honestly, then ask whether the parcel is King County structural work, floodplain-adjacent, or paint-only. Prep still starts the same way: wash, repair, prime, then coat — on a day the river road is actually open.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Cedar River humidity is not lake-beach humidity",
+        body: "This is a moving river with salmon side-channels, not Lake Wilderness’s public swim beach and not Shadow Lake’s private kettle. North walls and deck undersides stay damp. We treat dry time as the job, not a brochure extra.",
+      },
+      {
+        icon: "car",
+        title: "Flood-phase access on Lower Dorre Don",
+        body: "King County flood warnings name Lower Dorre Don Way SE, Dorre Don Way SE, Dorre Don Court SE, and SE 225th Street when the Cedar rises. We do not wash a river street into an evacuation list.",
+      },
+      {
+        icon: "hammer",
+        title: "Cabin-era trim before a suburban spray bid",
+        body: "Many lots began as summer fishing cabins. Soft fascia, tired rails, and mixed additions need carpentry honesty before color. Paint-only bids fail first on the river elevation.",
+      },
+      {
+        icon: "clipboard",
+        title: "Unincorporated King County, not a Maple Valley HOA packet",
+        body: "Mailbox city of Maple Valley does not mean city building review. Most parcels are county roads and King County Permitting. A few pockets may have association rules; we ask instead of assuming Summit-style ACC colors.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Dorre Don",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and interiors from Maple Valley-area and nearby jobs. They illustrate the work type for river-corridor and wooded homes and are not geo-tagged to Dorre Don Way SE, Lower Dorre Don Way SE, or Dorre Don Court SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Exterior painting on a tree-lined home",
+        caption: "Exterior repaint — Maple Valley-area job",
+      },
+      {
+        src: "/images/from-lane/lane-16-48.jpg",
+        alt: "New deck rail cap during carpentry",
+        caption: "Deck rail carpentry — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Dorre Don",
+      image: "/images/from-lane/lane-07-1199.jpg",
+      imageAlt: "Exterior painting in progress on a residential home",
+      serviceType: "Exterior painting — nearby Maple Valley-area home",
+      body: "River-corridor houses fail paint when wash and carpentry are skipped, not because the last color chip was wrong. On a nearby Maple Valley-area exterior we washed algae, let the siding dry, repaired soft fascia, and primed before color. The photo is owned Lane HBS work in the parent city area — not a house on Dorre Don Way SE or Dorre Don Court SE. Timeline followed dry windows and occupied-home access. We do not invent square footage or a Cedar River address for a job we cannot verify. On an actual lower-bank lot we would also check King County flood timing before a wash day that needs the street open.",
+    },
+    considerationsHeading: "Dorre Don-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Dorre Don river moisture versus highway film",
+        body: "The same house can have a mossy river elevation and a dirty wall that faces SR 169 / Maple Valley Highway. Those sides do not get the same wash recipe. Skipping either is how a “fresh” exterior looks tired from the trail or from the commute.",
+      },
+      {
+        heading: "Dorre Don flood-phase roads and trail damage",
+        body: "King County names Lower Dorre Don Way SE, Dorre Don Way SE, Dorre Don Court SE, and SE 225th Street when the Cedar hits higher flood phases. The Cedar River Trail near the Dorre Don Natural Area was also damaged in the winter 2025 floods. We stage so neighbors can still reach driveways — and we do not pretend a closed river road is a normal suburban wash day.",
+      },
+      {
+        heading: "Dorre Don cabin stock, Orchard Grove, and later houses",
+        body: "Orchard Grove is the 1919 south-end plat on this same Dorre Don Way corridor; Upper Dorre Don is the bank above it. Converted cabins, mixed additions, and newer custom homes sit on the same streets. Soft trim and odd flashing are common. We inspect before we promise paint-only. This page covers that corridor — we are not launching a separate Orchard Grove or Highlands of Cedar River page for the same river reach.",
+      },
+      {
+        heading: "Occupied interiors and well, septic, or district utilities",
+        body: "These are year-round houses, not weekend camps. Kitchens and bedrooms stay in use. Some lots are on Cedar River Water and Sewer District water with septic; others vary. We keep wash water off well heads and drainfields, and we do not treat a river lot like a city-grid hydrant job.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Dorre Don",
+    costIntro:
+      "We do not publish dollar-per-square-foot or waterfront menus. Dorre Don pricing moves with river-side dry time, cabin-era carpentry, occupied interiors, flood-phase access, and whether the elevation also takes SR 169 film. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash and dry time in river air",
+        body: "Lower-bank lots add labor before any coating. Cheap quotes skip the difference and fail on the Cedar elevation first.",
+      },
+      {
+        title: "Access on Dorre Don Way and Dorre Don Court",
+        body: "Narrow county roads and flood closures change how long wash and material drops take. We price that time instead of pretending this is an empty cul-de-sac.",
+      },
+      {
+        title: "Carpentry, utilities, and occupied rooms",
+        body: "Soft fascia on older cabins, lived-in kitchens, and well or septic setbacks take protection and calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Dorre Don exteriors need wash, scrape, and prime for river moisture and highway film — then coatings that can take South King County winters, not a one-coat suburban shortcut.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "River-side decks and privacy fences — clean, dry, repair what is soft, then finish. New deck height near the Cedar still belongs in the King County conversation.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Cabin-era soffits, fascia, and rails often need carpentry before paint. We repair what will fail under a new coat on a damp lot.",
+      },
+    ],
+    estimateBandCopy:
+      "Dorre Don house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around river dry time, flood-phase roads, and occupied cabins.",
+    processHeading: "Our Dorre Don Process",
+    processSteps: [
+      {
+        title: "Dorre Don Site Assessment",
+        body: "River vs. upper-bank moisture, lot access off Dorre Don Way SE, occupancy, floodplain questions, and whether the work is cosmetic or structural.",
+      },
+      {
+        title: "Dorre Don Scope, Colors & Jurisdiction",
+        body: "Written scope. Structural work flagged for King County Permitting. Colors chosen for shade and moss, not only a sunny chip. No invented HOA packet for lots that do not have one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated river houses.",
+      },
+      {
+        title: "Dorre Don Paint / Build Days",
+        body: "Weather windows plus Cedar River flood timing. We do not wash Lower Dorre Don Way SE or Dorre Don Court SE into a Phase 3 road closure.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same standard as in-town Maple Valley.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Cedar River Trail",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/cedar-river",
+        description:
+          "King County’s 17.4-mile trail between the river and SR 169, from Renton to Landsburg. A stretch near the Dorre Don Natural Area was damaged in the winter 2025 floods — why trail parking and river-road access are part of a wash-day plan, not scenery.",
+      },
+      {
+        name: "King County Parks — natural and working lands",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands",
+        description:
+          "The county system that manages ecological lands along the Cedar, including the Dorre Don Reach Natural Area. This is riparian habitat and low-impact access — not a Maple Valley swim beach and not a substitute for Lake Wilderness Park.",
+      },
+      {
+        name: "Cedar River Elementary",
+        url: "https://cedarriver.tahomasd.us/",
+        description:
+          "Tahoma School District campus at 22615 Sweeney Road SE. We do not assign every Dorre Don lot to this school; we do plan weekday staging around district calendars when interiors and material drops have to share a household with drop-off.",
+      },
+      {
+        name: "Cedar River Water & Sewer District",
+        url: "https://www.crwsd.com/",
+        description:
+          "The utility that provides water to much of the Maple Valley area (sewer is parcel-specific). Deck posts, wash runoff, and locate calls before digging belong in this conversation — 811 plus the district, not a guess from the mailbox city.",
+      },
+      {
+        name: "Maple Valley Library",
+        url: "https://kcls.org/locations/maple-valley/",
+        description:
+          "King County Library System’s branch at 21844 SE 248th Street — the indoor civic stop for households that live on a river road instead of next to Lake Wilderness Park.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Dorre Don is a river road, not a subdivision loop: trail miles on the [Cedar River Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/cedar-river), ecological land under [King County Parks’ natural and working lands](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands), and water questions with [Cedar River Water & Sewer District](https://www.crwsd.com/). Structural decks and additions on unincorporated lots start with [King County building and land-use permits](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use/permit-forms-application-materials), not Maple Valley’s in-city building counter.",
+      "School calendars sit with [Tahoma School District](https://www.tahomasd.us/) — [Cedar River Elementary](https://cedarriver.tahomasd.us/) is a nearby campus on Sweeney Road, not a claim about every river lot. Indoor hours use the [Maple Valley Library](https://kcls.org/locations/maple-valley/). River rise is tracked on King County’s [Cedar River near Landsburg flood gauge](https://flood.kingcounty.gov/gauge/6/). We schedule coatings around flood phases, trail closures, and those calendars — not as a name-swap of Wilderness Rim slopes or Hobart’s Issaquah-Hobart Road acreage.",
+    ],
+  },
 ];
