@@ -1292,4 +1292,223 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Weekend lake days often point east to [Nolte State Park](https://parks.wa.gov/find-parks/state-parks/nolte-state-park). Parish history for the cemetery on 400th lives with [Sacred Heart Enumclaw](https://www.sacredheartenumclaw.org/holy-family-cemetery). Libraries stay with the [King County Library System](https://kcls.org/), power with [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Krain coatings around occupied acreage, highway access, and those calendars — not a downtown storefront template and not an Elk Meadows PUD packet.",
     ],
   },
+  {
+    slug: "newaukum-creek",
+    name: "Newaukum Creek",
+    description:
+      "King County Green River tributary north of downtown Enumclaw — creek-adjacent farm and residential lots, not Lewis County’s Newaukum River.",
+    blurb:
+      "Along Newaukum Creek north of Enumclaw — SE 424th Street, SE 422nd Street, 254th Avenue SE, and 264th Avenue SE at Thunder Mountain — Lane HBS paints exteriors, repairs creek-damp wood, and stains decks or fences on mixed city and King County parcels. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for creek humidity and open plateau walls",
+      "Carpentry before paint on farmhouse trim and shop siding",
+      "Deck stain and fence work planned around wet ground and school-year 264th traffic",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence along Newaukum Creek?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, and some fence-height or accessory-building work typically need review — through the Enumclaw Building Division if the parcel is in city limits, or King County Local Services Permitting if it is unincorporated. Creek-adjacent lots can also raise land-use questions once work leaves the cosmetic-repaint category. We flag city vs. county on the free estimate instead of guessing from a 98022 mailbox. This page is the King County stream north of Enumclaw, not Lewis County’s Newaukum River.",
+      },
+      {
+        question:
+          "What prep fits Newaukum Creek’s moisture, shade, and older farm wood?",
+        answer:
+          "Lots along SE 424th Street, SE 422nd Street, and 254th Avenue SE sit closer to a salmon-bearing Green River tributary than a Cole Street storefront or a Holdener Farm sidewalk. North walls and tree lots stay damp; pasture elevations still take wind-driven rain. We wash mildew and film, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on creek-adjacent siding.",
+      },
+      {
+        question: "How do you price painting and remodeling in Newaukum Creek?",
+        answer:
+          "Repair quantity on weathered trim, wash-and-dry time after creek humidity, gravel-drive or shoulder staging, occupied interiors, and whether a shop or fence run is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Newaukum Creek exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and decks depend on wash-dry windows after mildew comes off and after carpentry. Creek-side boards stay wet longer than a sunny downtown wall. We write the calendar after we see the parcel — we do not coat damp wood to hit a date.",
+      },
+      {
+        question:
+          "Can you paint while we live here, and around Thunder Mountain traffic on 264th?",
+        answer:
+          "Yes. Most Newaukum Creek houses are occupied. We phase rooms, protect entries, and plan temporary gates before we pull fence boards. Trailer placement on SE 424th, 254th Avenue SE, or 264th Avenue SE gets discussed at the site visit so we are not the extra vehicle in the Thunder Mountain Middle School queue at 42018 264th Avenue SE.",
+      },
+    ],
+    image: "/images/from-lane/lane-01-46.jpg",
+    heroIntro:
+      "Newaukum Creek is the King County Green River tributary that meanders through farmland and residential streets north of downtown Enumclaw — SE 424th Street, SE 422nd Street, 254th Avenue SE, and 264th Avenue SE at Thunder Mountain. Paint, decks, and fences here face creek humidity and mixed city-county parcels, not a Cole Street storefront and not Lewis County’s Newaukum River.",
+    mapQuery: "SE 424th Street and 254th Avenue Southeast, Enumclaw, WA",
+    latitude: 47.223,
+    longitude: -121.9968,
+    geoRadiusMeters: 2400,
+    introHeading: "Creek Humidity, Farm Roads, and a Stream That Is Not Lewis County",
+    introLead:
+      "Newaukum Creek rises on Boise Ridge and crosses the Enumclaw Plateau before turning northwest toward the Green River. Houses on SE 424th Street, SE 422nd Street, SE 425th Street, 252nd Way SE, 254th Avenue SE, and 262nd Avenue SE sit in that meander — farmhouses, later ramblers, shops, and horse fence with the creek in the drainage, not a downtown alley. Big Spring Creek joins the mainstem west of 264th; King County’s Big Spring/Newaukum Creek Natural Area is the public woods on that confluence, not a city playfield. Shade and wet ground keep north siding and fence posts damp longer than a bare Mud Mountain pasture, while open elevations still take plateau wind.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Newaukum Creek jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE 424th or claim we coated a named farm along 254th. We will walk your trim, creek-facing siding, and outbuilding boards honestly, then tell you whether the parcel is city or King County before anyone talks color. This is not Krain Corner at SR 169 and SE 400th, not Osceola’s south-loop grid on SE 448th and SE 456th Way, and not Boise Creek Park on the White River side of town.",
+    trustCards: [
+      {
+        icon: "droplets",
+        title: "Creek air is a dry-time problem",
+        body: "Salmon-stream humidity and tree shade along Newaukum Creek keep north elevations wet. We wash, wait, and prime. Skipping that step so a farmhouse can look fresh for a weekend is how mildew prints through the next winter.",
+      },
+      {
+        icon: "clipboard",
+        title: "City line vs. King County on the same creek",
+        body: "Newaukum Creek addresses often read Enumclaw 98022 and still sit in unincorporated King County — or straddle the city edge. A new deck or shop is not the same desk as a Cole Street facade. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "school",
+        title: "264th and Thunder Mountain bells",
+        body: "Thunder Mountain Middle School at 42018 264th Avenue SE sets the weekday on the east side of this corridor. Westwood Elementary on SE 416th Street sits farther west toward 21200. We follow your drop-off instead of blocking the 264th shoulder at bell time.",
+      },
+      {
+        icon: "hammer",
+        title: "Farmhouse and shop wood before coatings",
+        body: "Creek-adjacent trim fails at joints first. Paint is not a patch on soft fascia. We repair, then prime — house and outbuilding as separate elevations when they are.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Newaukum Creek",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and occupied-interior work from Enumclaw-area and nearby jobs. Shown as examples of weather-facing and occupied-home work — not claimed as a house on SE 424th Street or 254th Avenue SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-01-46.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior house painting after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Stained deck boards and rail",
+        caption: "Deck staining after wash and dry time",
+      },
+      {
+        src: "/images/from-lane/lane-08-4766.jpg",
+        alt: "Occupied hallway prepared for interior painting",
+        caption: "Occupied interior painting with floors and trim protected",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Newaukum Creek",
+      image: "/images/from-lane/lane-30-4772.jpg",
+      imageAlt: "Trim and siding repair before exterior coating",
+      serviceType: "Repairs and exterior prep — nearby Enumclaw-area home",
+      body: "Creek-adjacent Enumclaw houses fail at the same places every wet season: fascia returns, window heads, and siding that has been recoated over mildew and failed caulk. On a nearby Enumclaw-area exterior we opened those joints, replaced what was soft, primed bare wood, and then coated — instead of spraying over movement. The photo is owned Lane HBS work in the parent-city region, not a named SE 424th or 254th Avenue SE address. Access off a farm road and a real dry window after wash set the schedule more than square footage.",
+    },
+    considerationsHeading: "Newaukum Creek-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Newaukum Creek moisture and shaded north walls",
+        body: "The mainstem and Big Spring Creek keep low lots wetter than a downtown sidewalk. North siding, fence posts at soil contact, and deck undersides need wash and dry time. Coatings wait for the substrate, not for a marketing weekend.",
+      },
+      {
+        heading: "Newaukum Creek access on 424th and 264th",
+        body: "SE 424th Street, SE 422nd Street, and 264th Avenue SE are working plateau roads, not cul-de-sacs. Wash water, trailers, and material staging have to respect shoulders, neighbor drives, and livestock gates — and the Thunder Mountain queue on school mornings. We plan that at the site visit.",
+      },
+      {
+        heading: "Newaukum Creek city vs. county permits",
+        body: "A mailbox that says Enumclaw does not always mean city jurisdiction. Structural decks and new accessory buildings can land at King County Permitting. Cosmetic repaints usually do not, but we still say so in writing. Creek lots are not a reason to skip that check.",
+      },
+      {
+        heading: "Occupied acreage and fence lines",
+        body: "Dogs, horses, and kids still use the property during a job. Pulling a fence run means a temporary plan. Interior rooms get phased so the kitchen and bedrooms stay usable. This is not an Elk Meadows PUD color packet and not a Boise Creek Park overflow-parking problem.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Newaukum Creek",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Newaukum Creek pricing follows repair quantity on older wood, creek-side wash and dry time, farm-road staging, occupied interiors, and whether a shop or fence line is in the same visit.",
+    costDrivers: [
+      {
+        title: "Repair quantity on weathered farmhouse trim",
+        body: "Soft fascia and failed caulk can outweigh the paint labor. The estimate lists that work instead of hiding it inside a low bid.",
+      },
+      {
+        title: "Creek humidity and access",
+        body: "Extra wash-dry days and long or gravel drives add staging time. You can coat the house this season and the shop next — we price phases separately.",
+      },
+      {
+        title: "Occupied interiors and working fence lines",
+        body: "Protection, room sequencing, and temporary gates cost more labor than an empty flip. We include it so the property stays livable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash mildew, scrape, prime, and coat for Newaukum Creek elevations that take stream humidity on one side and open-plateau weather on the others.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on farmhouse and shop wood so new paint is not hiding an active leak.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck stain and fence work for creek-adjacent and horse lots — structure first, then coating after a real dry window.",
+      },
+    ],
+    estimateBandCopy:
+      "Newaukum Creek farmhouse, shop, or fence on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Newaukum Creek Process",
+    processSteps: [
+      {
+        title: "Newaukum Creek Site Assessment",
+        body: "City vs. county parcel, creek-side moisture, SE 424th / 264th access, occupied vs. vacant, house vs. shop, and fence or livestock logistics.",
+      },
+      {
+        title: "Newaukum Creek Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Neighbor gates and shared fence lines get agreed, not assumed. There is no Holdener Farm color board unless your parcel actually has one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, carpentry, prime — the Lane HBS differentiator on older plateau wood that stays damp near the creek.",
+      },
+      {
+        title: "Newaukum Creek Paint / Build Days",
+        body: "Weather windows after a real dry; school-year trips on 264th when we can avoid the Thunder Mountain rush.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Newaukum Creek",
+        url: "https://en.wikipedia.org/wiki/Newaukum_Creek",
+        description:
+          "The King County tributary of the Green River that meanders north of Enumclaw — about fourteen miles from Boise Ridge to the river, and a spawning stream for Chinook, coho, and steelhead. This is the waterway these lots drain to. It is not the Newaukum River in Lewis County.",
+      },
+      {
+        name: "Thunder Mountain Middle School",
+        url: "https://tmms.enumclaw.wednet.edu/",
+        description:
+          "Enumclaw School District’s campus at 42018 264th Avenue SE, on the east side of the creek corridor. Bell traffic is why we do not stage a trailer on 264th at drop-off if we can help it. Assignment is still parcel-specific.",
+      },
+      {
+        name: "Westwood Elementary",
+        url: "https://wwe.enumclaw.wednet.edu/",
+        description:
+          "The district campus at 21200 SE 416th Street, west along the same numbered street grid. Many Newaukum Creek addresses list Westwood; we follow your calendar instead of guessing Southwood or Kibler.",
+      },
+      {
+        name: "Enumclaw Foothills Trail",
+        url: "https://www.cityofenumclaw.net/Facilities/Facility/Details/Enumclaw-Foothills-Trail-15",
+        description:
+          "The paved trail that plateau households actually use for bikes and walks into town — useful context for weekend parking on the west side, not a substitute for a backyard beach and not Boise Creek Park’s ballfields.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where most unincorporated Newaukum Creek parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. The Enumclaw Building Division is the other desk if your lot actually sits inside city limits.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life along [Newaukum Creek](https://en.wikipedia.org/wiki/Newaukum_Creek) still runs on farm-road time: errands into the [City of Enumclaw](https://www.cityofenumclaw.net/), Enumclaw School District calendars, and weekday bells at [Thunder Mountain Middle School](https://tmms.enumclaw.wednet.edu/) on 264th Avenue SE. Structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use) or the city building desk if the parcel is inside limits.",
+      "Many nearby addresses sit nearer [Westwood Elementary](https://wwe.enumclaw.wednet.edu/) on SE 416th Street — confirm yours. Weekend miles often use the [Enumclaw Foothills Trail](https://www.cityofenumclaw.net/Facilities/Facility/Details/Enumclaw-Foothills-Trail-15). Libraries stay with the [King County Library System](https://kcls.org/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Newaukum Creek coatings around occupied acreage, creek-side dry time, and those calendars — not a downtown storefront template, not Krain Corner highway film, and not an Elk Meadows PUD packet.",
+    ],
+  },
 ];
