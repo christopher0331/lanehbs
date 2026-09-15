@@ -161,6 +161,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
       { name: "Elk Meadows", path: "/service-areas/enumclaw/elk-meadows" },
       { name: "Krain", path: "/service-areas/enumclaw/krain" },
+      {
+        name: "Newaukum Creek",
+        path: "/service-areas/enumclaw/newaukum-creek",
+      },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -197,6 +201,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Holy Family Cemetery",
         url: "https://www.sacredheartenumclaw.org/holy-family-cemetery",
+      },
+      {
+        name: "Newaukum Creek",
+        url: "https://en.wikipedia.org/wiki/Newaukum_Creek",
+      },
+      {
+        name: "Thunder Mountain Middle School",
+        url: "https://tmms.enumclaw.wednet.edu/",
+      },
+      {
+        name: "Enumclaw Foothills Trail",
+        url: "https://www.cityofenumclaw.net/Facilities/Facility/Details/Enumclaw-Foothills-Trail-15",
       },
       {
         name: "Nolte State Park",
