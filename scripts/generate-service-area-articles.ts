@@ -72,6 +72,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
       { name: "Allan Yorke", path: "/service-areas/lake-tapps/allan-yorke" },
       { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
+      { name: "Inlet Island", path: "/service-areas/lake-tapps/inlet-island" },
     ],
     knownLinks: [
       {
@@ -116,6 +117,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Tacoma and Evergreen Point Improvement Club",
         url: "https://www.tacoma-evergreen.org/",
+      },
+      {
+        name: "Inlet Island & Maple Point",
+        url: "https://inletislandpark.com/",
       },
     ],
     peers: [
