@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
 import Contact from "@/components/Contact";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Contact & Free Estimate",
   description:
     "Request a free estimate from Lane Home & Business Services LLC. Call (253) 414-3937 or send a message — serving Lake Tapps, Enumclaw, Maple Valley, and Covington.",
+  alternates: { canonical: absoluteUrl("/contact") },
 };
 
 type ContactPageProps = {

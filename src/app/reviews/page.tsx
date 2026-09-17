@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
 import Testimonials from "@/components/Testimonials";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Reviews",
   description:
     "Read what homeowners say about Lane Home & Business Services LLC — painting, remodeling, and outdoor projects done right.",
+  alternates: { canonical: absoluteUrl("/reviews") },
 };
 
 export default function ReviewsPage() {

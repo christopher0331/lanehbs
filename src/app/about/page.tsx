@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
 import About from "@/components/About";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "About Us",
   description:
     "Meet Lane Home & Business Services LLC — a Lake Tapps painting and remodeling contractor built on craftsmanship, honesty, and lasting results.",
+  alternates: { canonical: absoluteUrl("/about") },
 };
 
 export default function AboutPage() {

@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
 import Services from "@/components/Services";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Services",
   description:
     "Interior & exterior painting, commercial painting, remodeling, decks, fences, and carpentry from Lane Home & Business Services LLC.",
+  alternates: { canonical: absoluteUrl("/services") },
 };
 
 export default function ServicesPage() {

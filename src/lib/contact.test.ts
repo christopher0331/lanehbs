@@ -64,7 +64,7 @@ describe("estimateFromFields", () => {
       phone: "2534143937",
       service: "Deck & Fence",
       message: "Need stain",
-      page: "https://lanehbsllc.com/contact",
+      page: "https://lanehbs.com/contact",
       company: "",
       "form-name": "estimate",
     });
@@ -101,7 +101,7 @@ describe("estimateFromFormData", () => {
 
 describe("wantsHtmlRedirect", () => {
   it("redirects browser form posts", () => {
-    const request = new Request("https://lanehbsllc.com/api/contact", {
+    const request = new Request("https://lanehbs.com/api/contact", {
       method: "POST",
       headers: { "content-type": "application/x-www-form-urlencoded" },
     });
@@ -109,7 +109,7 @@ describe("wantsHtmlRedirect", () => {
   });
 
   it("keeps JSON clients on JSON", () => {
-    const request = new Request("https://lanehbsllc.com/api/contact", {
+    const request = new Request("https://lanehbs.com/api/contact", {
       method: "POST",
       headers: { "content-type": "application/json" },
     });

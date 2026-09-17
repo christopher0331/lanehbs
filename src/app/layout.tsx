@@ -4,6 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import EstimatePopup from "@/components/EstimatePopup";
 import PostHogScript from "@/components/PostHogScript";
+import { SITE_CONFIG } from "@/constants/siteConfig";
 import "./globals.css";
 
 const inter = Inter({
@@ -19,7 +20,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://lanehbsllc.com"),
+  metadataBase: new URL(SITE_CONFIG.url),
   title: {
     default: "Lane Home & Business Services LLC | Expert Contractors in Lake Tapps, WA",
     template: "%s | Lane HBS",
@@ -28,9 +29,6 @@ export const metadata: Metadata = {
     "Lane Home and Business Services LLC — your trusted residential and commercial painting, remodeling, renovation, deck, and fence contractors serving Lake Tapps, Enumclaw, Maple Valley, Covington, and the greater Pierce & King County area. Call (253) 414-3937 for a free estimate today.",
   keywords:
     "painting contractor Lake Tapps, Lake Tapps contractor, Enumclaw painting, Maple Valley contractor, Covington painting, residential painting, commercial painting, remodeling, renovation, deck building, fence installation, Lane Vanderwaal",
-  alternates: {
-    canonical: "/",
-  },
   openGraph: {
     type: "website",
     locale: "en_US",
