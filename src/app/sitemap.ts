@@ -1,14 +1,13 @@
 import type { MetadataRoute } from "next";
-import { SITE_CONFIG } from "@/constants/siteConfig";
 import { getAllCitySlugs, getAllNeighborhoodParams } from "@/lib/locations";
 import { getAllServiceSlugs } from "@/lib/services";
+import { absoluteUrl } from "@/lib/seo";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = SITE_CONFIG.url;
   const now = new Date();
 
   const staticRoutes = [
-    "",
+    "/",
     "/about",
     "/services",
     "/gallery",
@@ -16,28 +15,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/contact",
     "/service-areas",
   ].map((path) => ({
-    url: `${base}${path}`,
+    url: absoluteUrl(path),
     lastModified: now,
     changeFrequency: "weekly" as const,
-    priority: path === "" ? 1 : 0.8,
+    priority: path === "/" ? 1 : 0.8,
   }));
 
   const serviceRoutes = getAllServiceSlugs().map((slug) => ({
-    url: `${base}/services/${slug}`,
+    url: absoluteUrl(`/services/${slug}`),
     lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.85,
   }));
 
   const cityRoutes = getAllCitySlugs().map((city) => ({
-    url: `${base}/service-areas/${city}`,
+    url: absoluteUrl(`/service-areas/${city}`),
     lastModified: now,
     changeFrequency: "weekly" as const,
     priority: 0.9,
   }));
 
   const neighborhoodRoutes = getAllNeighborhoodParams().map(({ city, neighborhood }) => ({
-    url: `${base}/service-areas/${city}/${neighborhood}`,
+    url: absoluteUrl(`/service-areas/${city}/${neighborhood}`),
     lastModified: now,
     changeFrequency: "monthly" as const,
     priority: 0.75,

@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
 import Gallery from "@/components/Gallery";
+import { absoluteUrl } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "Project Gallery",
   description:
     "Browse recent painting, deck, flooring, and remodel projects from Lane Home & Business Services LLC across Lake Tapps and nearby communities.",
+  alternates: { canonical: absoluteUrl("/gallery") },
 };
 
 export default function GalleryPage() {

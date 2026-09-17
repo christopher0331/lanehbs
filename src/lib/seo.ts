@@ -3,8 +3,10 @@ import { SCHEMA_ADDRESS, SITE_CONFIG } from "@/constants/siteConfig";
 export type FaqItem = { question: string; answer: string };
 
 export function absoluteUrl(path: string): string {
-  if (path.startsWith("http")) return path;
-  return `${SITE_CONFIG.url}${path.startsWith("/") ? path : `/${path}`}`;
+  if (/^https?:\/\//i.test(path)) return path;
+  const base = SITE_CONFIG.url.replace(/\/+$/, "");
+  if (!path || path === "/") return base;
+  return `${base}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
 export function buildBreadcrumbList(

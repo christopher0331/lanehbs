@@ -417,7 +417,7 @@ function buildPrompt(area: AreaSeed): string {
   return `Write a factual, locally grounded home-improvement article of 900–1100 words about painting, remodeling, decks, and outdoor projects for homeowners in ${area.name}, ${area.county}, Washington.
 
 Context:
-- This copy appears on the Lane Home & Business Services LLC service-area hub: https://lanehbsllc.com/service-areas/${area.slug}
+- This copy appears on the Lane Home & Business Services LLC service-area hub: https://lanehbs.com/service-areas/${area.slug}
 - Brand: Lane Home & Business Services LLC (Lane Vanderwaal). Soft CTA only in the final paragraph — mention a free estimate and phone (253) 414-3937 once at the end.
 - Audience: homeowners researching painting, cabinet refinishing, remodeling, decks, and fences in ${area.name}.
 - ZIP codes: ${area.zipCodes.join(", ")}.

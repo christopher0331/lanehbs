@@ -1,3 +1,6 @@
+/** Public site origin for canonicals, sitemap, robots, and metadataBase. */
+export const SITE_URL = "https://lanehbs.com";
+
 export const SITE_CONFIG = {
   fullName: "Lane Home & Business Services LLC",
   shortName: "Lane HBS",
@@ -17,8 +20,8 @@ export const SITE_CONFIG = {
     latitude: 47.2384,
     longitude: -122.1951,
   },
-  url: "https://lanehbsllc.com",
-  logoUrl: "https://lanehbsllc.com/images/from-lane/lane-02-1196.png",
+  url: SITE_URL,
+  logoUrl: `${SITE_URL}/images/from-lane/lane-02-1196.png`,
   tagline: "Painting, Remodeling & Outdoor Craftsmanship",
   description:
     "Licensed painting, remodeling, deck, and fence contractor serving Lake Tapps, Enumclaw, Maple Valley, Covington, and surrounding Pierce & King County communities.",
