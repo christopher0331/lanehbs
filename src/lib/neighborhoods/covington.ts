@@ -1522,4 +1522,224 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "School calendars sit with the [Kent School District](https://www.kent.k12.wa.us/). Beach and launch days happen at [Lake Meridian Park](https://www.kentwa.gov/departments/kent-parks/parks-places/parks-trails/lake-meridian-park). Indoor research still happens at the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that trail-and-school rhythm — not as a name-swap of Jenkins Creek Park or Downtown Covington’s highway dust.",
     ],
   },
+  {
+    slug: "lake-morton-berrydale",
+    name: "Lake Morton-Berrydale",
+    description:
+      "Unincorporated CDP south of Covington — private Lake Morton Drive lots, Kent-Black Diamond Road acreage, and King County permits, not a city HOA street.",
+    blurb:
+      "Around East and West Lake Morton Drive SE, Kent-Black Diamond Road SE, and 191st Place SE, Lane HBS paints exteriors, stains decks, and repairs trim on occupied Lake Morton-Berrydale homes that take private-shore humidity, arterial film, and county-permit rules. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Moisture-aware exterior painting on Lake Morton Drive shore lots",
+      "Deck and rail work staged around the small WDFW gravel ramp",
+      "County-permit carpentry on acreage and Berrydale parcels with Kent mail",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Lake Morton-Berrydale?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through King County Local Services Permitting — this CDP sits south of the Covington city line even when the mailbox reads Kent 98042, Covington, or Auburn 98092. Waterfront work near the WDFW ramp or the shoreline can add shoreline and buffer questions. We name the desk on the free estimate instead of guessing from the ZIP.",
+      },
+      {
+        question:
+          "What prep fits Lake Morton-Berrydale’s private-shore humidity, shade, and arterial dust?",
+        answer:
+          "Lots on East and West Lake Morton Drive SE sit on a 66-acre kettle lake with a small gravel launch on the northwest shore. North walls and rails stay damp; inland acreage off Kent-Black Diamond Road SE and 190th–196th Avenue SE collects moss under trees; Berrydale parcels nearer SR 18 take road film. We wash first, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a shaded lake elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling in Lake Morton-Berrydale?",
+        answer:
+          "Story count, waterfront vs. inland exposure, wash-and-dry time, trim carpentry, occupied interiors, Kent-Black Diamond Road or Lake Morton Drive access, and whether a shop or fence run is in the same scope. There is no published square-foot or shoreline menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Lake Morton-Berrydale exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and decks depend on wash-dry windows after lake air, shade, or highway film comes off and after any carpentry. Grass Lake Elementary drop-off on 191st Place SE and weekend ramp parking on the northwest shore change staging, not the chemistry. We write the calendar after we see the parcel — we do not coat damp boards to hit a date.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on Lake Morton Drive or Kent-Black Diamond Road?",
+        answer:
+          "Yes. These are year-round homes, not cabins. We phase rooms, protect entries, and plan trailer placement so East Lake Morton Drive SE, West Lake Morton Drive SE, 191st Place SE, and Kent-Black Diamond Road SE stay usable for neighbors, school traffic, and the small WDFW lot. Pets and fence lines get a plan before boards come off. The southwest tip of the CDP can sit in Auburn School District; we follow your bell time instead of assuming Kentlake for every address.",
+      },
+    ],
+    image: "/images/from-lane/lane-12-1198.jpg",
+    heroIntro:
+      "Lake Morton-Berrydale is the unincorporated pocket south of Covington — East and West Lake Morton Drive SE around a 66-acre private-shore lake, Kent-Black Diamond Road SE through the middle, and Berrydale toward SR 18. Paint, decks, and fences here face lake humidity, acreage access, and King County permits, not a Lake Sawyer regional-park launch or a storefront on SE 272nd.",
+    mapQuery: "Lake Morton, Kent, WA",
+    latitude: 47.32435,
+    longitude: -122.08462,
+    geoRadiusMeters: 3500,
+    introHeading: "Private Shore, a Gravel Ramp, and Mailboxes That Lie About the City",
+    introLead:
+      "The census name is Lake Morton-Berrydale: the 66-acre lake in the east, encircled by East Lake Morton Drive SE and West Lake Morton Drive SE, and the older Berrydale hamlet in the northwest against State Route 18. Kent-Black Diamond Road SE is the spine. Grass Lake Elementary sits at 28700 191st Place SE inside the CDP — 191st Place SE, 190th Avenue SE, and 196th Avenue SE are school streets, not Covington Woods cul-de-sacs. The public water is a small WDFW gravel ramp and toilet on the northwest shore, open year-round; the rest of the shoreline is private. That is a different geometry than Lake Sawyer Regional Park, Pipe Lake’s no-ramp canal lots, or the Soos Creek Trail edge on 148th Avenue SE.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Lake Morton-Berrydale jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Lake Morton Drive or claim we stained the WDFW ramp. We will walk your trim, waterfront rails, and occupied interiors honestly, then tell you the parcel is King County before anyone talks color. Southern lots drain toward Covington Creek and Big Soos Creek; that moisture is creek-bottom shade, not the city’s western trail page. Berrydale, Lake Holm to the south, and Winterwood-style plats stay on this page — they are not separate neighborhood routes.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "Kent mail, county permits",
+        body: "Addresses often read Kent 98042 or Auburn 98092 and still sit in unincorporated King County. A new deck on Lake Morton Drive is not the Covington Building Division by default. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "waves",
+        title: "Sixty-six acres of private shore, not a regional beach",
+        body: "King County lists no public park on this lake — only a WDFW gravel ramp on the northwest shore. Waterfront siding and rails take kettle-lake humidity. We wait for dry wood instead of copying a Lake Sawyer launch schedule.",
+      },
+      {
+        icon: "school",
+        title: "191st Place SE is a school street",
+        body: "Grass Lake Elementary at 28700 191st Place SE sets the weekday clock. Kentlake High on SE Falcon Way and Cedar Heights Middle on SE 272nd sit north of the CDP. We time noisy wash around those bells, not around Downtown Covington retail hours.",
+      },
+      {
+        icon: "car",
+        title: "Kent-Black Diamond Road and SR 18 film",
+        body: "The arterial through the CDP and the highway on the Berrydale edge throw dust onto south and west walls. Pacific Raceways weekends on 144th Avenue SE add west-edge traffic. We wash film off before we talk color.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Lake Morton-Berrydale",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and interior work from Covington-area and nearby jobs. Shown as examples of lake-adjacent and acreage-style work — not claimed as a house on East Lake Morton Drive SE or Kent-Black Diamond Road SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior painting on a residential home",
+        caption: "Exterior repaint — Covington-area Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Freshly stained multi-level deck",
+        caption: "Deck staining — nearby project, not geo-tagged to Lake Morton Drive",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim in an occupied home",
+        caption: "Interior painting in a lived-in house",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Lake Morton-Berrydale",
+      image: "/images/from-lane/lane-20-1512.jpg",
+      imageAlt: "Deck railing installation in progress",
+      serviceType: "Deck and rail — nearby Covington-area home",
+      body: "Private-shore and acreage lots fail stain when wash and carpentry are skipped, not because the last color chip was wrong. On a nearby Covington-area deck we washed, let the boards dry, repaired soft rail stock, and recoated after a real dry window — the same sequence a Lake Morton Drive elevation needs when lake air keeps north boards wet. The photo is owned Lane HBS work in the parent-city area, not a verified address on East Lake Morton Drive SE. Timeline followed occupied-home access and street-shoulder staging. We do not invent linear footage or a Lake Morton address for a job we cannot verify. On an actual waterfront parcel we would also flag King County review before a new rail height.",
+    },
+    considerationsHeading: "Lake Morton-Berrydale-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Morton-Berrydale shoreline humidity and the WDFW ramp",
+        body: "East and West Lake Morton Drive SE wrap a 66-acre lake with a gravel public ramp on the northwest shore. Most lots never share that ramp; they still weather like waterfront. We wash algae, wait for dry wood, and do not treat this as Lake Sawyer Regional Park or Pipe Lake’s canal lots. Weekend anglers use the small parking area — trailer placement on the northwest loop has to leave that lot open.",
+      },
+      {
+        heading: "Lake Morton-Berrydale county permits on a city mailbox",
+        body: "The CDP is unincorporated King County between Covington, Kent, Auburn, Maple Valley, and Black Diamond. A Kent 98042 or Auburn 98092 label does not pick the building desk. New decks, shops, and some fences go to King County Local Services. City of Covington review only applies if the parcel actually sits inside the city — we check that on the visit.",
+      },
+      {
+        heading: "Lake Morton-Berrydale school streets and Kent-Black Diamond Road",
+        body: "Grass Lake Elementary at 28700 191st Place SE puts drop-off on 191st Place SE and the numbered avenues around 190th–196th. Kent-Black Diamond Road SE is the through-route toward Black Diamond. We stage so school buses and arterial traffic still move. This is not SE 272nd commercial parking and not the 148th Avenue SE trailheads.",
+      },
+      {
+        heading: "Occupied acreage, creek bottoms, and older trim",
+        body: "Inland lots and the Berrydale edge mix ramblers, later family houses, shops, and fence lines. Southern parcels drain toward Covington Creek and Big Soos Creek — shade and wet soils, not the city’s Soos Creek Trail page. Soft fascia and tired rails need carpentry before paint. Interiors stay livable; we do not empty a house to spray.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Morton-Berrydale",
+    costIntro:
+      "We do not publish dollar-per-square-foot or shoreline menus. Pricing here moves with lake vs. inland exposure, wash-and-dry time, trim repairs, occupied interiors, arterial or ramp-loop access, and whether King County review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Waterfront vs. inland wash time",
+        body: "Lake Morton Drive elevations stay damp longer than an open Berrydale wall. Shade and algae add labor before any coating. Cheap quotes skip that difference and fail on the north rail first.",
+      },
+      {
+        title: "Access on Lake Morton Drive and Kent-Black Diamond Road",
+        body: "A small WDFW lot, school traffic on 191st Place SE, and a two-lane arterial change how long wash and material drops take. We price that time instead of pretending this is an empty cul-de-sac.",
+      },
+      {
+        title: "Carpentry, county paperwork, and occupied rooms",
+        body: "Soft fascia, lived-in kitchens, shops, and King County questions take protection and calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Lake Morton-Berrydale exteriors need wash, scrape, and prime for kettle-lake humidity, canopy moss, or SR 18 film — then coatings that can take South King County winters.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Waterfront rails and acreage fences — clean, dry, repair what is soft, then finish. New rail height or fence posts still belong in the King County conversation when they leave cosmetic maintenance.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses around Grass Lake Elementary and Kent-Black Diamond Road. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Morton Drive house, Berrydale acreage, or a Kent-Black Diamond Road property ready for paint or a deck refresh? Free on-site estimate — call or send the form. We plan around county permits, lake dry time, and 191st Place SE school hours.",
+    processHeading: "Our Lake Morton-Berrydale Process",
+    processSteps: [
+      {
+        title: "Lake Morton-Berrydale Site Assessment",
+        body: "County vs. city-edge parcel, waterfront vs. inland, Kent-Black Diamond Road or Lake Morton Drive access, occupancy, and whether a shop or fence line is in scope.",
+      },
+      {
+        title: "Lake Morton-Berrydale Scope, Colors & County Review",
+        body: "Written scope before coating days. King County questions for new decks or fence height get named. Neighbor gates and shared fence lines get agreed, not assumed. There is no city HOA color board unless your plat actually has one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash film and algae, scrape, carpentry, prime — the Lane HBS differentiator on previously coated lake and acreage wood.",
+      },
+      {
+        title: "Lake Morton-Berrydale Paint / Build Days",
+        body: "Weather windows on the lake and under trees; school-year timing on 191st Place SE; weekend awareness at the WDFW ramp. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and rails walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "WDFW Lake Morton Access",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/lake-morton-492",
+        description:
+          "The public gravel boat ramp, parking, and toilet on the northwest shore of the 66-acre lake. Year-round access, no camping — the reason weekend trailers on West Lake Morton Drive SE have to share a small lot with anglers, not a regional-park beach.",
+      },
+      {
+        name: "Grass Lake Elementary",
+        url: "https://www.kent.k12.wa.us/o/gles/",
+        description:
+          "Kent School District’s Gators campus at 28700 191st Place SE, inside the CDP. Drop-off on 191st Place SE is the weekday clock for noisy wash and trailer placement around the lake and the numbered avenues.",
+      },
+      {
+        name: "Kentlake High School",
+        url: "https://www.kent.k12.wa.us/o/KHS",
+        description:
+          "The Falcons campus at 21401 SE Falcon Way, north of the CDP. Many Lake Morton-Berrydale addresses feed this Kent high school; assignment is still parcel-specific, especially on the Auburn-district southwest tip.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where most Lake Morton-Berrydale parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. Covington, Kent, or Auburn city desks only apply if the lot actually sits inside those limits.",
+      },
+      {
+        name: "Pacific Raceways",
+        url: "https://pacificraceways.com/contact/",
+        description:
+          "The motorsports facility at 31001 144th Avenue SE on the west edge of the CDP. Event weekends change traffic on 144th and the SR 18 / Berrydale approach — useful when we time a trailer, not a substitute for a neighborhood park.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Lake Morton-Berrydale still runs through unincorporated King County: structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use), school bells at [Grass Lake Elementary](https://www.kent.k12.wa.us/o/gles/) on 191st Place SE, and calendars from the [Kent School District](https://www.kent.k12.wa.us/). Errands often point north into the [City of Covington](https://www.covingtonwa.gov/) even when the building desk does not.",
+      "Weekend fishing uses the [WDFW Lake Morton access](https://wdfw.wa.gov/places-to-go/water-access-sites/lake-morton-492). Indoor research happens at [Covington Library](https://kcls.org/locations/covington/) (27100 164th Avenue SE). Power is [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule coatings around occupied acreage, the gravel ramp, and those calendars — not a Lake Sawyer park-launch template and not a Downtown Covington storefront clock.",
+    ],
+  },
 ];
