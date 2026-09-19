@@ -82,8 +82,10 @@ function insertImages(
 
 export default function ServiceAreaArticleBody({
   article,
+  eyebrow = "Local Guide",
 }: {
   article: ServiceAreaArticle;
+  eyebrow?: string;
 }) {
   const paragraphs = article.bodyMarkdown
     .split(/\n\s*\n/)
@@ -98,7 +100,7 @@ export default function ServiceAreaArticleBody({
         <div className="flex items-center gap-3 mb-4">
           <div className="h-px w-10 bg-[#c9a458]" />
           <span className="text-[#c9a458] text-xs tracking-[0.4em] uppercase">
-            Local Guide
+            {eyebrow}
           </span>
         </div>
         <h2 className="font-display text-3xl md:text-4xl font-bold text-white mb-4">

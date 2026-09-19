@@ -48,6 +48,7 @@ describe("llms.txt", () => {
       );
     }
     assert.equal(body.includes("/service-areas/lake-tapps/"), false);
+    assert.equal(body.includes("company hub"), true);
   });
 
   it("links only real sitemap URLs on https://lanehbs.com", () => {
