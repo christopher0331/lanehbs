@@ -261,6 +261,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
       { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
+      {
+        name: "Maple Ridge Highlands",
+        path: "/service-areas/maple-valley/maple-ridge-highlands",
+      },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -294,6 +298,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Taylor Mountain Forest",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
+      },
+      {
+        name: "Maple Ridge Highlands HOA",
+        url: "https://mapleridgehighlands.org/",
+      },
+      {
+        name: "Henry's Ridge Open Space",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/henrys-ridge",
       },
     ],
     peers: [

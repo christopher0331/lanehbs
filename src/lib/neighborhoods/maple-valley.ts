@@ -2375,4 +2375,224 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "School calendars are [Tahoma School District](https://www.tahomasd.us/) — Lake Wilderness Elementary is the nearby campus on Witte Road, not a claim about every lot. Public beach days still use [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5). Power is [Puget Sound Energy](https://www.pse.com/), and longer paved miles pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We schedule coatings around ACC timing, canopy dry windows, and that trailhead — not as a name-swap of Four Corners retail or the Covington Pipe Lake shoreline page.",
     ],
   },
+  {
+    slug: "maple-ridge-highlands",
+    name: "Maple Ridge Highlands",
+    description:
+      "2007 hillside HOA off Maple Ridge Drive — ACC color changes, Spice Chest fence stain, and Henry’s Ridge trail staging, not a 268th no-parking plat.",
+    blurb:
+      "On SE Maple Ridge Drive, Maple Ridge Way SE, SE 275th Street, and 254th Way SE, Lane HBS paints 2000s exteriors, stains decks on engineered ridge lots, and matches the published HOA fence stain. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "ACC-aware exterior painting — notice for same-color, samples for a color change",
+      "Deck stain and carpentry on engineered hillside lots",
+      "Fence restain to the published Spice Chest color, not a guessed brown",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint, build a deck, or replace a fence in Maple Ridge Highlands?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually City of Maple Valley maintenance. New decks, rail-height changes, and some fence work still go through Maple Valley Building. Separately, Maple Ridge Highlands’ Architectural Control Committee treats a same-color repaint as a 30-day notice item, not a full approval — a new color scheme, new exterior materials, or a new fence stain needs an ACC packet with samples. Maple Woods (Divisions 1 and 2 on the same ridge) is a sibling association with its own desk; we confirm which CC&Rs apply from the address, not from the monument sign.",
+      },
+      {
+        question:
+          "What prep fits Maple Ridge Highlands’ engineered slopes, ridge weather, and 2007 siding?",
+        answer:
+          "Rows of homes sit on cut-and-fill benches with 2.2 acres of steep open space between them. Downhill and shaded walls stay damp; west lots closer to Maple Valley–Black Diamond Road (SR 169) pick up arterial film. We wash, scrape failed coatings, prime bare trim, and wait for dry wood before color. A one-coat bid that skips that inspection does not last on a ridge lot, and it will not look finished next to a neighbor the ACC already reviewed.",
+      },
+      {
+        question: "How do you price painting and remodeling in Maple Ridge Highlands?",
+        answer:
+          "Story count, ACC sample or notice time, wash-and-dry on hillside elevations, occupied interiors, deck condition, and whether the fence needs the published Spice Chest restain. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Maple Ridge Highlands interior, exterior, or deck job take?",
+        answer:
+          "A straightforward occupied interior can be several days. Exteriors and decks depend on wash-dry windows on the slope and on whether a color change is waiting on the ACC. We set the calendar after we see the lot — including where a trailer can sit without blocking Henry’s Ridge walk-in access on SE Maple Ridge Drive, Maple Ridge Way SE, or SE 281st Way.",
+      },
+      {
+        question:
+          "Can you paint while we live here, and how do you stage around trail and school traffic?",
+        answer:
+          "Yes. These are occupied 2007 family houses, not vacant flips. We phase rooms, protect floors, and keep driveways usable. King County’s Henry’s Ridge Open Space has no formal parking lot — hikers and bikes already use residential shoulders at Water Tower Park and SE 281st Way. Rock Creek Elementary sits on Maple Valley–Black Diamond Road SE. We plan wash days and material drops so we are not the extra vehicle in that mix.",
+      },
+    ],
+    image: "/images/from-lane/lane-25-1450.jpg",
+    heroIntro:
+      "Maple Ridge Highlands is the 2007 hillside HOA southeast of downtown Maple Valley — SE Maple Ridge Drive, Maple Ridge Way SE, SE 275th Street, 245th Avenue SE, and 254th Way SE. Paint and decks here run on ACC notice or samples, engineered slopes, and Henry’s Ridge trail access, not on Four Corners retail parking or Meadows at Rock Creek’s no-street-parking plat.",
+    mapQuery: "SE Maple Ridge Drive, Maple Valley, WA",
+    latitude: 47.3519,
+    longitude: -122.0051,
+    geoRadiusMeters: 1800,
+    introHeading: "Engineered Slopes, Two HOAs, and a Forest Trailhead on the Same Streets",
+    introLead:
+      "The ridge was platted as Maple Ridge Highlands, then split when Polygon sold later divisions: Maple Woods covers Divisions 1 and 2; Maple Ridge Highlands covers Divisions 3 and 4 — 274 homes, five HOA parks, and 2.2 acres of engineered steep slopes between the house rows. Streets people actually use are SE Maple Ridge Drive, Maple Ridge Way SE, SE 273rd Street, SE 275th Street, SE 276th Street, 245th Avenue SE, 254th Way SE, and SE 281st Way. That is a different geometry than Wilderness Rim’s older canopy hillside, Summit’s collector streetscape, or Meadows at Rock Creek on SE 268th.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Maple Ridge Highlands jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Maple Ridge Way SE or claim a seat on the Architectural Control Committee. We will walk siding, decks, and lot-line fences honestly, help you file the 30-day same-color notice or a color-change packet with samples, and restain fences to the association’s published Sherwin-Williams Spice Chest (3513) when that is the rule — not Meadows at Rock Creek’s Cedar Bark #3511. City permits still sit with Maple Valley Building when the work is structural. Maple Woods, The Arbors, and The Terraces share the ridge and the Henry’s Ridge trail network; they are covered on this page, not as extra routes.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "ACC notice vs. a color-change packet",
+        body: "Maple Ridge Highlands publishes a clear split: identical-color repaint or restain needs 30 days’ notice, not a full committee vote. A new color scheme or new exterior material needs samples and ACC approval before coating days. We build that into the schedule instead of showing up with a sprayer.",
+      },
+      {
+        icon: "trees",
+        title: "Henry’s Ridge access is already on these streets",
+        body: "King County’s 250-acre open space has no formal lot. Walk-ins start at Water Tower Park on SE Maple Ridge Drive, along Maple Ridge Way SE, and at SE 281st Way. Weekend bikes and hikers already use those shoulders. We do not treat them as empty staging.",
+      },
+      {
+        icon: "droplets",
+        title: "Cut-and-fill benches stay wet longer",
+        body: "The HOA’s steep open space between rows is engineered hillside, inspected on a two-year cycle. Downhill and shaded elevations hold moisture after a wash. Coatings wait for dry substrate — especially after arterial film comes off lots nearer SR 169.",
+      },
+      {
+        icon: "home",
+        title: "Occupied 2007 two-stories, not a 1970s canopy HOA",
+        body: "These are family houses with HOA parks kids still use — Swing Park, Water Tower Park, basketball lawns. There is no Cedar Downs ACC-for-same-color rule here and no Four Corners storefront clock. We phase rooms and keep the driveway open.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Maple Ridge Highlands",
+    galleryNote:
+      "Owned Lane HBS photos of kitchen, deck, and exterior work from Maple Valley-area and nearby jobs. They illustrate the work type — they are not geo-tagged to SE Maple Ridge Drive or Maple Ridge Way SE.",
+    gallery: [
+      {
+        src: "/images/painting4.jpg",
+        alt: "Kitchen cabinets painted a deep blue in a family home",
+        caption: "Kitchen cabinet painting",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Freshly finished elevated deck boards and rail",
+        caption: "Elevated deck boards and rail",
+      },
+      {
+        src: "/images/from-lane/lane-21-101.jpg",
+        alt: "Exterior house painting after wash and prep",
+        caption: "Exterior house painting after wash and prep",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Maple Ridge Highlands",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Elevated wood deck with stair and rail on a hillside-style home",
+      serviceType: "Deck staining and rail work — nearby Maple Valley-area home",
+      body: "Maple Ridge Highlands backyards sit on cut-and-fill benches, so many decks are short elevated runs over a slope rather than a slab patio. On a nearby Maple Valley-area job we inspected structure, replaced what was soft, then stained boards and rails after a real dry window — not over damp shade. The photo is owned Lane HBS work in the parent-city region, not a named Maple Ridge Drive or 254th Way SE address. For exteriors on these streets the extra step is the ACC notice or color-change sample; for fences it is the published Spice Chest restain. Timeline followed weather and occupied-home access, not a fictional board count.",
+    },
+    considerationsHeading: "Maple Ridge Highlands-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Maple Ridge Highlands ACC and fence stain",
+        body: "The association’s published architectural instructions are specific: same-color paint or stain is a 30-day notice; a new color or material needs samples and ACC approval. Lot-line fences are the homeowner’s to stain with Sherwin-Williams Exterior Alkyd Semi-Transparent Spice Chest (A14T5 / 3513). We do not swap in Meadows at Rock Creek’s Cedar Bark #3511, and we do not treat Maple Woods Division 1–2 rules as automatically the same without checking that association.",
+      },
+      {
+        heading: "Maple Ridge Highlands slopes and wash runoff",
+        body: "Engineered steep open space between house rows is why these lots exist as flat pads. Wash water and ladder feet have to stay on the pad and the driveway, not on the inspected slope or the neighbor downhill. North and downhill siding stay damp longer than a west wall that faces SR 169 film.",
+      },
+      {
+        heading: "Maple Ridge Highlands trailhead streets",
+        body: "Henry’s Ridge Open Space is reached from Water Tower Park on SE Maple Ridge Drive, Maple Ridge Way SE, and SE 281st Way. There is no county parking lot. King County and WTA both tell visitors to park legally on residential streets. We write trailer placement at the estimate so a wash day is not competing with Saturday bike traffic.",
+      },
+      {
+        heading: "Occupied interiors and Rock Creek bells",
+        body: "Most interiors happen while someone is living here. We phase rooms and keep a bathroom usable. School assignment is parcel-specific in Tahoma School District; many ridge addresses list Rock Creek Elementary at 25700 Maple Valley–Black Diamond Road SE, Summit Trail Middle on Summit-Landsburg Road, and Tahoma High on SE Tahoma Way. We follow your drop-off, not a guessed campus, and we do not time a noisy wash for the SR 169 / Maple Ridge Drive queue.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Maple Ridge Highlands",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Maple Ridge Highlands pricing follows ACC notice or sample time, wash-and-dry on hillside elevations, carpentry on 2007 trim and decks, occupied interiors, and whether the fence needs the published Spice Chest restain.",
+    costDrivers: [
+      {
+        title: "ACC timing and two-story access",
+        body: "A 30-day same-color notice or a color-change sample wall adds calendar days before coating. Ladder time on craftsman elevations is in the written estimate.",
+      },
+      {
+        title: "Hillside wash, dry, and trail-street staging",
+        body: "Slope runoff and Henry’s Ridge shoulder parking mean more trips and tighter material drops than an empty collector. We price the access you actually have.",
+      },
+      {
+        title: "Decks, lot-line fences, and occupied kitchens",
+        body: "Soft rails, tired deck boards, and a Spice Chest fence restain are separate from a wall color. Cabinet and interior work is sequenced so the house stays livable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash arterial film and slope moisture, scrape, prime, and coat — ACC notice or color-change samples first, then weather-honest prep on Maple Ridge Drive elevations.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Elevated deck stain and lot-line fences restained to the published Spice Chest color. Structure first, then coating after a real dry window.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied 2007 interiors and kitchen cabinet painting phased room-by-room so bedrooms and the driveway stay usable.",
+      },
+    ],
+    estimateBandCopy:
+      "Maple Ridge Highlands exterior, kitchen, or deck on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Maple Ridge Highlands Process",
+    processSteps: [
+      {
+        title: "Maple Ridge Highlands Site Assessment",
+        body: "Which HOA (Highlands vs. Maple Woods), slope access, occupancy, trail-street staging, and whether the fence is a Spice Chest restain.",
+      },
+      {
+        title: "Maple Ridge Highlands Scope, Colors & HOA",
+        body: "Written scope plus the 30-day same-color notice or ACC color samples. City structural notes if a deck or fence changes height.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash film and mildew, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 2007 siding and rails.",
+      },
+      {
+        title: "Maple Ridge Highlands Paint / Build Days",
+        body: "Weather windows after a real dry-out; phased interiors; material drops that leave SE Maple Ridge Drive and SE 281st Way passable for trail users.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "You walk elevations, decks, and rooms with us. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Maple Ridge Highlands HOA",
+        url: "https://mapleridgehighlands.org/",
+        description:
+          "The association’s public site — parks (Water Tower, Swing, basketball lawns), history of the Polygon split from Maple Woods, and the ACC documents that actually govern paint and fence stain on Divisions 3 and 4.",
+      },
+      {
+        name: "Henry's Ridge Open Space",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/henrys-ridge",
+        description:
+          "King County’s roughly 250-acre forest three miles southeast of downtown Maple Valley, with nearly 20 miles of multi-use trail and no formal parking. Why a Saturday wash on SE Maple Ridge Drive has to share the street with bikes.",
+      },
+      {
+        name: "Rock Creek Elementary",
+        url: "https://rockcreek.tahomasd.us/",
+        description:
+          "Tahoma campus at 25700 Maple Valley–Black Diamond Road SE — the same arterial that feeds SE Maple Ridge Drive. Assignment is still parcel-specific; we follow your bell time, not a guessed school.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "The city counter for structural decks, additions, and fence-height questions. ACC notice or approval does not replace a building permit when the work leaves the cosmetic-repaint category.",
+      },
+      {
+        name: "Summit Park",
+        url: "https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php",
+        description:
+          "The city’s public park at 23675 SE Tahoma Way — fields, playground, and trail access a short drive from the ridge. Useful for weekends; it is not a substitute for the HOA’s Water Tower Park or for Henry’s Ridge.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on the ridge runs through the [Maple Ridge Highlands HOA](https://mapleridgehighlands.org/) calendar and [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) when a deck or fence leaves maintenance. Trail days start at [Henry's Ridge Open Space](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/henrys-ridge) from Water Tower Park, Maple Ridge Way SE, or SE 281st Way — [Washington Trails Association](https://www.wta.org/go-hiking/hikes/henrys-ridge-open-space) publishes the same three walk-ins. School days follow [Tahoma School District](https://www.tahomasd.us/); many addresses list [Rock Creek Elementary](https://rockcreek.tahomasd.us/) and [Summit Trail Middle School](https://summittrail.tahomasd.us/). Confirm your campus.",
+      "Civic errands still go through the [City of Maple Valley](https://www.maplevalleywa.gov/). Indoor hours often land at the [Maple Valley Library](https://kcls.org/locations/maple-valley/) at 21844 SE 248th Street. Public fields and the skate park sit at [Summit Park](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php) on SE Tahoma Way. Power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around ACC notice or samples, Henry’s Ridge shoulder parking, and those calendars — not as a name-swap of Meadows at Rock Creek, Cedar Downs, Wilderness Rim, or Four Corners retail.",
+    ],
+  },
 ];
