@@ -284,6 +284,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
       { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
       { name: "Lake Francis", path: "/service-areas/maple-valley/lake-francis" },
+      {
+        name: "Maple Ridge Highlands",
+        path: "/service-areas/maple-valley/maple-ridge-highlands",
+      },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -325,6 +329,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Tahoma Elementary",
         url: "https://tahomaelementary.tahomasd.us/",
+      },
+      {
+        name: "Maple Ridge Highlands HOA",
+        url: "https://mapleridgehighlands.org/",
+      },
+      {
+        name: "Henry's Ridge Open Space",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/natural-working-lands/henrys-ridge",
       },
     ],
     peers: [
