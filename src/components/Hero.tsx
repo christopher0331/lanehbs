@@ -59,15 +59,17 @@ export default function Hero() {
           </div>
 
           {/* Headline */}
-          <h1 className="font-display text-5xl md:text-7xl font-bold text-white leading-[1.05] mb-6">
-            Transforming Spaces.{" "}
-            <span className="text-gold-gradient">Elevating</span>{" "}
-            Standards.
+          <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-[1.05] mb-6">
+            Painting, Remodeling &amp; Home Services in{" "}
+            <span className="text-gold-gradient">Lake Tapps</span>
           </h1>
 
           {/* Subheadline */}
-          <p className="text-white/70 text-lg md:text-xl leading-relaxed mb-8 max-w-xl">
-            From precision painting to full-scale renovations, Lane Home &amp; Business Services delivers exceptional craftsmanship on every project — residential or commercial.
+          <p className="text-white/70 text-lg md:text-xl leading-relaxed mb-8 max-w-2xl">
+            Lane Home &amp; Business Services LLC is a licensed contractor for interior
+            and exterior painting, remodeling, repairs, decks, fences, and commercial
+            painting — serving Lake Tapps, Enumclaw, Maple Valley, Covington, and nearby
+            Pierce &amp; King County communities.
           </p>
 
           {/* Badges */}
