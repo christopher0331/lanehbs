@@ -161,6 +161,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
       { name: "Elk Meadows", path: "/service-areas/enumclaw/elk-meadows" },
       { name: "Krain", path: "/service-areas/enumclaw/krain" },
+      { name: "Cumberland", path: "/service-areas/enumclaw/cumberland" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -201,6 +202,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Nolte State Park",
         url: "https://parks.wa.gov/find-parks/state-parks/nolte-state-park",
+      },
+      {
+        name: "Kanaskat-Palmer State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/kanaskat-palmer-state-park",
+      },
+      {
+        name: "Walker Lake — WDFW",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/walker-lake-690",
+      },
+      {
+        name: "Enumclaw Fire Department",
+        url: "https://www.enumclawfire.org/",
       },
       {
         name: "Washington State Department of Labor & Industries",
