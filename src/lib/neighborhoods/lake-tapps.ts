@@ -1947,4 +1947,225 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "The Census Bureau still lists [Prairie Ridge CDP](https://www.census.gov/quickfacts/fact/table/prairieridgecdpwashington/POP010210) as its own place. Indoor research sits with the [Pierce County Library System](https://mypcls.org/). Power and storm timing are [Puget Sound Energy](https://www.pse.com/). Contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule coatings around occupied family lots and those calendars — not as a name-swap of Allan Yorke’s launch, West Tapps view decks, or a gated Tapps Island fairway.",
     ],
   },
+  {
+    slug: "inlet-island",
+    name: "Inlet Island",
+    description:
+      "East-side causeway peninsula — 1962 Inlet Island Maintenance Company streets, a private park launch, and Bonney Lake permits, not Snag Island or the south-end city park.",
+    blurb:
+      "On Inlet Island and Maple Point, Lane HBS paints exteriors, stains decks, and repairs trim for occupied homes off 64th Street E — North Island Drive E, South Island Drive E, Cascade Drive E, 205th Ave E. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for inlet humidity and west-facing lake fetch on the same peninsula",
+      "Deck and fence work staged around the private IIMC launch and a single causeway in",
+      "Carpentry before paint on 1960s–80s lake houses that became year-round homes",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence on Inlet Island?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, fence height, or shoreline-adjacent structure typically go through the City of Bonney Lake Permit Center — Inlet Island and Maple Point were platted as Town of Bonney Lake (1962 and 1963), not a default unincorporated Pierce County parcel and not the Tapps Island gate. Cosmetic paint is not a shoreline permit. We flag city vs. Cascade Water Alliance questions on the free estimate instead of guessing from the private park dock.",
+      },
+      {
+        question:
+          "What prep fits Inlet Island’s mix of reservoir-inlet moisture and west-facing lake walls?",
+        answer:
+          "Wash first. Cove and low-bank lots near the White River inlet stay damp; west-facing walls on North Island Drive E and South Island Drive E take open-water UV and wind off the main body of Lake Tapps. Inland streets such as Cascade Drive E, 205th Avenue E, and 60th Street E still grow mildew on north elevations and fence posts. Both need dry time before prime. We do not coat damp wood to finish before a Saturday member launch, and we do not treat this as Snag Island Drive farther north, Deer Island’s one-street western dead-end, or Allan Yorke’s public-park dust.",
+      },
+      {
+        question: "How do you price painting and remodeling on Inlet Island?",
+        answer:
+          "Causeway staging, Inlet Island Maintenance Company park-key logistics, moisture that differs from an inlet cove to a west-facing bulkhead, occupied interiors, and whether 1960s trim or rails need carpentry. There is no published square-foot or linear-foot menu. Free on-site estimate — call (253) 414-3937 or use the contact form.",
+      },
+      {
+        question:
+          "How long does a typical Inlet Island exterior, interior, or deck job take?",
+        answer:
+          "A single-family exterior is usually several dry-weather days after wash time. Inlet-side decks wait on moisture longer than a sunny west wall a few lots down South Island Drive E. Interiors are sequenced room by room while you live here. We set the calendar after we see the house and how 64th Street E and the causeway behave when members are launching — not from a photo.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you handle the causeway, park keys, and school mornings?",
+        answer:
+          "Yes. Most interiors happen occupied, with floors protected. The Inlet Island / Maple Point park uses key cards; we stage the trailer so we are not the extra boat-day blockage on North or South Island Drive E or Cascade Drive E. Access is typically SR 410 to 64th Street E across the causeway — one way on and off the peninsula. Weekday timing follows Sumner-Bonney Lake drop-off: Emerald Hills Elementary on South Tapps Drive E, Lakeridge Middle School on Myers Road E, and Bonney Lake High School. That is a different clock than Dieringer households on Tapps Island or Tacoma Point.",
+      },
+    ],
+    image: "/images/from-lane/lane-32-60.jpg",
+    heroIntro:
+      "Inlet Island is the east-side peninsula you reach from 64th Street E off State Route 410 — North and South Island Drive E, Cascade Drive E, and the private park at the inlet where White River water enters Lake Tapps. Paint and decks here fight cove humidity and west-facing lake sun, not a gated fairway or a public city launch.",
+    mapQuery: "South Island Drive East, Bonney Lake, WA",
+    latitude: 47.2024,
+    longitude: -122.1576,
+    geoRadiusMeters: 1600,
+    introHeading: "A Causeway, a Named Inlet, and Two Kinds of Weather on One Plat",
+    introLead:
+      "Homes along North Island Drive East and South Island Drive East sit on the water or a short walk from it. Maple Point — the 1963 addition to the 1962 Inlet Island plat — shares the same Inlet Island Maintenance Company park. Cascade Drive East, 205th Avenue East, 60th Street East, South Vista Drive East, and Rainier Drive East fill in the inland loops. Access comes off State Route 410 onto 64th Street East and across a causeway: one road in, one road out. That is a different geometry than Snag Island Drive farther north on the east shore, and nothing like Allan Yorke’s public park streets on the south end. Siding picks up inlet fog on the conveyance side and reflected UV on walls that face the open lake to the west.",
+    introBody:
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on North Island Drive E or claim we painted the clubhouse at 5401 South Island Drive. We will wash, repair soft trim, and wait for dry windows that differ from a cove lot to a west-facing rambler on South Island Drive E. City of Bonney Lake permits, occupied-home protection, and Sumner-Bonney Lake calendars — Emerald Hills Elementary at 19515 South Tapps Drive E, Lakeridge Middle School at 5909 Myers Road E, and Bonney Lake High School at 10920 199th Avenue Court East — shape how we stage a trailer. Licensed work: LANEHHB7912R. Maple Point is the sister addition on this page; we are not building a separate Maple Point route. Lakeridge the subdivision is a different West Tapps Maintenance Co. community — this page is the Inlet Island / Maple Point peninsula only.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "A 1962 maintenance company, not an optional park club",
+        body: "Inlet Island Maintenance Company dates to 1962; Maple Point was added in 1963. Membership and park key cards are how residents reach the private launch — it is not the optional Tacoma and Evergreen Point Improvement Club, not the Tapps Island Association gate, and not Allan Yorke’s public city park. We ask which architectural rules actually apply to your parcel instead of assuming a golf-course palette letter.",
+      },
+      {
+        icon: "waves",
+        title: "Inlet coves and west-facing lake walls on the same peninsula",
+        body: "The peninsula is named for the reservoir inlet: Cascade Water Alliance’s upper conveyance and settling basins empty White River water into Lake Tapps on this Bonney Lake shore. Cove lots stay wet. West-facing Island Drive houses take open-water fetch. We spec wash and dry time for the lot you own — not a copied Snag Island paragraph and not Deer Island’s western dead-end.",
+      },
+      {
+        icon: "car",
+        title: "One causeway in — trailers cannot hide on a side street",
+        body: "64th Street E over the causeway is not a wide suburban collector you can block with a sprayer. Member launch days at the private park on Cascade Drive E change where a trailer can sit. We plan wash runoff so neighbors still reach North Island Drive E, South Island Drive E, and SR 410.",
+      },
+      {
+        icon: "school",
+        title: "Emerald Hills and Lakeridge Middle, not Dieringer bells",
+        body: "Inlet Island households run on Sumner-Bonney Lake timing — elementary on South Tapps Drive E, middle school on Myers Road E, high school on 199th. Interior sequencing and noisy wash days follow that calendar, a different weekday rhythm than Tapps Island or Tacoma Point on Dieringer’s split campuses.",
+      },
+    ],
+    reviewNames: ["Tina W.", "David R.", "Sarah M."],
+    galleryHeading: "Our Work Near Inlet Island",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and interiors from Lake Tapps and nearby Pierce County jobs. They illustrate the work type for east-shore peninsula homes and are not geo-tagged to North Island Drive E, South Island Drive E, Cascade Drive E, or the private Inlet Island park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-32-60.jpg",
+        alt: "Completed exterior deck project",
+        caption: "Deck staining — Lake Tapps and nearby work",
+      },
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior renovation work on a residential home",
+        caption: "Exterior repaint — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-08-4766.jpg",
+        alt: "Hallway masked and ready for spray",
+        caption: "Interior painting in an occupied home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Inlet Island",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed wraparound deck with modern railing",
+      serviceType: "Deck staining — nearby Lake Tapps home",
+      body: "East-peninsula decks fail when inlet moisture never lets the last coat cure or when a west-facing elevation gets a one-coat shortcut after a dusty launch weekend. On a nearby Lake Tapps deck we washed, let the boards dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent city area — not a house on North Island Drive E, South Island Drive E, or Cascade Drive E. Timeline followed dry windows, occupied-home access, and how trailers already use the causeway on member launch days. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Inlet Island-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Inlet Island private park, key cards, and causeway access",
+        body: "The Inlet Island / Maple Point park — clubhouse at 5401 South Island Drive, park parcel addressed 20002 Cascade Drive E — is a private 1.5-acre member shoreline with a boat ramp, docks, an enclosed swim area, and courts. Hours run 8 a.m. to 10 p.m.; key cards and current dues control the gate. That is not Allan Yorke’s public city launch and not Pierce County’s North Lake Tapps Park. We stage materials so we are not the extra trailer on the only causeway. Maple Point households use the same park — one page covers both plats.",
+      },
+      {
+        heading: "Inlet Island cove humidity versus west-facing Island Drive lots",
+        body: "Low-bank and cove houses near the White River inlet take reservoir humidity and splash as Cascade moves water through the settling basins. A few lots away, west-facing walls on North Island Drive E and South Island Drive E take sun and wind off the open lake. Inland Cascade Drive E, 205th Ave E, and 60th Street E lots still fight shade mildew. Washing is still the job. Coating damp wood so the house looks finished for a holiday weekend is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Inlet Island city permits and IIMC rules",
+        body: "These parcels are typically City of Bonney Lake, so structural decks and additions start at the city Permit Center — the same office Allan Yorke uses, a different office than unincorporated Tacoma Point. Inlet Island Maintenance Company bylaws and park rules sit on top of that. Cosmetic paint is usually maintenance. Some lots still have neighbor sightlines from the private docks. We ask which rules apply instead of copying a gated-island playbook onto every 205th Ave E rambler.",
+      },
+      {
+        heading: "Occupied interiors on 1960s lake houses during the school year",
+        body: "The 1962–63 plats are full of houses that started as lake places and became year-round. Bedrooms and kitchens stay in use. Older trim, soffits, and siding often need carpentry before paint. We contain rooms, protect floors, and sequence work around Emerald Hills Elementary on South Tapps Drive E and Lakeridge Middle School on Myers Road E so a bathroom and a bedroom remain usable. Bonney Lake High School on 199th Avenue Court East is part of the same district clock.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Inlet Island",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Inlet Island pricing moves with causeway staging, moisture prep that differs from an inlet cove to a west-facing wall, occupied interiors, and whether carpentry belongs in the same scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two exposures on the same peninsula",
+        body: "Inlet humidity and west-facing lake UV add labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access when members are launching",
+        body: "One causeway, narrow Island Drive loops, and the private park gate change how long wash and material drops take. We price that time instead of pretending 64th Street E is a wide public collector.",
+      },
+      {
+        title: "Occupied rooms and city sequencing",
+        body: "Lived-in 1960s houses take protection time and often need trim repairs. Permit questions for new decks or fence height are written into the schedule so the kitchen does not hide inside an exterior bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Inlet Island exteriors need wash, scrape, and prime for cove moisture or west-facing lake sun — then coatings that can take Pierce County winters and neighbor scrutiny from a shared park road.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Waterfront decks and inland privacy fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning of a member launch.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Soft fascia, failed trim, and older lake-house millwork on the 1962–63 plats get repaired before paint so the coating has a sound surface — the Lane HBS differentiator on previously coated peninsula wood.",
+      },
+    ],
+    estimateBandCopy:
+      "Inlet Island or Maple Point house ready for paint, a deck refresh, or trim repairs? Free on-site estimate — call or send the form. We plan around the private park, the causeway, and whether your lot sits on the inlet or faces the open lake.",
+    processHeading: "Our Inlet Island Process",
+    processSteps: [
+      {
+        title: "Inlet Island Site Assessment",
+        body: "Inlet cove vs west-facing exposure, causeway and park-road access, occupied vs vacant, and whether the job is siding, deck, or both.",
+      },
+      {
+        title: "Inlet Island Scope, Colors & IIMC",
+        body: "City of Bonney Lake permit questions when the work is structural, neighbor sightlines from the private docks, and whether your parcel actually has Inlet Island Maintenance Company color expectations.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated east-peninsula houses.",
+      },
+      {
+        title: "Inlet Island Paint / Build Days",
+        body: "Weather windows plus launch-day traffic on 64th Street E, the causeway, and Island Drive. We do not wash a one-way peninsula into member trailers.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Inlet Island & Maple Point",
+        url: "https://inletislandpark.com/",
+        description:
+          "The homeowners’ site for Inlet Island Maintenance Company — park hours, key cards, and the clubhouse at 5401 South Island Drive. We treat membership, gates, and launch days as a staging constraint, not a lifestyle brochure, and we do not confuse this private shoreline with Allan Yorke’s public city park.",
+      },
+      {
+        name: "Emerald Hills Elementary",
+        url: "https://ehe.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake’s K–5 campus at 19515 South Tapps Drive E is the elementary Inlet Island families actually drive. Interior paint days and material drops follow that calendar so occupied homes still function on school mornings.",
+      },
+      {
+        name: "Lakeridge Middle School",
+        url: "https://lms.sumnersd.org/",
+        description:
+          "The district middle school at 5909 Myers Road E. Pickup windows and sports traffic are part of how we think about trailer placement on 64th Street E even when the job itself is on North Island Drive E. The school name is not a second neighborhood page — Lakeridge the subdivision is a different West Tapps community.",
+      },
+      {
+        name: "Bonney Lake High School",
+        url: "https://blhs.sumnersd.org/",
+        description:
+          "The high-school campus at 10920 199th Avenue Court East. Same district clock as Emerald Hills and Lakeridge Middle — a different weekday stack than Dieringer households on Tapps Island.",
+      },
+      {
+        name: "Allan Yorke Park",
+        url: "https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1",
+        description:
+          "Bonney Lake’s public south-end park — the city’s launch, beach, and concert lawn. Nearby public life, not the Inlet Island Maintenance Company shoreline on Cascade Drive E. Summer city-park traffic is a different weekend stack than member keys on the causeway.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Inlet Island and Maple Point runs on a causeway-and-key-card rhythm: one road in from 64th Street E, a 1962 maintenance company for park access, and Sumner-Bonney Lake bells. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars, including [Emerald Hills Elementary](https://ehe.sumnersd.org/) on South Tapps Drive E and [Lakeridge Middle School](https://lms.sumnersd.org/) on Myers Road E. The [Inlet Island & Maple Point](https://inletislandpark.com/) association is how members reach the private launch — which is why we treat boat days as a real constraint, not scenery.",
+      "Structural decks and additions on these Bonney Lake streets typically start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/279/Building-Permits). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations — this shore is where the White River conveyance enters the reservoir — and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that inlet-and-school rhythm — not as a name-swap of Snag Island, Deer Island, or the public park streets at Allan Yorke.",
+    ],
+  },
+
 ];

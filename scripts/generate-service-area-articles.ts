@@ -73,6 +73,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Allan Yorke", path: "/service-areas/lake-tapps/allan-yorke" },
       { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
       { name: "Prairie Ridge", path: "/service-areas/lake-tapps/prairie-ridge" },
+      { name: "Inlet Island", path: "/service-areas/lake-tapps/inlet-island" },
     ],
     knownLinks: [
       {
@@ -125,6 +126,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Liberty Ridge Elementary",
         url: "https://lre.sumnersd.org/",
+      },
+      {
+        name: "Inlet Island & Maple Point",
+        url: "https://inletislandpark.com/",
       },
     ],
     peers: [
