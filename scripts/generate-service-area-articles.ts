@@ -72,6 +72,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
       { name: "Allan Yorke", path: "/service-areas/lake-tapps/allan-yorke" },
       { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
+      { name: "Prairie Ridge", path: "/service-areas/lake-tapps/prairie-ridge" },
     ],
     knownLinks: [
       {
@@ -116,6 +117,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Tacoma and Evergreen Point Improvement Club",
         url: "https://www.tacoma-evergreen.org/",
+      },
+      {
+        name: "Prairie Ridge Maintenance Co.",
+        url: "https://www.prmchoa.com/",
+      },
+      {
+        name: "Liberty Ridge Elementary",
+        url: "https://lre.sumnersd.org/",
       },
     ],
     peers: [
