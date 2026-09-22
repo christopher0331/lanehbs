@@ -283,6 +283,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
       { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
+      { name: "Lake Francis", path: "/service-areas/maple-valley/lake-francis" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -316,6 +317,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Taylor Mountain Forest",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
+      },
+      {
+        name: "Lake Francis (King County Small Lakes)",
+        url: "https://green2.kingcounty.gov/SmallLakes/LakePage.aspx?SiteID=12",
+      },
+      {
+        name: "Tahoma Elementary",
+        url: "https://tahomaelementary.tahomasd.us/",
       },
     ],
     peers: [
