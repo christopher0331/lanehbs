@@ -72,6 +72,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Tapps Island", path: "/service-areas/lake-tapps/tapps-island" },
       { name: "Allan Yorke", path: "/service-areas/lake-tapps/allan-yorke" },
       { name: "Tacoma Point", path: "/service-areas/lake-tapps/tacoma-point" },
+      { name: "Prairie Ridge", path: "/service-areas/lake-tapps/prairie-ridge" },
     ],
     knownLinks: [
       {
@@ -117,6 +118,14 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Tacoma and Evergreen Point Improvement Club",
         url: "https://www.tacoma-evergreen.org/",
       },
+      {
+        name: "Prairie Ridge Maintenance Co.",
+        url: "https://www.prmchoa.com/",
+      },
+      {
+        name: "Liberty Ridge Elementary",
+        url: "https://lre.sumnersd.org/",
+      },
     ],
     peers: [
       { name: "Enumclaw", path: "/service-areas/enumclaw" },
@@ -161,6 +170,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Osceola", path: "/service-areas/enumclaw/osceola" },
       { name: "Elk Meadows", path: "/service-areas/enumclaw/elk-meadows" },
       { name: "Krain", path: "/service-areas/enumclaw/krain" },
+      { name: "Cumberland", path: "/service-areas/enumclaw/cumberland" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -201,6 +211,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Nolte State Park",
         url: "https://parks.wa.gov/find-parks/state-parks/nolte-state-park",
+      },
+      {
+        name: "Kanaskat-Palmer State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/kanaskat-palmer-state-park",
+      },
+      {
+        name: "Walker Lake — WDFW",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/walker-lake-690",
+      },
+      {
+        name: "Enumclaw Fire Department",
+        url: "https://www.enumclawfire.org/",
       },
       {
         name: "Washington State Department of Labor & Industries",
@@ -261,6 +283,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Hobart", path: "/service-areas/maple-valley/hobart" },
       { name: "Shadow Lake", path: "/service-areas/maple-valley/shadow-lake" },
       { name: "Cedar Downs", path: "/service-areas/maple-valley/cedar-downs" },
+      { name: "Lake Francis", path: "/service-areas/maple-valley/lake-francis" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -294,6 +317,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Taylor Mountain Forest",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/taylor-mountain",
+      },
+      {
+        name: "Lake Francis (King County Small Lakes)",
+        url: "https://green2.kingcounty.gov/SmallLakes/LakePage.aspx?SiteID=12",
+      },
+      {
+        name: "Tahoma Elementary",
+        url: "https://tahomaelementary.tahomasd.us/",
       },
     ],
     peers: [

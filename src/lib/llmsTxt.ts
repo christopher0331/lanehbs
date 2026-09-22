@@ -53,7 +53,7 @@ export function buildLlmsTxt(): string {
     item(
       "Homepage",
       "/",
-      `${SITE_CONFIG.shortName} painting, remodeling, decks, fences, and repairs.`,
+      `${SITE_CONFIG.shortName} company hub: painting, remodeling, decks, fences, repairs, service areas, process, and FAQs.`,
     ),
     item(
       "About",

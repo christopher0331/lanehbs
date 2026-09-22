@@ -2375,4 +2375,224 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "School calendars are [Tahoma School District](https://www.tahomasd.us/) — Lake Wilderness Elementary is the nearby campus on Witte Road, not a claim about every lot. Public beach days still use [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5). Power is [Puget Sound Energy](https://www.pse.com/), and longer paved miles pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails). We schedule coatings around ACC timing, canopy dry windows, and that trailhead — not as a name-swap of Four Corners retail or the Covington Pipe Lake shoreline page.",
     ],
   },
+  {
+    slug: "lake-francis",
+    name: "Lake Francis",
+    description:
+      "Private 20-acre kettle lake on SE Lake Francis Road — no public ramp — plus King County ballfields at 244th and SE 200th, not Lake Wilderness’s city beach.",
+    blurb:
+      "Along SE Lake Francis Road, SE 188th, and SE 192nd, Lane HBS paints exteriors, stains decks, and repairs trim on unincorporated lake-loop and rural lots. The namesake park is ballfields, not a swim beach. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Moisture-aware exteriors on a private kettle lake with no public access",
+      "Deck stain and rail work for shaded rural lots off Lake Francis Road",
+      "King County permit awareness — Maple Valley 98038 mail is not city limits",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Lake Francis?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, and some fence-height changes typically go through King County Local Services — most Lake Francis Road parcels are unincorporated Rural Area lots even when the mailbox says Maple Valley 98038. Waterfront lots can also raise Shoreline Master Program questions if the work sits near the water. We flag city-edge vs. county vs. shoreline on the free estimate instead of guessing from the lake name.",
+      },
+      {
+        question:
+          "What prep fits Lake Francis’s private-lake humidity and tree cover?",
+        answer:
+          "King County lists Lake Francis at about 20 acres and only nine feet at its deepest, with no public park or boat ramp on the water. Shoreline lots still sit in damp air; inland lots off SE 188th Street, SE 192nd Street, and 228th Avenue SE pick up canopy moss. We wash first, scrape failed coatings, prime bare wood, and wait for dry substrate. A one-coat spray that skips that inspection does not last on a north wall that never sees Lake Wilderness Park lawn.",
+      },
+      {
+        question: "How do you price painting and remodeling in Lake Francis?",
+        answer:
+          "Story count, wash-and-dry time in shade, trim carpentry on older rural stock, occupied interiors, gravel-drive staging, and whether a new deck is a King County or shoreline question. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Lake Francis interior, exterior, or deck job take?",
+        answer:
+          "A straightforward occupied interior can be several days. Exteriors and decks depend on wash-dry windows after mildew comes off and after any carpentry. Game-day parking at Lake Francis Park on 244th Avenue SE and SE 200th Street can slow trailer placement on those approaches. We write the calendar after we see the parcel — we do not coat wet boards to hit a weekend.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on Lake Francis Road?",
+        answer:
+          "Yes. These are year-round houses, not cabins. We phase rooms, protect floors, and plan wash water so SE Lake Francis Road, SE 188th, and SE 192nd stay usable for neighbors. Saturday baseball at the King County fields is part of that plan, not a surprise mid-wash.",
+      },
+    ],
+    image: "/images/from-lane/lane-21-101.jpg",
+    heroIntro:
+      "Lake Francis is the private kettle-lake pocket northeast of Lake Wilderness — SE Lake Francis Road, SE 188th Street, SE 192nd Street — where paint and decks face shoreline humidity and rural access, not a city swim beach. The namesake park at 244th Avenue SE and SE 200th Street is King County ballfields.",
+    mapQuery: "Lake Francis Road SE, Maple Valley, WA",
+    latitude: 47.4325,
+    longitude: -122.033,
+    geoRadiusMeters: 2200,
+    introHeading: "A Private Lake, a Ballfield Park, and Siding That Dries Slowly",
+    introLead:
+      "King County’s lake page is blunt: Lake Francis covers about 20 acres, averages four feet deep, and has no public park or boat ramp on the water. Houses along SE Lake Francis Road, SE 188th Street, SE 192nd Street, 228th Avenue SE, and 236th Avenue SE sit on rural lots — some shoreline, most inland under trees. That is a different geometry than Lake Wilderness Park’s public beach on Witte Road, and it is not Lake Desire’s WDFW gravel ramp and two-lake CDP to the northwest.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Lake Francis jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Lake Francis Road or claim we stained a dock that is not ours to name. We will walk your trim, north walls, and deck boards honestly, then tell you whether the parcel is King County — and whether the work sits near shoreline jurisdiction — before anyone talks color. Elderwood sits farther northeast; it is the same rural belt on this page, not a second neighborhood route.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Private-lake humidity, not a city swimming beach",
+        body: "There is no public launch here. Shoreline lots still hold damp air against siding and stain. Coatings wait for dry wood, especially after a wash on a north elevation that never sees park lawn.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County rules on a Maple Valley mailbox",
+        body: "Most Lake Francis addresses read Maple Valley 98038 and still sit in unincorporated Rural Area. A new deck is not the same desk as a Lake Wilderness city-lot rail. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "school",
+        title: "Ballfield Saturdays on 244th, not beach crowds",
+        body: "Lake Francis Park at 244th Avenue SE and SE 200th Street is King County baseball, softball, and youth soccer — not a substitute for the private lake. We time trailers so game-day parking is not our problem dumped on your neighbors.",
+      },
+      {
+        icon: "hammer",
+        title: "Rural wood before coatings",
+        body: "1930s and later rural stock fail at fascia returns and window heads first. Paint is not a patch on soft trim. We repair, then prime — house and outbuilding as separate elevations when they are.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Lake Francis",
+    galleryNote:
+      "Owned Lane HBS photos of interior, exterior, and deck work from Maple Valley-area and nearby jobs. Shown as examples of moisture-aware rural work — not claimed as a house on SE Lake Francis Road or SE 192nd Street.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-09-4771.jpg",
+        alt: "Hallway masked and papered for interior painting",
+        caption: "Interior painting prep in an occupied home",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting by Lane HBS",
+        caption: "Exterior repaint — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Freshly stained multi-level deck by Lane HBS",
+        caption: "Deck staining after wash and dry time",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Lake Francis",
+      image: "/images/from-lane/lane-32-60.jpg",
+      imageAlt: "Painted stair stringers with stained rail and metal balusters",
+      serviceType: "Deck stairs and rail finish — nearby wooded lot",
+      body: "Lake Francis lots often send stairs and rails into shade where stain fails first on treads, whether the house faces the private lake or sits inland off SE 188th. On a nearby wooded-lot job we recoated stair stringers, refreshed the handrail, and kept metal balusters so the run stayed readable after rain. The photo is owned Lane HBS work in the parent-city region — not a named Lake Francis Road address. Dry time after wash, not a fictional board-foot quote, set the schedule. Occupied-home access and a narrow rural landing were part of the scope.",
+    },
+    considerationsHeading: "Lake Francis-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Francis humidity without a public ramp",
+        body: "The 20-acre lake is private. There is no WDFW trailer parade on the shoreline the way Lake Desire has, and there is no city swim beach the way Lake Wilderness has. Shoreline houses still sit in kettle-lake air; inland lots still grow mildew under canopy. We wash, wait, and prime — we do not stain cold, wet boards to make a Saturday.",
+      },
+      {
+        heading: "Lake Francis Park is ballfields, not the lake",
+        body: "King County’s athletic-field list puts Lake Francis Park at 244th Avenue SE and SE 200th Street — baseball, softball, and youth soccer, about a mile south of the water. Weekend games fill those shoulders. We plan wash water and trailers so we are not the extra truck in the 244th / 200th queue.",
+      },
+      {
+        heading: "Unincorporated Rural Area on a 98038 mailbox",
+        body: "King County zoning on this belt is typically Rural Area. Paint is usually maintenance. A new deck, a rail-height change, or work near the shoreline can be a county file — not Maple Valley Building by default. We name the desk after we see the parcel, including city-edge lots closer to Lake Wilderness.",
+      },
+      {
+        heading: "Occupied rural interiors and school-year timing",
+        body: "Most interiors happen while someone is living here. We phase rooms and keep a bathroom usable. Many nearby addresses list Tahoma Elementary at 24425 SE 216th Street, then Summit Trail Middle and Tahoma High — assignment is still parcel-specific. We follow your drop-off, not a guessed campus, and we do not time a noisy wash for the 216th bell.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Francis",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Lake Francis pricing follows repair quantity on rural wood, shade wash-and-dry time, gravel or narrow-road staging, occupied interiors, and whether a deck near the water is a King County or shoreline question.",
+    costDrivers: [
+      {
+        title: "Shade and private-lake dry time",
+        body: "Canopy and kettle-lake air add wash-and-wait labor. That time is in the estimate instead of hidden inside a cheap spray bid.",
+      },
+      {
+        title: "Rural access and field-day parking",
+        body: "SE Lake Francis Road and the 244th / SE 200th approaches are not Four Corners collectors. Ladder placement, runoff, and Saturday ballfield traffic change the labor hours.",
+      },
+      {
+        title: "Repairs before color",
+        body: "Soft fascia and tired stair treads are common under trees. We price carpentry openly so the finish is not sealing decay.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, and prime for Lake Francis shade and shoreline air — street and lakeside elevations treated as moisture jobs, not a one-coat refresh.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck staining, rails, and fence lines on rural and shoreline lots. Structure first, then stain — especially on stairs that stay slick.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on older rural wood so new paint is not hiding an active leak.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Francis Road, a shoreline lot, or a rural house off 228th on your list? Free on-site estimate for your property — call or send the form.",
+    processHeading: "Our Lake Francis Process",
+    processSteps: [
+      {
+        title: "Lake Francis Site Assessment",
+        body: "County vs. city-edge parcel, shoreline vs. inland, occupancy, access on SE Lake Francis Road, and whether 244th ballfield traffic will shape wash days.",
+      },
+      {
+        title: "Lake Francis Scope, Colors & County Rules",
+        body: "Written scope before coating days. Structural decks and rails noted as King County — and shoreline if the lot actually sits on the water. There is no named HOA color board unless your parcel has one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew, scrape failed paint, repair trim and stair wood, prime bare substrate. This is the Lane HBS differentiator on rural canopy houses.",
+      },
+      {
+        title: "Lake Francis Paint / Build Days",
+        body: "Weather windows under trees; phased interiors; staging that leaves Lake Francis Road and the 244th / 200th park approaches open.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Lake Francis (King County Small Lakes)",
+        url: "https://green2.kingcounty.gov/SmallLakes/LakePage.aspx?SiteID=12",
+        description:
+          "King County’s official lake page: about 20 acres, nine feet at the deepest, no public park and no boat ramp on the water. Why shoreline humidity here is a private-lot problem, not a city-beach crowd problem.",
+      },
+      {
+        name: "Lake Francis Park",
+        url: "https://cdn.kingcounty.gov/-/media/king-county/depts/dnrp/nature-recreation/parks-recreation/rentals/ballfields/athletic_field_scheduling_booklet_2026.pdf",
+        description:
+          "King County Parks’ athletic-field list puts the namesake park at 244th Avenue SE and SE 200th Street — baseball, softball, and youth soccer, not a swim beach. Weekend games are why we time trailers on those approaches.",
+      },
+      {
+        name: "Tahoma Elementary",
+        url: "https://tahomaelementary.tahomasd.us/",
+        description:
+          "Tahoma School District’s campus at 24425 SE 216th Street, south of the ballfields on the same 244th corridor. Many nearby addresses list Tahoma Elementary; assignment is still parcel-specific. We follow your bell time instead of guessing Lake Wilderness Elementary or Rock Creek.",
+      },
+      {
+        name: "Summit Trail Middle School",
+        url: "https://summittrail.tahomasd.us/",
+        description:
+          "Tahoma’s middle campus at 25600 SE Summit-Landsburg Road in Ravensdale — the secondary school many Lake Francis-area families use after Tahoma Elementary. Forest-edge campus, not a Four Corners arterial drop-off.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where most Lake Francis parcels go once a deck, rail, or fence leaves the cosmetic-repaint category. Maple Valley Building is the other desk if your lot actually sits inside city limits.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life at Lake Francis still splits the private lake from the namesake park: the water itself is documented on [King County’s Lake Francis page](https://green2.kingcounty.gov/SmallLakes/LakePage.aspx?SiteID=12), while Saturday games sit at [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) fields on 244th Avenue SE and SE 200th Street. Structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use), or [Maple Valley Building](https://www.maplevalleywa.gov/179/Building) if the parcel is inside the city. School calendars are [Tahoma School District](https://www.tahomasd.us/) — confirm [Tahoma Elementary](https://tahomaelementary.tahomasd.us/) on SE 216th rather than assuming Lake Wilderness Elementary.",
+      "Errands still run into the [City of Maple Valley](https://www.maplevalleywa.gov/). Middle- and high-school days often point to [Summit Trail Middle School](https://summittrail.tahomasd.us/) and [Tahoma High School](https://tahomahighschool.tahomasd.us/) at 23499 SE Tahoma Way. Indoor hours stay with the [Maple Valley Library](https://kcls.org/locations/maple-valley/). Public swim days, when you want them, are still [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) — not this lake. Power is [Puget Sound Energy](https://www.pse.com/). We schedule coatings around occupied rural lots, ballfield weekends, and those calendars — not a Lake Wilderness beach template and not a Lake Desire launch-day template.",
+    ],
+  },
 ];

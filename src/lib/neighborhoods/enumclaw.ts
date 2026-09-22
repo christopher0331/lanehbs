@@ -1292,4 +1292,222 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Weekend lake days often point east to [Nolte State Park](https://parks.wa.gov/find-parks/state-parks/nolte-state-park). Parish history for the cemetery on 400th lives with [Sacred Heart Enumclaw](https://www.sacredheartenumclaw.org/holy-family-cemetery). Libraries stay with the [King County Library System](https://kcls.org/), power with [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Krain coatings around occupied acreage, highway access, and those calendars — not a downtown storefront template and not an Elk Meadows PUD packet.",
     ],
   },
+  {
+    slug: "cumberland",
+    name: "Cumberland",
+    description:
+      "Historic coal-mining hamlet on Veazie-Cumberland Road — forest lots, older wood, and King County permits between Nolte and Kanaskat-Palmer, not a highway farm corner.",
+    blurb:
+      "In Cumberland — 314th Way SE, SE 352nd through SE 356th, 312th Way SE, and Veazie-Cumberland Road — Lane HBS paints exteriors under foothill canopy, repairs mining-era trim, and stains decks or fences on unincorporated Enumclaw 98022 lots. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for canopy moisture and older mining-town siding",
+      "Carpentry before paint on 1890s–1920s wood, shops, and later infill",
+      "Deck stain and fence work staged around Nolte and Kanaskat-Palmer traffic",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Cumberland?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, accessory buildings, and some fence-height changes typically go through King County Local Services Permitting — Cumberland is the unincorporated hamlet on Veazie-Cumberland Road and 314th Way SE, even when the mailbox says Enumclaw 98022. The old town post office closed in 1967; the city building desk on Cole Street is not the default. We flag county vs. city-edge parcels on the free estimate instead of guessing from the saloon corner.",
+      },
+      {
+        question:
+          "What prep fits Cumberland’s forest moisture, older mining-town wood, and park-road dust?",
+        answer:
+          "314th Way SE, 312th Way SE, and SE 352nd–356th sit under Cascade foothill canopy, not in the SR 169 slipstream at Krain Corner. North walls stay damp; Deep Lake and Walker Lake humidity linger after rain; Veazie-Cumberland Road still throws a film of dust when Nolte weekend traffic stacks up. We wash first, scrape failed coatings on late-19th and early-20th-century trim, prime bare wood, and repair soft fascia before color. A one-coat quote that skips that inspection does not last on a former hotel-block house or a later rambler under the trees.",
+      },
+      {
+        question: "How do you price painting and remodeling in Cumberland?",
+        answer:
+          "Story count, repair quantity on older wood, wash-and-dry time under canopy, occupied interiors, gravel or narrow-street staging, and whether a shop or fence run is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Cumberland exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and decks depend on wash-dry windows after moss and road film come off and after carpentry. Narrow hamlet streets, volunteer-station access, and Saturday Nolte traffic add staging time. We write the calendar after we see the parcel — we do not coat in a storm to hit a date.",
+      },
+      {
+        question: "Can you paint while we live on a Cumberland lot?",
+        answer:
+          "Yes. Most Cumberland houses are occupied year-round. We phase rooms, protect entries, and plan trailer placement on 314th Way SE, SE 354th, or Veazie-Cumberland Road so neighbors still reach driveways and the fire station stays clear. Pets, kids, and weekend park traffic are part of that plan, not a surprise mid-wash.",
+      },
+    ],
+    image: "/images/from-lane/lane-25-1450.jpg",
+    heroIntro:
+      "Cumberland is the Cascade-foothill hamlet between Nolte State Park and Kanaskat-Palmer — 314th Way SE, SE 352nd through SE 356th, 312th Way SE, and Veazie-Cumberland Road. Paint and decks here fail from canopy moisture and older mining-town wood, not from SR 169 film at Krain or a Holdener Farm color packet.",
+    mapQuery: "Cumberland, Enumclaw, WA",
+    latitude: 47.28278,
+    longitude: -121.92694,
+    geoRadiusMeters: 1800,
+    introHeading: "Coal-Town Wood, Forest Moisture, and a Road That Feeds Two Parks",
+    introLead:
+      "Locals still call this Cumberland: the 1893 mining camp F.X. Schriner named for the Appalachian coal country, the 1893 hotel block now the City Hall Saloon at 35317 314th Way SE, and the grocery Joe and Elizabeth Paschich opened in 1916. Houses along 314th Way SE, 312th Way SE (the old Fallows Avenue), 310th Avenue SE, Cumberland Way SE, and the SE 352nd–356th grid sit under trees at about 850 feet — late-19th-century and early-20th-century stock mixed with later ramblers and a few newer roofs — not Cole Street storefronts and not Osceola’s south-loop farm grid on SE 448th. Veazie-Cumberland Road is Weatherly Avenue on the old plat; it is the working spine to Deep Lake on the south and the Green River gorge on the north.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Cumberland jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 314th Way SE or claim we painted the saloon. We will walk your trim, north-wall mildew, and outbuilding boards honestly, then tell you the parcel is King County before anyone talks color. Veazie is the older name you still hear on the road west toward SE 400th; it is the approach corridor on this page, not a second neighborhood route. Kanaskat and Palmer sit farther up Cumberland-Kanaskat Road — same drainage, different hamlets, not separate Lane HBS pages.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "County permits on an Enumclaw mailbox",
+        body: "Cumberland addresses read Enumclaw 98022 and sit in unincorporated King County. A new deck or shop is not the same desk as a Griffin Avenue facade. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "trees",
+        title: "Canopy moisture, not highway film",
+        body: "Foothill trees keep north walls damp. Moss and algae show first on fascia and shaded siding. We wash and wait for dry wood — this is not a Krain Corner SR 169 dust problem, and it is not an open-plateau wind elevation.",
+      },
+      {
+        icon: "car",
+        title: "Nolte and Kanaskat-Palmer staging",
+        body: "Weekend swimmers on Veazie-Cumberland Road and campers rolling toward 32101 Cumberland-Kanaskat Road share the same pavement we stage from. We plan trailers so the hamlet and the volunteer fire station stay usable.",
+      },
+      {
+        icon: "hammer",
+        title: "Mining-era wood before coatings",
+        body: "1890s hotel-block stock, 1910s plat houses, and later shop siding fail at joints first. Paint is not a patch on soft fascia. We repair, then prime — house and outbuilding as separate elevations when they are.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Tina W.", "David R."],
+    galleryHeading: "Our Work Near Cumberland",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and carpentry work from Enumclaw-area and nearby jobs. Shown as examples of weather-facing forest-lot work — not claimed as a house on 314th Way SE, SE 354th Street, or Veazie-Cumberland Road.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Stained multi-level deck after prep",
+        caption: "Deck staining after wash and prep — Enumclaw-area job",
+      },
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior painting on a residential home",
+        caption: "Exterior house painting — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-16-48.jpg",
+        alt: "Deck and rail work in progress",
+        caption: "Deck and rail carpentry before finish",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Cumberland",
+      image: "/images/from-lane/lane-30-4772.jpg",
+      imageAlt: "Trim and siding repair before exterior coating",
+      serviceType: "Repairs and exterior prep — nearby Enumclaw-area home",
+      body: "Cumberland houses fail at the same places every wet season: fascia returns, window heads, and siding that has been recoated over moss and failed caulk. On a nearby Enumclaw-area exterior we opened those joints, replaced what was soft, primed bare wood, and then coated — instead of spraying over movement. The photo is owned Lane HBS work in the parent-city region, not a named 314th Way SE or SE 354th address. Access on a narrow hamlet street and a real dry window after wash set the schedule more than square footage. On an actual Cumberland lot we would also plan around Veazie-Cumberland weekend traffic to Nolte and the volunteer station before the first wash day.",
+    },
+    considerationsHeading: "Cumberland-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Cumberland access on Veazie-Cumberland Road",
+        body: "The road from Enumclaw past Nolte State Park at 36921 Veazie Cumberland Road is a two-lane park-and-hamlet route, not a cul-de-sac. Wash water, trailers, and material staging have to respect neighbor drives, the volunteer fire station, and Saturday Deep Lake traffic. We plan that at the site visit so we are not the extra vehicle in the Nolte queue.",
+      },
+      {
+        heading: "Cumberland mining-era wood and later infill",
+        body: "The 1910 Fleet Coal plat still shows in School, Fleet, and Railroad street names even where the county map now reads 314th Way SE and 312th Way SE. 1890s hotel-block stock, 1916 grocery-era houses, and later ramblers need different carpentry. We do not pretend they are one elevation, and we do not treat a shop or woodshed as a Holdener Farm trim detail.",
+      },
+      {
+        heading: "Cumberland canopy, moss, and two-lake humidity",
+        body: "Deep Lake at Nolte sits just south of the hamlet; Walker Lake sits east on West Lake Walker Drive SE. Tree cover plus that moisture keeps north elevations damp longer than an open Osceola pasture. Coatings wait for dry substrate after the wash. Hyde Mine and Navy Mine history is why some lots still have odd grades and leftover wood — we inspect, we do not invent a mine-shaft story for a fascia board.",
+      },
+      {
+        heading: "Occupied interiors and school-year timing",
+        body: "Most interiors happen while someone is living here. We phase rooms and keep a bathroom usable. School assignment is parcel-specific in Enumclaw School District — the old Cumberland elementary is gone, absorbed into the district that still runs Southwood, Westwood, Black Diamond Elementary, Thunder Mountain, and Enumclaw High. We follow your drop-off, not a guessed campus, and we do not time a noisy wash for the Veazie-Cumberland park rush.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Cumberland",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Cumberland pricing follows repair quantity on older wood, canopy wash and dry time, narrow-street staging, occupied interiors, and whether a shop or fence line is in the same visit.",
+    costDrivers: [
+      {
+        title: "Repair quantity on weathered mining-town trim",
+        body: "Soft fascia and failed caulk can outweigh the paint labor. The estimate lists that work instead of hiding it inside a low bid.",
+      },
+      {
+        title: "Canopy wash time and park-road access",
+        body: "Moss on north walls and weekend traffic toward Nolte and Kanaskat-Palmer add staging days. You can coat the house this season and the shop next — we price phases separately.",
+      },
+      {
+        title: "Occupied interiors and working fence lines",
+        body: "Protection, room sequencing, and pets or livestock on a hamlet lot cost more labor than an empty flip. We include it so the property stays livable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash moss and park-road film, scrape, prime, and coat for Cumberland elevations that stay damp under foothill trees.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on mining-era and later hamlet wood so new paint is not hiding an active leak.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Deck stain and fence work for forest lots — structure first, then coating after a real dry window, with staging that leaves Veazie-Cumberland usable.",
+      },
+    ],
+    estimateBandCopy:
+      "Cumberland house, shop, or fence on your list? Free on-site estimate for your property — call or send the form. We plan around canopy dry time, King County permits, and park-road access.",
+    processHeading: "Our Cumberland Process",
+    processSteps: [
+      {
+        title: "Cumberland Site Assessment",
+        body: "County parcel, Veazie-Cumberland and 314th Way access, occupancy, house vs. shop, canopy moisture, and weekend park traffic.",
+      },
+      {
+        title: "Cumberland Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Shared fence lines and tight hamlet setbacks get agreed, not assumed. There is no PUD color board unless your parcel actually has one.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash moss, scrape, carpentry, prime — the Lane HBS differentiator on older foothill wood.",
+      },
+      {
+        title: "Cumberland Paint / Build Days",
+        body: "Weather windows under trees; weekday timing when we can avoid the Nolte and Kanaskat-Palmer rush on Veazie-Cumberland Road.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Enumclaw-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Nolte State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/nolte-state-park",
+        description:
+          "Washington State Parks’ Deep Lake day-use park at 36921 Veazie Cumberland Road — the south neighbor of the hamlet, not a backyard beach. Saturday swim and picnic traffic is why we time trailers on Veazie-Cumberland instead of treating the road as empty.",
+      },
+      {
+        name: "Kanaskat-Palmer State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/kanaskat-palmer-state-park",
+        description:
+          "The Green River camping and whitewater park at 32101 Cumberland-Kanaskat Road. Campers and rafters use the same north road out of Cumberland; the volunteer fire siren the park warns about is part of hamlet life, not a downtown clock.",
+      },
+      {
+        name: "Walker Lake — WDFW access",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/walker-lake-690",
+        description:
+          "A 12-acre foothill lake east of the plat, with a WDFW hand launch on the south shore and tight parking on West Lake Walker Drive SE. Useful for a fishing morning — not a substitute for Nolte’s lawn, and not a public park with restrooms.",
+      },
+      {
+        name: "Enumclaw Fire Department / King County Fire District 28",
+        url: "https://www.enumclawfire.org/",
+        description:
+          "The district that covers Cumberland from headquarters at 1330 Wells Street in Enumclaw, with volunteer response in the hamlet. We keep hydrant approaches and station access clear on wash days instead of occupying the shoulder by default.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Where most Cumberland parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. The Enumclaw Building Division is the other desk only if your lot actually sits inside city limits.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Cumberland still runs on Veazie-Cumberland Road: errands into the [City of Enumclaw](https://www.cityofenumclaw.net/), school calendars from [Enumclaw School District](https://www.enumclaw.wednet.edu/) — assignment is parcel-specific now that the old hamlet school is gone — and indoor research at the [Enumclaw Library](https://kcls.org/locations/enumclaw/) on 1st Street. Structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use).",
+      "Weekend water days split between [Nolte State Park](https://parks.wa.gov/find-parks/state-parks/nolte-state-park) on Deep Lake and river camping at [Kanaskat-Palmer State Park](https://parks.wa.gov/find-parks/state-parks/kanaskat-palmer-state-park). Power is [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Cumberland coatings around occupied hamlet lots, canopy dry windows, and that park-road calendar — not a Krain highway-film template, not an Osceola heritage-loop farm, and not an Elk Meadows PUD packet.",
+    ],
+  },
 ];
