@@ -377,6 +377,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Soos Creek",
         path: "/service-areas/covington/soos-creek",
       },
+      {
+        name: "Lake Morton-Berrydale",
+        path: "/service-areas/covington/lake-morton-berrydale",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -398,6 +402,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Soos Creek Trail",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail",
+      },
+      {
+        name: "WDFW Lake Morton Access",
+        url: "https://wdfw.wa.gov/places-to-go/water-access-sites/lake-morton-492",
+      },
+      {
+        name: "Grass Lake Elementary",
+        url: "https://www.kent.k12.wa.us/o/gles/",
       },
       {
         name: "About Our Lakes — Pipe Lake & Lake Lucerne",
