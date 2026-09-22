@@ -57,3 +57,12 @@ describe("Snag Island coordinates", () => {
     assert.ok(snag.geoRadiusMeters >= 1000);
   });
 });
+
+describe("Prairie Ridge coordinates", () => {
+  it("has a pin location and service radius", () => {
+    const prairieRidge = lakeTappsNeighborhoods.find((n) => n.slug === "prairie-ridge");
+    assert.ok(prairieRidge);
+    assert.equal(hasValidCoordinates(prairieRidge.latitude, prairieRidge.longitude), true);
+    assert.ok(prairieRidge.geoRadiusMeters >= 1000);
+  });
+});

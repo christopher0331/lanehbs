@@ -1727,5 +1727,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and additions on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). The public still piles into [North Lake Tapps Park](https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park) on hot weekends a short drive east; power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that point-and-school rhythm — not as a name-swap of Deer Island, West Tapps Highway view decks, or gated Tapps Island.",
     ],
   },
-
+  {
+    slug: "prairie-ridge",
+    name: "Prairie Ridge",
+    description:
+      "Inland unincorporated CDP east of the reservoir — 1960s county streets, HOA parks, and occupied family homes that are not waterfront lots.",
+    blurb:
+      "In Prairie Ridge — 128th Street E, 215th Avenue E, Prairie Ridge Drive E, and South Prairie Road E — Lane HBS paints interiors and exteriors, refinishes cabinets, and stains decks for occupied inland homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Occupied interiors and cabinet refinishing on 1960s–1990s family lots",
+      "Exterior paint and trim repair without a reservoir-shoreline playbook",
+      "Deck and fence work staged on Pierce County roads, not a city launch street",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Prairie Ridge?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through Pierce County’s Development Center and PALS+ — Prairie Ridge is an unincorporated census-designated place, even when the mailbox says Bonney Lake 98391. Cosmetic paint is not a City of Bonney Lake storefront permit. We flag the desk on the free estimate instead of guessing from South Prairie Road.",
+      },
+      {
+        question:
+          "What prep fits Prairie Ridge’s inland plateau weather and older subdivision wood?",
+        answer:
+          "These lots sit east of the reservoir at about 650 feet — wind, rain, and UV, not splash off Lake Tapps. North walls and greenbelt edges still grow mildew. 1960s–1990s trim, manufactured-home skirts, and stick-built fascia fail at joints first. We wash, scrape, prime bare wood, and repair soft trim before color. A stain-only bid that skips that inspection does not last on an open 128th Street elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling in Prairie Ridge?",
+        answer:
+          "Story count, repair quantity on older trim, occupied-home protection, access on 25 mph county streets, and whether cabinets, a deck, or a fence run belong in the same scope. There is no published square-foot, linear-foot, or HOA special rate. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Prairie Ridge interior, exterior, or deck job take?",
+        answer:
+          "A straightforward occupied interior can be several days. Exteriors and decks depend on wash-dry windows and carpentry. Manufactured-home and stick-built elevations are not the same scope. We write the calendar after we see the lot — we do not coat in a storm to hit a date.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around Liberty Ridge and Mountain View traffic?",
+        answer:
+          "Yes. Most Prairie Ridge interiors happen occupied, with floors protected and a bathroom left usable. For exteriors we plan wash water and trailers around weekday bells at Liberty Ridge Elementary on 209th Avenue Court E and the Mountain View Middle / Bonney Lake High cluster on 199th Avenue Court E. Association roads are Pierce County streets with a posted 25 mph limit — we do not treat 128th or 215th as an empty cul-de-sac.",
+      },
+    ],
+    image: "/images/from-lane/lane-13-4774.jpg",
+    heroIntro:
+      "Prairie Ridge is the inland Pierce County CDP east of Lake Tapps — 128th Street E, 215th Avenue E, Prairie Ridge Drive E, and the approach off South Prairie Road E. Paint, cabinets, and decks here face occupied family houses and plateau weather, not a boat launch or a gated island.",
+    mapQuery: "128th Street East and 215th Avenue East, Bonney Lake, WA",
+    latitude: 47.13722,
+    longitude: -122.13167,
+    geoRadiusMeters: 2400,
+    introHeading: "Inland Streets, County Roads, and Houses That Stay Occupied",
+    introLead:
+      "The Census Bureau counts Prairie Ridge as its own place — more than twelve thousand people on about four square miles of unincorporated Pierce County. Lots along 128th Street E, 122nd Street Court E, 127th Street E, Prairie Ridge Drive E, 214th Avenue E, and 215th Avenue E sit on the ridge above South Prairie Creek, not on the reservoir. That is a different job than Allan Yorke’s city park and launch, West Tapps Highway view decks, or North Lake Tapps Park summer gates. Siding here takes wind and rain. Greenbelt edges stay damp. Neighbors notice a messy job because these are sidewalk-close 1960s streets, not acreage.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Prairie Ridge jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 128th Street E or claim we painted the Recreation Hall. We will walk your trim, manufactured-home or stick-built elevation, and occupied kitchen honestly, then send structural questions to Pierce County — not the Bonney Lake Permit Center — unless the parcel actually sits in the city. Prairie Ridge Maintenance Co. manages the common parks and greenbelts; county roads and the Sheriff’s Office handle the streets that were deeded over in the 1960s. Prep still starts the same way: wash, repair, prime, then coat.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "County permits on a Bonney Lake mailbox",
+        body: "Prairie Ridge addresses read Bonney Lake 98391 and still sit in unincorporated Pierce County more often than not. A new deck or shop is not the same desk as an Allan Yorke city lot. We treat jurisdiction as part of the estimate.",
+      },
+      {
+        icon: "home",
+        title: "1960s lots, not a waterfront HOA packet",
+        body: "Prairie Ridge Maintenance Co. is a common-property association — parks, greenbelts, street lights — not a Tapps Island golf color board and not a Holdener Farm PUD. Occupied interiors and neighbor-close side yards are the default.",
+      },
+      {
+        icon: "wind",
+        title: "Plateau weather without lake splash",
+        body: "Open elevations on 128th and 214th take wind-driven rain and UV. North walls along the HOA greenbelts still grow mildew. We spec wash and dry time for inland weather, not Cascade Water Alliance shoreline rules.",
+      },
+      {
+        icon: "school",
+        title: "Liberty Ridge and 199th Avenue clocks",
+        body: "Sumner-Bonney Lake mornings — Liberty Ridge Elementary on 209th Avenue Court E, then Mountain View Middle and Bonney Lake High on 199th — set when a trailer can sit. That is not a Dieringer island calendar.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "Tina W."],
+    galleryHeading: "Our Work Near Prairie Ridge",
+    galleryNote:
+      "Owned Lane HBS photos of occupied interiors, cabinet finishes, and decks from Lake Tapps-area and nearby jobs. They illustrate the work type for inland family homes and are not geo-tagged to 128th Street E, 215th Avenue E, or Prairie Ridge Drive E.",
+    gallery: [
+      {
+        src: "/images/painting8.jpg",
+        alt: "Kitchen cabinet painting in an occupied home",
+        caption: "Kitchen cabinet painting — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-13-4774.jpg",
+        alt: "Interior paint prep with fireplace and floors protected",
+        caption: "Occupied interior prep",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Finished residential deck and rail",
+        caption: "Deck and rail finish — nearby family home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Prairie Ridge",
+      image: "/images/painting8.jpg",
+      imageAlt: "Refinished kitchen cabinets in an occupied house",
+      serviceType: "Kitchen cabinet painting — occupied family home",
+      body: "Prairie Ridge kitchens get daily use long before the floor plan is tired. On a nearby occupied interior we masked thoroughly, refinished cabinets, and sequenced rooms so the household could cook around the work. The photo is owned Lane HBS work in the Lake Tapps region — not a named house on 128th Street E or Prairie Ridge Drive E. That occupied-home discipline, plus honest trim repair when the same family is ready for the inland exterior, is what these lots actually need. We do not invent a cabinet-door count or a Prairie Ridge address for a job we have not walked.",
+    },
+    considerationsHeading: "Prairie Ridge-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Prairie Ridge county roads and 25 mph streets",
+        body: "128th Street E, 215th Avenue E, and Prairie Ridge Drive E were deeded to Pierce County in the 1960s. Wash water, trailers, and material drops have to respect the posted 25 mph, parked cars, and the Sheriff’s patrol pattern. We stage so the Recreation Hall and park edges on 128th stay usable.",
+      },
+      {
+        heading: "Prairie Ridge inland weather and greenbelt shade",
+        body: "This is not reservoir humidity and not Allan Yorke launch dust. Open south and west walls fade. North elevations along the association’s greenbelts stay damp after rain. Coatings wait for dry substrate after the wash.",
+      },
+      {
+        heading: "Prairie Ridge manufactured-home and stick-built mix",
+        body: "The CDP is a mix of 1960s–1970s manufactured homes and later stick-built houses. Skirting, older trim, and 1990s builder fascia are not one elevation. We inspect before promising paint-only, and we do not treat a manufactured-home refresh as a Tapps Island custom exterior.",
+      },
+      {
+        heading: "Occupied interiors on a Sumner-Bonney Lake calendar",
+        body: "These are primary homes. Kitchens and bedrooms stay in use. We phase rooms around Liberty Ridge drop-off and the 199th Avenue Court E middle- and high-school cluster — not a Dieringer peninsula clock and not a vacant flip.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Prairie Ridge",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot tables. Prairie Ridge pricing follows repair quantity on older trim, inland wash and dry time, occupied interiors, close-street staging, and whether cabinets or a deck belong in the same visit.",
+    costDrivers: [
+      {
+        title: "Repair quantity on 1960s–1990s trim",
+        body: "Soft fascia, tired skirting, and failed caulk can outweigh the paint labor. The estimate lists that work instead of hiding it inside a low bid.",
+      },
+      {
+        title: "Occupied kitchens and room sequencing",
+        body: "Cabinet refinishing and room-by-room interiors cost more protection time than an empty house. Most Prairie Ridge jobs happen while someone is cooking dinner.",
+      },
+      {
+        title: "Access on county subdivision streets",
+        body: "25 mph roads, parked cars, and HOA park edges change how long wash and material drops take. We price that time instead of pretending this is a wide farm drive or a city launch lot.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Prairie Ridge interiors — walls, trim, and room sequencing around Liberty Ridge and 199th Avenue Court E calendars.",
+      },
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Inland exteriors with wash, scrape, and prime for plateau rain and greenbelt mildew — not a reservoir-shoreline spec.",
+      },
+      {
+        slug: "remodeling-renovation",
+        localDescription:
+          "Cabinet refinishing and kitchen refreshes for 1960s–1990s floor plans that still work, without emptying the house.",
+      },
+    ],
+    estimateBandCopy:
+      "Prairie Ridge house ready for paint, cabinets, or a deck refresh? Free on-site estimate — call or send the form. We plan around county streets and school-year clocks, not a lake-launch calendar.",
+    processHeading: "Our Prairie Ridge Process",
+    processSteps: [
+      {
+        title: "Prairie Ridge Site Assessment",
+        body: "County vs. city-edge parcel, occupied vs. vacant, manufactured-home vs. stick-built, and whether the job is siding, cabinets, or a deck.",
+      },
+      {
+        title: "Prairie Ridge Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Neighbor driveways and Prairie Ridge Maintenance Co. common edges get respected, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, carpentry, prime — the Lane HBS differentiator on previously coated inland wood.",
+      },
+      {
+        title: "Prairie Ridge Paint / Build Days",
+        body: "Weather windows plus Liberty Ridge and 199th Avenue Court E traffic. We do not wash 128th Street E into drop-off.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations and rooms walked in daylight. Licensed, insured closeout — LANEHHB7912R.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Prairie Ridge Maintenance Co.",
+        url: "https://www.prmchoa.com/",
+        description:
+          "The association at 14205 215th Avenue E that owns the Recreation Hall, Community Service Center, about six miles of greenbelt, the five-acre park on 128th Street, and the 2.5-acre park off 215th. This is why we treat park edges and street-light corridors as staging constraints — not as a public city launch.",
+      },
+      {
+        name: "Liberty Ridge Elementary",
+        url: "https://lre.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake’s Thunder Eagles campus at 12202 209th Avenue Court E. Drop-off — not a boat ramp — is the weekday clock for noisy wash and trailer placement in this CDP.",
+      },
+      {
+        name: "Mountain View Middle School",
+        url: "https://mms.sumnersd.org/",
+        description:
+          "The district’s middle school at 10921 199th Avenue Court E. Prairie Ridge households share this feeder path with Bonney Lake High next door — a different stack than Dieringer’s split island campuses.",
+      },
+      {
+        name: "Bonney Lake High School",
+        url: "https://blhs.sumnersd.org/",
+        description:
+          "The Panthers campus at 10920 199th Avenue Court E. Afternoon sports and parking already load 199th; we do not add a wash day to that queue when we can help it.",
+      },
+      {
+        name: "Pierce County Development Center",
+        url: "https://www.piercecountywa.gov/applyforapermit",
+        description:
+          "Where most Prairie Ridge parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. PALS+ is the application portal; the Online Development Guide is how you check the parcel before anyone talks structure.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Prairie Ridge runs on inland county time: association parks and the Recreation Hall through [Prairie Ridge Maintenance Co.](https://www.prmchoa.com/), bells at [Liberty Ridge Elementary](https://lre.sumnersd.org/), and the [Sumner-Bonney Lake School District](https://www.sumnersd.org/) cluster on 199th Avenue Court E. Structural questions start at the [Pierce County Development Center](https://www.piercecountywa.gov/applyforapermit) and [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works) — not a default Bonney Lake city permit.",
+      "The Census Bureau still lists [Prairie Ridge CDP](https://www.census.gov/quickfacts/fact/table/prairieridgecdpwashington/POP010210) as its own place. Indoor research sits with the [Pierce County Library System](https://mypcls.org/). Power and storm timing are [Puget Sound Energy](https://www.pse.com/). Contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule coatings around occupied family lots and those calendars — not as a name-swap of Allan Yorke’s launch, West Tapps view decks, or a gated Tapps Island fairway.",
+    ],
+  },
 ];
