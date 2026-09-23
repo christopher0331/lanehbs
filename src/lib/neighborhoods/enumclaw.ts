@@ -1729,4 +1729,224 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Many nearby addresses sit nearer [Westwood Elementary](https://wwe.enumclaw.wednet.edu/) on SE 416th Street — confirm yours. Weekend miles often use the [Enumclaw Foothills Trail](https://www.cityofenumclaw.net/Facilities/Facility/Details/Enumclaw-Foothills-Trail-15). Libraries stay with the [King County Library System](https://kcls.org/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule Newaukum Creek coatings around occupied acreage, creek-side dry time, and those calendars — not a downtown storefront template, not Krain Corner highway film, and not an Elk Meadows PUD packet.",
     ],
   },
+  {
+    slug: "mud-mountain",
+    name: "Mud Mountain",
+    description:
+      "Acreage and river-adjacent lots on SE Mud Mountain Road — USACE dam traffic, Mount Peak trailheads, and shops that need weather-honest paint.",
+    blurb:
+      "On Mud Mountain — SE Mud Mountain Road from SR 410 toward the dam, SE 481st Street at the Pinnacle Peak south trailhead — Lane HBS paints exteriors, repairs shop and house wood, and stains river decks and pasture fences. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for White River humidity and open Mount Peak elevations",
+      "Carpentry before paint on house, shop, and barn siding",
+      "Deck stain and fence work staged around dam and trailhead traffic",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence on Mud Mountain?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, accessory buildings, and some fence-height changes typically go through King County Local Services Permitting — most SE Mud Mountain Road parcels are unincorporated even when the mailbox says Enumclaw 98022. River-adjacent work can add shoreline or buffer questions. We name the desk on the free estimate instead of guessing from a 410 milepost. Cosmetic paint is not a U.S. Army Corps of Engineers recreation permit.",
+      },
+      {
+        question:
+          "What prep fits Mud Mountain’s mix of river humidity and open foothill wind?",
+        answer:
+          "Lots on SE Mud Mountain Road sit between the White River canyon and the volcanic cone locals call Mount Peak (Pinnacle Peak / Mount Pete). River and north walls stay damp; pasture elevations take wind-driven rain and UV off the plateau. We wash mildew and road film, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a shop that faces 410 weather one week and canyon fog the next.",
+      },
+      {
+        question: "How do you price painting and remodeling on Mud Mountain?",
+        answer:
+          "Repair quantity on house vs. shop wood, wash-and-dry time after river humidity, gravel-drive and long-road staging, occupied interiors, and whether a barn, fence, or river deck is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Mud Mountain exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and river decks depend on wash-dry windows and carpentry. Shops and outbuildings are separate elevations. We write the calendar after we see the parcel — we do not coat damp boards so a house looks finished before a summer dam picnic.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around dam, trailhead, and school traffic?",
+        answer:
+          "Yes. Most Mud Mountain houses are occupied, and many have animals that still need a working fence. We phase rooms, protect entries, and plan temporary gates before we pull boards. Trailer placement on SE Mud Mountain Road and SE 481st Street gets discussed at the site visit so we are not extra overflow when Pinnacle Peak’s south lot or the USACE gate is busy. Weekday clocks follow Southwood Elementary on McDougall Avenue and Enumclaw Middle and High on Semanski Street South — a town commute, not a school on the dam road.",
+      },
+    ],
+    image: "/images/from-lane/lane-13-4774.jpg",
+    heroIntro:
+      "Mud Mountain is the SE Mud Mountain Road corridor east of Enumclaw — SR 410 to the U.S. Army Corps of Engineers dam at 30525 SE Mud Mountain Road, with Pinnacle Peak’s south trailhead at SE 481st Street. Paint, shops, and river decks here face foothill weather and recreation traffic, not a Cole Street storefront and not Osceola’s south farm-grid loop.",
+    mapQuery: "SE Mud Mountain Road and SE 481st Street, Enumclaw, WA",
+    latitude: 47.168,
+    longitude: -121.948,
+    geoRadiusMeters: 3200,
+    introHeading: "A Dam Road, a Volcanic Cone, and Wood That Sees Two Weathers",
+    introLead:
+      "SE Mud Mountain Road is the working driveway for acreage houses, shops, and a few White River lots — and it is also the public approach to Mud Mountain Dam Park and the south trailhead for Pinnacle Peak Park. That is a different job than Osceola’s SE 448th / SE 456th Way heritage loop, and it is not the generic “plateau lot” page. Siding picks up film from 410 and recreation weekends; river elevations stay wet; open pasture walls take wind off the cone locals call Mount Peak, Mount Pete, or Pinnacle Peak.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Mud Mountain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE Mud Mountain Road or claim we painted a named river deck. We will walk your trim, shop siding, and fence posts honestly, then tell you the parcel is almost certainly King County before anyone talks color. We are not building a separate Mount Peak, Pinnacle Peak, or Suntop page; the cone and the dam sit on this corridor.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Dam and trailhead weekends, not a quiet cul-de-sac",
+        body: "USACE picnic hours, shelter reservations, and Pinnacle Peak hikers use the same SE Mud Mountain Road and SE 481st Street you live on. We stage wash water and trailers so residents still reach gravel drives when the south lot or the dam gate is full.",
+      },
+      {
+        icon: "waves",
+        title: "White River humidity without copying a lake page",
+        body: "Some parcels have river frontage or canyon air. Others are dry pasture under Mount Peak. We spec wash and dry time for the lot you own — not Lake Tapps splash and not Newaukum Creek’s Green River tributary story.",
+      },
+      {
+        icon: "hammer",
+        title: "House, shop, and barn are different elevations",
+        body: "Mud Mountain scopes often include a detached shop or outbuilding. Paint is not a patch on soft fascia. We repair, then prime — and we price the shop as its own elevation when it is.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County permits, not a Cole Street default",
+        body: "A 98022 mailbox does not put you in the Enumclaw Building Division. Structural decks, shops, and many fences start at King County Permitting. Cosmetic paint is usually maintenance. We do not treat the USACE recreation desk as your building department.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Mud Mountain",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and occupied-interior work from Enumclaw-area and nearby jobs. They illustrate weather-facing acreage and outdoor work — not geo-tagged to SE Mud Mountain Road, SE 481st Street, or the dam.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-13-4774.jpg",
+        alt: "Completed exterior and trim painting by Lane HBS",
+        caption: "Exterior house painting after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Stained deck boards and rail",
+        caption: "Deck staining after wash and dry time",
+      },
+      {
+        src: "/images/from-lane/lane-03-45.jpg",
+        alt: "Completed deck and exterior project",
+        caption: "Deck and exterior refresh — nearby Enumclaw-area job",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Mud Mountain",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining — nearby Enumclaw-area home",
+      body: "River-adjacent and open-foothill decks fail when damp boards and a busy recreation weekend get a one-coat shortcut. On a nearby Enumclaw-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a house on SE Mud Mountain Road or a bulkhead at the dam. Timeline followed dry windows, occupied-home access, and how SE Mud Mountain Road already carries trailers when Picnic Vista or the Pinnacle Peak south lot is full. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Mud Mountain-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Mud Mountain Dam and Pinnacle Peak traffic on the same road",
+        body: "The Corps park at 30525 SE Mud Mountain Road runs seasonal hours, a wading pool, picnic shelters, and trailheads. Pinnacle Peak’s southern trailhead sits on SE Mud Mountain Road near SE 481st Street; the Cal Magnusson lot is a different approach at 276th Avenue SE and SE 472nd Street. We stage so we are not the extra trailer on a recreation shoulder. This is public-county and federal-park congestion, not Elk Meadows sidewalk parking and not downtown alley access.",
+      },
+      {
+        heading: "Mud Mountain two exposures — river lots and Mount Peak pasture",
+        body: "Not every house here is on the White River. Many SE Mud Mountain Road parcels are acreage with shops and horse fence under the cone. River lots take canyon humidity and splash. Open elevations take wind and UV. Washing is the job either way. Coating damp wood so the house looks finished for a holiday picnic is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Mud Mountain county permits and no HOA color board",
+        body: "Most of these parcels are unincorporated King County. Structural decks, shops, and additions start at Permitting — not the Enumclaw Building Division used on Cole Street, and not a Holdener Farm PUD packet. We ask which rules apply instead of copying Elk Meadows onto every gravel drive. The Corps recreation office is not your building desk.",
+      },
+      {
+        heading: "Occupied interiors during the Southwood and Semanski school year",
+        body: "These are primary homes, including ramblers and later custom houses that were never weekend cabins. Bedrooms and kitchens stay in use. We contain rooms and sequence work around Southwood Elementary at 3240 McDougall Avenue and the Enumclaw Middle / High cluster on Semanski Street South. That is a town-school commute off 410 — not Thunder Mountain’s 264th queue and not a campus at the dam gate.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Mud Mountain",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Mud Mountain pricing moves with house-vs-shop repair quantity, river vs. pasture dry time, long-road and gravel staging, occupied interiors, and whether a fence or river deck belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two weathers on the same road",
+        body: "Canyon humidity and open Mount Peak wind add different wash-dry labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "Access when the dam or trailhead is full",
+        body: "Picnic hours, shelter weekends, and Pinnacle Peak hikers change how long wash and material drops take. We price that time instead of pretending SE Mud Mountain Road is a closed subdivision.",
+      },
+      {
+        title: "Shops, fences, and occupied rooms",
+        body: "Outbuildings and working fence lines are extra elevations. Lived-in houses take protection time. Permit questions for a new deck or shop are written into the schedule so they do not hide inside a paint bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Mud Mountain exteriors need wash, scrape, and prime for river fog or open foothill wind — then coatings that can take King County winters and neighbor scrutiny from a public dam road.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on house and shop wood so new paint is not hiding an active leak on a long gravel lot.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "River decks and pasture fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning Picnic Vista opens.",
+      },
+    ],
+    estimateBandCopy:
+      "Mud Mountain house, shop, or river deck ready for paint? Free on-site estimate — call or send the form. We plan around SE Mud Mountain Road traffic, river vs. pasture exposure, and whether the shop is in the same scope.",
+    processHeading: "Our Mud Mountain Process",
+    processSteps: [
+      {
+        title: "Mud Mountain Site Assessment",
+        body: "River vs. pasture exposure, dam and trailhead access, occupied vs. vacant, house vs. shop, and fence or livestock logistics.",
+      },
+      {
+        title: "Mud Mountain Scope, Colors & County Rules",
+        body: "King County permit questions when the work is structural, neighbor sightlines from SE Mud Mountain Road or SE 481st Street, and the fact that most parcels have no HOA color board.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated foothill and river houses.",
+      },
+      {
+        title: "Mud Mountain Paint / Build Days",
+        body: "Weather windows plus recreation traffic on SE Mud Mountain Road and the 410 approach. We do not wash a trailhead shoulder into park overflow.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight — house, shop, and gates. Licensed, insured closeout — LANEHHB7912R — same as every other Enumclaw job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Mud Mountain Dam Park",
+        url: "https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/Recreation/",
+        description:
+          "The U.S. Army Corps of Engineers flood-risk project and recreation area at 30525 SE Mud Mountain Road — picnic shelters, a seasonal wading pool, and Rim, River, and Vista trails. We treat summer hours and shelter weekends as a staging problem for the houses on the same road, not a brochure.",
+      },
+      {
+        name: "Pinnacle Peak Park",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak",
+        description:
+          "King County’s volcanic cone one mile southeast of downtown — Mount Peak, Mount Pete, or Pinnacle Peak locally. The south trailhead is on SE Mud Mountain Road near SE 481st Street; the Cal Magnusson climb starts at 276th Avenue SE and SE 472nd Street. Hiker parking is part of how we think about trailers on this corridor.",
+      },
+      {
+        name: "Southwood Elementary",
+        url: "https://swe.enumclaw.wednet.edu/",
+        description:
+          "Enumclaw School District’s campus at 3240 McDougall Avenue. Mud Mountain households still run that morning clock into town — interior paint days and material drops follow it so occupied homes function on school days. Assignment is parcel-specific.",
+      },
+      {
+        name: "Enumclaw Middle School",
+        url: "https://ems.enumclaw.wednet.edu/",
+        description:
+          "The grades 6–8 campus at 550 Semanski Street South, with Enumclaw High School a few blocks away at 226 Semanski. That Semanski cluster is the weekday pulse for many Mud Mountain families — a different clock than Thunder Mountain on 264th.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Structural decks, shops, fence-height questions, and additions on these unincorporated streets typically start here — not at the Enumclaw Building Division on Cole Street and not at the Corps ranger station. We point you to the right counter.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Mud Mountain runs on a dam-road and in-town school rhythm: acreage errands off SR 410, weekend hikers at [Pinnacle Peak Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak), and picnic hours at [Mud Mountain Dam Park](https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/Recreation/). Households track [Enumclaw School District](https://www.enumclaw.wednet.edu/) calendars, including [Southwood Elementary](https://swe.enumclaw.wednet.edu/) on McDougall Avenue and [Enumclaw Middle School](https://ems.enumclaw.wednet.edu/) on Semanski Street South.",
+      "Structural decks and shops on these unincorporated streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). Confirm the parcel before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that recreation-and-school rhythm — not as a name-swap of Osceola’s farm-grid loop, Newaukum Creek’s Green River tributary, or an Elk Meadows PUD packet.",
+    ],
+  },
 ];
