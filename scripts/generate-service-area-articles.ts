@@ -188,6 +188,7 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Newaukum Creek",
         path: "/service-areas/enumclaw/newaukum-creek",
       },
+      { name: "Mud Mountain", path: "/service-areas/enumclaw/mud-mountain" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -232,6 +233,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Thunder Mountain Middle School",
         url: "https://tmms.enumclaw.wednet.edu/",
+      },
+      {
+        name: "Mud Mountain Dam Recreation",
+        url: "https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/Recreation/",
+      },
+      {
+        name: "Pinnacle Peak Park",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak",
+      },
+      {
+        name: "Southwood Elementary",
+        url: "https://swe.enumclaw.wednet.edu/",
       },
       {
         name: "Enumclaw Foothills Trail",
