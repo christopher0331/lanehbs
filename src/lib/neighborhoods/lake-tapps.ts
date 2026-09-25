@@ -2387,5 +2387,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and additions on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Near-water work still answers to [Cascade Water Alliance](https://cascadewater.org/) lake operations and, when the project is more than paint, the [Washington State Department of Ecology shoreline program](https://ecology.wa.gov/Water-Shorelines/Shoreline-coastal-management). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that park-and-school rhythm — not as a name-swap of Tacoma Point’s private parks, Allan Yorke’s city launch, or gated Tapps Island.",
     ],
   },
-
+  {
+    slug: "lake-jane-estates",
+    name: "Lake Jane Estates",
+    description:
+      "1959 Debra Jane Lake plat in Bonney Lake — private 19-acre kettle lake, city permits, and occupied family lots that are not reservoir shoreline.",
+    blurb:
+      "In Lake Jane Estates — 68th Street E, McGhee Drive E, and 185th Avenue E around private Debra Jane Lake — Lane HBS paints exteriors, stains still-water decks, and refreshes occupied interiors. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for a still kettle lake, not reservoir splash or launch dust",
+      "Deck and fence work staged around HOA parks and a private non-motorized shore",
+      "Occupied interiors on Emerald Hills and Lakeridge Middle calendars",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Lake Jane Estates?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the City of Bonney Lake Permit Center — McGhee Drive E and 68th Street E addresses show up on city permit reports, not as a default Pierce County rural parcel. Lake Jane Estates also publishes architectural application forms for building work. Cosmetic paint is not a Cascade Water Alliance shoreline permit. We name the city desk and the HOA packet on the free estimate instead of guessing from a Lake Tapps milepost.",
+      },
+      {
+        question:
+          "What prep fits Debra Jane Lake’s still-water humidity versus the reservoir?",
+        answer:
+          "Debra Jane Lake is a private ~19-acre kettle lake — shallow, spring-fed, non-motorized — not the managed Lake Tapps reservoir and not the separate WDFW lake named Bonney Lake off 74th Street E. Shore lots on McGhee Drive E and 68th Street E stay damp from fog and algae; inland 185th Avenue E walls take shade and HOA-park moisture. We wash mildew, scrape failed coatings, prime bare wood, and repair soft fascia before color. A one-coat drain-and-go bid that treats this like Tapps Island fetch or Allan Yorke launch dust does not last on a still shore.",
+      },
+      {
+        question: "How do you price painting and remodeling in Lake Jane Estates?",
+        answer:
+          "Shore vs. inland dry time, repair quantity on 1960s–1990s wood, occupied-home protection, HOA architectural review when the work is more than paint, and whether a private dock deck or fence belongs in the same scope. There is no published square-foot, linear-foot, or HOA special rate. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Lake Jane Estates exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and still-water decks depend on wash-dry windows and carpentry. We write the calendar after we see the lot — we do not coat damp boards so a house looks finished before a summer pool weekend at the association parks.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around school and HOA-park traffic?",
+        answer:
+          "Yes. Most Lake Jane Estates houses are year-round occupied homes, not weekend cabins. We phase rooms, protect entries, and plan trailers on 68th Street E and McGhee Drive E so neighbors still reach the Upper and Lower Parks and the private lake access. Weekday clocks follow Emerald Hills Elementary at 19515 South Tapps Drive E and Lakeridge Middle School at 5909 Myers Road E. Assignment is parcel-specific.",
+      },
+    ],
+    image: "/images/from-lane/lane-03-45.jpg",
+    heroIntro:
+      "Lake Jane Estates is the 1959 Debra Jane Lake plat in Bonney Lake — 68th Street E, McGhee Drive E, and 185th Avenue E around a private 19-acre kettle lake. Paint and decks here face still-water humidity and HOA neighbor sightlines, not a reservoir launch or a gated island fairway.",
+    mapQuery: "Debra Jane Lake, Bonney Lake, WA",
+    latitude: 47.19361,
+    longitude: -122.17709,
+    geoRadiusMeters: 1600,
+    introHeading: "A Private Kettle Lake, Not Another Reservoir Street",
+    introLead:
+      "The Debra Jane Lake Plat recorded in 1959 put about 440 relatively large lots around a spring-fed lake the association still owns. That water is not Lake Tapps. It is not the WDFW access lake named Bonney Lake. Shore houses on McGhee Drive E and 68th Street E pick up algae, fog, and reflected light off a quiet surface; inland streets such as 185th Avenue E sit closer to the association’s Upper and Lower Parks than to any public boat ramp. That is a different job than Allan Yorke’s city launch on the reservoir, Inlet Island’s 64th Street E causeway, or Prairie Ridge’s inland county grid.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Lake Jane Estates jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on McGhee Drive E or claim we stained a named private dock. We will walk your trim, still-water deck, and occupied kitchen honestly, then send structural questions to the City of Bonney Lake — not Pierce County’s unincorporated desk and not Cascade Water Alliance — unless the parcel actually sits outside the city. Lake Jane Estates (the association that began as T&J Maintenance Company) manages the lake, parks, and architectural applications. Prep still starts the same way: wash, repair, prime, then coat. We are not building a separate Debra Jane page; the lake and the plat are this neighborhood.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Still-water humidity, not reservoir fetch",
+        body: "Debra Jane Lake is shallow, private, and non-motorized. Shore elevations stay damp without the splash and UV story of Tapps Island or Snag Island. We spec wash and dry time for a kettle lake — not a managed reservoir.",
+      },
+      {
+        icon: "clipboard",
+        title: "Bonney Lake city permits plus an HOA packet",
+        body: "These streets are typically incorporated Bonney Lake. A new deck or shop starts at the city Permit Center. Lake Jane Estates also asks for architectural applications on building work. Cosmetic paint is usually maintenance. We do not treat a 68th Street mailbox as unincorporated Prairie Ridge.",
+      },
+      {
+        icon: "users",
+        title: "Association parks, not a public launch",
+        body: "Upper Park, Lower Park, the pool, and private lake access sit on the same plat as the houses. We stage wash water and trailers so members still reach those amenities — a different constraint than Allan Yorke Park boat-trailer weekends.",
+      },
+      {
+        icon: "school",
+        title: "Emerald Hills and Myers Road clocks",
+        body: "Sumner-Bonney Lake mornings — Emerald Hills Elementary on South Tapps Drive E, then Lakeridge Middle on Myers Road E — set when a trailer can sit. That is not a Dieringer island calendar and not Prairie Ridge’s 199th Avenue cluster.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Sarah M.", "David R."],
+    galleryHeading: "Our Work Near Lake Jane Estates",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and occupied interiors from Lake Tapps-area and nearby Bonney Lake jobs. They illustrate the work type for still-water and family-lot projects — not geo-tagged to McGhee Drive E, 68th Street E, 185th Avenue E, or Debra Jane Lake.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-03-45.jpg",
+        alt: "Completed deck and exterior project by Lane HBS",
+        caption: "Deck and exterior refresh — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Freshly stained multi-level deck by Lane HBS",
+        caption: "Deck staining after wash and dry time",
+      },
+      {
+        src: "/images/painting8.jpg",
+        alt: "Kitchen cabinet painting in an occupied home",
+        caption: "Kitchen cabinet painting — nearby occupied interior",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Lake Jane Estates",
+      image: "/images/from-lane/lane-34-1511.jpg",
+      imageAlt: "Finished residential deck and rail by Lane HBS",
+      serviceType: "Deck staining — nearby Bonney Lake-area home",
+      body: "Still-water decks fail when algae and a short dry window get a one-coat shortcut. On a nearby Bonney Lake-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a house on McGhee Drive E or a private dock on Debra Jane Lake. Timeline followed dry windows, occupied-home access, and the fact that 68th Street E already carries neighbor traffic when the association parks are busy. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Lake Jane Estates-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Jane Estates still-water lots versus inland park streets",
+        body: "McGhee Drive E and 68th Street E include shore parcels that never dry the way an open plateau wall does. 185th Avenue E and the east-side 193rd Avenue E stretch near 68th sit farther from the water and closer to association park edges. That 193rd is not Allan Yorke’s 193rd near 76th Street E and the public reservoir launch. We spec wash and dry time for the lot you own.",
+      },
+      {
+        heading: "Lake Jane Estates HOA architecture and city permits",
+        body: "The 1959 plat still binds lots through Lake Jane Estates. Structural decks, additions, and some exterior changes go to the City of Bonney Lake and may also need the association’s architectural application. Cosmetic repaint of existing siding is usually maintenance. We do not treat the HOA as Cascade Water Alliance, and we do not treat the city desk as Pierce County PALS+.",
+      },
+      {
+        heading: "Lake Jane Estates occupied homes and two nearby lakes that are not this one",
+        body: "These are primary houses on relatively large 1959 lots — ramblers and later custom builds that became year-round homes. Bedrooms and kitchens stay in use. The public reservoir at Allan Yorke Park and the WDFW lake named Bonney Lake off 74th Street E are different water bodies. We do not schedule this plat as if trailers were lining up for a Saturday launch.",
+      },
+      {
+        heading: "Occupied interiors during the Emerald Hills and Lakeridge year",
+        body: "We contain rooms and sequence work around Emerald Hills Elementary at 19515 South Tapps Drive E and Lakeridge Middle School at 5909 Myers Road E. That is a Sumner-Bonney Lake commute — not Dieringer’s split island campuses and not Liberty Ridge’s 209th Avenue Court E clock.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Jane Estates",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Lake Jane Estates pricing moves with shore vs. inland dry time, repair quantity on 1960s–1990s wood, occupied interiors, HOA architectural review when the work is structural, and whether a private-lake deck or fence belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Still-water dry time",
+        body: "Kettle-lake humidity and shaded park-edge walls add wash-dry labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "City permits and HOA applications",
+        body: "A new deck or shop can need both Bonney Lake review and a Lake Jane Estates architectural form. We write that into the schedule so it does not hide inside a paint bid.",
+      },
+      {
+        title: "Occupied rooms and close-street staging",
+        body: "Lived-in houses take protection time. 68th Street E and McGhee Drive E are neighborhood streets, not empty farm drives. We price the time it takes to keep parks and driveways usable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Lake Jane Estates exteriors need wash, scrape, and prime for still-water fog or shaded park-edge walls — then coatings that can take Bonney Lake winters and neighbor scrutiny on a 1959 plat.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Private-lake decks and yard fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning the association pool opens.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Lake Jane Estates interiors — walls, trim, and room sequencing around Emerald Hills and Lakeridge Middle calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Jane Estates house or Debra Jane Lake deck ready for paint? Free on-site estimate — call or send the form. We plan around still-water dry time, city and HOA rules, and whether the interior is in the same scope.",
+    processHeading: "Our Lake Jane Estates Process",
+    processSteps: [
+      {
+        title: "Lake Jane Estates Site Assessment",
+        body: "Shore vs. inland exposure, occupied vs. vacant, city parcel confirmation, and whether the job is siding, a private-lake deck, or both.",
+      },
+      {
+        title: "Lake Jane Estates Scope, Colors & HOA",
+        body: "Written scope before coating days. Bonney Lake permit questions when the work is structural, plus Lake Jane Estates architectural applications when the association requires them.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated kettle-lake and park-edge wood.",
+      },
+      {
+        title: "Lake Jane Estates Paint / Build Days",
+        body: "Weather windows plus neighbor traffic on 68th Street E and McGhee Drive E. We do not wash a park-edge curb into an association weekend.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Lake Jane Estates",
+        url: "https://www.lakejane.org/",
+        description:
+          "The 1959 association that owns Debra Jane Lake, the Upper and Lower Parks, and the architectural application process. We treat park hours and member access as a staging problem for the houses on the same plat — not a brochure.",
+      },
+      {
+        name: "Emerald Hills Elementary",
+        url: "https://ehe.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake’s Lakers campus at 19515 South Tapps Drive E. Lake Jane Estates households still run that morning clock — interior paint days and material drops follow it so occupied homes function on school days. Assignment is parcel-specific.",
+      },
+      {
+        name: "Lakeridge Middle School",
+        url: "https://lms.sumnersd.org/",
+        description:
+          "The grades 6–8 Hawks campus at 5909 Myers Road E. That Myers Road pulse is the weekday stack for many Lake Jane Estates families — a different clock than Dieringer’s 12th Street E campus or Prairie Ridge’s 199th Avenue cluster.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "Structural decks, shops, fence-height questions, and additions on these incorporated streets typically start here — not at Pierce County PALS+ used on Prairie Ridge lots. Cosmetic paint is usually maintenance. We point you to the right counter.",
+      },
+      {
+        name: "Allan Yorke Park",
+        url: "https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1",
+        description:
+          "The city’s public reservoir park at West Tapps Highway E and Bonney Lake Boulevard E. Lake Jane Estates households still use it for launch and concert days — which is why we keep this page about Debra Jane Lake and do not copy the Allan Yorke launch-street playbook onto 68th Street E.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Lake Jane Estates runs on a private-lake and in-town school rhythm: member access at [Lake Jane Estates](https://www.lakejane.org/), weekday bells at [Emerald Hills Elementary](https://ehe.sumnersd.org/) on South Tapps Drive E, and [Lakeridge Middle School](https://lms.sumnersd.org/) on Myers Road E. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars. Public reservoir weekends still happen at [Allan Yorke Park](https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1) — a different lake than Debra Jane.",
+      "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Allan Yorke’s launch, Inlet Island’s causeway, or Prairie Ridge’s county grid.",
+    ],
+  },
 ];
