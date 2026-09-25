@@ -78,6 +78,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "North Lake Tapps",
         path: "/service-areas/lake-tapps/north-lake-tapps",
       },
+      {
+        name: "Lake Jane Estates",
+        path: "/service-areas/lake-tapps/lake-jane-estates",
+      },
     ],
     knownLinks: [
       {
@@ -138,6 +142,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "North Lake Tapps Park",
         url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+      },
+      {
+        name: "Lake Jane Estates",
+        url: "https://www.lakejane.org/",
+      },
+      {
+        name: "Emerald Hills Elementary",
+        url: "https://ehe.sumnersd.org/",
       },
     ],
     peers: [
