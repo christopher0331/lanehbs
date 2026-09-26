@@ -82,6 +82,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Lake Jane Estates",
         path: "/service-areas/lake-tapps/lake-jane-estates",
       },
+      {
+        name: "Victor Falls",
+        path: "/service-areas/lake-tapps/victor-falls",
+      },
     ],
     knownLinks: [
       {
@@ -150,6 +154,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Emerald Hills Elementary",
         url: "https://ehe.sumnersd.org/",
+      },
+      {
+        name: "Victor Falls Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+      },
+      {
+        name: "Victor Falls Elementary",
+        url: "https://vfe.sumnersd.org/",
+      },
+      {
+        name: "Mountain View Middle School",
+        url: "https://mms.sumnersd.org/",
       },
     ],
     peers: [

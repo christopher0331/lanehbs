@@ -2607,4 +2607,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Allan Yorke’s launch, Inlet Island’s causeway, or Prairie Ridge’s county grid.",
     ],
   },
+  {
+    slug: "victor-falls",
+    name: "Victor Falls",
+    description:
+      "Southeast Bonney Lake around Rhodes Lake Road E and Fennel Creek — creek-ravine shade, a city falls park, and school-street lots that are not reservoir shoreline.",
+    blurb:
+      "In Victor Falls — Rhodes Lake Road E, 188th Avenue Court E, and the Fennel Creek ravine south of SR 410 — Lane HBS paints exteriors, stains shaded decks, and refreshes occupied interiors. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for creek-ravine shade, not reservoir splash or launch dust",
+      "Deck and fence work staged around Victor Falls Park visitors and school-street access",
+      "Occupied interiors on Victor Falls Elementary and nearby middle-school calendars",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Victor Falls?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the City of Bonney Lake Permit Center — Rhodes Lake Road E and 188th Avenue Court E addresses are usually incorporated city parcels, not a default Pierce County rural lot. Some plats also keep association packets. Cosmetic paint is not a Cascade Water Alliance shoreline permit. We name the city desk — and any HOA form you actually have — on the free estimate instead of guessing from a Lake Tapps milepost.",
+      },
+      {
+        question:
+          "What prep fits Victor Falls’ Fennel Creek shade versus the reservoir?",
+        answer:
+          "Victor Falls sits on a wooded ravine where Fennel Creek drops about 70 feet — still water in the gorge, moss on north walls, and fog that lingers after a wash. That is not Tapps Island fetch and not Allan Yorke launch dust. We wash mildew, scrape failed coatings, prime bare wood, and repair soft fascia before color. A one-coat drain-and-go bid that treats this like a sunny plateau street does not last on a creek-side elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling in Victor Falls?",
+        answer:
+          "Ravine vs. ridge dry time, repair quantity on 1990s–2000s wood, occupied-home protection, whether a plat packet applies, and whether a shaded deck or fence belongs in the same scope. There is no published square-foot, linear-foot, or school-zone special rate. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Victor Falls exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and ravine-edge decks depend on wash-dry windows and carpentry. We write the calendar after we see the lot — we do not coat damp boards so a house looks finished before a weekend at the city falls park.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around school and park traffic?",
+        answer:
+          "Yes. Most Victor Falls houses are year-round occupied homes, not cabins. We phase rooms, protect entries, and plan trailers on Rhodes Lake Road E and 188th Avenue Court E so neighbors still reach Victor Falls Elementary at 11401 188th Avenue Court E and the city park at 18212 Rhodes Lake Road E. Nearby Mountain View Middle School at 10921 199th Avenue Court E adds another weekday pulse. Assignment is parcel-specific.",
+      },
+    ],
+    image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+    heroIntro:
+      "Victor Falls is southeast Bonney Lake — Rhodes Lake Road E, 188th Avenue Court E, and the Fennel Creek ravine where a 70-foot falls sits in a city park. Paint and decks here face creek shade and school-street access, not a reservoir launch or a gated island fairway.",
+    mapQuery: "Victor Falls Park, Bonney Lake, WA",
+    latitude: 47.14927,
+    longitude: -122.18595,
+    geoRadiusMeters: 2200,
+    introHeading: "Creek-Ravine Shade, Not Another Reservoir Street",
+    introLead:
+      "Rhodes Lake Road E drops past a city park the town bought in 2013 so the public could finally stand at a fenced viewpoint over a 70-foot drop on Fennel Creek. Houses on 188th Avenue Court E, 119th Street Court E, 113th Street Court E, and Whiskey Run Road E sit in that same wooded pocket — moss on north siding, slick deck treads after a rain, and a collector road that already carries school and park traffic. That is a different job than Allan Yorke’s city launch, Lake Jane Estates’ still kettle lake, or Prairie Ridge’s inland county grid.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Victor Falls jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 188th Avenue Court E or claim we stained a named ravine deck. We will walk your trim, shaded deck, and occupied kitchen honestly, then send structural questions to the City of Bonney Lake — not Pierce County’s unincorporated desk and not Cascade Water Alliance — unless the parcel actually sits outside the city. Some plats still keep association packets; we read the one you have instead of assuming a single neighborhood HOA. Prep still starts the same way: wash, repair, prime, then coat. We are not building a separate Fennel Creek or Sky Island page; the falls, the school street, and the ravine are this neighborhood.",
+    trustCards: [
+      {
+        icon: "trees",
+        title: "Ravine moisture, not reservoir fetch",
+        body: "Fennel Creek keeps the gorge damp. North elevations on Rhodes Lake Road E stay wet without the splash-and-UV story of Tapps Island. We spec wash and dry time for a wooded ravine — not a managed lake.",
+      },
+      {
+        icon: "school",
+        title: "Falcon bells on 188th Avenue Court E",
+        body: "Victor Falls Elementary at 11401 188th Avenue Court E sets when a trailer can sit. Nearby Mountain View Middle on 199th Avenue Court E adds another stack. That is not a Dieringer island calendar and not Prairie Ridge’s 199th Avenue cluster farther east.",
+      },
+      {
+        icon: "users",
+        title: "City park visitors, not a public launch",
+        body: "The 2013 city park at 18212 Rhodes Lake Road E draws weekend walkers to a falls viewpoint. We stage wash water and ladders so neighbors still reach that parking pull-off — a different constraint than Allan Yorke boat-trailer Saturdays.",
+      },
+      {
+        icon: "clipboard",
+        title: "Bonney Lake city permits, plat by plat",
+        body: "These streets are typically incorporated Bonney Lake. A new deck or shop starts at the city Permit Center. Some plats — Victor Falls, Victor Falls Terrace, Rhodes Lake — keep their own packets. Cosmetic paint is usually maintenance. We do not treat a Rhodes Lake Road mailbox as unincorporated Prairie Ridge.",
+      },
+    ],
+    reviewNames: ["Tina W.", "Jennifer L.", "Mike T."],
+    galleryHeading: "Our Work Near Victor Falls",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and occupied interiors from Lake Tapps-area and nearby Bonney Lake jobs. They illustrate the work type for shaded-lot and family-street projects — not geo-tagged to Rhodes Lake Road E, 188th Avenue Court E, or the city falls park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+        alt: "Deck pressure washing and prep by Lane HBS",
+        caption: "Deck wash and prep — nearby Lake Tapps-area job",
+      },
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Freshly stained multi-level deck by Lane HBS",
+        caption: "Deck staining after wash and dry time",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting by Lane HBS",
+        caption: "Exterior repaint — nearby Bonney Lake-area home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Victor Falls",
+      image: "/images/from-lane/lane-20-1512.jpg",
+      imageAlt: "New deck railing installation in progress by Lane HBS",
+      serviceType: "Deck and rail refresh — nearby Bonney Lake-area home",
+      body: "Shaded ravine decks fail when moss and a short dry window get a one-coat shortcut. On a nearby Bonney Lake-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a house on 188th Avenue Court E or a viewpoint lot on Rhodes Lake Road E. Timeline followed dry windows, occupied-home access, and the fact that Rhodes Lake Road already carries school and park traffic. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Victor Falls-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Victor Falls ravine lots versus ridge and school streets",
+        body: "Parcels that drop toward Fennel Creek never dry the way an open ridge wall does. 188th Avenue Court E and 119th Street Court E sit closer to the elementary and the trail connections the city built as a safe route to school. Whiskey Run Road E and the 113th Street Court E loop sit farther from the falls parking pull-off but still take the same wet winters. We spec wash and dry time for the lot you own.",
+      },
+      {
+        heading: "Victor Falls city park traffic and Fennel Creek staging",
+        body: "The city park south of Rhodes Lake Road E is a small parking area, a fenced viewpoint, and soft-surface paths — not a boat launch. Weekend walkers still fill that shoulder. Trail segments that tie neighborhoods to Victor Falls Elementary mean wash runoff cannot become a hillside problem for the next driveway. We plan staging so the park and the school street stay usable.",
+      },
+      {
+        heading: "Victor Falls permits and plat packets",
+        body: "Structural decks, additions, and some exterior changes go to the City of Bonney Lake. Cosmetic repaint of existing siding is usually maintenance. Named associations exist on some plats; we do not invent a single color board for the whole ravine, and we do not treat the city desk as Pierce County PALS+ or as Cascade Water Alliance shoreline review.",
+      },
+      {
+        heading: "Occupied interiors during the Falcon and Wolves year",
+        body: "We contain rooms and sequence work around Victor Falls Elementary at 11401 188th Avenue Court E and, when the parcel feeds that way, Mountain View Middle School at 10921 199th Avenue Court E. That is a Sumner-Bonney Lake commute south of SR 410 — not Dieringer’s split island campuses and not Emerald Hills’ South Tapps Drive E clock.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Victor Falls",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Victor Falls pricing moves with ravine vs. ridge dry time, repair quantity on 1990s–2000s wood, occupied interiors, whether a plat packet applies to more than paint, and whether a shaded deck or fence belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Creek-ravine dry time",
+        body: "Fennel Creek humidity and shaded north walls add wash-dry labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "City permits and plat packets",
+        body: "A new deck or shop can need Bonney Lake review and, on some streets, an association form. We write that into the schedule so it does not hide inside a paint bid.",
+      },
+      {
+        title: "Occupied rooms and school-street staging",
+        body: "Lived-in houses take protection time. Rhodes Lake Road E and 188th Avenue Court E already move school and park traffic. We price the time it takes to keep driveways usable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Victor Falls exteriors need wash, scrape, and prime for Fennel Creek shade — then coatings that can take Bonney Lake winters and neighbor scrutiny on a school-and-park street.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Shaded ravine decks and yard fences — clean, dry, repair what is soft, then finish. Not a stain over wet boards the morning the city falls park fills up.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Victor Falls interiors — walls, trim, and room sequencing around Victor Falls Elementary and nearby middle-school calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Victor Falls house or Fennel Creek-side deck ready for paint? Free on-site estimate — call or send the form. We plan around ravine dry time, city and plat rules, and whether the interior is in the same scope.",
+    processHeading: "Our Victor Falls Process",
+    processSteps: [
+      {
+        title: "Victor Falls Site Assessment",
+        body: "Ravine vs. ridge exposure, occupied vs. vacant, city parcel confirmation, and whether the job is siding, a shaded deck, or both.",
+      },
+      {
+        title: "Victor Falls Scope, Colors & HOA",
+        body: "Written scope before coating days. Bonney Lake permit questions when the work is structural, plus any plat packet the homeowner actually has — we do not invent a single ravine color board.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated creek-shade wood.",
+      },
+      {
+        title: "Victor Falls Paint / Build Days",
+        body: "Weather windows plus school and park traffic on Rhodes Lake Road E and 188th Avenue Court E. We do not wash a falls-park curb into a Saturday viewpoint crowd.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Victor Falls Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+        description:
+          "The city’s 2013 park south of Rhodes Lake Road E — a 70-foot falls viewpoint, soft-surface paths, picnic tables, and a small parking area. We treat park hours and that shoulder as a staging problem for the houses on the same road — not a brochure.",
+      },
+      {
+        name: "Victor Falls Elementary",
+        url: "https://vfe.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake’s Falcons campus at 11401 188th Avenue Court E. Victor Falls households run that morning clock — interior paint days and material drops follow it so occupied homes function on school days. Assignment is parcel-specific.",
+      },
+      {
+        name: "Mountain View Middle School",
+        url: "https://mms.sumnersd.org/",
+        description:
+          "The grades 6–8 Wolves campus at 10921 199th Avenue Court E. That 199th pulse is a weekday stack for many households south of SR 410 — a different clock than Lakeridge on Myers Road E or Dieringer’s island campuses.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "Structural decks, shops, fence-height questions, and additions on these incorporated streets typically start here — not at Pierce County PALS+ used on Prairie Ridge lots. Cosmetic paint is usually maintenance. We point you to the right counter.",
+      },
+      {
+        name: "Fennel Creek Trail",
+        url: "https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF",
+        description:
+          "The city’s creek-corridor trail plan ties neighborhoods to Victor Falls Elementary and, over time, toward Allan Yorke Park and the Foothills Trail. We schedule wash and trailer drops so those safe-route segments stay walkable.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Victor Falls runs on a creek-park and in-town school rhythm: the viewpoint at [Victor Falls Park](https://www.bonneylake.gov/293/Parks-Trails), weekday bells at [Victor Falls Elementary](https://vfe.sumnersd.org/) on 188th Avenue Court E, and [Mountain View Middle School](https://mms.sumnersd.org/) on 199th Avenue Court E. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars. Trail connections along Fennel Creek are mapped on the city’s [Fennel Creek Trail](https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF) plan.",
+      "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that school-and-park rhythm — not as a name-swap of Allan Yorke’s launch, Lake Jane’s kettle lake, or Prairie Ridge’s county grid.",
+    ],
+  },
 ];
