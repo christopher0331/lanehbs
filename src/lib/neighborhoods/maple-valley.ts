@@ -3035,4 +3035,224 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
       "School calendars sit with [Tahoma School District](https://www.tahomasd.us/) — [Cedar River Elementary](https://cedarriver.tahomasd.us/) is a nearby campus on Sweeney Road, not a claim about every river lot. Indoor hours use the [Maple Valley Library](https://kcls.org/locations/maple-valley/). River rise is tracked on King County’s [Cedar River near Landsburg flood gauge](https://flood.kingcounty.gov/gauge/6/). We schedule coatings around flood phases, trail closures, and those calendars — not as a name-swap of Wilderness Rim slopes or Hobart’s Issaquah-Hobart Road acreage.",
     ],
   },
+  {
+    slug: "cherokee-bay",
+    name: "Cherokee Bay",
+    description:
+      "Maple Valley’s private-road HOA south of Pipe Lake and Lake Lucerne — ACC exterior review, a resident beach park, and city permits, not Cedar Downs inland lots or the Covington Pipe Lake shoreline.",
+    blurb:
+      "In Cherokee Bay — SE 265th Way, 220th Avenue SE, and the private loops around the club park — Lane HBS paints exteriors that clear ACC review, stains shaded decks, and refreshes occupied interiors. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "ACC-aware exterior painting on private-road lots, not a same-day spray-and-go",
+      "Deck and fence work staged around the resident park, beach, and private streets",
+      "Occupied interiors on Lake Wilderness Elementary and Maple View calendars",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint, build a deck, or replace a fence in Cherokee Bay?",
+        answer:
+          "Repainting existing siding and restaining an existing deck are usually City of Maple Valley maintenance. New decks, rail-height changes, docks, and some fence work still go through Maple Valley Building — the city specifically asks you to check before lakefront tree work or constructing, replacing, or enlarging a dock. Separately, Cherokee Bay Community Club requires Architectural Control Committee approval for exterior improvements before installation; the club publishes a general ACC form plus fence and tree-removal applications and fence-setback rules. We name both desks on the free estimate instead of guessing from a Pipe Lake milepost.",
+      },
+      {
+        question:
+          "What prep fits Cherokee Bay’s private-lake shade versus Lake Wilderness or Cedar Downs?",
+        answer:
+          "Cherokee Bay sits on the Maple Valley side of Pipe Lake and Lake Lucerne — still water, canopy, and lots that stay damp without a public-park breeze. That is not Lake Wilderness Park’s city swim beach and not Cedar Downs’ inland 1976 canopy lots that only visit Pipe Lake as members. We wash algae, scrape failed coatings, prime bare wood, and repair soft fascia before color. A one-coat bid that treats SE 265th Way like an open Four Corners wall does not last on a north elevation that never dries.",
+      },
+      {
+        question: "How do you price painting and remodeling in Cherokee Bay?",
+        answer:
+          "Private-road staging on about nine miles of club streets, wash-dry time in lake shade, ACC sample rounds, occupied-home protection, and whether a deck, fence, or dock is city structural work. There is no published square-foot, linear-foot, or HOA special rate. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Cherokee Bay exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and shaded decks depend on wash-dry windows and carpentry. ACC review and, when the work is structural, Maple Valley Building time sit in front of coating days. We write the calendar after we see the lot — we do not coat damp boards so a house looks finished before a weekend at the resident beach.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on private Cherokee Bay streets?",
+        answer:
+          "Yes. Most Cherokee Bay houses are year-round occupied homes, not cabins. We phase rooms, protect entries, and plan trailers on SE 265th Way, SE 265th Place, 220th Avenue SE, and the 214th–223rd loops so neighbors still reach the clubhouse at 21700 SE 265th Way and the four-acre resident park. Weekday timing also respects Lake Wilderness Elementary on Witte Road SE and Maple View Middle School in Covington when those campuses are the household’s assignment — assignment is parcel-specific.",
+      },
+    ],
+    image: "/images/from-lane/lane-22-62.jpg",
+    heroIntro:
+      "Cherokee Bay is Maple Valley’s private-road community south of Pipe Lake and Lake Lucerne — SE 265th Way, 220th Avenue SE, and the loops around a four-acre resident park. Paint and decks here face still-water shade and Architectural Control Committee review, not a city swim beach or a Covington dual-city shoreline.",
+    mapQuery: "21700 SE 265th Way, Maple Valley, WA",
+    latitude: 47.3589,
+    longitude: -122.0462,
+    geoRadiusMeters: 1800,
+    introHeading: "Private Roads, Two Still Lakes, and Paint That Needs a Packet",
+    introLead:
+      "Cherokee Bay Community Club’s About page lists about 868 homes, nine miles of private roadways, and a water system the club maintains. The four-acre park at the heart of those streets has a swimming beach and dock, tennis and basketball courts, a fenced playground, a resident boat launch, and a dog park. Houses on SE 265th Way, SE 266th Place, 220th Avenue SE, 218th Avenue SE, and Dogwood Drive sit in that same closed-street pocket — moss on north siding, slick deck treads after a rain, and neighbors who already share the beach instead of a public launch lot.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Cherokee Bay jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 220th Avenue SE or claim we stained a named dock on Lake Lucerne. We will walk your trim, shaded deck, and occupied kitchen honestly, then send structural questions to the City of Maple Valley and exterior-change questions to the club ACC — not to Covington Building, and not to King County’s unincorporated desk, unless the parcel actually sits outside the city. The club’s own About page dates the neighborhood to the 1970s and the resort years to the 1940s; we use those club facts instead of realtor origin stories. Lake Lucerne is covered here as the Maple Valley kettle next to Pipe Lake — we are not launching a separate Lucerne page. Prep still starts the same way: wash, repair, prime, then coat.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "ACC review before the sprayer arrives",
+        body: "Cherokee Bay requires Architectural Control Committee approval for exterior improvements before installation. Fence setbacks and tree-removal forms are published. We write samples and scope so you are not surprising the committee after color is on the wall.",
+      },
+      {
+        icon: "waves",
+        title: "Still lakes, not a public swim beach",
+        body: "Pipe Lake and Lake Lucerne are private water. There is no city launch lot to absorb trailers. We spec wash and dry time for closed-in humidity — not Lake Wilderness Park’s public lawn.",
+      },
+      {
+        icon: "car",
+        title: "Nine miles of private road, not Witte through-traffic",
+        body: "Club streets are private. Staging on SE 265th Way and the 220th loops has to leave the park, beach, and neighbor driveways usable. That is a different constraint than Cedar Downs’ SE 253rd trailhead or Four Corners arterial dust.",
+      },
+      {
+        icon: "school",
+        title: "Wildcat and Golden Bear calendars",
+        body: "Many addresses run on Lake Wilderness Elementary at 24216 Witte Road SE and Maple View Middle School at 18200 SE 240th Street in Covington. Assignment is parcel-specific. We do not wash a private loop into that weekday stack.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "David R."],
+    galleryHeading: "Our Work Near Cherokee Bay",
+    galleryNote:
+      "Owned Lane HBS photos of decks, exteriors, and occupied interiors from Maple Valley-area and nearby jobs. They illustrate the work type for shaded-lot and family-street projects — not geo-tagged to SE 265th Way, 220th Avenue SE, or the resident park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Finished deck on a Maple Valley-area home by Lane HBS",
+        caption: "Deck finish — nearby Maple Valley-area job",
+      },
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Interior spray prep in a vaulted living space by Lane HBS",
+        caption: "Occupied-interior prep — nearby King County home",
+      },
+      {
+        src: "/images/painting6.jpg",
+        alt: "Exterior house painting by Lane HBS",
+        caption: "Exterior repaint — nearby Maple Valley-area home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Cherokee Bay",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck stain after wash and dry time — nearby Maple Valley-area home",
+      body: "Shaded lake-community decks fail when moss and a short dry window get a one-coat shortcut. On a nearby Maple Valley-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a house on SE 265th Way or a slip at the resident launch. Timeline followed dry windows, occupied-home access, and the fact that Cherokee Bay’s private roads already move park and school traffic. We do not invent linear footage or a street name for a job we cannot verify. On an actual club lot we would also check the ACC packet and, if the work touched a dock or lakefront tree, Maple Valley Building before coating day.",
+    },
+    considerationsHeading: "Cherokee Bay-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Cherokee Bay private-road lots versus lake-edge and Witte-side streets",
+        body: "Parcels that back toward Pipe Lake or Lake Lucerne never dry the way an open ridge wall does. SE 265th Way and the clubhouse block sit closer to the four-acre park and the two rentable clubhouses. 214th Avenue SE and 216th Avenue SE sit nearer Witte Road SE and Lake Wilderness Elementary traffic. We spec wash and dry time for the lot you own — not a generic “Maple Valley lake” spec.",
+      },
+      {
+        heading: "Cherokee Bay ACC packets and city dock or tree rules",
+        body: "The club asks for ACC approval on exterior improvements before they go in. Fence work has its own application and setback sheet; tree removal has another. Cosmetic repaint of existing siding is usually city maintenance, but the ACC still wants the exterior change on paper. The city’s permitting FAQ separately flags lakefront tree removal and dock construction, replacement, or enlargement. We read the packet you have instead of inventing a single color board for 868 houses.",
+      },
+      {
+        heading: "Cherokee Bay resident park traffic, not a public launch",
+        body: "The four-acre park, beach, dock, and resident boat launch are for members — not Lake Sawyer Regional Park and not Lake Wilderness Park. Weekend use still fills those private shoulders. We plan wash runoff and material drops so the park, playground, and 21700 SE 265th Way stay usable.",
+      },
+      {
+        heading: "Occupied interiors during the Wildcat and Golden Bear year",
+        body: "We contain rooms and sequence work around Lake Wilderness Elementary at 24216 Witte Road SE and, when the parcel feeds that way, Maple View Middle School at 18200 SE 240th Street. That is a Tahoma School District commute — not Kent School District bells on the Covington Pipe Lake streets we write about separately, and not Cedar Downs’ inland ACC calendar.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Cherokee Bay",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Cherokee Bay pricing moves with lake-shade dry time, repair quantity on 1970s-and-later wood, ACC sample rounds, occupied interiors, private-road staging, and whether a deck, fence, or dock is city structural work. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Still-lake dry time",
+        body: "Pipe Lake and Lake Lucerne humidity plus shaded north walls add wash-dry labor before any coating. Cheap quotes skip the difference and fail on the wet elevation first.",
+      },
+      {
+        title: "ACC packets and city review",
+        body: "Exterior changes need the club ACC. A new deck, fence-height change, or dock can also need Maple Valley Building. We write that into the schedule so it does not hide inside a paint bid.",
+      },
+      {
+        title: "Private-road staging and occupied rooms",
+        body: "Lived-in houses take protection time. Nine miles of private road already move park and school traffic. We price the time it takes to keep driveways and the resident park usable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Cherokee Bay exteriors need wash, scrape, and prime for still-lake shade — then coatings that can take South King County winters and ACC scrutiny on a private street.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Shaded decks and yard fences — clean, dry, repair what is soft, then finish. Club fence setbacks and ACC fence applications belong in the same conversation, not after the posts are set.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied Cherokee Bay interiors — walls, trim, and room sequencing around Lake Wilderness Elementary and Maple View calendars.",
+      },
+    ],
+    estimateBandCopy:
+      "Cherokee Bay house or lake-shade deck ready for paint? Free on-site estimate — call or send the form. We plan around ACC review, city dock or deck rules, and whether the interior is in the same scope.",
+    processHeading: "Our Cherokee Bay Process",
+    processSteps: [
+      {
+        title: "Cherokee Bay Site Assessment",
+        body: "Lake-edge vs. inland-loop exposure, occupied vs. vacant, private-road access, and whether the job is siding, a shaded deck, a fence, or a dock question.",
+      },
+      {
+        title: "Cherokee Bay Scope, Colors & HOA",
+        body: "Written scope before coating days. ACC forms the club actually publishes — general, fence, tree — plus Maple Valley Building when the work is structural. We do not invent a single neighborhood color board.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated lake-shade wood.",
+      },
+      {
+        title: "Cherokee Bay Paint / Build Days",
+        body: "Weather windows plus park and school traffic on SE 265th Way and the 220th loops. We do not wash a resident-beach curb into a Saturday club event.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Cherokee Bay Community Club",
+        url: "https://www.cherokeebaycc.com/about/",
+        description:
+          "The club’s own About page is the source for the 868-home count, nine miles of private road, the four-acre park, two rentable clubhouses, and the resident water system. We treat those streets and that park as a staging problem — not a brochure.",
+      },
+      {
+        name: "Cherokee Bay documents and ACC forms",
+        url: "https://www.cherokeebaycc.com/documents-and-forms/",
+        description:
+          "Fence setbacks, the general ACC application, fence and tree-removal forms, and clubhouse / Terou Lodge rental packets live here. Exterior paint days wait on the form the club actually requires, not a guess from another Maple Valley HOA.",
+      },
+      {
+        name: "Lake Wilderness Elementary",
+        url: "https://lakewilderness.tahomasd.us/",
+        description:
+          "Tahoma’s Wildcats campus at 24216 Witte Road SE. Cherokee Bay households that feed this school run that morning clock — interior paint days and material drops follow it so occupied homes function on school days. Assignment is parcel-specific.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "Structural decks, fence-height questions, and additions on these incorporated streets typically start here. The city’s permitting FAQ also flags lakefront tree removal and dock work. Cosmetic paint is usually maintenance. We point you to the right counter.",
+      },
+      {
+        name: "Lake Wilderness Park",
+        url: "https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5",
+        description:
+          "Maple Valley’s public lake park — the contrast, not the Cherokee Bay shoreline. Households still use this city beach and trail loop; we do not pretend the resident Pipe Lake / Lucerne park is the same place.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Cherokee Bay runs on a private-road and club-park rhythm: the resident beach described on the [Cherokee Bay Community Club About page](https://www.cherokeebaycc.com/about/), ACC paperwork on the [documents and forms](https://www.cherokeebaycc.com/documents-and-forms/) desk, and weekday bells at [Lake Wilderness Elementary](https://lakewilderness.tahomasd.us/) on Witte Road SE. Many middle-school households also track [Maple View Middle School](https://mapleview.tahomasd.us/) in Covington. Confirm campuses with [Tahoma School District](https://www.tahomasd.us/) — we do not assign every lot from the mailbox.",
+      "Structural decks, docks, and some tree work on these incorporated streets typically start with [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and civic questions at the [City of Maple Valley](https://www.maplevalleywa.gov/). The city’s [permitting questions](https://www.maplevalleywa.gov/government/departments/community_development/permitting_questions.php) page is where dock and lakefront-tree flags appear; [About Our Lakes](https://www.maplevalleywa.gov/government/departments/public_records_request/about_our_lakes/index.php) is the city’s write-up of Pipe Lake and Lake Lucerne. Public Saturday recreation is often [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5), not the club beach. Indoor research time goes to the [Maple Valley Library](https://kcls.org/locations/maple-valley/). We schedule coatings around that ACC-and-school rhythm — not as a name-swap of Cedar Downs’ inland lots, the Covington [Pipe Lake](/service-areas/covington/pipe-lake) shoreline, or Lake Wilderness’s city beach.",
+    ],
+  },
 ];
