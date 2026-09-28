@@ -359,6 +359,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/maple-valley/maple-ridge-highlands",
       },
       { name: "Dorre Don", path: "/service-areas/maple-valley/dorre-don" },
+      { name: "Cherokee Bay", path: "/service-areas/maple-valley/cherokee-bay" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -412,6 +413,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Cedar River Water & Sewer District",
         url: "https://www.crwsd.com/",
+      },
+      {
+        name: "Cherokee Bay Community Club",
+        url: "https://www.cherokeebaycc.com/about/",
+      },
+      {
+        name: "Lake Wilderness Elementary",
+        url: "https://lakewilderness.tahomasd.us/",
       },
     ],
     peers: [
