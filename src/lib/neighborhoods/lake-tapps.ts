@@ -1341,7 +1341,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     introLead:
       "Homes along 194th Avenue East, 193rd Avenue East, Church Lake Drive East, 76th Street East, and Bonney Lake Boulevard East sit against the city’s busiest Lake Tapps park: boat launch, beach, skate park, ball fields, and summer concerts. That is a different job than West Tapps Highway view decks farther north, and it is not Tapps Island behind a gate. Siding picks up dust from trailers; north walls still stay damp off the reservoir; neighbors notice a messy job site because the whole city uses this shoreline on weekends.",
     introBody:
-      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on Church Lake Drive E or claim we painted every elevation facing the launch. We will wash, repair soft trim, and wait for dry windows that differ from a south-shore lot to an inland street a block off the park. City of Bonney Lake permits, occupied-home protection, and Sumner-Bonney Lake School District calendars — Emerald Hills Elementary at 19515 South Tapps Drive E and Bonney Lake Elementary at 18715 80th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Church Lake Drive is part of this south-end cluster; we are not building a separate Church Lake page.",
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on Church Lake Drive E or claim we painted every elevation facing the launch. We will wash, repair soft trim, and wait for dry windows that differ from a south-shore lot to an inland street a block off the park. City of Bonney Lake permits, occupied-home protection, and Sumner-Bonney Lake School District calendars — Emerald Hills Elementary at 19515 South Tapps Drive E and Bonney Lake Elementary at 18715 80th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Church Lake Drive is part of this south-end cluster; we are not building a separate Church Lake page. The SR 410 civic core around Main Street E and Veterans Memorial Drive E is a different neighborhood — Downtown Bonney Lake — not this park-adjacent south shore.",
     trustCards: [
       {
         icon: "car",
@@ -2824,7 +2824,227 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Daily life in Victor Falls runs on a creek-park and in-town school rhythm: the viewpoint at [Victor Falls Park](https://www.bonneylake.gov/293/Parks-Trails), weekday bells at [Victor Falls Elementary](https://vfe.sumnersd.org/) on 188th Avenue Court E, and [Mountain View Middle School](https://mms.sumnersd.org/) on 199th Avenue Court E. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars. Trail connections along Fennel Creek are mapped on the city’s [Fennel Creek Trail](https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF) plan.",
-      "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that school-and-park rhythm — not as a name-swap of Allan Yorke’s launch, Lake Jane’s kettle lake, or Prairie Ridge’s county grid.",
+      "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that school-and-park rhythm — not as a name-swap of Allan Yorke’s launch, Lake Jane’s kettle lake, Prairie Ridge’s county grid, or the SR 410 civic core at [Downtown Bonney Lake](/service-areas/lake-tapps/downtown-bonney-lake).",
+    ],
+  },
+  {
+    slug: "downtown-bonney-lake",
+    name: "Downtown Bonney Lake",
+    description:
+      "Bonney Lake’s civic and highway core on Main Street E, Veterans Memorial Drive E, and SR 410 — storefronts, offices, and hillside homes that are not reservoir shoreline.",
+    blurb:
+      "In Downtown Bonney Lake — Main Street E, Veterans Memorial Drive E, and the SR 410 civic campus — Lane HBS paints storefronts after hours, coats highway-facing exteriors, and refreshes occupied interiors. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "After-hours commercial painting for shops and offices on the 410 corridor",
+      "Highway-facing exteriors that take arterial film, not reservoir splash",
+      "Occupied interiors on civic-campus and hillside streets around Main Street E",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint a Downtown Bonney Lake storefront, office, or house?",
+        answer:
+          "Repainting existing siding, trim, or interior walls is usually maintenance. New decks, additions, tenant improvements, sign changes, and major commercial exterior modifications can need City of Bonney Lake review — including design review for new commercial or multi-family buildings and major facade changes. The Permit Center counter sits at the Public Services Center, 21719 96th Street E, 2nd Floor, in Buckley; applications still belong to the City of Bonney Lake, not Pierce County PALS+. Cosmetic paint is not a Cascade Water Alliance shoreline permit. We name the city desk during the free estimate instead of guessing from a Lake Tapps milepost.",
+      },
+      {
+        question:
+          "What prep fits Downtown Bonney Lake’s SR 410 and civic-campus conditions?",
+        answer:
+          "Street-facing elevations on Main Street E, Veterans Memorial Drive E, and SR 410 collect road film, wet-winter mildew on north walls, and UV on parking-lot and hillside siding. That is not Allan Yorke launch dust, not Victor Falls creek-ravine shade, and not Tapps Island fetch. We wash grit off, scrape failed coatings, prime bare wood, and repair soft fascia before color. Occupied shops get a containment plan so customers still have a door.",
+      },
+      {
+        question: "How do you price painting and remodeling in Downtown Bonney Lake?",
+        answer:
+          "Occupied retail hours, facade height, 410 and civic-campus staging, repair quantity, and whether the job is a shop, office, apartment, or hillside house. There is no published square-foot, linear-foot, or storefront menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical downtown facade, office, or house job take?",
+        answer:
+          "A storefront elevation can be a few dry days; an occupied office or apartment interior depends on square footage and after-hours windows. Hillside houses follow weather and room sequencing. We set the calendar after we see access, hours, and whether design review or a building permit is in the same scope — we do not coat damp boards so a suite looks finished before a weekday at City Hall.",
+      },
+      {
+        question:
+          "Can you paint while the shop is open — or while we live on a side street?",
+        answer:
+          "Yes. Mixed commercial and residential uses sit on the same downtown blocks. We phase interiors, protect entries, and plan trailers on Main Street E, 90th Street E, Veterans Memorial Drive E, and Angeline Road E so neighbors still reach the Justice and Municipal Center at 9002 Main Street E, the library at 18501 90th Street E, and school routes toward Lakeridge Middle School on Myers Road E. Assignment is parcel-specific.",
+      },
+    ],
+    image: "/images/painting.jpg",
+    heroIntro:
+      "Downtown Bonney Lake is the city’s designated civic center — Main Street E, Veterans Memorial Drive E, and the SR 410 junction northwest of Angeline Road. Paint here is highway film, open shops, and hillside homes, not a reservoir launch or a gated island fairway.",
+    mapQuery: "9002 Main Street E, Bonney Lake, WA",
+    latitude: 47.1824,
+    longitude: -122.1862,
+    geoRadiusMeters: 1800,
+    introHeading: "A Highway Civic Core, Not Another Lake Street",
+    introLead:
+      "Bonney Lake’s Downtown Center sits where SR 410 meets Veterans Memorial Drive E, with City Hall and court in the Justice and Municipal Center at 9002 Main Street E and the Pierce County Library branch next door at 18501 90th Street E. Storefronts and offices take arterial grit; hillside houses off Main, 89th, 90th, and Angeline still need occupied interiors. That is a different job than Allan Yorke’s south-end launch, Victor Falls’ Fennel Creek ravine, Lake Jane Estates’ still kettle lake, or Prairie Ridge’s unincorporated grid.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Downtown Bonney Lake jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a storefront count on Veterans Memorial Drive E or claim we painted a named suite on Main Street E. We will walk your highway elevation, occupied office, or hillside kitchen honestly, then send structural and design-review questions to the City of Bonney Lake Permit Center — physically at 21719 96th Street E in Buckley, not at the Main Street civic building and not at Pierce County’s unincorporated desk. Cosmetic paint is usually maintenance. Prep still starts the same way: wash, repair, prime, then coat. We are not building a separate Midtown, Eastown, Lakeridge, or Angeline page; the 410 civic campus, the library block, and the hillside streets that feed it are this neighborhood.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "SR 410 film is part of the spec",
+        body: "The highway and Veterans Memorial Drive throw grit onto street-facing siding and fascia. A coat over film fails early. We wash first so primer bonds — especially on the walls that face 410, not only the courtyard or uphill elevation.",
+      },
+      {
+        icon: "clipboard",
+        title: "Open-for-business staging on a civic campus",
+        body: "Shops, offices, and the Justice and Municipal Center cannot lose a week of customers or appointments to ladders and fumes. We discuss nights, weekends, and phased rooms on the estimate, then keep entries usable on Main Street E and 90th Street E.",
+      },
+      {
+        icon: "school",
+        title: "Myers Road and 80th Street clocks, not island bells",
+        body: "Many downtown households run on Sumner-Bonney Lake timing — Lakeridge Middle School at 5909 Myers Road E and, when the parcel feeds that way, Bonney Lake Elementary at 18715 80th Street E. That is not Dieringer’s north-shore campuses and not Victor Falls Elementary on 188th Avenue Court E.",
+      },
+      {
+        icon: "users",
+        title: "Shops, offices, and hillside houses together",
+        body: "Someone may live above or just off the suite. Mixed-use downtown blocks need two protection plans. We write that complexity instead of pretending the civic core is only retail paint or only a quiet cul-de-sac.",
+      },
+    ],
+    reviewNames: ["Mike T.", "Jennifer L.", "Tina W."],
+    galleryHeading: "Our Work Near Downtown Bonney Lake",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and commercial-style prep from Lake Tapps-area and nearby Bonney Lake jobs. They illustrate the work type for highway-adjacent shops and hillside homes — not geo-tagged to Main Street E, Veterans Memorial Drive E, or the SR 410 civic campus.",
+    gallery: [
+      {
+        src: "/images/painting.jpg",
+        alt: "Commercial and residential exterior painting by Lane HBS",
+        caption: "Exterior repaint — nearby Bonney Lake-area building",
+      },
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Finished exterior painting by Lane HBS",
+        caption: "Exterior coating after wash and prime — nearby job",
+      },
+      {
+        src: "/images/painting16.jpg",
+        alt: "Interior kitchen cabinet painting project by Lane HBS",
+        caption: "Occupied interior / cabinet painting — nearby Lake Tapps-area home",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for buildings like these in Downtown Bonney Lake",
+      image: "/images/from-lane/lane-04-4874.jpg",
+      imageAlt: "Interior spray prep in a vaulted living space by Lane HBS",
+      serviceType: "Occupied interior refresh — nearby Bonney Lake-area home",
+      body: "Highway-adjacent interiors fail when dust, furniture, and a short after-hours window get a one-coat shortcut. On a nearby Bonney Lake-area interior we contained rooms, protected floors, and sequenced paint so the household stayed usable — the same occupied-space discipline a Main Street office or hillside house needs. The photo is owned Lane HBS work in the parent-city region — not a suite at 9002 Main Street E or a house on 90th Street E. Timeline followed access, dry time, and the fact that Veterans Memorial Drive already carries civic and 410 traffic. We do not invent square footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Downtown Bonney Lake-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Downtown Bonney Lake highway elevations versus hillside side streets",
+        body: "Parcels that face SR 410 or Veterans Memorial Drive E never stay as clean as an uphill wall off 89th or 90th Street E. Angeline Road E is the city’s downtown/midtown hinge — northwest of it is the civic center this page covers; east along 410 is a different commercial strip we are not duplicating as a second neighborhood. We spec wash and dry time for the elevation you actually own.",
+      },
+      {
+        heading: "Downtown Bonney Lake permits, design review, and a Buckley counter",
+        body: "Structural decks, tenant improvements, and some exterior changes go to the City of Bonney Lake. Design review applies to new commercial or multi-family buildings and major exterior modifications. The Permit Center’s public counter is at 21719 96th Street E in Buckley — a mailing-city surprise that does not change whose code applies. Cosmetic repaint of existing siding is usually maintenance. We do not treat a Main Street mailbox as unincorporated Prairie Ridge or as Cascade Water Alliance shoreline review.",
+      },
+      {
+        heading: "Downtown Bonney Lake civic traffic and Midtown Park staging",
+        body: "City Hall, court, the library at 18501 90th Street E, and the Public Safety Building at 18421 Veterans Memorial Drive already fill curb space on weekdays. Midtown Park — the city’s 40-acre former WSU Forest south of SR 410 and north of South Prairie Road E — adds trail use without being a boat launch. We plan wash water and trailers so those civic and trail edges stay usable.",
+      },
+      {
+        heading: "Occupied interiors during the Lakeridge and Viking school year",
+        body: "These are year-round homes and open businesses, not cabins. We contain rooms and sequence work around Lakeridge Middle School at 5909 Myers Road E and, when the parcel feeds that way, Bonney Lake Elementary at 18715 80th Street E. That is a Sumner-Bonney Lake commute off 410 — not Dieringer’s island campuses, not Victor Falls Elementary on 188th, and not White River schools on the far east side of the city.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Downtown Bonney Lake",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Downtown Bonney Lake pricing moves with highway-film wash time, occupied-shop hours, facade height, repair quantity, whether design review or a building permit belongs in the same visit, and whether a hillside deck or fence is in scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Arterial wash and dry time",
+        body: "SR 410 grit and north-wall mildew add labor before any coating. Cheap quotes skip the wash and fail on the highway elevation first.",
+      },
+      {
+        title: "City permits and design review",
+        body: "A tenant improvement, new deck, or major commercial facade change can need Bonney Lake review even when the Permit Center desk is in Buckley. We write that into the schedule so it does not hide inside a paint bid.",
+      },
+      {
+        title: "Occupied rooms and civic-campus staging",
+        body: "Lived-in houses and open shops take protection time. Main Street E and Veterans Memorial Drive E already move City Hall, library, and 410 traffic. We price the time it takes to keep entries usable.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "commercial-painting",
+        localDescription:
+          "Downtown Bonney Lake shops and offices need after-hours or phased painting so Main Street E and Veterans Memorial Drive suites stay open — containment first, not a weekday shutdown.",
+      },
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Highway-facing exteriors need wash, scrape, and prime for SR 410 film, then coatings that can take Pierce County winters and neighbor scrutiny on a civic street.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied downtown interiors — walls, trim, and room sequencing around Lakeridge Middle, Bonney Lake Elementary, and open-business hours.",
+      },
+    ],
+    estimateBandCopy:
+      "Downtown Bonney Lake shop, office, or hillside house ready for paint? Free on-site estimate — call or send the form. We plan around SR 410 film, civic-campus traffic, and whether the interior is in the same scope.",
+    processHeading: "Our Downtown Bonney Lake Process",
+    processSteps: [
+      {
+        title: "Downtown Bonney Lake Site Assessment",
+        body: "Highway vs. hillside exposure, occupied shop vs. house, city parcel confirmation, and whether the job is a facade, an interior, or both.",
+      },
+      {
+        title: "Downtown Bonney Lake Scope, Colors & Design Review",
+        body: "Written scope before coating days. Bonney Lake permit and design-review questions when the work is more than maintenance — we do not invent a single downtown color board.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated highway and hillside wood.",
+      },
+      {
+        title: "Downtown Bonney Lake Paint / Build Days",
+        body: "Weather windows plus civic and 410 traffic on Main Street E, 90th Street E, and Veterans Memorial Drive E. We do not wash a City Hall curb into a weekday appointment stack.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight — shop, office, or house. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Bonney Lake",
+        url: "https://www.bonneylake.gov/",
+        description:
+          "The Justice and Municipal Center at 9002 Main Street E houses City Hall, court, and administration — the weekday pulse of this civic core. We treat appointment traffic and curb space on Main and 90th as a staging problem for nearby paint days, not a brochure.",
+      },
+      {
+        name: "Pierce County Library — Bonney Lake Branch",
+        url: "https://mypcls.org/visit-the-library/locations-hours/",
+        description:
+          "The branch at 18501 90th Street E sits on the same civic campus as City Hall. Library hours and parking are part of how we think about trailers on 90th Street E — a different constraint than Allan Yorke boat-trailer Saturdays.",
+      },
+      {
+        name: "Midtown Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+        description:
+          "Forty acres of former WSU Forest the city acquired in 2010, south of SR 410 and north of South Prairie Road E — trails and undeveloped woods, not a reservoir beach. We schedule wash so those trail edges stay walkable.",
+      },
+      {
+        name: "Lakeridge Middle School",
+        url: "https://lms.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake’s campus at 5909 Myers Road E, west of the 410 civic core toward the Sumner valley. Downtown households still run that morning clock — interior paint days and material drops follow it so occupied homes function on school days. Assignment is parcel-specific. Lakeridge is the school, not a separate neighborhood page.",
+      },
+      {
+        name: "Bonney Lake Permit Center",
+        url: "https://www.bonneylake.gov/260/Permit-Center",
+        description:
+          "Environmental, land use, engineering, building, fire, and utility permits for city parcels. The public counter is at 21719 96th Street E, 2nd Floor, Buckley — city code still applies on Main Street E. Cosmetic paint is usually maintenance; tenant improvements and major commercial facades are not.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Downtown Bonney Lake runs on a highway-and-civic rhythm: errands at the [City of Bonney Lake](https://www.bonneylake.gov/) campus on Main Street E, research time at the [Pierce County Library — Bonney Lake Branch](https://mypcls.org/visit-the-library/locations-hours/) on 90th Street E, and trail loops at [Midtown Park](https://www.bonneylake.gov/293/Parks-Trails) south of SR 410. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars, including [Lakeridge Middle School](https://lms.sumnersd.org/) on Myers Road E and [Bonney Lake Elementary](https://ble.sumnersd.org/) on 80th Street E when the parcel feeds that way.",
+      "Structural decks, tenant improvements, and major commercial exterior changes typically start with the [Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and [Building Permits](https://www.bonneylake.gov/279/Building-Permits) — confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Trail connections along Fennel Creek are mapped on the city’s [Fennel Creek Trail](https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF) plan. We schedule coatings around that civic-and-school rhythm — not as a name-swap of Allan Yorke’s launch, Victor Falls’ ravine, Lake Jane’s kettle lake, or Prairie Ridge’s county grid.",
     ],
   },
   {
