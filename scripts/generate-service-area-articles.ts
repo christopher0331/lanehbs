@@ -86,6 +86,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Victor Falls",
         path: "/service-areas/lake-tapps/victor-falls",
       },
+      {
+        name: "Quiet Water",
+        path: "/service-areas/lake-tapps/quiet-water",
+      },
     ],
     knownLinks: [
       {
@@ -166,6 +170,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Mountain View Middle School",
         url: "https://mms.sumnersd.org/",
+      },
+      {
+        name: "Quiet Water Homeowners Association",
+        url: "https://quietwaterhoa.org/about/",
+      },
+      {
+        name: "Dieringer Heights Elementary",
+        url: "https://dhes.dieringer.wednet.edu/",
       },
     ],
     peers: [

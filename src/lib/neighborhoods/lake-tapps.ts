@@ -1779,7 +1779,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     geoRadiusMeters: 2400,
     introHeading: "Inland Streets, County Roads, and Houses That Stay Occupied",
     introLead:
-      "The Census Bureau counts Prairie Ridge as its own place — more than twelve thousand people on about four square miles of unincorporated Pierce County. Lots along 128th Street E, 122nd Street Court E, 127th Street E, Prairie Ridge Drive E, 214th Avenue E, and 215th Avenue E sit on the ridge above South Prairie Creek, not on the reservoir. That is a different job than Allan Yorke’s city park and launch, West Tapps Highway view decks, or North Lake Tapps Park summer gates. Siding here takes wind and rain. Greenbelt edges stay damp. Neighbors notice a messy job because these are sidewalk-close 1960s streets, not acreage.",
+      "The Census Bureau counts Prairie Ridge as its own place — more than twelve thousand people on about four square miles of unincorporated Pierce County. Lots along 128th Street E, 122nd Street Court E, 127th Street E, Prairie Ridge Drive E, 214th Avenue E, and 215th Avenue E sit on the ridge above South Prairie Creek, not on the reservoir. That is a different job than Allan Yorke’s city park and launch, West Tapps Highway view decks, or North Lake Tapps Park summer gates. The 214th Avenue E that runs through Prairie Ridge is the south-of-410 CDP grid around 128th Street E — not Quiet Water’s 2004 PDD east of 214th at 29th–40th Street E. Siding here takes wind and rain. Greenbelt edges stay damp. Neighbors notice a messy job because these are sidewalk-close 1960s streets, not acreage.",
     introBody:
       "Lane Home & Business Services LLC estimates Prairie Ridge jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 128th Street E or claim we painted the Recreation Hall. We will walk your trim, manufactured-home or stick-built elevation, and occupied kitchen honestly, then send structural questions to Pierce County — not the Bonney Lake Permit Center — unless the parcel actually sits in the city. Prairie Ridge Maintenance Co. manages the common parks and greenbelts; county roads and the Sheriff’s Office handle the streets that were deeded over in the 1960s. Prep still starts the same way: wash, repair, prime, then coat.",
     trustCards: [
@@ -2221,7 +2221,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     introLead:
       "Homes along 198th Avenue East, 9th Street East, 8th Street Court East, 11th Street East, and 12th Street East sit against Pierce County’s 135-acre North Lake Tapps Park — sandy swim beach, boat launch, picnic tables, and a peninsula walk to a Mount Rainier viewpoint. That is a different job than Tacoma Point Drive E behind optional Improvement Club keys, and it is not Allan Yorke’s city park at the south end. Siding picks up dust from trailers queued on 198th; north walls still stay damp off the reservoir; neighbors notice a messy job site because the whole county uses this shoreline on weekends.",
     introBody:
-      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on 198th Ave E or claim we painted every elevation facing the park gate. We will wash, repair soft trim, and wait for dry windows that differ from a near-shore lot to an inland rambler a block off 12th St E. Pierce County permits, occupied-home protection, and Dieringer School District calendars — North Tapps Middle School at 20029 12th St E, Lake Tapps Elementary at 1320 178th Ave E, and Dieringer Heights Elementary at 21727 34th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Dieringer is the historic school-community name for this north-shore cluster; we are not building a separate Dieringer page, and we are not creating a Lakeridge or West Tapps Maintenance Co. route.",
+      "Lane Home & Business Services LLC is based in Lake Tapps. Lane Vanderwaal will not invent a house count on 198th Ave E or claim we painted every elevation facing the park gate. We will wash, repair soft trim, and wait for dry windows that differ from a near-shore lot to an inland rambler a block off 12th St E. Pierce County permits, occupied-home protection, and Dieringer School District calendars — North Tapps Middle School at 20029 12th St E, Lake Tapps Elementary at 1320 178th Ave E, and Dieringer Heights Elementary at 21727 34th St E — shape how we stage a trailer. Licensed work: LANEHHB7912R. Dieringer is the historic school-community name for this north-shore cluster; we are not building a separate Dieringer page, and we are not creating a Lakeridge or West Tapps Maintenance Co. route. Quiet Water — the 2004 inland PDD east of 214th Avenue E on Quiet Water Loop E — is a different neighborhood; those cul-de-sacs are not park-road houses.",
     trustCards: [
       {
         icon: "car",
@@ -2825,6 +2825,226 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Victor Falls runs on a creek-park and in-town school rhythm: the viewpoint at [Victor Falls Park](https://www.bonneylake.gov/293/Parks-Trails), weekday bells at [Victor Falls Elementary](https://vfe.sumnersd.org/) on 188th Avenue Court E, and [Mountain View Middle School](https://mms.sumnersd.org/) on 199th Avenue Court E. Households track [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendars. Trail connections along Fennel Creek are mapped on the city’s [Fennel Creek Trail](https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF) plan.",
       "Structural decks and shops on these incorporated streets typically start with [Bonney Lake Building Permits](https://www.bonneylake.gov/279/Building-Permits) and civic questions at the [City of Bonney Lake](https://www.bonneylake.gov/). Confirm the parcel before you assume [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that school-and-park rhythm — not as a name-swap of Allan Yorke’s launch, Lake Jane’s kettle lake, or Prairie Ridge’s county grid.",
+    ],
+  },
+  {
+    slug: "quiet-water",
+    name: "Quiet Water",
+    description:
+      "Inland 2004 PDD east of 214th Avenue E — Quiet Water Loop, Dieringer Heights bells, wetland shade, and Pierce County permits, not a park-road waterfront street.",
+    blurb:
+      "On Quiet Water Loop E, 29th Street E, 31st Street E, and 216th Avenue Court E, Lane HBS paints exteriors, refreshes occupied interiors, and stains decks and fences for the 159-home Quiet Water PDD east of 214th Avenue E. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for wetland-edge shade and inland Pierce County rain",
+      "Occupied interiors on the Dieringer Heights / North Tapps calendar",
+      "Deck and fence work inside a no-through-traffic HOA loop",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Quiet Water?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through Pierce County Planning & Public Works — Quiet Water is unincorporated Pierce County even when the mailbox reads Lake Tapps or Bonney Lake 98391. The Quiet Water Homeowners Association also reviews exterior changes under the recorded PDD covenants. We name both the county desk and the HOA on the free estimate instead of guessing from 214th Avenue E.",
+      },
+      {
+        question:
+          "What prep fits Quiet Water’s wetland edges, pasture-lot shade, and inland rain?",
+        answer:
+          "The HOA describes 159 homes around pasture, woods, and wetlands east of 214th Avenue E — not reservoir splash. North walls, fence posts in wet soils, and greenbelt-facing decks stay damp. We wash mildew, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a shaded Quiet Water Loop elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling in Quiet Water?",
+        answer:
+          "Story count, wash-and-dry time after wetland shade, trim carpentry on 2000s production siding, occupied interiors, cul-de-sac staging with no through traffic, and whether HOA architectural review or a drain-field/septic question belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Quiet Water exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard decks depend on wash-dry windows after shade and inland rain come off, then on any carpentry. Dieringer Heights drop-off on 34th Street E changes when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards to hit a weekend.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on Quiet Water Loop or 214th?",
+        answer:
+          "Yes. These are year-round family houses, not cabins. We phase rooms, protect entries, and plan trailer placement so Quiet Water Loop E, 29th Street E, 31st Street E, and 216th Avenue Court E stay usable for neighbors. The neighborhood has no through traffic off 214th Avenue E — we do not block the tree-lined entries. Weekday clocks follow Dieringer Heights Elementary at 21727 34th Street E, then Lake Tapps Elementary on 178th Avenue E and North Tapps Middle on 12th Street E. High school is out of district; we follow your actual bell time instead of inventing a neighborhood high school.",
+      },
+    ],
+    image: "/images/from-lane/lane-04-4874.jpg",
+    heroIntro:
+      "Quiet Water is the inland 2004 planned-development neighborhood east of 214th Avenue E — Quiet Water Loop E, 29th Street E, 31st Street E, 40th Street E at the first entrance, and 216th Avenue Court E. Paint, decks, and interiors here face wetland shade, HOA review, and Dieringer school clocks, not North Lake Tapps Park launch traffic and not Prairie Ridge’s 128th Street grid.",
+    mapQuery: "Quiet Water Loop E, Lake Tapps, WA 98391",
+    latitude: 47.229,
+    longitude: -122.138,
+    geoRadiusMeters: 1400,
+    introHeading: "No Through Traffic, Wetland Edges, and a School Next Door",
+    introLead:
+      "Quiet Water sits on the east side of 214th Avenue E with tree-lined entries and no through streets. The association’s own description is 159 homes around pasture, woods, and wetlands — many with Mount Rainier views, almost none with a dock. Quiet Water Loop E, 29th Street E, 31st Street E, 26th Street E, and 216th Avenue Court E are the working addresses. Dieringer Heights Elementary at 21727 34th Street E is the next block, not a distant bus ride. That is a different geometry than 198th Avenue E into the county park, and it is not the 214th Avenue E that Prairie Ridge uses around 128th Street E south of State Route 410.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Quiet Water jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Quiet Water Loop E or claim we painted the neighborhood park playset. We will walk your 2000s siding, backyard deck, and occupied interiors honestly, then send structural questions to Pierce County and exterior-change questions to the Quiet Water HOA. Some lots sit against association drain-field or wetland tracts; that moisture is woods-and-pasture shade, not Cascade Water Alliance splash. We are not building a separate Dieringer page — the school name is the weekday clock here, not a second neighborhood route.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "County permits plus a PDD architectural file",
+        body: "Quiet Water is unincorporated Pierce County. A new deck is not the Bonney Lake Permit Center by default. The recorded Quiet Water PDD covenants also expect HOA review on exterior changes. We treat both as part of the estimate instead of copying a waterfront HOA packet or a Prairie Ridge common-property association.",
+      },
+      {
+        icon: "trees",
+        title: "Wetland and pasture shade, not lake splash",
+        body: "Woods and wetlands wrap the loops. North elevations and fence lines stay damp. We wash and wait for dry wood — this is not North Lake Tapps Park humidity and not a west-facing reservoir wall.",
+      },
+      {
+        icon: "school",
+        title: "Dieringer Heights is on the next street",
+        body: "The HOA has held annual meetings at Dieringer Heights Elementary on 34th Street E because that campus is the neighborhood’s weekday pulse. Interior sequencing and noisy wash follow preschool through fifth-grade bells there, then first-through-third at Lake Tapps Elementary and sixth-through-eighth at North Tapps Middle. High school is a later, out-of-district choice.",
+      },
+      {
+        icon: "car",
+        title: "Cul-de-sac staging, not 198th Avenue overflow",
+        body: "There is no through traffic. Trailers share Quiet Water Loop E and the numbered courts with school drop-off, not boat-launch queues. We stage so the tree-lined entries off 214th and 40th Street E stay open.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "David R."],
+    galleryHeading: "Our Work Near Quiet Water",
+    galleryNote:
+      "Owned Lane HBS photos of occupied interiors, exteriors, and finish work from Lake Tapps-area and nearby jobs. They illustrate the work type for 2000s family houses — not geo-tagged to Quiet Water Loop E, 29th Street E, or 216th Avenue Court E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Vaulted interior room prepped for painting",
+        caption: "Occupied-home interior prep — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior painting on a residential home",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Residential paint prep detail",
+        caption: "Interior painting in a lived-in house",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Quiet Water",
+      image: "/images/from-lane/lane-11-4765.jpg",
+      imageAlt: "Open living space prepared for interior painting",
+      serviceType: "Occupied interior painting — nearby Lake Tapps-area home",
+      body: "Quiet Water houses are 2000s family homes with vaulted rooms, bonus space, and people living in them while the work happens. On a nearby Lake Tapps-area interior we masked floors, sequenced rooms, and finished trim so the household kept a usable kitchen and bedroom through the job — the same occupied-home pattern a Quiet Water Loop elevation needs when Dieringer Heights is in session the next street over. The photo is owned Lane HBS work in the parent-city area, not a verified address on Quiet Water Loop E or 31st Street E. Timeline followed protection and dry time, not a marketing weekend. We do not invent a street name or a room count for a job we cannot verify. On an actual Quiet Water exterior we would also flag Pierce County review for a new deck and Quiet Water HOA architectural questions before color hits the street.",
+    },
+    considerationsHeading: "Quiet Water-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Quiet Water HOA review on a county parcel",
+        body: "The plat is Quiet Water PDD, recorded in 2004, with a homeowners association that maintains private park tracts and publishes covenants. Cosmetic repaint is still usually maintenance at the county, but color changes, fences, and new decks often need the architectural file as well as Pierce County when the work is structural. We ask for the current HOA process instead of copying Tapps Island golf rules or Prairie Ridge Maintenance Co. greenbelt rules onto Quiet Water Loop.",
+      },
+      {
+        heading: "Quiet Water wetland edges and no-through-street staging",
+        body: "Woods, pasture, and wetland tracts keep north walls and fence posts wet. The loops have no outlet except back to 214th Avenue E at the signed entries, including 40th Street E. Wash water, ladders, and material drops have to stay off neighbor drives and the private park. This is not 198th Avenue E park overflow and not a West Tapps Highway view-deck staging problem.",
+      },
+      {
+        heading: "Quiet Water drain fields, septic questions, and 2000s trim",
+        body: "Association documents describe community drain-field easements on some tracts. A kitchen or bath remodel that moves plumbing can raise Tacoma–Pierce County Health questions even when the paint scope is simple. Production siding and fascia from the mid-2000s still fail at joints; we repair before coating so new paint is not hiding an active leak.",
+      },
+      {
+        heading: "Occupied interiors during the Dieringer Heights school year",
+        body: "These are primary homes. Preschool through fifth grade at 21727 34th Street E sets the morning clock; first through third continue at Lake Tapps Elementary on 178th Avenue E; sixth through eighth run to North Tapps Middle on 12th Street E. We contain rooms and time noisy wash so drop-off on 34th still works. High school is out of district — Auburn, Sumner-Bonney Lake, or White River depending on the household — and we follow the calendar you actually run.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Quiet Water",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Quiet Water pricing moves with wetland-shade dry time, 2000s trim repairs, occupied interiors, cul-de-sac access, and whether Pierce County or Quiet Water HOA review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade and dry time on wetland-edge lots",
+        body: "Greenbelt and pasture elevations stay damp longer than an open inland wall. Cheap quotes skip that difference and fail on the north fence line first.",
+      },
+      {
+        title: "Cul-de-sac access and school-street timing",
+        body: "No through traffic is pleasant until a trailer has to share Quiet Water Loop E with 34th Street E drop-off. We price that staging time instead of pretending this is an empty county road.",
+      },
+      {
+        title: "Carpentry, HOA paperwork, and occupied rooms",
+        body: "Soft fascia, lived-in kitchens, and architectural or drain-field questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Quiet Water exteriors need wash, scrape, and prime for wetland-edge shade and inland Pierce County rain — then coatings that can take neighbor scrutiny on a no-through-traffic loop.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses next to Dieringer Heights Elementary. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and side-yard fences against woods and pasture — clean, dry, repair what is soft, then finish. New height or posts still belong in the county and HOA conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Quiet Water Loop house ready for paint, an interior refresh, or a deck and fence restain? Free on-site estimate — call or send the form. We plan around Pierce County permits, Quiet Water HOA review, and 34th Street E school hours.",
+    processHeading: "Our Quiet Water Process",
+    processSteps: [
+      {
+        title: "Quiet Water Site Assessment",
+        body: "Wetland-edge vs. open-lot exposure, cul-de-sac access off 214th Avenue E, occupancy, HOA vs. county questions, and whether a deck, fence, or interior is in the same visit.",
+      },
+      {
+        title: "Quiet Water Scope, Colors & HOA",
+        body: "Written scope before coating days. Quiet Water HOA architectural questions and Pierce County permit flags get named. Neighbor fences on a no-through-traffic loop get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 2000s siding and shaded fence wood.",
+      },
+      {
+        title: "Quiet Water Paint / Build Days",
+        body: "Weather windows under the trees; school-year timing on 34th Street E and Quiet Water Loop E. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Quiet Water Homeowners Association",
+        url: "https://quietwaterhoa.org/about/",
+        description:
+          "The neighborhood’s own description: 159 homes east of 214th Avenue E, no through traffic, a park with play equipment, and unincorporated Pierce County. We treat HOA architectural review and private-park staging as job constraints, not a lifestyle brochure.",
+      },
+      {
+        name: "Dieringer Heights Elementary",
+        url: "https://dhes.dieringer.wednet.edu/",
+        description:
+          "Dieringer School District’s preschool, kindergarten, fourth, and fifth grade campus at 21727 34th Street E — the next street over from Quiet Water. Drop-off on 34th is the weekday clock for noisy wash and trailer placement on the loops.",
+      },
+      {
+        name: "North Tapps Middle School",
+        url: "https://ntms.dieringer.wednet.edu/",
+        description:
+          "Grades 6–8 at 20029 12th Street E. Quiet Water households still run that morning clock into the north-shore collector — a different stack than North Lake Tapps Park launch weekends on 198th Avenue E.",
+      },
+      {
+        name: "North Lake Tapps Park",
+        url: "https://www.piercecountywa.gov/1326/North-Lake-Tapps-Park",
+        description:
+          "Pierce County’s public north-shore park at 2022 198th Avenue E — beach, launch, and picnic areas a short drive west. Nearby recreation, not Quiet Water’s private HOA park. We do not treat 214th Avenue E cul-de-sacs as park-road houses.",
+      },
+      {
+        name: "Pierce County Planning & Public Works",
+        url: "https://www.piercecountywa.gov/91/Planning-Public-Works",
+        description:
+          "Where most Quiet Water parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. The City of Bonney Lake building desk only applies if the lot actually sits inside city limits — these loops generally do not.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Quiet Water runs on a cul-de-sac and school-street rhythm: no through traffic east of 214th Avenue E, HOA notes at [Quiet Water Homeowners Association](https://quietwaterhoa.org/about/), and weekday bells at [Dieringer Heights Elementary](https://dhes.dieringer.wednet.edu/) on 34th Street E. Households track [Dieringer School District](https://www.dieringer.wednet.edu/) calendars, including first-through-third grade at Lake Tapps Elementary on 178th Avenue E and [North Tapps Middle School](https://ntms.dieringer.wednet.edu/) on 12th Street E.",
+      "Structural decks and shops on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Confirm the parcel before you assume the [City of Bonney Lake](https://www.bonneylake.gov/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of North Lake Tapps Park streets, Prairie Ridge’s 128th Street grid, or a gated Tapps Island fairway.",
     ],
   },
 ];
