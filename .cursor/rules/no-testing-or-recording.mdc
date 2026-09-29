@@ -1,0 +1,10 @@
+---
+description: Do not run tests or record the screen
+alwaysApply: true
+---
+
+# No testing and no recording
+
+Do not run tests. Do not start the app to verify. Do not use the browser. Do not record the screen. Do not save screenshots, walkthrough videos, or other test artifacts.
+
+Make the requested change and stop.
