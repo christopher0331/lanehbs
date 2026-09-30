@@ -273,7 +273,7 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     introLead:
       "Maple Hills streets are not a brand-new HOA palette exercise. Fascia has layers. Fences lean. Kitchens are tired but functional. Neighbors notice a half-done elevation. Prep quality is the whole story.",
     introBody:
-      "Lane HBS works Covington regularly. We will not invent a Maple Hills block count. We will scrape to a sound edge, repair what is soft, and let you phase trim-only if that is the budget — written clearly, licensed, insured.",
+      "Lane HBS works Covington regularly. We will not invent a Maple Hills block count. We will scrape to a sound edge, repair what is soft, and let you phase trim-only if that is the budget — written clearly, licensed, insured. Established Maple Hills streets are not the 2021 24-home Tahoma Crest sidewalk pocket south of SE 240th.",
     trustCards: [
       {
         icon: "home",
@@ -695,7 +695,7 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     geoRadiusMeters: 1800,
     introHeading: "Creek Air, Park Edges, and Siding That Stays Damp",
     introLead:
-      "Lots along 180th Ave SE, SE 267th Street, Timberlane Drive, and 186th Ave SE sit against Jenkins Creek, Spring Pond, oak-prairie remnants, and the boardwalk that now opens off Wax Road. That microclimate is wetland and park edge — moss on fences, film on fascia, and posts in saturated soil. It is not Lake Sawyer splash, and it is not the same problem as a dry arterial storefront on SE 272nd.",
+      "Lots along 180th Ave SE, SE 267th Street, Timberlane Drive, and 186th Ave SE sit against Jenkins Creek, Spring Pond, oak-prairie remnants, and the boardwalk that now opens off Wax Road. That microclimate is wetland and park edge — moss on fences, film on fascia, and posts in saturated soil. It is not Lake Sawyer splash, and it is not the same problem as a dry arterial storefront on SE 272nd. The 180th Avenue SE that feeds this park at SE 267th is not Tahoma Crest’s 24-home pocket at 181st Place SE and SE 242nd, a mile-plus north by Covington Community Park.",
     introBody:
       "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a house count on Timberlane Drive. We will wash, repair soft trim, and wait for dry windows that are shorter here than on an open Maple Hills elevation. School mornings at Jenkins Creek Elementary change where a trailer can sit. Weekend park traffic on 180th and Wax Road is real now that the entrance is no longer a secret. Licensed work — LANEHHB7912R — with occupied-home protection as the default.",
     trustCards: [
@@ -915,7 +915,7 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     geoRadiusMeters: 1600,
     introHeading: "Storefronts and Side Streets Off a Highway, Not a Main Street",
     introLead:
-      "Covington grew as an auto-oriented retail hub. The elevations that face SE 272nd, Wax Road, and Covington Way take road film, wet winters, and UV on parking-lot walls. Just off the corridor — SE 271st Street at City Hall, 164th Avenue by the library, and the residential streets around Town Center Lawn — houses and apartments still need occupied-home interiors. Prep here is washing grit and staging around customers, not fighting creek shade or a lake dock.",
+      "Covington grew as an auto-oriented retail hub. The elevations that face SE 272nd, Wax Road, and Covington Way take road film, wet winters, and UV on parking-lot walls. Just off the corridor — SE 271st Street at City Hall, 164th Avenue by the library, and the residential streets around Town Center Lawn — houses and apartments still need occupied-home interiors. Prep here is washing grit and staging around customers, not fighting creek shade or a lake dock. The Wax Road / 180th Avenue SE that serves this core at SE 272nd is not Tahoma Crest’s 24-home sidewalk pocket at 181st Place SE and SE 244th, next to Covington Community Park.",
     introBody:
       "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a storefront count on 164th Avenue SE. We will schedule around open hours, keep sidewalks and stall rows usable, and repair trim before coatings on older commercial wood and tired 1980s–2000s house elevations. Licensed work — LANEHHB7912R — with the same occupied-space discipline we use on a family kitchen. Town Center Lawn event days and Cedar Heights traffic on SE 272nd change where a trailer can sit. We plan for that instead of treating downtown like a quiet cul-de-sac.",
     trustCards: [
@@ -1740,6 +1740,226 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Lake Morton-Berrydale still runs through unincorporated King County: structural questions start at [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use), school bells at [Grass Lake Elementary](https://www.kent.k12.wa.us/o/gles/) on 191st Place SE, and calendars from the [Kent School District](https://www.kent.k12.wa.us/). Errands often point north into the [City of Covington](https://www.covingtonwa.gov/) even when the building desk does not.",
       "Weekend fishing uses the [WDFW Lake Morton access](https://wdfw.wa.gov/places-to-go/water-access-sites/lake-morton-492). Indoor research happens at [Covington Library](https://kcls.org/locations/covington/) (27100 164th Avenue SE). Power is [Puget Sound Energy](https://www.pse.com/), and contractor registration is public at [Washington L&I](https://lni.wa.gov/). We schedule coatings around occupied acreage, the gravel ramp, and those calendars — not a Lake Sawyer park-launch template and not a Downtown Covington storefront clock.",
+    ],
+  },
+  {
+    slug: "tahoma-crest",
+    name: "Tahoma Crest",
+    description:
+      "Twenty-four 2021 sidewalk lots on 181st Place SE and SE 242nd — park-and-middle-school traffic, Kent School District bells, and city permits, not a creek-park street and not Maple Valley’s Tahoma collector.",
+    blurb:
+      "On 181st Place SE, SE 242nd Street, and SE 244th Street, Lane HBS paints exteriors, refreshes occupied interiors, and stains backyard fences and covered patios for Covington’s 24-home Tahoma Crest plat south of SE 240th. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting on 2021 production siding next to park and school traffic",
+      "Occupied interiors on Crestwood, Mattson, and Kentwood calendars",
+      "Fence and patio stain on small, fully fenced sidewalk lots",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Tahoma Crest?",
+        answer:
+          "Repainting siding and restaining an existing fence or covered patio are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the Covington Building Division — Tahoma Crest is inside the city, not unincorporated King County and not Maple Valley’s permit desk. The plat also has a homeowners association that maintains common areas; we ask for the current architectural process on color or fence changes instead of inventing a palette. We name both the city desk and the HOA on the free estimate.",
+      },
+      {
+        question:
+          "What prep fits Tahoma Crest’s park-edge shade, Highway 18 film, and 2021 builder coatings?",
+        answer:
+          "These are 2021 KB Home lots on a 4.73-acre plat south of SE 240th — level sidewalk streets, backyard fences, and covered patios, not 1970s trim stacks. North walls toward Covington Community Park and Little Soos Creek stay damp. West and south elevations pick up film from Highway 18 and the SE 256th / Wax Road approach. We wash mildew and grit, scrape failed builder film, prime bare spots, and repair fascia joints before color. A spray-and-go bid that skips that inspection fails first on the fence line.",
+      },
+      {
+        question: "How do you price painting and remodeling in Tahoma Crest?",
+        answer:
+          "Story count, wash-and-dry time after park-edge shade or arterial film, trim repairs on five-year-old production siding, occupied interiors, cul-de-sac staging next to SE 240th park and Maple View traffic, and whether city review or HOA paperwork belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Tahoma Crest exterior, fence, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard fences depend on wash-dry windows after shade and road film come off, then on any carpentry. Crestwood drop-off on 180th Avenue SE, Mattson on SE 251st, and weekend parking at Covington Community Park change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards to hit a weekend.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on 181st Place SE or SE 242nd?",
+        answer:
+          "Yes. These are year-round family houses, not models. We phase rooms, protect entries, and plan trailer placement so 181st Place SE, SE 242nd Street, and SE 244th Street stay usable for neighbors. The pocket has no through route except back to 180th Avenue SE / Wax Road at SE 244th — we do not block those two entries. Weekday clocks follow Crestwood Elementary at 25225 180th Avenue SE, Mattson Middle at 16400 SE 251st Street, and Kentwood High at 25800 164th Avenue SE. Maple View Middle at 18200 SE 240th sits next door on a Tahoma School District campus; that stack is neighbor traffic, not this plat’s assignment.",
+      },
+    ],
+    image: "/images/from-lane/lane-12-1198.jpg",
+    heroIntro:
+      "Tahoma Crest is Covington’s 24-home 2021 pocket south of SE 240th — 181st Place SE, SE 242nd Street, and SE 244th Street between Covington Community Park and Maple View Middle. Paint, fences, and interiors here face park-and-school staging, Kent School District bells, and city permits, not Jenkins Creek’s SE 267th wetlands and not Maple Valley’s Tahoma collector on SE Tahoma Way.",
+    mapQuery: "181st Place SE and SE 242nd Street, Covington, WA",
+    latitude: 47.3728,
+    longitude: -122.1062,
+    geoRadiusMeters: 800,
+    introHeading: "A New Pocket Next to a Park, a Pool, and Someone Else’s Middle School",
+    introLead:
+      "The city’s 2018 hearing described a 4.73-acre plat south of SE 240th Street, accessed by extending 181st Place SE, with water from Covington Water District and sewer from Soos Creek Water and Sewer District. KB Home finished the 24 lots around 2021: curbs, sidewalks, level fenced yards, and covered outdoor rooms. SE 242nd Street and SE 244th Street are the working addresses. Covington Community Park at 17649 SE 240th and the Aquatic Center at 18230 SE 240th sit on the next arterial. Maple View Middle School — Tahoma School District — occupies 18200 SE 240th. That is a different geometry than Jenkins Creek Park at SE 267th, and it is not the Maple Valley neighborhood named Tahoma along SE Tahoma Way.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Tahoma Crest jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 181st Place SE or claim we painted the Margaret Harto Pavilion. We will walk your 2021 siding, backyard fence, and occupied interiors honestly, then send structural questions to Covington Building and exterior-change questions to the Tahoma Crest HOA. Households here run Kent School District — Crestwood, Mattson, Kentwood — even though a Tahoma SD campus shares the SE 240th frontage. We are not building a separate Crestwood, Rainier Vista, or 181st Place page. 180th Avenue SE is a long road: this pocket uses it at SE 244th, not at the creek-park entrance a mile-plus south.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus a small-plat HOA file",
+        body: "Tahoma Crest is incorporated Covington. A new deck is the city Permit Center, not King County by default and not Maple Valley Building. The association maintains common area; we ask for today’s architectural rules instead of copying a Maple Hills street or a Meadows at Rock Creek swatch packet.",
+      },
+      {
+        icon: "school",
+        title: "Kent bells, Tahoma SD traffic next door",
+        body: "Kids on these lots generally go to Crestwood Elementary, Mattson Middle, and Kentwood High. Maple View’s Golden Bears campus on SE 240th still fills the arterial at bell time. We stage so both clocks can move — we do not assign this plat to Tahoma High on SE Tahoma Way.",
+      },
+      {
+        icon: "car",
+        title: "Park, pool, and Highway 18 film",
+        body: "Community Park parking on SE 240th and 180th, Aquatic Center hours, and the SE 256th exit off Highway 18 throw cars and grit onto a 24-home loop. We wash film off and keep trailers off those entries.",
+      },
+      {
+        icon: "home",
+        title: "Occupied 2021 family houses, not a model row",
+        body: "Five-bedroom production plans with people living in them. We contain rooms and protect floors. Builder coatings and fence stain from 2021 are due for honest prep, not a second coat over chalk.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Sarah M.", "David R."],
+    galleryHeading: "Our Work Near Tahoma Crest",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and outdoor finish work from Covington-area and nearby jobs. They illustrate the work type for 2020s family houses — not geo-tagged to 181st Place SE, SE 242nd Street, or SE 244th Street.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Exterior painting on a residential home",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-04-4874.jpg",
+        alt: "Vaulted interior room prepped for painting",
+        caption: "Occupied-home interior prep — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New cedar railing with metal balusters",
+        caption: "Outdoor rail and stain work — nearby project, not a Tahoma Crest address",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Tahoma Crest",
+      image: "/images/from-lane/lane-11-4765.jpg",
+      imageAlt: "Open living space prepared for interior painting",
+      serviceType: "Occupied interior painting — nearby Covington-area home",
+      body: "Tahoma Crest houses are 2021 family plans with great rooms, main-floor bedrooms, and people living in them while the work happens. On a nearby Covington-area interior we masked floors, sequenced rooms, and finished trim so the household kept a usable kitchen and bedroom through the job — the same occupied-home pattern a 181st Place elevation needs when Crestwood is in session down 180th and Maple View is stacking SE 240th. The photo is owned Lane HBS work in the parent-city area, not a verified address on SE 242nd Street. Timeline followed protection and dry time, not a marketing weekend. We do not invent a street name or a room count for a job we cannot verify. On an actual Tahoma Crest exterior we would also flag Covington review for a new deck and Tahoma Crest HOA questions before color hits the sidewalk.",
+    },
+    considerationsHeading: "Tahoma Crest-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Tahoma Crest HOA review on a city parcel",
+        body: "The 2018 subdivision file is a 24-lot city plat with a homeowners association that maintains common area. Cosmetic repaint is still usually maintenance at the city, but color changes, fences, and new decks often need the architectural file as well as Covington Building when the work is structural. We ask for the current HOA process instead of copying Jenkins Creek park-edge rules or a Maple Valley Tahoma collector packet onto 181st Place SE.",
+      },
+      {
+        heading: "Tahoma Crest park-edge moisture and no-through-street staging",
+        body: "Community Park’s wooded trails and Little Soos Creek keep north fences damp. The loops empty only to 180th / Wax Road at SE 244th. Wash water, ladders, and material drops have to stay off neighbor drives and the park lots on SE 240th and 180th. This is not Jenkins Creek’s boardwalk at SE 267th and not Downtown’s SE 272nd storefront parking.",
+      },
+      {
+        heading: "Tahoma Crest 2021 siding, fences, and occupied interiors",
+        body: "Production lap siding and fascia from 2021 fail at joints and south-facing chalk first. Backyard fences and covered patios on ~0.1-acre lots take South King County rain at close range. A kitchen or bath remodel that moves plumbing still belongs in the city conversation. We repair before coating so new paint is not hiding an active leak, and we keep rooms livable — these are primary homes.",
+      },
+      {
+        heading: "Occupied days during Crestwood, Mattson, and Maple View hours",
+        body: "Kent School District sets the household clock: Crestwood Elementary at 25225 180th Avenue SE, Mattson Middle at 16400 SE 251st Street, Kentwood High at 25800 164th Avenue SE. Maple View Middle at 18200 SE 240th is the neighbor campus, not the assignment. We contain rooms and time noisy wash so 180th, SE 244th, and SE 240th still work at bell time. We do not treat this plat as Tahoma High on SE Tahoma Way.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Tahoma Crest",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Tahoma Crest pricing moves with park-edge dry time, arterial film, 2021 trim repairs, occupied interiors, cul-de-sac access, and whether Covington or HOA review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade, film, and dry time on a park-edge loop",
+        body: "North fences toward Community Park stay damp longer than an open Maple Hills wall. Highway 18 grit on the SE 256th approach adds wash time. Cheap quotes skip that difference and fail on the backyard fence first.",
+      },
+      {
+        title: "Cul-de-sac access and school-and-park timing",
+        body: "Twenty-four homes share 181st Place SE with Crestwood traffic on 180th and Maple View / Aquatic Center stacks on SE 240th. We price that staging time instead of pretending this is an empty county road.",
+      },
+      {
+        title: "Carpentry, HOA paperwork, and occupied rooms",
+        body: "Soft fascia, lived-in kitchens, and architectural or permit questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Tahoma Crest exteriors need wash, scrape, and prime for park-edge shade and Highway 18 film on 2021 production siding — then coatings that can take neighbor scrutiny on a 24-home sidewalk loop.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses on Crestwood, Mattson, and Kentwood calendars. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard fences and covered patios on small fenced lots — clean, dry, repair what is soft, then finish. New height or posts still belong in the city and HOA conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Tahoma Crest house ready for paint, an interior refresh, or a fence and patio restain? Free on-site estimate — call or send the form. We plan around Covington permits, HOA review, and SE 240th park and school hours.",
+    processHeading: "Our Tahoma Crest Process",
+    processSteps: [
+      {
+        title: "Tahoma Crest Site Assessment",
+        body: "Park-edge vs. open-lot exposure, cul-de-sac access off 180th and SE 244th, occupancy, HOA vs. city questions, and whether a fence, patio, or interior is in the same visit.",
+      },
+      {
+        title: "Tahoma Crest Scope, Colors & HOA",
+        body: "Written scope before coating days. Tahoma Crest HOA architectural questions and Covington permit flags get named. Neighbor fences on a 24-home loop get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and road film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 2021 siding and fence wood.",
+      },
+      {
+        title: "Tahoma Crest Paint / Build Days",
+        body: "Weather windows after shade; school-year timing on 180th and SE 240th; weekend awareness at Community Park and the Aquatic Center. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Covington Community Park",
+        url: "https://www.covingtonwa.gov/parks/covingtoncommunitypark.php",
+        description:
+          "Twenty-nine acres at 17649 SE 240th Street — Margaret Harto Pavilion, fields, playground, and wooded trails along Little Soos Creek, with parking off SE 240th and 180th Avenue SE. Weekend leagues and trail traffic are a staging constraint for 181st Place SE, not scenery.",
+      },
+      {
+        name: "Covington Aquatic Center",
+        url: "https://www.covingtonwa.gov/parks/covingtonaquaticcenter.php",
+        description:
+          "The city’s indoor pool at 18230 SE 240th Street, next to the Maple View campus. Lesson and rec-swim hours put extra cars on the same arterial the 24-home loop uses to reach Wax Road.",
+      },
+      {
+        name: "Crestwood Elementary",
+        url: "https://www.kent.k12.wa.us/o/cres/",
+        description:
+          "Kent School District’s Dragonflies campus at 25225 180th Avenue SE. Drop-off on 180th is the weekday clock for noisy wash and trailer placement on 181st Place SE and SE 244th — assignment is parcel-specific.",
+      },
+      {
+        name: "Maple View Middle School",
+        url: "https://mapleview.tahomasd.us/",
+        description:
+          "Tahoma School District’s Golden Bears campus at 18200 SE 240th Street, next door to the plat. Neighbor traffic, not this neighborhood’s typical middle-school assignment — Mattson Middle on SE 251st is the Kent SD campus most Tahoma Crest households actually run.",
+      },
+      {
+        name: "Covington Building Division",
+        url: "https://www.covingtonwa.gov/city_departments/community_development/building.php",
+        description:
+          "Where Tahoma Crest parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. King County Local Services and Maple Valley Building apply only if the lot actually sits outside Covington — these 24 lots do not.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Tahoma Crest runs on a sidewalk-loop and park-street rhythm: 24 homes south of SE 240th, errands through the [City of Covington](https://www.covingtonwa.gov/), and weekday bells at [Crestwood Elementary](https://www.kent.k12.wa.us/o/cres/) on 180th Avenue SE. Households track [Kent School District](https://www.kent.k12.wa.us/) calendars, including [Mattson Middle School](https://www.kent.k12.wa.us/o/mms/) on SE 251st Street.",
+      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend hours still land at [Covington Community Park](https://www.covingtonwa.gov/parks/covingtoncommunitypark.php). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Jenkins Creek’s SE 267th wetlands, Downtown’s SE 272nd storefronts, or Maple Valley’s Tahoma collector on SE Tahoma Way.",
     ],
   },
 ];

@@ -489,6 +489,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Lake Morton-Berrydale",
         path: "/service-areas/covington/lake-morton-berrydale",
       },
+      {
+        name: "Tahoma Crest",
+        path: "/service-areas/covington/tahoma-crest",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -518,6 +522,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Grass Lake Elementary",
         url: "https://www.kent.k12.wa.us/o/gles/",
+      },
+      {
+        name: "Covington Community Park",
+        url: "https://www.covingtonwa.gov/parks/covingtoncommunitypark.php",
+      },
+      {
+        name: "Crestwood Elementary",
+        url: "https://www.kent.k12.wa.us/o/cres/",
       },
       {
         name: "About Our Lakes — Pipe Lake & Lake Lucerne",
