@@ -694,7 +694,7 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     introLead:
       "SE Tahoma Way connects Maple Valley neighborhoods to Maple View Middle School, Rock Creek Elementary, Summit Park, and the high school traffic farther south. The houses along it — 1980s through 2000s ramblers and two-stories with fenced backyards — see the same wet winters as Wilderness Rim but with collector-road dust on the elevations that face the pavement.",
     introBody:
-      "Lane Home & Business Services LLC estimates Tahoma-area jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on your block. We will walk trim, decks, and interior wear honestly, then schedule wash, repair, and coating around school-year access and occupied-home routines.",
+      "Lane Home & Business Services LLC estimates Tahoma-area jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on your block. We will walk trim, decks, and interior wear honestly, then schedule wash, repair, and coating around school-year access and occupied-home routines. This SE Tahoma Way corridor is not Covington’s 24-home Tahoma Crest pocket on 181st Place SE and SE 242nd — that plat sits next to Maple View’s Covington campus and runs Kent School District, not this collector.",
     trustCards: [
       {
         icon: "school",
