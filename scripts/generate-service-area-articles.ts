@@ -229,6 +229,7 @@ const AREAS: Record<string, AreaSeed> = {
         path: "/service-areas/enumclaw/newaukum-creek",
       },
       { name: "Mud Mountain", path: "/service-areas/enumclaw/mud-mountain" },
+      { name: "Greenwater", path: "/service-areas/enumclaw/greenwater" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -305,6 +306,30 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Enumclaw Fire Department",
         url: "https://www.enumclawfire.org/",
+      },
+      {
+        name: "Federation Forest State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park",
+      },
+      {
+        name: "SR 410 North Entrance Arch — Mount Rainier",
+        url: "https://www.nps.gov/places/sr410-north-entrance-arch.htm",
+      },
+      {
+        name: "Pierce County Development Center",
+        url: "https://www.piercecountywa.gov/applyforapermit",
+      },
+      {
+        name: "White River School District",
+        url: "https://www.whiteriver.wednet.edu/",
+      },
+      {
+        name: "Elk Ridge Elementary",
+        url: "https://elkridge.whiteriver.wednet.edu/",
+      },
+      {
+        name: "Crystal River Ranch",
+        url: "https://crystalriverranch.org/about/",
       },
       {
         name: "Washington State Department of Labor & Industries",
