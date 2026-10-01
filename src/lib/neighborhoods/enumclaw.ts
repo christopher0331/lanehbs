@@ -637,7 +637,7 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       },
     ],
     localLivingParagraphs: [
-      "Plateau living looks toward [Mud Mountain Dam](https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/) and weekend drives to [Federation Forest State Park](https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park). In-town needs still run through the [City of Enumclaw](https://www.cityofenumclaw.net/) and the [Enumclaw Building Division](https://www.cityofenumclaw.net/159/Building-Division). Event weekends at the [Enumclaw Expo Center](https://www.enumclawexpo.com/) change traffic.",
+      "Plateau living looks toward [Mud Mountain Dam](https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/) and weekend drives through [Greenwater](/service-areas/enumclaw/greenwater) to [Federation Forest State Park](https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park). In-town needs still run through the [City of Enumclaw](https://www.cityofenumclaw.net/) and the [Enumclaw Building Division](https://www.cityofenumclaw.net/159/Building-Division). Event weekends at the [Enumclaw Expo Center](https://www.enumclawexpo.com/) change traffic.",
       "Schools remain [Enumclaw School District](https://www.enumclaw.wednet.edu/), libraries are [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). We plan plateau coatings around wind, rain, and those calendars — not a lowland suburban template.",
     ],
   },
@@ -1783,7 +1783,7 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     introLead:
       "SE Mud Mountain Road is the working driveway for acreage houses, shops, and a few White River lots — and it is also the public approach to Mud Mountain Dam Park and the south trailhead for Pinnacle Peak Park. That is a different job than Osceola’s SE 448th / SE 456th Way heritage loop, and it is not the generic “plateau lot” page. Siding picks up film from 410 and recreation weekends; river elevations stay wet; open pasture walls take wind off the cone locals call Mount Peak, Mount Pete, or Pinnacle Peak.",
     introBody:
-      "Lane Home & Business Services LLC estimates Mud Mountain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE Mud Mountain Road or claim we painted a named river deck. We will walk your trim, shop siding, and fence posts honestly, then tell you the parcel is almost certainly King County before anyone talks color. We are not building a separate Mount Peak, Pinnacle Peak, or Suntop page; the cone and the dam sit on this corridor.",
+      "Lane Home & Business Services LLC estimates Mud Mountain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE Mud Mountain Road or claim we painted a named river deck. We will walk your trim, shop siding, and fence posts honestly, then tell you the parcel is almost certainly King County before anyone talks color. We are not building a separate Mount Peak, Pinnacle Peak, or Suntop page; the cone and the dam sit on this corridor. This is also not Greenwater — the Pierce County highway hamlet at the Greenwater and White River confluence about fifteen miles farther east on SR 410.",
     trustCards: [
       {
         icon: "car",
@@ -1946,7 +1946,227 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Daily life on Mud Mountain runs on a dam-road and in-town school rhythm: acreage errands off SR 410, weekend hikers at [Pinnacle Peak Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak), and picnic hours at [Mud Mountain Dam Park](https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/Recreation/). Households track [Enumclaw School District](https://www.enumclaw.wednet.edu/) calendars, including [Southwood Elementary](https://swe.enumclaw.wednet.edu/) on McDougall Avenue and [Enumclaw Middle School](https://ems.enumclaw.wednet.edu/) on Semanski Street South.",
-      "Structural decks and shops on these unincorporated streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). Confirm the parcel before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that recreation-and-school rhythm — not as a name-swap of Osceola’s farm-grid loop, Newaukum Creek’s Green River tributary, or an Elk Meadows PUD packet.",
+      "Structural decks and shops on these unincorporated streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). Confirm the parcel before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that recreation-and-school rhythm — not as a name-swap of Osceola’s farm-grid loop, Newaukum Creek’s Green River tributary, an Elk Meadows PUD packet, or [Greenwater](/service-areas/enumclaw/greenwater) fifteen miles farther up SR 410.",
+    ],
+  },
+  {
+    slug: "greenwater",
+    name: "Greenwater",
+    description:
+      "Pierce County highway hamlet at the Greenwater and White River confluence — forest moisture, SR 410 ski-and-park traffic, and cabins that need weather-honest paint.",
+    blurb:
+      "On Greenwater — SR 410 East at Riverview Drive and 582nd Court E, about fifteen miles east of Enumclaw — Lane HBS paints exteriors, repairs cabin and shop wood, and stains river decks and forest fences. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for river fog, canopy shade, and Chinook Scenic Byway film",
+      "Carpentry before paint on cabin, house, and shop siding",
+      "Deck stain and fence work staged around Rainier and Crystal Mountain traffic",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Greenwater?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, accessory buildings, and some fence-height changes typically go through the Pierce County Development Center — the Greenwater CDP sits in unincorporated Pierce County even when the mailbox says Enumclaw 98022. Lots west toward Federation Forest can sit in King County instead. River-adjacent work can add shoreline or buffer questions. We name the desk on the free estimate instead of guessing from a 410 milepost. Cosmetic paint is not a National Park Service entrance permit and not a City of Enumclaw Cole Street file.",
+      },
+      {
+        question:
+          "What prep fits Greenwater’s mix of river humidity, forest shade, and highway film?",
+        answer:
+          "Houses and cabins at the Greenwater and White River confluence sit under canopy at about 1,800 feet. North and river walls stay damp; south walls take UV when the trees open; every elevation picks up grit from SR 410 ski, hike, and park traffic. We wash mildew and road film, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a cabin that faces river fog one week and Chinook Pass dust the next.",
+      },
+      {
+        question: "How do you price painting and remodeling in Greenwater?",
+        answer:
+          "Repair quantity on house vs. cabin or shop wood, wash-and-dry time after river humidity and shade, the fifteen-mile SR 410 staging run from Enumclaw, occupied interiors, and whether a fence, river deck, or outbuilding is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Greenwater exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and river decks depend on wash-dry windows after shade and highway film come off, then on any carpentry. Cabins and shops are separate elevations. We write the calendar after we see the parcel — we do not coat damp boards so a house looks finished before a holiday weekend on the way to Sunrise.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around park, ski, and school traffic?",
+        answer:
+          "Yes. Most Greenwater houses and cabins are occupied, and many use a well and septic that still need a working driveway. We phase rooms, protect entries, and plan trailer placement on SR 410 East, Riverview Drive, and 582nd Court E so we are not extra overflow when the highway is carrying Rainier or Crystal Mountain traffic. Weekday clocks for Pierce County lots typically follow White River School District campuses in Buckley — Elk Ridge Elementary on River Avenue North and Glacier Middle on North C Street — a long 410 commute, not Southwood on McDougall and not a school in the hamlet. Assignment is parcel-specific.",
+      },
+    ],
+    image: "/images/from-lane/lane-21-101.jpg",
+    heroIntro:
+      "Greenwater is the Pierce County highway hamlet on SR 410 East — Riverview Drive and 582nd Court E at the Greenwater and White River confluence, about fifteen miles east of Enumclaw and ten miles north of Mount Rainier’s northeast entrance. Paint, cabins, and river decks here face forest moisture and byway traffic, not a Cole Street storefront and not Mud Mountain’s dam road.",
+    mapQuery: "Greenwater, WA",
+    latitude: 47.1465,
+    longitude: -121.6321,
+    geoRadiusMeters: 2800,
+    introHeading: "A River Confluence, a Scenic Byway, and Wood That Never Fully Dries",
+    introLead:
+      "Greenwater is a small unincorporated census place — about ninety-five people in 2020 — at the meeting of the Greenwater and White Rivers. The working addresses are SR 410 East, Riverview Drive, and 582nd Court E. Federation Forest State Park sits west on the same highway at 49201 Highway 410 East. Pierce County Fire District 26’s Station 1 is at 59705 SR 410 East. That is a different geometry than Mud Mountain’s SE Mud Mountain Road to the U.S. Army Corps dam, and it is not Crystal Mountain’s ski village farther up the pass.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Greenwater jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a cabin count on Riverview Drive or claim we painted the Catherine Montgomery Interpretive Center. We will walk your siding, river deck, and occupied interiors honestly, then send structural questions to Pierce County — or King County if the parcel actually sits west of the county line. Crystal River Ranch, four miles east on Forest Service Road 74 / Crystal River Ranch Road, is a 1973 Quadrant community of about 240 homesites with its own HOA at 62201 Meadow Way East. We are not building a separate Crystal River Ranch, Crystal Villages, Crystal Mountain, Federation Forest, or Riverview Drive page. Those places sit on this corridor.",
+    trustCards: [
+      {
+        icon: "car",
+        title: "Chinook Scenic Byway traffic, not a quiet cul-de-sac",
+        body: "SR 410 is the only paved artery through Greenwater — hikers to Federation Forest, skiers to Crystal Mountain, and summer lines to Mount Rainier’s White River / Sunrise entrance all share it. We stage wash water and trailers so Riverview Drive and 582nd Court E stay usable when the highway is a parking lot.",
+      },
+      {
+        icon: "droplets",
+        title: "River fog and 1,800-foot forest shade",
+        body: "The confluence and the old-growth canopy keep north walls, rails, and fence posts damp longer than an open Enumclaw Plateau pasture. We wash mildew and let wood dry before stain. A weekend spray over wet boards fails first on the river side.",
+      },
+      {
+        icon: "clipboard",
+        title: "Pierce County desk, mailbox city of Enumclaw",
+        body: "The CDP is unincorporated Pierce County. A new deck is the Development Center, not Cole Street and not a park ranger. King County Local Services applies only if the lot actually sits west toward Federation Forest. Crystal River Ranch has an HOA; the highway hamlet usually does not.",
+      },
+      {
+        icon: "trees",
+        title: "Cabins, shops, and occupied year-round houses",
+        body: "Greenwater is a mix of primary homes, weekend cabins, and outbuildings on wells and septic — not a Holdener Farm sidewalk row. We contain rooms, protect entries, and price the shop or cabin as its own elevation when it is.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Greenwater",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and occupied-interior work from Enumclaw-area and nearby jobs. They illustrate weather-facing forest and outdoor work — not geo-tagged to SR 410 East, Riverview Drive, or 582nd Court E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-21-101.jpg",
+        alt: "Exterior painting on a weather-facing home",
+        caption: "Exterior house painting after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New cedar railing with metal balusters",
+        caption: "Outdoor rail and stain work — nearby project, not a Greenwater address",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after carpentry and prime — nearby Lane HBS work",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Greenwater",
+      image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+      imageAlt: "Deck being washed and prepped before stain",
+      serviceType: "Deck prep and stain — nearby Enumclaw-area home",
+      body: "River-adjacent and forest decks fail when damp boards and a busy byway weekend get a one-coat shortcut. On a nearby Enumclaw-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a cabin on Riverview Drive or a bulkhead at the White River confluence. Timeline followed dry windows, occupied-home access, and how SR 410 already carries trailers when Federation Forest or the park arch is busy. We do not invent linear footage or a street name for a job we cannot verify. On an actual Greenwater exterior we would also flag Pierce County review for a new deck and Crystal River Ranch HOA questions if the lot sits on Meadow Way East.",
+    },
+    considerationsHeading: "Greenwater-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Greenwater byway traffic and a single paved way out",
+        body: "State Route 410 is the Chinook Scenic Byway and the designated evacuation route. Federation Forest at 49201 Highway 410 East, Fire Station 1 at 59705 SR 410 East, and the park’s north entrance arch about fourteen miles southeast all put extra cars on the same two-lane the hamlet uses. We stage so we are not the extra trailer on a recreation shoulder. This is highway congestion, not Elk Meadows sidewalk parking and not Mud Mountain’s dam-road picnic overflow.",
+      },
+      {
+        heading: "Greenwater river humidity, canopy shade, and elevation",
+        body: "The Greenwater and White Rivers meet here. North fences, rails, and cabin siding stay damp under second-growth and leftover old growth. Elevation near 1,800 feet shortens coating windows compared with downtown Enumclaw. Washing is the job. Coating damp wood so the cabin looks finished for a holiday ski weekend is how last year’s stain already looks tired.",
+      },
+      {
+        heading: "Greenwater county permits, wells, and a nearby HOA",
+        body: "Most CDP lots are Pierce County with a well and septic — no city sewer, no Cole Street default. New decks, shops, and some fence-height changes go to the Development Center. Crystal River Ranch four miles east has an elected HOA, a Class A water system, and county-maintained roads including the White River bridge; we ask for that architectural file instead of inventing a palette. We do not treat a Riverview Drive cabin as a Holdener Farm PUD lot.",
+      },
+      {
+        heading: "Occupied days during Buckley bells and park-season hours",
+        body: "Pierce County Greenwater households typically run White River School District — Elk Ridge Elementary at 340 River Avenue North and Glacier Middle at 240 North C Street in Buckley, then White River High on 120th Street East. That is a long 410 commute, not Southwood on McDougall. Summer and winter recreation hours change when a trailer can sit. We contain rooms and time noisy wash so the driveway still works. Assignment is parcel-specific; King County lots west of the line may sit in Enumclaw School District instead.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Greenwater",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Greenwater pricing moves with house-vs-cabin repair quantity, river and shade dry time, the SR 410 staging run, occupied interiors, and whether Pierce County or a Crystal River Ranch HOA file belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade, river fog, and dry time at 1,800 feet",
+        body: "North cabin walls toward the confluence stay damp longer than an open Osceola pasture. Cheap quotes skip that difference and fail on the river rail first.",
+      },
+      {
+        title: "Byway access and the Enumclaw-to-Greenwater run",
+        body: "Fifteen miles of SR 410, plus ski and park stacks, change how long wash and material drops take. We price that staging time instead of pretending this is a closed subdivision off Cole Street.",
+      },
+      {
+        title: "Carpentry, county paperwork, and occupied cabins",
+        body: "Soft fascia, lived-in kitchens, well and septic setbacks, and permit or HOA questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Greenwater exteriors need wash, scrape, and prime for river fog, canopy mildew, and SR 410 film — then coatings that can take Pierce County winters and neighbor scrutiny on a two-lane byway.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "River decks and forest fences — clean, dry, repair what is soft, then finish. New height or posts still belong in the Pierce County conversation when they leave cosmetic maintenance.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on cabin, house, and shop wood so new paint is not hiding an active leak on a shaded river lot.",
+      },
+    ],
+    estimateBandCopy:
+      "Greenwater cabin, house, or river deck ready for paint? Free on-site estimate — call or send the form. We plan around Pierce County permits, SR 410 park and ski hours, and whether the shop is in the same scope.",
+    processHeading: "Our Greenwater Process",
+    processSteps: [
+      {
+        title: "Greenwater Site Assessment",
+        body: "River vs. highway exposure, well and septic access, occupied vs. weekend cabin, house vs. shop, and whether Crystal River Ranch HOA rules apply.",
+      },
+      {
+        title: "Greenwater Scope, Colors & County Rules",
+        body: "Written scope before coating days. Pierce County permit flags — or King County if the parcel sits west of the line — get named. Neighbor fences on Riverview Drive get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and byway film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated cabin and shop wood.",
+      },
+      {
+        title: "Greenwater Paint / Build Days",
+        body: "Weather windows after shade; park- and ski-season timing on SR 410; weekend awareness at Federation Forest and the north entrance arch. We do not coat in a storm to hit a holiday.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Enumclaw-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Federation Forest State Park",
+        url: "https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park",
+        description:
+          "A day-use old-growth park on the White River at 49201 Highway 410 East — Catherine Montgomery Interpretive Center, picnic sites, and the historic Naches Trail. Weekend trail traffic is a staging constraint for SR 410 East, not scenery.",
+      },
+      {
+        name: "SR 410 North Entrance Arch — Mount Rainier",
+        url: "https://www.nps.gov/places/sr410-north-entrance-arch.htm",
+        description:
+          "The northeast park arch on the Mather Memorial Parkway, about fourteen miles southeast of Greenwater. Summer lines to White River and Sunrise put extra cars on the same two-lane the hamlet lives on.",
+      },
+      {
+        name: "Elk Ridge Elementary",
+        url: "https://elkridge.whiteriver.wednet.edu/",
+        description:
+          "White River School District’s K–5 campus at 340 River Avenue North in Buckley. Drop-off after the 410 commute is the weekday clock for noisy wash on Riverview Drive — assignment is parcel-specific.",
+      },
+      {
+        name: "Crystal River Ranch",
+        url: "https://crystalriverranch.org/about/",
+        description:
+          "The 1973 Quadrant community four miles east — about 240 homesites on Crystal River Ranch Road / Forest Service Road 74, with the HOA office at 62201 Meadow Way East. Neighbor traffic and an architectural file, not this page’s highway-hamlet default.",
+      },
+      {
+        name: "Pierce County Development Center",
+        url: "https://www.piercecountywa.gov/applyforapermit",
+        description:
+          "Where Greenwater parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. King County Local Services and the Enumclaw Building Division apply only if the lot actually sits in those jurisdictions.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Greenwater runs on a two-lane and river-confluence rhythm: errands west through Enumclaw, weekend hikers at [Federation Forest State Park](https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park), and summer stacks toward [Mount Rainier’s SR 410 north entrance](https://www.nps.gov/places/sr410-north-entrance-arch.htm). Pierce County households typically track [White River School District](https://www.whiteriver.wednet.edu/) calendars, including [Elk Ridge Elementary](https://elkridge.whiteriver.wednet.edu/) and [Glacier Middle School](https://glacier.whiteriver.wednet.edu/) in Buckley.",
+      "Structural decks and shops on these unincorporated streets typically start with the [Pierce County Development Center](https://www.piercecountywa.gov/applyforapermit). Confirm the parcel before you assume [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use) or the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/) in Enumclaw. We schedule coatings around that byway-and-school rhythm — not as a name-swap of [Mud Mountain](/service-areas/enumclaw/mud-mountain)’s dam road, Cumberland’s mining grid, or an Elk Meadows PUD packet.",
     ],
   },
 ];
