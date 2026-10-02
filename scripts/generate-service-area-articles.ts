@@ -90,6 +90,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Quiet Water",
         path: "/service-areas/lake-tapps/quiet-water",
       },
+      {
+        name: "Downtown Bonney Lake",
+        path: "/service-areas/lake-tapps/downtown-bonney-lake",
+      },
     ],
     knownLinks: [
       {
@@ -166,6 +170,26 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Victor Falls Elementary",
         url: "https://vfe.sumnersd.org/",
+      },
+      {
+        name: "Downtown Bonney Lake civic campus",
+        url: "https://www.bonneylake.gov/",
+      },
+      {
+        name: "Bonney Lake Permit Center",
+        url: "https://www.bonneylake.gov/260/Permit-Center",
+      },
+      {
+        name: "Pierce County Library — Bonney Lake Branch",
+        url: "https://mypcls.org/visit-the-library/locations-hours/",
+      },
+      {
+        name: "Lakeridge Middle School",
+        url: "https://lms.sumnersd.org/",
+      },
+      {
+        name: "Bonney Lake Elementary",
+        url: "https://ble.sumnersd.org/",
       },
       {
         name: "Mountain View Middle School",
