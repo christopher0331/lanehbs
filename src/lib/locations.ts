@@ -225,7 +225,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Enumclaw, WA",
     heroDescription:
-      "Plateau-ready painting, remodeling, decks, and fences for Enumclaw homes and businesses — including Downtown, Elk Meadows, Boise Creek, the Enumclaw Plateau, Osceola along the heritage-loop farm roads south of town, Krain at SR 169 and SE 400th north of town, Cumberland on Veazie-Cumberland Road and 314th Way SE, Newaukum Creek along SE 424th Street and 264th Avenue SE, and Mud Mountain on SE Mud Mountain Road toward the dam and Pinnacle Peak. Licensed local craftsmanship. Free estimates at (253) 414-3937.",
+      "Plateau-ready painting, remodeling, decks, and fences for Enumclaw homes and businesses — including Downtown, Elk Meadows, Boise Creek, the Enumclaw Plateau, Osceola along the heritage-loop farm roads south of town, Krain at SR 169 and SE 400th north of town, Cumberland on Veazie-Cumberland Road and 314th Way SE, Newaukum Creek along SE 424th Street and 264th Avenue SE, Mud Mountain on SE Mud Mountain Road toward the dam and Pinnacle Peak, and Greenwater on SR 410 East at the Greenwater and White River confluence. Licensed local craftsmanship. Free estimates at (253) 414-3937.",
     metaTitle: "Enumclaw Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Enumclaw painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, repairs for plateau homes. Free estimates. (253) 414-3937.",
@@ -249,6 +249,8 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Thunder Mountain Middle School",
       "Mud Mountain Dam / SE Mud Mountain Road",
       "Pinnacle Peak / Mount Peak",
+      "Greenwater / SR 410 East",
+      "Federation Forest State Park / Chinook Scenic Byway",
     ],
     climateDescription:
       "Enumclaw’s plateau climate brings cooler temperatures, wind exposure, and wet winters that punish thin exterior paint and neglected decks. Proper surface prep and quality coatings make the difference between a one-year fade and a lasting finish.",
@@ -278,7 +280,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Enumclaw neighborhoods do you serve?",
         answer:
-          "We work Downtown Enumclaw, Elk Meadows on Riggs Drive E and Bondgard Avenue E, Boise Creek, the Enumclaw Plateau, Osceola along SE 448th Street, SE 456th Way, 196th Avenue SE, and 220th Avenue SE, Krain at SR 169, SE 400th Street, and 264th Avenue SE, Cumberland on Veazie-Cumberland Road, 314th Way SE, and SE 352nd through SE 356th, Newaukum Creek along SE 424th Street, SE 422nd Street, and 254th Avenue SE, and Mud Mountain on SE Mud Mountain Road, SE 481st Street, and the SR 410 approach to the dam — plus nearby King County parcels.",
+          "We work Downtown Enumclaw, Elk Meadows on Riggs Drive E and Bondgard Avenue E, Boise Creek, the Enumclaw Plateau, Osceola along SE 448th Street, SE 456th Way, 196th Avenue SE, and 220th Avenue SE, Krain at SR 169, SE 400th Street, and 264th Avenue SE, Cumberland on Veazie-Cumberland Road, 314th Way SE, and SE 352nd through SE 356th, Newaukum Creek along SE 424th Street, SE 422nd Street, and 254th Avenue SE, Mud Mountain on SE Mud Mountain Road, SE 481st Street, and the SR 410 approach to the dam, and Greenwater on SR 410 East, Riverview Drive, and 582nd Court E at the Greenwater and White River confluence — plus nearby King and Pierce County parcels.",
       },
       {
         question: "Do you take Enumclaw exterior painting jobs year-round?",
@@ -288,7 +290,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Do you work Elk Meadows and other in-city Enumclaw neighborhoods?",
         answer:
-          "Yes. Elk Meadows on Riggs Drive E and Bondgard Avenue E, downtown Enumclaw, Boise Creek, plateau homes, Krain along SE 400th Street, Cumberland on 314th Way SE and Veazie-Cumberland Road, Newaukum Creek along SE 424th Street, Mud Mountain on SE Mud Mountain Road, and nearby King County streets are all in our regular Enumclaw coverage.",
+          "Yes. Elk Meadows on Riggs Drive E and Bondgard Avenue E, downtown Enumclaw, Boise Creek, plateau homes, Krain along SE 400th Street, Cumberland on 314th Way SE and Veazie-Cumberland Road, Newaukum Creek along SE 424th Street, Mud Mountain on SE Mud Mountain Road, Greenwater on SR 410 East at Riverview Drive, and nearby King and Pierce County streets are all in our regular Enumclaw coverage.",
       },
       {
         question: "Can you paint commercial buildings in downtown Enumclaw?",
@@ -305,7 +307,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Enumclaw Painting & Remodeling Done Right",
-        body: "Lane HBS brings Lake Tapps–based craftsmanship to Enumclaw with the same standards: proper prep, premium materials, and a job site you’d be comfortable having neighbors see. From downtown facades and Elk Meadows Holdener Farm streets to Boise Creek yards, plateau homes, Osceola farm-grid parcels on the heritage loop south of town, Krain acreage at SR 169 and SE 400th Street, Cumberland’s mining-era lots on 314th Way SE and Veazie-Cumberland Road, Newaukum Creek lots along SE 424th Street north of downtown, and Mud Mountain acreage on SE Mud Mountain Road toward the dam and Pinnacle Peak, we treat every project like our reputation depends on it — because it does.",
+        body: "Lane HBS brings Lake Tapps–based craftsmanship to Enumclaw with the same standards: proper prep, premium materials, and a job site you’d be comfortable having neighbors see. From downtown facades and Elk Meadows Holdener Farm streets to Boise Creek yards, plateau homes, Osceola farm-grid parcels on the heritage loop south of town, Krain acreage at SR 169 and SE 400th Street, Cumberland’s mining-era lots on 314th Way SE and Veazie-Cumberland Road, Newaukum Creek lots along SE 424th Street north of downtown, Mud Mountain acreage on SE Mud Mountain Road toward the dam and Pinnacle Peak, and Greenwater cabins on SR 410 East at the Greenwater and White River confluence, we treat every project like our reputation depends on it — because it does.",
       },
       {
         heading: "Exteriors That Survive Plateau Weather",
