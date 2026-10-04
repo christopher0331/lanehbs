@@ -915,7 +915,7 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     geoRadiusMeters: 1600,
     introHeading: "Storefronts and Side Streets Off a Highway, Not a Main Street",
     introLead:
-      "Covington grew as an auto-oriented retail hub. The elevations that face SE 272nd, Wax Road, and Covington Way take road film, wet winters, and UV on parking-lot walls. Just off the corridor — SE 271st Street at City Hall, 164th Avenue by the library, and the residential streets around Town Center Lawn — houses and apartments still need occupied-home interiors. Prep here is washing grit and staging around customers, not fighting creek shade or a lake dock. The Wax Road / 180th Avenue SE that serves this core at SE 272nd is not Tahoma Crest’s 24-home sidewalk pocket at 181st Place SE and SE 244th, next to Covington Community Park.",
+      "Covington grew as an auto-oriented retail hub. The elevations that face SE 272nd, Wax Road, and Covington Way take road film, wet winters, and UV on parking-lot walls. Just off the corridor — SE 271st Street at City Hall, 164th Avenue by the library, and the residential streets around Town Center Lawn — houses and apartments still need occupied-home interiors. Prep here is washing grit and staging around customers, not fighting creek shade or a lake dock. The Wax Road / 180th Avenue SE that serves this core at SE 272nd is not Tahoma Crest’s 24-home sidewalk pocket at 181st Place SE and SE 244th, next to Covington Community Park. 164th Avenue SE north of Kent-Kangley around SE 267th Place is [Highpointe](/service-areas/covington/highpointe) — a 1990s HOA next to Kentwood High — not this downtown stall row.",
     introBody:
       "Lane Home & Business Services LLC covers Covington from Lake Tapps. Lane Vanderwaal will not invent a storefront count on 164th Avenue SE. We will schedule around open hours, keep sidewalks and stall rows usable, and repair trim before coatings on older commercial wood and tired 1980s–2000s house elevations. Licensed work — LANEHHB7912R — with the same occupied-space discipline we use on a family kitchen. Town Center Lawn event days and Cedar Heights traffic on SE 272nd change where a trailer can sit. We plan for that instead of treating downtown like a quiet cul-de-sac.",
     trustCards: [
@@ -1794,7 +1794,7 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     geoRadiusMeters: 800,
     introHeading: "A New Pocket Next to a Park, a Pool, and Someone Else’s Middle School",
     introLead:
-      "The city’s 2018 hearing described a 4.73-acre plat south of SE 240th Street, accessed by extending 181st Place SE, with water from Covington Water District and sewer from Soos Creek Water and Sewer District. KB Home finished the 24 lots around 2021: curbs, sidewalks, level fenced yards, and covered outdoor rooms. SE 242nd Street and SE 244th Street are the working addresses. Covington Community Park at 17649 SE 240th and the Aquatic Center at 18230 SE 240th sit on the next arterial. Maple View Middle School — Tahoma School District — occupies 18200 SE 240th. That is a different geometry than Jenkins Creek Park at SE 267th, and it is not the Maple Valley neighborhood named Tahoma along SE Tahoma Way.",
+      "The city’s 2018 hearing described a 4.73-acre plat south of SE 240th Street, accessed by extending 181st Place SE, with water from Covington Water District and sewer from Soos Creek Water and Sewer District. KB Home finished the 24 lots around 2021: curbs, sidewalks, level fenced yards, and covered outdoor rooms. SE 242nd Street and SE 244th Street are the working addresses. Covington Community Park at 17649 SE 240th and the Aquatic Center at 18230 SE 240th sit on the next arterial. Maple View Middle School — Tahoma School District — occupies 18200 SE 240th. That is a different geometry than Jenkins Creek Park at SE 267th, and it is not the Maple Valley neighborhood named Tahoma along SE Tahoma Way. Kentwood High on 164th Avenue SE also sets a weekday stack for [Highpointe](/service-areas/covington/highpointe) — the 1990s HOA west of 164th — not this 24-home sidewalk pocket.",
     introBody:
       "Lane Home & Business Services LLC estimates Tahoma Crest jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 181st Place SE or claim we painted the Margaret Harto Pavilion. We will walk your 2021 siding, backyard fence, and occupied interiors honestly, then send structural questions to Covington Building and exterior-change questions to the Tahoma Crest HOA. Households here run Kent School District — Crestwood, Mattson, Kentwood — even though a Tahoma SD campus shares the SE 240th frontage. We are not building a separate Crestwood, Rainier Vista, or 181st Place page. 180th Avenue SE is a long road: this pocket uses it at SE 244th, not at the creek-park entrance a mile-plus south.",
     trustCards: [
@@ -1959,7 +1959,227 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Daily life in Tahoma Crest runs on a sidewalk-loop and park-street rhythm: 24 homes south of SE 240th, errands through the [City of Covington](https://www.covingtonwa.gov/), and weekday bells at [Crestwood Elementary](https://www.kent.k12.wa.us/o/cres/) on 180th Avenue SE. Households track [Kent School District](https://www.kent.k12.wa.us/) calendars, including [Mattson Middle School](https://www.kent.k12.wa.us/o/mms/) on SE 251st Street.",
-      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend hours still land at [Covington Community Park](https://www.covingtonwa.gov/parks/covingtoncommunitypark.php). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Jenkins Creek’s SE 267th wetlands, Downtown’s SE 272nd storefronts, or Maple Valley’s Tahoma collector on SE Tahoma Way.",
+      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend hours still land at [Covington Community Park](https://www.covingtonwa.gov/parks/covingtoncommunitypark.php). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Jenkins Creek’s SE 267th wetlands, Downtown’s SE 272nd storefronts, [Highpointe](/service-areas/covington/highpointe)’s 1990s loops west of 164th, or Maple Valley’s Tahoma collector on SE Tahoma Way.",
+    ],
+  },
+  {
+    slug: "highpointe",
+    name: "Highpointe",
+    description:
+      "1990s HOA west of 164th Ave SE — 161st Ave loops, Kentwood High traffic, and city permits, not Downtown’s SE 272nd stall row and not Tahoma Crest’s 2021 sidewalk pocket.",
+    blurb:
+      "On 161st Ave SE, 161st Place SE, SE 264th Place, SE 265th Court, and SE 267th Place, Lane HBS paints exteriors, refreshes occupied interiors, and stains decks and fences for Highpointe’s mid-1990s Covington HOA west of 164th Ave SE. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for 1990s siding, shade, and 164th Avenue film",
+      "Occupied interiors on Kentwood and Mattson calendars",
+      "Deck and fence work inside a no-through-traffic HOA loop",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Highpointe?",
+        answer:
+          "Repainting siding and restaining an existing deck or fence are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the Covington Building Division — Highpointe is inside the city, not unincorporated King County and not Maple Valley’s permit desk. Highpointe Homeowners Association, incorporated in 1992, also reviews exterior changes under the recorded CCRs. We name both the city desk and the HOA on the free estimate instead of guessing from 164th Avenue SE.",
+      },
+      {
+        question:
+          "What prep fits Highpointe’s 1990s siding, cul-de-sac shade, and 164th Avenue film?",
+        answer:
+          "These are mid-1990s family houses on 161st Ave SE and the numbered courts — vaulted rooms, backyard decks, and HOA common area, not 2021 builder film and not a storefront on SE 272nd. North walls and fence posts stay damp under tree cover. Elevations that face 164th Ave SE and the Kent-Kangley approach pick up road grit. We wash mildew and film, scrape failed coatings, prime bare wood, and repair fascia joints before color. A stain-only bid that skips that inspection does not last on a shaded Highpointe loop.",
+      },
+      {
+        question: "How do you price painting and remodeling in Highpointe?",
+        answer:
+          "Story count, wash-and-dry time after shade or 164th Avenue film, trim carpentry on 1990s production siding, occupied interiors, cul-de-sac staging next to Kentwood High, and whether city review or Highpointe HOA architectural paperwork belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Highpointe exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard decks depend on wash-dry windows after shade and arterial film come off, then on any carpentry. Kentwood drop-off on 164th Ave SE and Mattson traffic on SE 251st change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards to hit a weekend.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on 161st Ave SE or SE 267th Place?",
+        answer:
+          "Yes. These are year-round family houses, not models. We phase rooms, protect entries, and plan trailer placement so 161st Ave SE, 161st Place SE, SE 264th Place, SE 265th Court, and SE 267th Place stay usable for neighbors. The signed entry is Kent-Kangley north on 164th Ave SE, then left on SE 267th Place at the Highpointe sign — we do not block that turn or the 164th curb that already hosts Kentwood High at 25800 164th Avenue SE. Elementary assignment is parcel-specific; we follow the Kent School District calendar you actually run, including Mattson Middle at 16400 SE 251st Street.",
+      },
+    ],
+    image: "/images/from-lane/lane-22-62.jpg",
+    heroIntro:
+      "Highpointe is Covington’s mid-1990s HOA west of 164th Ave SE — 161st Ave SE, 161st Place SE, SE 264th Place, SE 265th Court, and SE 267th Place next to Kentwood High. Paint, decks, and interiors here face cul-de-sac shade, school-street staging, and city-plus-HOA review, not Downtown’s SE 272nd stall row and not Tahoma Crest’s 2021 sidewalk pocket.",
+    mapQuery: "161st Avenue SE and SE 267th Place, Covington, WA",
+    latitude: 47.3651,
+    longitude: -122.1262,
+    geoRadiusMeters: 1400,
+    introHeading: "A 1990s Loop Next to Kentwood, Not a Downtown Curb",
+    introLead:
+      "The city’s residential plat map labels this pocket Pioneer Ridge (High Point). The living name is Highpointe — 161st Ave SE, 161st Place SE, SE 264th Place, SE 265th Court, and the SE 267th Place entry off 164th Ave SE. Houses here went up in the mid-1990s: two-story plans, vaulted rooms, backyard decks, and an HOA that maintains common area, a sports court, and internal trails. Kentwood High School sits at 25800 164th Avenue SE, on the same collector the neighborhood uses to reach Kent-Kangley. That is a different geometry than Downtown Covington’s library-and-interchange corner at 27100 164th, and it is not Tahoma Crest’s 24-home 2021 loop on 181st Place SE.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Highpointe jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 161st Ave SE or claim we painted the HOA sports court. We will walk your 1990s siding, backyard deck, and occupied interiors honestly, then send structural questions to Covington Building and exterior-change questions to Highpointe Homeowners Association. We are not building a separate Pioneer Ridge, 161st Avenue, or 164th Avenue page. Those streets sit on this corridor. Elementary assignment is parcel-specific in the Kent School District; Kentwood and Mattson are the campuses that already stack 164th.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus a 1992 HOA file",
+        body: "Highpointe is incorporated Covington. A new deck is the city Permit Center, not King County by default. Highpointe Homeowners Association has been on file since 1992. We ask for today’s architectural rules instead of copying a Tahoma Crest 2021 packet or a Downtown storefront review.",
+      },
+      {
+        icon: "school",
+        title: "Kentwood is on the next collector",
+        body: "The Conquerors campus at 25800 164th Avenue SE sets the weekday pulse. Mattson Middle at 16400 SE 251st Street sits farther north on the same 164th spine. We stage so those bells can move — we do not treat SE 267th Place as an empty cul-de-sac.",
+      },
+      {
+        icon: "car",
+        title: "164th Avenue film, not SE 272nd stall-row dust",
+        body: "164th carries Kentwood, Mattson, library, and Highway 18 traffic. We wash grit off street-facing elevations and keep trailers off the SE 267th entry so neighbors still reach Kent-Kangley.",
+      },
+      {
+        icon: "home",
+        title: "Occupied 1990s family houses, not a model row",
+        body: "Mid-1990s production plans with people living in them. We contain rooms and protect floors. Thirty-year siding, fascia, and deck wood need honest prep — not a second coat over chalk.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Highpointe",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and outdoor finish work from Covington-area and nearby jobs. They illustrate the work type for 1990s family houses — not geo-tagged to 161st Ave SE, SE 264th Place, or SE 267th Place.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Modern deck on a residential home",
+        caption: "Deck and exterior refresh — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Residential paint prep detail",
+        caption: "Interior painting in a lived-in house",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Highpointe",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Exterior painting and deck work — nearby Covington-area home",
+      body: "Highpointe houses are mid-1990s family plans with backyard decks, vaulted rooms, and people living in them while the work happens. On a nearby Covington-area exterior and deck we washed mildew and road film, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a 161st Ave elevation needs when Kentwood is in session on 164th. The photo is owned Lane HBS work in the parent-city area, not a verified address on SE 264th Place or SE 267th Place. Timeline followed dry windows and school-street access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Highpointe exterior we would also flag Covington review for a new deck and Highpointe HOA architectural questions before color hits the loop.",
+    },
+    considerationsHeading: "Highpointe-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Highpointe HOA review on a city parcel",
+        body: "The living neighborhood is Highpointe; the city’s plat index also shows Pioneer Ridge (High Point). Highpointe Homeowners Association has been incorporated since 1992 and publishes CCRs that cover common-area and exterior changes. Cosmetic repaint is still usually maintenance at the city, but color changes, fences, and new decks often need the architectural file as well as Covington Building when the work is structural. We ask for the current HOA process instead of copying Tahoma Crest’s 2021 sidewalk packet or a Downtown commercial file onto 161st Ave SE.",
+      },
+      {
+        heading: "Highpointe cul-de-sac shade and 164th Avenue staging",
+        body: "Tree cover on the loops keeps north walls and fence posts damp. The signed way in is SE 267th Place off 164th Ave SE — no through route to Wax Road or 180th. Wash water, ladders, and material drops have to stay off neighbor drives and the HOA park and sports court. This is not Downtown’s library curb at 27100 164th, not Soos Creek’s 148th Avenue trailheads, and not Tahoma Crest’s 181st Place SE pocket.",
+      },
+      {
+        heading: "Highpointe 1990s trim, decks, and occupied interiors",
+        body: "Production lap siding and fascia from the mid-1990s fail at joints and south-facing chalk first. Backyard decks and side-yard fences take South King County rain at close range. A kitchen or bath remodel that moves plumbing still belongs in the city conversation. We repair before coating so new paint is not hiding an active leak, and we keep rooms livable — these are primary homes.",
+      },
+      {
+        heading: "Occupied days during Kentwood and Mattson hours",
+        body: "Kent School District sets the household clock. Kentwood High at 25800 164th Avenue SE is the next collector over; Mattson Middle at 16400 SE 251st Street sits farther north on the same spine. Elementary assignment is parcel-specific — we do not invent a neighborhood elementary. We contain rooms and time noisy wash so 164th and SE 267th Place still work at bell time. We do not treat this plat as Cedar Heights traffic on SE 272nd.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Highpointe",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Highpointe pricing moves with shade and 164th Avenue dry time, 1990s trim repairs, occupied interiors, cul-de-sac access next to Kentwood, and whether Covington or Highpointe HOA review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade, film, and dry time on a 1990s loop",
+        body: "North fences stay damp longer than an open Downtown parking-lot wall. 164th Avenue grit adds wash time. Cheap quotes skip that difference and fail on the backyard deck first.",
+      },
+      {
+        title: "Cul-de-sac access and school-street timing",
+        body: "The loops share 164th Ave SE with Kentwood and Mattson. We price that staging time instead of pretending this is an empty county road.",
+      },
+      {
+        title: "Carpentry, HOA paperwork, and occupied rooms",
+        body: "Soft fascia, lived-in kitchens, and architectural or permit questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Highpointe exteriors need wash, scrape, and prime for cul-de-sac shade and 164th Avenue film on 1990s production siding — then coatings that can take neighbor scrutiny on a no-through-traffic loop.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses on Kentwood and Mattson calendars. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and side-yard fences on mid-1990s lots — clean, dry, repair what is soft, then finish. New height or posts still belong in the city and HOA conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Highpointe house ready for paint, an interior refresh, or a deck and fence restain? Free on-site estimate — call or send the form. We plan around Covington permits, Highpointe HOA review, and 164th Avenue school hours.",
+    processHeading: "Our Highpointe Process",
+    processSteps: [
+      {
+        title: "Highpointe Site Assessment",
+        body: "Shade vs. 164th-facing exposure, cul-de-sac access off SE 267th Place, occupancy, HOA vs. city questions, and whether a deck, fence, or interior is in the same visit.",
+      },
+      {
+        title: "Highpointe Scope, Colors & HOA",
+        body: "Written scope before coating days. Highpointe HOA architectural questions and Covington permit flags get named. Neighbor fences on a no-through-traffic loop get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and road film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 1990s siding and shaded deck wood.",
+      },
+      {
+        title: "Highpointe Paint / Build Days",
+        body: "Weather windows after shade; school-year timing on 164th Ave SE and SE 267th Place. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Kentwood High School",
+        url: "https://www.kent.k12.wa.us/o/kwhs",
+        description:
+          "Kent School District’s Conquerors campus at 25800 164th Avenue SE — the next collector over from Highpointe. Drop-off and after-school stacks on 164th are the weekday clock for noisy wash and trailer placement on SE 267th Place.",
+      },
+      {
+        name: "Mattson Middle School",
+        url: "https://www.kent.k12.wa.us/o/mms",
+        description:
+          "The Mustangs campus at 16400 SE 251st Street, farther north on the same 164th spine. Highpointe households that feed Mattson still run that morning clock — a different stack than Cedar Heights on SE 272nd.",
+      },
+      {
+        name: "Covington Library",
+        url: "https://kcls.org/locations/covington/",
+        description:
+          "King County Library System’s Covington branch at 27100 164th Avenue SE, at the Highway 18 and Kent-Kangley corner. Same collector, different neighborhood — downtown civic hours, not the Highpointe loops.",
+      },
+      {
+        name: "Covington Building Division",
+        url: "https://www.covingtonwa.gov/city_departments/community_development/building.php",
+        description:
+          "Where Highpointe parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. King County Local Services and Maple Valley Building apply only if the lot actually sits outside Covington — these loops generally do not.",
+      },
+      {
+        name: "Soos Creek Trail",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail",
+        description:
+          "King County’s paved regional path west of 164th. Highpointe households use it; we do not treat 161st Ave SE cul-de-sacs as trail-edge wetland lots on 148th Ave SE.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Highpointe runs on a cul-de-sac and school-collector rhythm: SE 267th Place off 164th Ave SE, weekday bells at [Kentwood High School](https://www.kent.k12.wa.us/o/kwhs), and errands through the [City of Covington](https://www.covingtonwa.gov/). Households track [Kent School District](https://www.kent.k12.wa.us/) calendars, including [Mattson Middle School](https://www.kent.k12.wa.us/o/mms/) on SE 251st Street when the parcel feeds that way.",
+      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend walks still land on the [Soos Creek Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Downtown’s SE 272nd storefronts, Tahoma Crest’s 2021 sidewalk pocket, or Soos Creek’s 148th Avenue trail edge.",
     ],
   },
 ];
