@@ -534,6 +534,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Tahoma Crest",
         path: "/service-areas/covington/tahoma-crest",
       },
+      {
+        name: "Highpointe",
+        path: "/service-areas/covington/highpointe",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -571,6 +575,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Crestwood Elementary",
         url: "https://www.kent.k12.wa.us/o/cres/",
+      },
+      {
+        name: "Kentwood High School",
+        url: "https://www.kent.k12.wa.us/o/kwhs",
+      },
+      {
+        name: "Mattson Middle School",
+        url: "https://www.kent.k12.wa.us/o/mms",
+      },
+      {
+        name: "Covington Library",
+        url: "https://kcls.org/locations/covington/",
       },
       {
         name: "About Our Lakes — Pipe Lake & Lake Lucerne",
