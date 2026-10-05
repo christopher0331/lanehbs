@@ -1132,7 +1132,7 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     introLead:
       "SE Ravensdale Road and the wooded laterals east of Maple Valley trade sidewalks for acreage. That means more fence in wet soil, more siding under trees, and access that is a driveway, not a cul-de-sac. Coatings still fail from moss and skip-prep — just over more linear feet.",
     introBody:
-      "Lane HBS includes Ravensdale in Maple Valley coverage because the drive is real and the housing stock is the same Pacific Northwest problem. We will not invent a farm-gate resume. We will walk your fence line and elevations and tell you what is stain-only versus carpentry.",
+      "Lane HBS includes Ravensdale in Maple Valley coverage because the drive is real and the housing stock is the same Pacific Northwest problem. We will not invent a farm-gate resume. We will walk your fence line and elevations and tell you what is stain-only versus carpentry. The private 51-acre kettle lake on SE Lake Retreat North and South Drive is a separate page — [Lake Retreat](/service-areas/maple-valley/lake-retreat) — not this hamlet write-up.",
     trustCards: [
       {
         icon: "trees",
@@ -3253,6 +3253,226 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Cherokee Bay runs on a private-road and club-park rhythm: the resident beach described on the [Cherokee Bay Community Club About page](https://www.cherokeebaycc.com/about/), ACC paperwork on the [documents and forms](https://www.cherokeebaycc.com/documents-and-forms/) desk, and weekday bells at [Lake Wilderness Elementary](https://lakewilderness.tahomasd.us/) on Witte Road SE. Many middle-school households also track [Maple View Middle School](https://mapleview.tahomasd.us/) in Covington. Confirm campuses with [Tahoma School District](https://www.tahomasd.us/) — we do not assign every lot from the mailbox.",
       "Structural decks, docks, and some tree work on these incorporated streets typically start with [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and civic questions at the [City of Maple Valley](https://www.maplevalleywa.gov/). The city’s [permitting questions](https://www.maplevalleywa.gov/government/departments/community_development/permitting_questions.php) page is where dock and lakefront-tree flags appear; [About Our Lakes](https://www.maplevalleywa.gov/government/departments/public_records_request/about_our_lakes/index.php) is the city’s write-up of Pipe Lake and Lake Lucerne. Public Saturday recreation is often [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5), not the club beach. Indoor research time goes to the [Maple Valley Library](https://kcls.org/locations/maple-valley/). We schedule coatings around that ACC-and-school rhythm — not as a name-swap of Cedar Downs’ inland lots, the Covington [Pipe Lake](/service-areas/covington/pipe-lake) shoreline, or Lake Wilderness’s city beach.",
+    ],
+  },
+  {
+    slug: "lake-retreat",
+    name: "Lake Retreat",
+    description:
+      "Private 51-acre kettle lake on Retreat-Kanaskat Road SE — lake-loop drives, camp traffic, and King County permits, not the Ravensdale hamlet and not Lake Francis’s SE Lake Francis Road shoreline.",
+    blurb:
+      "On SE Lake Retreat North Drive, SE Lake Retreat South Drive, and Retreat-Kanaskat Road SE, Lane HBS paints exteriors, repairs lakeside wood, and stains private decks and fences for Lake Retreat’s unincorporated 98051 loop. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for kettle-lake humidity and canopy shade",
+      "Deck and dock-adjacent carpentry before stain — no public ramp here",
+      "Occupied interiors on the Tahoma bus clock from a Ravensdale mailbox",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence at Lake Retreat?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through King County Permitting — Lake Retreat is unincorporated King County with a Ravensdale 98051 mailbox, not City of Maple Valley. Shoreline or over-water work on a private dock can add county review. We name the desk on the free estimate instead of guessing from Kent-Kangley or a Four Corners milepost.",
+      },
+      {
+        question:
+          "What prep fits Lake Retreat’s mix of kettle-lake humidity, canopy shade, and rural access?",
+        answer:
+          "Houses on SE Lake Retreat North Drive and SE Lake Retreat South Drive sit on a private 51-acre lake with no public park or boat ramp. North and water-facing walls stay damp; south walls take UV when the trees open; Retreat-Kanaskat Road SE and Kent-Kangley film hit the elevations that face the collector. We wash mildew and grit, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a shaded lake-loop elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling at Lake Retreat?",
+        answer:
+          "House versus shop or cabin elevations, wash-and-dry time after lake humidity and shade, driveway and loop staging, occupied interiors, and whether a fence, private dock, or outbuilding is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Lake Retreat exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and lake decks depend on wash-dry windows after shade and humidity come off, then on any carpentry. Cabins, shops, and the house are separate elevations when they are. We write the calendar after we see the parcel — we do not coat damp boards so a house looks finished before a camp-weekend on Retreat-Kanaskat Road SE.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on the lake loop?",
+        answer:
+          "Yes. Most Lake Retreat houses are year-round homes, and many rely on a well and septic, with a driveway that still has to work. We phase rooms, protect entries, and plan trailer placement on SE Lake Retreat North Drive, SE Lake Retreat South Drive, and Retreat-Kanaskat Road SE so neighbors still reach Kent-Kangley and we are not extra overflow when Lake Retreat Camp at 27850 Retreat-Kanaskat Road SE is turning buses. Weekday clocks follow Tahoma School District — assignment is parcel-specific. Nearby campuses include Tahoma Elementary at 24425 SE 216th Street and Summit Trail Middle School at 25600 SE Summit Landsburg Road. We follow the calendar you actually run.",
+      },
+    ],
+    image: "/images/from-lane/lane-25-1450.jpg",
+    heroIntro:
+      "Lake Retreat is the private 51-acre kettle lake south of Kent-Kangley on Retreat-Kanaskat Road SE — SE Lake Retreat North Drive, SE Lake Retreat South Drive, and the camp entrance at 27850 Retreat-Kanaskat Road SE. Paint and decks here face lake humidity and canopy shade, not the Ravensdale hamlet’s Landsburg Road four-way and not Lake Francis’s SE Lake Francis Road loop.",
+    mapQuery: "Lake Retreat, Ravensdale, WA",
+    latitude: 47.3495,
+    longitude: -121.951,
+    geoRadiusMeters: 1800,
+    introHeading: "A Private Kettle Lake, Not the Ravensdale Four-Way",
+    introLead:
+      "King County’s small-lakes record lists Lake Retreat at 51 acres, about 50 feet deep, with no public park and no boat ramp. The working addresses are SE Lake Retreat North Drive, SE Lake Retreat South Drive, and Retreat-Kanaskat Road SE. Access is east on SE Kent-Kangley Road from Four Corners, then south onto Retreat-Kanaskat. That is a different geometry than Ravensdale Way at Landsburg Road SE by the market, and it is not Lake Francis’s private kettle on SE Lake Francis Road or Lake Desire’s WDFW access north of town.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Lake Retreat jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a dock count on SE Lake Retreat South Drive or claim we painted the camp dining hall. We will walk your siding, lake deck, and occupied interiors honestly, then send structural questions to King County. Lake Retreat Camp is a private ministry campus on the same road — a traffic and staging fact, not a customer list. Ravensdale Retreat Natural Area is a different 145-acre King County woods next to Ravensdale Park, not this shoreline. We are not building a separate Kanaskat, Palmer, Landsburg, or Retreat-Kanaskat Road page. Those names sit on this corridor.",
+    trustCards: [
+      {
+        icon: "waves",
+        title: "Private-lake humidity, no public launch",
+        body: "King County lists no park and no ramp. Moisture still comes off the water and the trees. We wash and wait — this is not Lake Wilderness’s city beach and not Lake Desire’s WDFW lot.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County desk, Ravensdale mailbox",
+        body: "The loop is unincorporated. A new deck is King County Permitting, not Maple Valley Building, unless the parcel is actually inside the city. We confirm the record instead of copying a Cherokee Bay ACC packet onto the lake drive.",
+      },
+      {
+        icon: "car",
+        title: "Camp buses and a one-way loop",
+        body: "Retreat-Kanaskat Road SE is the only paved way in. Camp turn-ins at 27850 and Kent-Kangley traffic already fill the shoulder. We stage so SE Lake Retreat North Drive stays usable.",
+      },
+      {
+        icon: "trees",
+        title: "Canopy lots, shops, and occupied houses",
+        body: "Lake-loop cabins, year-round houses, and acreage shops sit on the same road. We contain rooms, protect entries, and price the shop as its own elevation when it is.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "Jennifer L.", "Tina W."],
+    galleryHeading: "Our Work Near Lake Retreat",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and occupied-interior work from Maple Valley-area and nearby jobs. They illustrate weather-facing lake and wooded work — not geo-tagged to SE Lake Retreat North Drive, SE Lake Retreat South Drive, or Retreat-Kanaskat Road SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-25-1450.jpg",
+        alt: "Freshly stained multi-level deck",
+        caption: "Deck staining after wash and dry time — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+        alt: "Deck pressure washing and prep",
+        caption: "Prep before stain on outdoor wood",
+      },
+      {
+        src: "/images/from-lane/lane-16-48.jpg",
+        alt: "Residential deck renovation",
+        caption: "Residential deck renovation",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these at Lake Retreat",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Deck and exterior refresh — nearby Maple Valley-area home",
+      body: "Lake Retreat houses mix lake-loop decks, canopy siding, and people living in them while the work happens. On a nearby Maple Valley-area deck and exterior we washed mildew, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a SE Lake Retreat North Drive elevation needs when camp traffic is already using Retreat-Kanaskat Road SE. The photo is owned Lane HBS work in the parent-city area, not a verified address on SE Lake Retreat South Drive. Timeline followed dry windows and driveway access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Lake Retreat exterior we would also flag King County review for a new deck or over-water change before color hits the loop.",
+    },
+    considerationsHeading: "Lake Retreat-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Retreat humidity without a public shoreline park",
+        body: "King County’s lake page is explicit: 51 acres, no public park, no boat ramp. Private docks and water-facing decks still take kettle-lake fog. We do not treat this as Lake Wilderness’s city beach, Lake Francis’s SE Lake Francis Road kettle, or Lake Desire’s WDFW access. Wash and dry time are the job.",
+      },
+      {
+        heading: "Lake Retreat loop staging and camp-weekend traffic",
+        body: "SE Lake Retreat North Drive becomes SE Lake Retreat South Drive around the water. Retreat-Kanaskat Road SE is the collector off Kent-Kangley. Lake Retreat Camp at 27850 Retreat-Kanaskat Road SE turns buses that are supposed to stay in the main lot and off the hill roads. We plan trailers so we are not that extra vehicle on a camp Saturday.",
+      },
+      {
+        heading: "Lake Retreat wells, septic, and lake-loop wood",
+        body: "Unincorporated lots commonly run a well and septic. A kitchen or bath remodel that moves plumbing can raise King County health questions even when the paint scope is simple. Older lake-loop trim and shop siding fail at joints; we repair before coating so new paint is not hiding an active leak.",
+      },
+      {
+        heading: "Occupied interiors on the Tahoma bus clock",
+        body: "These are primary homes with a 98051 mailbox. Tahoma School District sets the weekday clock — assignment is parcel-specific. Nearby campuses include Tahoma Elementary at 24425 SE 216th Street and Summit Trail Middle at 25600 SE Summit Landsburg Road. We contain rooms and time noisy wash so the driveway still works at bus time. We do not treat this loop as Four Corners retail hours on SR 169.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Retreat",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Lake Retreat pricing moves with lake-shade dry time, house-versus-shop elevations, driveway access, occupied interiors, and whether King County review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Lake humidity and canopy dry time",
+        body: "Water-facing and north elevations stay damp longer than an open Four Corners parking-lot wall. Cheap quotes skip that difference and fail on the lake deck first.",
+      },
+      {
+        title: "Loop access and camp-road timing",
+        body: "One collector and a narrow lake loop cost staging hours. We price that instead of pretending this is an empty cul-de-sac.",
+      },
+      {
+        title: "Carpentry, shops, and occupied rooms",
+        body: "Soft fascia, a second building, and lived-in kitchens take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Lake Retreat exteriors need wash, scrape, and prime for kettle-lake humidity and canopy shade — then coatings that can take neighbor scrutiny on a private loop with no public park to hide a messy job site.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Private decks, rails, and side-yard fences against the water and the trees — clean, dry, repair what is soft, then finish. New height or over-water work still belongs in the King County conversation.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Lake-loop trim, shop siding, and soft fascia so new paint is not sealing moisture into failed wood. We inspect before we promise stain-only.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Retreat house ready for paint, a deck restain, or carpentry before coating? Free on-site estimate — call or send the form. We plan around King County permits, the private-lake loop, and Retreat-Kanaskat camp traffic.",
+    processHeading: "Our Lake Retreat Process",
+    processSteps: [
+      {
+        title: "Lake Retreat Site Assessment",
+        body: "Lake-facing vs. uphill exposure, driveway access off Retreat-Kanaskat Road SE, occupancy, well/septic setbacks, and whether a deck, fence, shop, or interior is in the same visit.",
+      },
+      {
+        title: "Lake Retreat Scope, Colors & County Review",
+        body: "Written scope before coating days. King County permit flags for new decks or over-water changes get named. Neighbor sightlines on a private lake get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and road film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated lake-loop wood.",
+      },
+      {
+        title: "Lake Retreat Paint / Build Days",
+        body: "Weather windows under the trees; camp-weekend timing on Retreat-Kanaskat Road SE. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Lake Retreat — King County Small Lakes",
+        url: "https://green2.kingcounty.gov/smalllakes/LakePage.aspx?SiteID=34",
+        description:
+          "The county’s own lake record: 51 acres, about 50 feet deep, no public park, no boat ramp. That is why we talk about private-dock humidity instead of a launch-lot dust story.",
+      },
+      {
+        name: "Lake Retreat Camp",
+        url: "https://www.lakeretreat.org/",
+        description:
+          "Private camp and conference campus at 27850 Retreat-Kanaskat Road SE. Their driving page is why we treat Retreat-Kanaskat as a bus-and-visitor collector, not an empty forest road.",
+      },
+      {
+        name: "Ravensdale Retreat Natural Area",
+        url: "https://www.wta.org/go-hiking/hikes/ravensdale-retreat-natural-area",
+        description:
+          "A 145-acre King County woods next to Ravensdale Park — same “Retreat” name, different place. Trailhead parking is at the park on Kent-Kangley, not on SE Lake Retreat North Drive.",
+      },
+      {
+        name: "King County Permitting",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits",
+        description:
+          "Where Lake Retreat parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. Maple Valley Building applies only if the lot actually sits inside the city.",
+      },
+      {
+        name: "Summit Trail Middle School",
+        url: "https://summittrail.tahomasd.us/",
+        description:
+          "Tahoma’s campus at 25600 SE Summit Landsburg Road — a nearby weekday clock for many 98051 households. We time noisy wash around the bus you actually run, not a Four Corners retail hour.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life at Lake Retreat runs on a private-lake and collector-road rhythm: SE Lake Retreat North and South Drive, camp turn-ins at [Lake Retreat Camp](https://www.lakeretreat.org/), and weekday buses in [Tahoma School District](https://www.tahomasd.us/). Nearby campuses include [Tahoma Elementary](https://tahomaelementary.tahomasd.us/) at 24425 SE 216th Street and [Summit Trail Middle School](https://summittrail.tahomasd.us/) on SE Summit Landsburg Road. Confirm your assignment — we do not invent a neighborhood elementary from the 98051 mailbox.",
+      "The lake itself is documented on King County’s [Lake Retreat small-lakes page](https://green2.kingcounty.gov/smalllakes/LakePage.aspx?SiteID=34). Structural decks and shops on these unincorporated streets typically start with [King County Permitting](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits), not [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Saturday fields are often [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) at Ravensdale Park; the woods next door are [Ravensdale Retreat Natural Area](https://www.wta.org/go-hiking/hikes/ravensdale-retreat-natural-area), not the private shoreline. Power sits with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that lake-loop rhythm — not as a name-swap of the [Ravensdale](/service-areas/maple-valley/ravensdale) hamlet, [Lake Francis](/service-areas/maple-valley/lake-francis), or [Four Corners](/service-areas/maple-valley/four-corners) retail.",
     ],
   },
 ];

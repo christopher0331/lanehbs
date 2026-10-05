@@ -413,6 +413,7 @@ const AREAS: Record<string, AreaSeed> = {
       },
       { name: "Dorre Don", path: "/service-areas/maple-valley/dorre-don" },
       { name: "Cherokee Bay", path: "/service-areas/maple-valley/cherokee-bay" },
+      { name: "Lake Retreat", path: "/service-areas/maple-valley/lake-retreat" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -474,6 +475,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Lake Wilderness Elementary",
         url: "https://lakewilderness.tahomasd.us/",
+      },
+      {
+        name: "Lake Retreat (King County Small Lakes)",
+        url: "https://green2.kingcounty.gov/smalllakes/LakePage.aspx?SiteID=34",
+      },
+      {
+        name: "Lake Retreat Camp",
+        url: "https://www.lakeretreat.org/",
+      },
+      {
+        name: "Ravensdale Retreat Natural Area",
+        url: "https://www.wta.org/go-hiking/hikes/ravensdale-retreat-natural-area",
       },
     ],
     peers: [
