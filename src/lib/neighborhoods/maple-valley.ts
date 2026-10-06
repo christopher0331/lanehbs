@@ -1073,7 +1073,7 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Four Corners daily life runs on [Tahoma School District](https://www.tahomasd.us/) bells, errands at the SR 169 / Kent-Kangley shops, and weekends that still end at [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) or [Summit Park](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php) on SE Tahoma Way. Permit questions start at [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and the [City of Maple Valley](https://www.maplevalleywa.gov/). Trail days often pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails) via the Green-to-Cedar corridor near the [Legacy Site](https://www.maplevalleywa.gov/government/departments/community_development/legacy_site.php).",
-      "Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). Broader recreation sits with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule Four Corners coatings around arterial access, school traffic, and those calendars — not as a name-swap of a quieter Maple Valley street.",
+      "Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). Broader recreation sits with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule Four Corners coatings around arterial access, school traffic, and those calendars — not as a name-swap of [Elk Run](/service-areas/maple-valley/elk-run)’s former-golf-course courts on SE 277th Place west of 228th Avenue SE.",
     ],
   },
   {
@@ -3473,6 +3473,225 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life at Lake Retreat runs on a private-lake and collector-road rhythm: SE Lake Retreat North and South Drive, camp turn-ins at [Lake Retreat Camp](https://www.lakeretreat.org/), and weekday buses in [Tahoma School District](https://www.tahomasd.us/). Nearby campuses include [Tahoma Elementary](https://tahomaelementary.tahomasd.us/) at 24425 SE 216th Street and [Summit Trail Middle School](https://summittrail.tahomasd.us/) on SE Summit Landsburg Road. Confirm your assignment — we do not invent a neighborhood elementary from the 98051 mailbox.",
       "The lake itself is documented on King County’s [Lake Retreat small-lakes page](https://green2.kingcounty.gov/smalllakes/LakePage.aspx?SiteID=34). Structural decks and shops on these unincorporated streets typically start with [King County Permitting](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits), not [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Saturday fields are often [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks) at Ravensdale Park; the woods next door are [Ravensdale Retreat Natural Area](https://www.wta.org/go-hiking/hikes/ravensdale-retreat-natural-area), not the private shoreline. Power sits with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that lake-loop rhythm — not as a name-swap of the [Ravensdale](/service-areas/maple-valley/ravensdale) hamlet, [Lake Francis](/service-areas/maple-valley/lake-francis), or [Four Corners](/service-areas/maple-valley/four-corners) retail.",
+    ],
+  },
+  {
+    slug: "elk-run",
+    name: "Elk Run",
+    description:
+      "Former golf-course HOA west of 228th Ave SE — SE 277th Place loops, city greenbelt, and Glacier Park bells, not Four Corners stall-row dust and not Enumclaw’s Elk Meadows.",
+    blurb:
+      "On SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, and 227th Place SE, Lane HBS paints exteriors, refreshes occupied interiors, and stains decks and the 228th Avenue fence line for Maple Valley’s Elk Run HOA divisions. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for 1990s siding, greenbelt shade, and 228th Avenue film",
+      "Occupied interiors on Glacier Park and Tahoma High calendars",
+      "Deck and fence work on former-fairway lots with a city-maintained greenbelt",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Elk Run?",
+        answer:
+          "Repainting siding and restaining an existing deck or fence are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through Maple Valley Building — Elk Run is inside the city, not unincorporated King County and not Enumclaw’s permit desk. Elk Run is five HOA divisions, not one packet. Divisions 3 and 5 on SE 277th Place, SE 279th Street, 226th Court SE, and 227th Court SE keep a volunteer board and the common fence along 228th Avenue SE; Divisions I and II sit on 227th Place SE; Division IV uses SE 277th Street. We name the city desk and which association actually covers your lot on the free estimate instead of guessing from the Four Corners Safeway parking lot.",
+      },
+      {
+        question:
+          "What prep fits Elk Run’s former-golf-course shade, 228th Avenue film, and 1990s siding?",
+        answer:
+          "These are 1990s family houses built to border the old Elk Run Golf Course — two-story plans, backyard decks, and a city-maintained greenbelt between SE 277th and SE 279th, not a storefront on SR 169 and not Maple Ridge Highlands’ 2007 cut-and-fill benches. North walls and fence posts stay damp under the trees. Elevations that face 228th Avenue SE pick up collector grit and whatever the high-school and farm traffic throws. We wash mildew and film, scrape failed coatings, prime bare wood, and repair fascia joints before color. A stain-only bid that skips that inspection does not last on a shaded Elk Run loop.",
+      },
+      {
+        question: "How do you price painting and remodeling in Elk Run?",
+        answer:
+          "Story count, wash-and-dry time after greenbelt shade or 228th Avenue film, trim carpentry on 1990s production siding, occupied interiors, cul-de-sac staging next to Glacier Park and Tahoma High, and whether city review or an Elk Run HOA architectural question belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question: "How long does a typical Elk Run exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard decks depend on wash-dry windows after shade and collector film come off, then on any carpentry. Glacier Park drop-off on SE 280th Street and Tahoma High traffic on SE Tahoma Way change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards so a house looks finished before a Four Corners Saturday.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on SE 277th Place or 228th Avenue SE?",
+        answer:
+          "Yes. These are year-round family houses, not models. We phase rooms, protect entries, and plan trailer placement so SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, and 227th Place SE stay usable for neighbors. 228th Avenue SE is the fence-and-collector edge — we do not block that curb when Glacier Park at 23700 SE 280th Street or Tahoma High at 23499 SE Tahoma Way is already stacking. Elementary and middle-school assignment is parcel-specific in Tahoma School District; we follow the campus you actually run, including Maple View Middle at 18200 SE 240th Street in Covington when that is the assignment. We are not building a separate Maple View, Sunridge at Elk Run, or The Nineteen at Elk Run page. Those names sit on this corridor.",
+      },
+    ],
+    image: "/images/from-lane/lane-22-62.jpg",
+    heroIntro:
+      "Elk Run is Maple Valley’s former golf-course HOA west of 228th Avenue SE — SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, and 227th Place SE between Four Corners shops and Glacier Park Elementary. Paint, decks, and interiors here face greenbelt shade, school-street staging, and city-plus-HOA review, not Four Corners stall-row dust and not Enumclaw’s Elk Meadows Holdener Farm streets.",
+    mapQuery: "SE 277th Place and 228th Avenue SE, Maple Valley, WA",
+    latitude: 47.3602,
+    longitude: -122.0368,
+    geoRadiusMeters: 1600,
+    introHeading: "Fairway Lots Without a Fairway, and a Greenbelt Instead of a Tee Box",
+    introLead:
+      "Elk Run’s working streets sit south of Kent-Kangley and west of 228th Avenue SE: SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, 227th Place SE, and SE 277th Street. The neighborhood was platted to border Elk Run Golf Course, which closed on October 19, 2014 after King County sold the leased front nine for Tahoma High School’s campus. What remains next door is a city-maintained greenbelt between SE 277th and SE 279th, and Elk Run Farm at 27625 228th Avenue SE on 4.5 acres of the old course. That is a different geometry than Four Corners’ SR 169 / Kent-Kangley stall row, and it is not Maple Ridge Highlands’ 2007 hillside on SE Maple Ridge Drive.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Elk Run jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE 277th Place or claim we stained the 228th Avenue common fence for the association. We will walk your 1990s siding, backyard deck, and occupied interiors honestly, then send structural questions to Maple Valley Building and exterior-change questions to whichever Elk Run division actually holds your CC&Rs. Five divisions share the name. Divisions 3 and 5 are a 65-home volunteer HOA on the 277th / 279th / 226th / 227th courts. We confirm the file from the address. This is not Elk Meadows in Enumclaw on Riggs Drive E. We are not building a separate 228th Avenue, SE 277th Place, Maple View, or Sunridge page.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus the division that actually covers your lot",
+        body: "Elk Run is incorporated Maple Valley. A new deck is the city Building Division, not King County by default. Five HOA divisions share the name. We ask for today’s architectural rules instead of copying a Four Corners storefront review or a Maple Ridge Highlands ACC sample packet onto SE 277th Place.",
+      },
+      {
+        icon: "school",
+        title: "Glacier Park and Tahoma High set the weekday pulse",
+        body: "Glacier Park Elementary at 23700 SE 280th Street is the next collector south. Tahoma High at 23499 SE Tahoma Way sits on the former front nine. We stage so those bells can move — we do not treat 228th Avenue SE as an empty cul-de-sac.",
+      },
+      {
+        icon: "trees",
+        title: "City greenbelt shade, not a lake and not a parking-lot wall",
+        body: "The open space between SE 277th and SE 279th keeps north fences damp. 228th Avenue film is collector grit, not SR 169 stall-row dust. We wash and wait — this is not Lake Wilderness humidity and not a Four Corners highway elevation.",
+      },
+      {
+        icon: "home",
+        title: "Occupied 1990s family houses on former-fairway lots",
+        body: "Production plans with people living in them. We contain rooms and protect floors. Thirty-year siding, fascia, and deck wood need honest prep — not a second coat over chalk, and not a marketing weekend timed to a golf outing that no longer exists.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Sarah M."],
+    galleryHeading: "Our Work Near Elk Run",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and outdoor finish work from Maple Valley-area and nearby jobs. They illustrate the work type for 1990s family houses — not geo-tagged to SE 277th Place, SE 279th Street, or 228th Avenue SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Modern deck on a residential home",
+        caption: "Deck and exterior refresh — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-10-4769.jpg",
+        alt: "Residential paint prep detail",
+        caption: "Interior painting in a lived-in house",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Elk Run",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Exterior painting and deck work — nearby Maple Valley-area home",
+      body: "Elk Run houses are 1990s family plans with backyard decks, side-yard fences on 228th, and people living in them while the work happens. On a nearby Maple Valley-area exterior and deck we washed mildew and road film, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a SE 277th Place elevation needs when Glacier Park is in session on SE 280th and Tahoma High is stacking SE Tahoma Way. The photo is owned Lane HBS work in the parent-city area, not a verified address on 226th Court SE or 227th Place SE. Timeline followed dry windows and school-street access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Elk Run exterior we would also flag Maple Valley review for a new deck and the correct Elk Run division’s architectural questions before color hits the loop.",
+    },
+    considerationsHeading: "Elk Run-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Elk Run HOA review on a city parcel",
+        body: "Elk Run is five divisions, not one monument sign. Divisions 3 and 5 publish a volunteer board, green space along 228th Avenue SE, and natural areas along SE 279th Street; the common fence on 228th is a homeowner line in their rules, not an HOA replacement budget. Divisions I and II sit on 227th Place SE. Cosmetic repaint is still usually maintenance at the city, but color changes, fences, and new decks often need the association file as well as Maple Valley Building when the work is structural. We ask for the current process instead of copying Four Corners retail hours or Maple Ridge Highlands’ 30-day same-color notice onto 226th Court SE.",
+      },
+      {
+        heading: "Elk Run greenbelt shade and 228th Avenue staging",
+        body: "The city-maintained open space between SE 277th and SE 279th keeps north walls and fence posts damp. 228th Avenue SE is the collector that already carries Glacier Park, farm volunteers, and high-school overflow. Wash water, ladders, and material drops have to stay off neighbor drives and that fence line. This is not Four Corners’ SR 169 stall row, not Cedar Downs off Witte Road SE, and not Maple Ridge Highlands’ Henry’s Ridge trail shoulders.",
+      },
+      {
+        heading: "Elk Run 1990s trim, decks, and occupied interiors",
+        body: "Production lap siding and fascia from the golf-course era fail at joints and south-facing chalk first. Backyard decks and the 228th fence take South King County rain at close range. A kitchen or bath remodel that moves plumbing still belongs in the city conversation. We repair before coating so new paint is not hiding an active leak, and we keep rooms livable — these are primary homes.",
+      },
+      {
+        heading: "Occupied days during Glacier Park and Tahoma High hours",
+        body: "Tahoma School District sets the household clock. Glacier Park Elementary at 23700 SE 280th Street is the next collector south; Tahoma High at 23499 SE Tahoma Way sits on the former front nine. Maple View Middle at 18200 SE 240th Street in Covington is the campus Divisions 3 and 5 currently list — assignment is still parcel-specific, and Maple View is a school, not a neighborhood page. We contain rooms and time noisy wash so 228th and SE 277th Place still work at bell time. We do not treat this plat as Four Corners retail hours or as Elk Meadows in Enumclaw.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Elk Run",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Elk Run pricing moves with greenbelt dry time, 1990s trim repairs, occupied interiors, 228th Avenue access next to Glacier Park and Tahoma High, and whether Maple Valley or an Elk Run division review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade, film, and dry time on a former-fairway loop",
+        body: "North fences stay damp longer than an open Four Corners parking-lot wall. 228th Avenue grit adds wash time. Cheap quotes skip that difference and fail on the backyard deck first.",
+      },
+      {
+        title: "Collector access and school-street timing",
+        body: "The loops share 228th Avenue SE with Glacier Park, Tahoma High overflow, and farm-day parking at 27625 228th. We price that staging time instead of pretending this is an empty county road.",
+      },
+      {
+        title: "Carpentry, HOA paperwork, and occupied rooms",
+        body: "Soft fascia, a 228th fence that the homeowner owns, lived-in kitchens, and architectural or permit questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Elk Run exteriors need wash, scrape, and prime for greenbelt shade and 228th Avenue film on 1990s production siding — then coatings that can take neighbor scrutiny on a no-through-traffic court.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses on Glacier Park and Tahoma High calendars. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and the 228th Avenue fence line on former-fairway lots — clean, dry, repair what is soft, then finish. New height or posts still belong in the city and HOA conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Elk Run house ready for paint, an interior refresh, or a deck and fence restain? Free on-site estimate — call or send the form. We plan around Maple Valley permits, the Elk Run division that covers your lot, and 228th Avenue school hours.",
+    processHeading: "Our Elk Run Process",
+    processSteps: [
+      {
+        title: "Elk Run Site Assessment",
+        body: "Greenbelt vs. 228th-facing exposure, court access off SE 277th Place, occupancy, which HOA division applies, and whether a deck, fence, or interior is in the same visit.",
+      },
+      {
+        title: "Elk Run Scope, Colors & HOA",
+        body: "Written scope before coating days. Elk Run division architectural questions and Maple Valley permit flags get named. Neighbor fences on a no-through-traffic court get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and collector film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 1990s siding and shaded deck wood.",
+      },
+      {
+        title: "Elk Run Paint / Build Days",
+        body: "Weather windows after shade; school-year timing on 228th Avenue SE, SE 280th Street, and SE Tahoma Way. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Glacier Park Elementary School",
+        url: "https://glacierpark.tahomasd.us/",
+        description:
+          "Tahoma’s Polar Bears campus at 23700 SE 280th Street — the next collector south of Elk Run. Drop-off on SE 280th is the weekday clock for noisy wash and trailer placement on SE 277th Place and 228th Avenue SE.",
+      },
+      {
+        name: "Tahoma High School",
+        url: "https://tahomahighschool.tahomasd.us/",
+        description:
+          "The Bears campus at 23499 SE Tahoma Way sits on the former Elk Run Golf Course front nine. High-school stacks and farm-volunteer days are a different clock than Four Corners retail hours on Kent-Kangley.",
+      },
+      {
+        name: "Elk Run Farm",
+        url: "https://skcfc.org/elk-run-farm/",
+        description:
+          "South King County Food Coalition’s 4.5-acre farm at 27625 228th Avenue SE, on a piece of the closed golf course. Volunteer parking and the gravel entrance past the paved lot are why we treat 228th as a working collector, not an empty shoulder.",
+      },
+      {
+        name: "Summit Park",
+        url: "https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php",
+        description:
+          "The city’s fields, playground, and skate park at 23675 SE Tahoma Way — a short hop from Elk Run, and the public park Elk Run households actually use. It is not the city greenbelt between SE 277th and SE 279th.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "Where Elk Run parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. King County Local Services applies only if the lot actually sits outside the city — these courts generally do not.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Elk Run runs on a court-and-collector rhythm: SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, and weekday bells in [Tahoma School District](https://www.tahomasd.us/). Nearby campuses include [Glacier Park Elementary](https://glacierpark.tahomasd.us/) at 23700 SE 280th Street, [Tahoma High School](https://tahomahighschool.tahomasd.us/) at 23499 SE Tahoma Way, and [Maple View Middle School](https://mapleview.tahomasd.us/) at 18200 SE 240th Street in Covington when that is the assignment. Confirm your campus — we do not invent a neighborhood elementary from the 98038 mailbox, and Maple View is a school, not a separate neighborhood page.",
+      "Structural decks and fence-height changes on these incorporated streets typically start with [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Farm days and the gravel entrance sit at [Elk Run Farm](https://skcfc.org/elk-run-farm/) on 228th. Indoor research time often goes to [Maple Valley Library](https://kcls.org/locations/maple-valley/) at 21844 SE 248th Street. Power sits with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that greenbelt-and-school rhythm — not as a name-swap of [Four Corners](/service-areas/maple-valley/four-corners) retail, [Maple Ridge Highlands](/service-areas/maple-valley/maple-ridge-highlands) on SE Maple Ridge Drive, or Enumclaw’s [Elk Meadows](/service-areas/enumclaw/elk-meadows).",
     ],
   },
 ];
