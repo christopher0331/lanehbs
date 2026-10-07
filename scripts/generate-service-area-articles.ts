@@ -414,6 +414,7 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Dorre Don", path: "/service-areas/maple-valley/dorre-don" },
       { name: "Cherokee Bay", path: "/service-areas/maple-valley/cherokee-bay" },
       { name: "Lake Retreat", path: "/service-areas/maple-valley/lake-retreat" },
+      { name: "Elk Run", path: "/service-areas/maple-valley/elk-run" },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -487,6 +488,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Ravensdale Retreat Natural Area",
         url: "https://www.wta.org/go-hiking/hikes/ravensdale-retreat-natural-area",
+      },
+      {
+        name: "Glacier Park Elementary",
+        url: "https://glacierpark.tahomasd.us/",
+      },
+      {
+        name: "Elk Run Farm",
+        url: "https://skcfc.org/elk-run-farm/",
+      },
+      {
+        name: "Tahoma High School",
+        url: "https://tahomahighschool.tahomasd.us/",
       },
     ],
     peers: [
