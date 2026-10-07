@@ -405,7 +405,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Covington, WA",
     heroDescription:
-      "Covington painting, cabinet refinishing, remodeling, decks, and fences. Serving Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington, Pipe Lake, Soos Creek, Lake Morton-Berrydale, Tahoma Crest on 181st Place SE, Highpointe on 161st Ave SE & more. Call (253) 414-3937.",
+      "Covington painting, cabinet refinishing, remodeling, decks, and fences. Serving Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington, Pipe Lake, Soos Creek, Lake Morton-Berrydale, Tahoma Crest on 181st Place SE, Highpointe on 161st Ave SE, Crystal View on 170th Place SE & more. Call (253) 414-3937.",
     metaTitle: "Covington Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Covington painting, remodeling, deck & fence contractor. Cabinets, interiors, exteriors, flooring refreshes. Free estimates. (253) 414-3937.",
@@ -422,6 +422,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Lake Morton / Berrydale",
       "Tahoma Crest / SE 242nd",
       "Highpointe / 161st Ave SE",
+      "Crystal View / 170th Place SE",
     ],
     climateDescription:
       "Covington shares the South King County wet-season pattern — damp winters, moss pressure on north elevations, and UV that fades neglected exteriors. Consistent washing and quality paint systems keep neighborhoods looking sharp.",
@@ -449,9 +450,9 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     longitude: -122.1472,
     faqs: [
       {
-        question: "Do you serve Lake Sawyer, Maple Hills, Jenkins Creek, Downtown Covington, Pipe Lake, Soos Creek, Lake Morton-Berrydale, Tahoma Crest, and Highpointe?",
+        question: "Do you serve Lake Sawyer, Maple Hills, Jenkins Creek, Downtown Covington, Pipe Lake, Soos Creek, Lake Morton-Berrydale, Tahoma Crest, Highpointe, and Crystal View?",
         answer:
-          "Yes. Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington along SE 272nd, Pipe Lake on the Covington–Maple Valley line, Soos Creek along 148th Ave SE and SE 256th, Lake Morton-Berrydale along East and West Lake Morton Drive SE and Kent-Black Diamond Road SE, Tahoma Crest on 181st Place SE and SE 242nd south of SE 240th, Highpointe on 161st Ave SE and SE 267th Place west of 164th Ave SE, and nearby Covington neighborhoods are all within our service area.",
+          "Yes. Lake Sawyer, Maple Hills, Covington Woods, Jenkins Creek, Downtown Covington along SE 272nd, Pipe Lake on the Covington–Maple Valley line, Soos Creek along 148th Ave SE and SE 256th, Lake Morton-Berrydale along East and West Lake Morton Drive SE and Kent-Black Diamond Road SE, Tahoma Crest on 181st Place SE and SE 242nd south of SE 240th, Highpointe on 161st Ave SE and SE 267th Place west of 164th Ave SE, Crystal View on 170th Place SE, SE 255th Place, and SE 256th Street around Crystal View Park, and nearby Covington neighborhoods are all within our service area.",
       },
       {
         question: "Is cabinet painting durable enough for a busy kitchen?",
@@ -468,7 +469,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Covington Painting, Cabinets & Remodeling",
-        body: "Lane HBS helps Covington homeowners and shop owners upgrade where it shows — kitchens, exteriors, decks, storefronts, and living spaces — from Lake Sawyer and Maple Hills to Covington Woods, Jenkins Creek, Downtown Covington along SE 272nd, private-shore lots at Pipe Lake, Soos Creek on the city’s western trail edge, unincorporated Lake Morton-Berrydale along Lake Morton Drive SE, Tahoma Crest’s 24-home 2021 pocket on 181st Place SE and SE 242nd, and Highpointe’s 1990s HOA loops on 161st Ave SE and SE 267th Place west of 164th Ave SE. Licensed work, straightforward estimates, and finishes built for South King County weather.",
+        body: "Lane HBS helps Covington homeowners and shop owners upgrade where it shows — kitchens, exteriors, decks, storefronts, and living spaces — from Lake Sawyer and Maple Hills to Covington Woods, Jenkins Creek, Downtown Covington along SE 272nd, private-shore lots at Pipe Lake, Soos Creek on the city’s western trail edge, unincorporated Lake Morton-Berrydale along Lake Morton Drive SE, Tahoma Crest’s 24-home 2021 pocket on 181st Place SE and SE 242nd, Highpointe’s 1990s HOA loops on 161st Ave SE and SE 267th Place west of 164th Ave SE, and Crystal View’s 1969–70 rambler courts on 170th Place SE around Crystal View Park. Licensed work, straightforward estimates, and finishes built for South King County weather.",
       },
       {
         heading: "Cabinet Painting That Looks Like a Remodel",

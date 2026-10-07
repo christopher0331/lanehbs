@@ -551,6 +551,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Highpointe",
         path: "/service-areas/covington/highpointe",
       },
+      {
+        name: "Crystal View",
+        path: "/service-areas/covington/crystal-view",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },
@@ -608,6 +612,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Washington Contractors Registration",
         url: "https://secure.lni.wa.gov/verify/",
+      },
+      {
+        name: "Crystal View Park",
+        url: "https://www.covingtonwa.gov/parks/crystalviewpark.php",
       },
     ],
     peers: [

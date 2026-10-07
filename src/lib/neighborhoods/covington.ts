@@ -2179,7 +2179,227 @@ export const covingtonNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Daily life in Highpointe runs on a cul-de-sac and school-collector rhythm: SE 267th Place off 164th Ave SE, weekday bells at [Kentwood High School](https://www.kent.k12.wa.us/o/kwhs), and errands through the [City of Covington](https://www.covingtonwa.gov/). Households track [Kent School District](https://www.kent.k12.wa.us/) calendars, including [Mattson Middle School](https://www.kent.k12.wa.us/o/mms/) on SE 251st Street when the parcel feeds that way.",
-      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend walks still land on the [Soos Creek Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Downtown’s SE 272nd storefronts, Tahoma Crest’s 2021 sidewalk pocket, or Soos Creek’s 148th Avenue trail edge.",
+      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend walks still land on the [Soos Creek Trail](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/leafline-trails/soos-creek-trail). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of Downtown’s SE 272nd storefronts, Tahoma Crest’s 2021 sidewalk pocket, Soos Creek’s 148th Avenue trail edge, or Crystal View’s 1970s ramblers on 170th Place SE.",
+    ],
+  },
+  {
+    slug: "crystal-view",
+    name: "Crystal View",
+    description:
+      "1969–70 rambler plats on 170th Place SE — Crystal View Park, Little Soos Creek shade, and Hwy 18 via SE 256th, not Highpointe’s 1990s 164th loops and not Tahoma Crest’s 2021 sidewalk pocket.",
+    blurb:
+      "On 170th Place SE, SE 255th Place, SE 254th Place, and SE 256th Street, Lane HBS paints 1970s rambler exteriors, refreshes occupied interiors, and stains decks and fences for Crystal View’s Covington courts around the city park. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for 1970s rambler siding, creek-edge shade, and SE 256th film",
+      "Occupied interiors on Crestwood, Mattson, and Kentwood calendars",
+      "Deck and fence work next to Crystal View Park and Little Soos Creek",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Crystal View?",
+        answer:
+          "Repainting siding and restaining an existing deck or fence are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the Covington Building Division — Crystal View is inside the city, not unincorporated King County and not Maple Valley’s permit desk. King County’s historic plat list records Crystal View Estates Divisions 1 and 2 in 1969 and Division 3 in 1970. Some lots list no active HOA dues; we still ask whether a plat packet or neighbor fence agreement applies instead of copying a Highpointe CCR file or a Chelan Crystal View marina HOA. We name the city desk on the free estimate.",
+      },
+      {
+        question:
+          "What prep fits Crystal View’s 1970s ramblers, Little Soos Creek shade, and SE 256th film?",
+        answer:
+          "These are late-1960s and 1970s single-story and split-level houses on 170th Place SE, SE 255th Place, and SE 254th Place — carports, fenced yards, and park-adjacent lots, not 2021 builder film and not a 1990s two-story HOA loop west of 164th. North walls and fence posts stay damp along Little Soos Creek at Crystal View Park. Elevations that face SE 256th Street pick up Highway 18 grit. We wash mildew and film, scrape failed coatings, prime bare wood, and repair fascia and carport posts before color. A stain-only bid that skips that inspection does not last on a shaded Crystal View court.",
+      },
+      {
+        question: "How do you price painting and remodeling in Crystal View?",
+        answer:
+          "Story count, wash-and-dry time after creek shade or SE 256th film, trim carpentry on 1970s rambler siding, occupied interiors, cul-de-sac staging next to the park and Kentwood, and whether city review belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Crystal View exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard decks depend on wash-dry windows after shade and arterial film come off, then on any carpentry. Crestwood drop-off on 180th Avenue SE, Mattson on SE 251st, and Kentwood on 164th change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards to hit a weekend.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on 170th Place SE or SE 255th Place?",
+        answer:
+          "Yes. These are year-round family ramblers, not models. We phase rooms, protect entries, and plan trailer placement so 170th Place SE, SE 255th Place, SE 254th Place, and SE 256th Street stay usable for neighbors and for Crystal View Park at 25412 170th Place SE. The signed way in from Highway 18 is the SE 256th Street exit, then 170th Place SE; from Kent-Kangley it is Wax Road north to SE 256th. We do not block the park curb or the 164th collector that already hosts Kentwood High at 25800 164th Avenue SE. Elementary assignment for these courts is typically Crestwood at 25225 180th Avenue SE; Mattson Middle is at 16400 SE 251st Street.",
+      },
+    ],
+    image: "/images/from-lane/lane-33-1513.jpg",
+    heroIntro:
+      "Crystal View is Covington’s 1969–70 rambler pocket on 170th Place SE, SE 255th Place, and SE 256th Street around a 2.2-acre city park on Little Soos Creek. Paint, decks, and interiors here face creek-edge shade, Highway 18 film, and occupied 1970s wood — not Highpointe’s 1990s loops west of 164th and not Tahoma Crest’s 2021 sidewalk plat.",
+    mapQuery: "Crystal View Park, 25412 170th Place SE, Covington, WA",
+    latitude: 47.3724,
+    longitude: -122.1179,
+    geoRadiusMeters: 1400,
+    introHeading: "Rambler Courts Around a Creek Park, Not a 164th HOA Loop",
+    introLead:
+      "King County’s Covington historic-context plat table lists Crystal View Estates Division 1 and 2 in 1969 and Division 3 in 1970. The living streets are 170th Place SE, SE 255th Place, SE 254th Place, 169th Avenue SE, and the SE 256th Street collector that also carries the Highway 18 interchange. Crystal View Park sits at 25412 170th Place SE — 2.2 acres of playground, half-court, lawn, and wooded wetland on Little Soos Creek. That is a different geometry than Highpointe’s 1990s cul-de-sacs west of 164th Ave SE, and it is not Tahoma Crest’s 24-home 2021 loop on 181st Place SE a mile-plus north by Covington Community Park.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Crystal View jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE 255th Place or claim we painted the park play structure. We will walk your 1970s rambler siding, backyard fence, and occupied interiors honestly, then send structural questions to Covington Building. We do not use crystalviewestates.org — that HOA is Lake Chelan, with a marina and pickleball, not this Covington plat. We are not building a separate 170th Place, SE 255th, Crystal View Park, Crofton Heights, or Shiloh Woods page. Those names sit on this corridor or next door.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits on a 1970 plat, not a Chelan HOA file",
+        body: "Crystal View is incorporated Covington. A new deck is the city Permit Center. Some listings show no HOA dues; we still confirm fence-line and plat questions instead of importing Highpointe’s 1992 CCR packet or a Lake Chelan marina rulebook.",
+      },
+      {
+        icon: "waves",
+        title: "Little Soos Creek at the park, not Jenkins Creek wetlands",
+        body: "Crystal View Park’s own page notes a waterway, woods, and wetland next to the lawn. North fences stay damp. We wash and wait — this is not Jenkins Creek’s 22-acre boardwalk on 180th, and it is not Soos Creek Trail’s 148th Avenue edge.",
+      },
+      {
+        icon: "car",
+        title: "SE 256th and Highway 18, not SE 272nd stall-row dust",
+        body: "The interchange at SE 256th is how this pocket reaches I-18. Street-facing elevations pick up grit. We wash it off and keep trailers off the 170th Place park curb so neighbors still reach Wax Road and 164th.",
+      },
+      {
+        icon: "home",
+        title: "Occupied 1970s ramblers, not 2021 sidewalk lots",
+        body: "Carports, single-story plans, and people living in them. We contain rooms and protect floors. Fifty-year fascia, fence posts, and deck wood need honest prep — not a second coat over chalk.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Crystal View",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and outdoor finish work from Covington-area and nearby jobs. They illustrate the work type for 1970s family ramblers — not geo-tagged to 170th Place SE, SE 255th Place, or Crystal View Park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-33-1513.jpg",
+        alt: "Flooring installation during a home refresh",
+        caption: "Interior refresh — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New deck railing installation in progress",
+        caption: "Deck and rail work — nearby Covington-area job",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Crystal View",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Exterior painting and deck work — nearby Covington-area home",
+      body: "Crystal View houses are 1970s ramblers with fenced yards, carports, and people living in them while the work happens. On a nearby Covington-area exterior and deck we washed mildew and road film, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a 170th Place elevation needs when Kentwood is in session on 164th and park parking already uses the 256th corner. The photo is owned Lane HBS work in the parent-city area, not a verified address on SE 255th Place or at Crystal View Park. Timeline followed dry windows and school-street access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Crystal View exterior we would also flag Covington review for a new deck before color hits the court.",
+    },
+    considerationsHeading: "Crystal View-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Crystal View city permits without a Chelan HOA mix-up",
+        body: "The living neighborhood is Crystal View; the recorded plats are Crystal View Estates Divisions 1–3 from 1969–70. Cosmetic repaint is still usually maintenance at the city. Color changes, fences, and new decks can need Covington Building when the work is structural. We do not treat crystalviewestates.org as this plat — that site is Lake Chelan. We also do not copy Highpointe’s 1992 architectural file onto 170th Place SE.",
+      },
+      {
+        heading: "Crystal View park-edge shade and SE 256th staging",
+        body: "Little Soos Creek and the wooded park edge keep north walls and fence posts damp. The signed ways in are SE 256th Street off Highway 18 and Wax Road north from Kent-Kangley. Wash water and trailers have to stay off neighbor drives and the park lawn at 25412 170th Place SE. This is not Downtown’s library curb at 27100 164th, not Highpointe’s SE 267th entry, and not Tahoma Crest’s 181st Place SE pocket.",
+      },
+      {
+        heading: "Crystal View 1970s trim, decks, and occupied interiors",
+        body: "Rambler siding and fascia from the early 1970s fail at joints, carport posts, and south-facing chalk first. Backyard decks and side-yard fences take creek humidity at close range. A kitchen or bath remodel that moves plumbing still belongs in the city conversation. We repair before coating so new paint is not hiding an active leak, and we keep rooms livable — these are primary homes.",
+      },
+      {
+        heading: "Occupied days during Crestwood, Mattson, and Kentwood hours",
+        body: "Kent School District sets the household clock. Crestwood Elementary at 25225 180th Avenue SE is the usual elementary for these courts; Mattson Middle at 16400 SE 251st Street and Kentwood High at 25800 164th Avenue SE sit on the next collectors west and north. We contain rooms and time noisy wash so 170th Place SE and SE 256th still work at bell time. We do not treat this plat as Cedar Heights traffic on SE 272nd.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Crystal View",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Crystal View pricing moves with creek-shade and SE 256th dry time, 1970s trim repairs, occupied interiors, cul-de-sac access next to the park and Kentwood, and whether Covington review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Shade, film, and dry time on a 1970s court",
+        body: "Park-edge fences stay damp longer than an open Downtown parking-lot wall. Highway 18 grit on SE 256th adds wash time. Cheap quotes skip that difference and fail on the backyard deck first.",
+      },
+      {
+        title: "Park-street access and school-collector timing",
+        body: "170th Place SE shares the SE 256th / 164th spine with Kentwood and Mattson. We price that staging time instead of pretending this is an empty county road.",
+      },
+      {
+        title: "Carpentry and occupied rambler rooms",
+        body: "Soft fascia, carport posts, lived-in kitchens, and permit questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Crystal View exteriors need wash, scrape, and prime for Little Soos Creek shade and SE 256th film on 1970s rambler siding — then coatings that can take neighbor scrutiny on a park-facing court.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied ramblers on Crestwood, Mattson, and Kentwood calendars. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and side-yard fences on 1970s lots next to the park and the creek — clean, dry, repair what is soft, then finish. New height or posts still belong in the city conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Crystal View house ready for paint, an interior refresh, or a deck and fence restain? Free on-site estimate — call or send the form. We plan around Covington permits, park-street access, and Kentwood hours.",
+    processHeading: "Our Crystal View Process",
+    processSteps: [
+      {
+        title: "Crystal View Site Assessment",
+        body: "Creek-park shade vs. SE 256th-facing exposure, cul-de-sac access off 170th Place SE, occupancy, city questions, and whether a deck, fence, or interior is in the same visit.",
+      },
+      {
+        title: "Crystal View Scope, Colors & Neighbors",
+        body: "Written scope before coating days. Covington permit flags get named. Neighbor fences on a park-facing court get agreed, not assumed — we do not import a Chelan HOA packet.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and road film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 1970s siding and shaded deck wood.",
+      },
+      {
+        title: "Crystal View Paint / Build Days",
+        body: "Weather windows after shade; school-year timing on 170th Place SE, SE 256th Street, and 164th Ave SE. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Covington-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Crystal View Park",
+        url: "https://www.covingtonwa.gov/parks/crystalviewpark.php",
+        description:
+          "The city’s 2.2-acre neighborhood park at 25412 170th Place SE — playground, half-court, picnic tables, and Little Soos Creek woods. Park-day parking on 170th is the staging clock for wash and trailers, not a launch lot.",
+      },
+      {
+        name: "Crestwood Elementary",
+        url: "https://www.kent.k12.wa.us/o/cres/",
+        description:
+          "Kent School District’s campus at 25225 180th Avenue SE. Crystal View households that feed Crestwood still run that morning clock — a different stack than Jenkins Creek Elementary on 186th.",
+      },
+      {
+        name: "Mattson Middle School",
+        url: "https://www.kent.k12.wa.us/o/mms",
+        description:
+          "The Mustangs campus at 16400 SE 251st Street, west of these courts on the same 164th–251st spine. Drop-off there already stacks 164th before anyone adds a paint trailer on 170th Place SE.",
+      },
+      {
+        name: "Covington Building Division",
+        url: "https://www.covingtonwa.gov/city_departments/community_development/building.php",
+        description:
+          "Where Crystal View parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. King County Local Services applies only if the lot actually sits outside Covington — these 1969–70 plats generally do not.",
+      },
+      {
+        name: "Kentwood High School",
+        url: "https://www.kent.k12.wa.us/o/kwhs",
+        description:
+          "The Conquerors campus at 25800 164th Avenue SE, the next collector west. After-school stacks on 164th are why we do not treat SE 256th as an empty interchange ramp.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Crystal View runs on a park-court and school-collector rhythm: 170th Place SE at [Crystal View Park](https://www.covingtonwa.gov/parks/crystalviewpark.php), weekday bells at [Crestwood Elementary](https://www.kent.k12.wa.us/o/cres/) on 180th Avenue SE, and errands through the [City of Covington](https://www.covingtonwa.gov/). Households track [Kent School District](https://www.kent.k12.wa.us/) calendars.",
+      "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Middle-school hours sit at [Mattson Middle School](https://www.kent.k12.wa.us/o/mms/) on SE 251st Street; high-school stacks sit at [Kentwood High School](https://www.kent.k12.wa.us/o/kwhs) on 164th. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that park-and-school rhythm — not as a name-swap of [Highpointe](/service-areas/covington/highpointe)’s 1990s loops west of 164th, [Tahoma Crest](/service-areas/covington/tahoma-crest)’s 2021 sidewalk pocket, or Downtown’s SE 272nd storefronts.",
     ],
   },
 ];
