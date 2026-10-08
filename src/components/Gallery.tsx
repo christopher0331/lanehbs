@@ -4,7 +4,12 @@ import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { X, ChevronLeft, ChevronRight, ZoomIn } from "lucide-react";
 
-const galleryImages = [
+const galleryImages: {
+  src: string;
+  alt: string;
+  label: string;
+  position?: string;
+}[] = [
   // Featured finished work
   { src: "/images/painting16.jpg", alt: "Kitchen cabinet painting — dark finish", label: "Interior" },
   { src: "/images/from-lane/lane-03-45.jpg", alt: "Completed wraparound deck with modern railing", label: "Deck" },
@@ -26,7 +31,7 @@ const galleryImages = [
   // Process / active job photos
   { src: "/images/from-lane/lane-04-4874.jpg", alt: "Vaulted ceiling room prepped for spray painting", label: "Interior" },
   { src: "/images/from-lane/lane-37-foyer-staircase-spray-prep.webp", alt: "Two-story foyer and curved staircase fully masked in plastic sheeting with a ladder in place, prepped for interior spray painting", label: "Interior" },
-  { src: "/images/from-lane/lane-36-foyer-curved-staircase.webp", alt: "Interior painting project: two-story foyer with a curved staircase, white balusters, wood handrail, and wrought-iron chandelier", label: "Interior" },
+  { src: "/images/from-lane/lane-36-foyer-curved-staircase.webp", alt: "Interior painting project: two-story foyer with a curved staircase, white balusters, wood handrail, and wrought-iron chandelier", label: "Interior", position: "center top" },
   { src: "/images/from-lane/lane-19-7881148742819674473.jpg", alt: "Full room masking and paint prep", label: "Interior" },
   { src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg", alt: "Deck pressure washing in progress", label: "Deck" },
   { src: "/images/from-lane/lane-35-6625739179662692496.jpg", alt: "Protective masking before interior paint", label: "Interior" },
@@ -121,6 +126,7 @@ export default function Gallery() {
                 alt={img.alt}
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
+                style={{ objectPosition: img.position }}
                 sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
               />
               {/* Overlay */}
