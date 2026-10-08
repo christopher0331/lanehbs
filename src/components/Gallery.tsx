@@ -31,7 +31,7 @@ const galleryImages: {
   // Process / active job photos
   { src: "/images/from-lane/lane-04-4874.jpg", alt: "Vaulted ceiling room prepped for spray painting", label: "Interior" },
   { src: "/images/from-lane/lane-37-foyer-staircase-spray-prep.webp", alt: "Two-story foyer and curved staircase fully masked in plastic sheeting with a ladder in place, prepped for interior spray painting", label: "Interior" },
-  { src: "/images/from-lane/lane-36-foyer-curved-staircase.webp", alt: "Interior painting project: two-story foyer with a curved staircase, white balusters, wood handrail, and wrought-iron chandelier", label: "Interior", position: "center top" },
+  { src: "/images/from-lane/lane-36-foyer-curved-staircase.webp", alt: "Interior painting project: two-story foyer with a curved staircase, white balusters, wood handrail, and wrought-iron chandelier", label: "Interior", position: "50% 60%" },
   { src: "/images/from-lane/lane-19-7881148742819674473.jpg", alt: "Full room masking and paint prep", label: "Interior" },
   { src: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg", alt: "Deck pressure washing in progress", label: "Deck" },
   { src: "/images/from-lane/lane-35-6625739179662692496.jpg", alt: "Protective masking before interior paint", label: "Interior" },
