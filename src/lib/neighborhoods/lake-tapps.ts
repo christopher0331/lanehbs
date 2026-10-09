@@ -3267,4 +3267,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Structural decks and shops on these unincorporated streets typically start with [Pierce County Planning & Public Works](https://www.piercecountywa.gov/91/Planning-Public-Works). Confirm the parcel before you assume the [City of Bonney Lake](https://www.bonneylake.gov/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that HOA-and-school rhythm — not as a name-swap of North Lake Tapps Park streets, Prairie Ridge’s 128th Street grid, or a gated Tapps Island fairway.",
     ],
   },
+  {
+    slug: "ponderosa-estates",
+    name: "Ponderosa Estates",
+    description:
+      "Mid-1960s Bonanza lagoon plat on 101st Street E and 203rd Avenue E — Pierce County roads, PEHOA CC&Rs, and a private pond, not Prairie Ridge’s 128th Street CDP grid and not a Lake Tapps dock street.",
+    blurb:
+      "On 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E, Lane HBS paints exteriors, repairs older trim, and stains decks and fences for Ponderosa Estates’ 329-lot lagoon neighborhood south of SR 410. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for lagoon-edge shade, county-road film, and 1960s siding",
+      "Carpentry repairs on mixed site-built and manufactured-home elevations",
+      "Deck and fence work around the neighborhood pond, not a reservoir bulkhead",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Ponderosa Estates?",
+        answer:
+          "Repainting siding and restaining an existing deck or fence are usually maintenance. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through the Pierce County Development Center and PALS+ — Ponderosa Estates sits just outside Bonney Lake even when the mailbox reads 98391. Ponderosa Estates Homeowners Association, formed for Road Improvement District 1 in 1992 and incorporated as a nonprofit on January 2, 1996, also binds many lots with recorded CC&Rs. We name the county desk and whether PEHOA review applies on the free estimate instead of guessing from South Prairie Road E or copying a Prairie Ridge Maintenance Co. packet.",
+      },
+      {
+        question:
+          "What prep fits Ponderosa Estates’ lagoon shade, 1960s wood, and county-road film?",
+        answer:
+          "Bonanza Development platted 329 lots around a centralized lagoon and park in the mid-1960s — originally 3½ miles of gravel that Pierce County took over after the 1992 road district. North walls and pond-facing fences stay damp. Elevations that face 203rd Avenue E and the South Prairie Road E approach pick up collector grit. We wash mildew and film, scrape failed coatings, prime bare wood, and repair fascia, skirts, and trim joints before color. A stain-only bid that skips that inspection does not last on a shaded LaRita Drive E lot.",
+      },
+      {
+        question: "How do you price painting and remodeling in Ponderosa Estates?",
+        answer:
+          "Story count, wash-and-dry time after lagoon shade or county-road film, carpentry on 1960s trim or manufactured-home skirts, occupied interiors, septic-setback questions, and whether Pierce County review or a PEHOA architectural question belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Ponderosa Estates exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and pond-side decks depend on wash-dry windows after shade and film come off, then on any carpentry. Foothills Elementary bells on 234th Avenue E and Mountain View Middle traffic on 199th Avenue Court E change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards so a house looks finished before a Saturday.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on 101st Street E or 203rd Avenue E?",
+        answer:
+          "Yes. These are year-round family houses and manufactured homes, not cabins. We phase rooms, protect entries, and plan trailer placement so 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E stay usable for neighbors. Access off SR 410 is typically South Prairie Road E to 202nd Avenue E — we do not block that collector or the county roads the 1992 district deeded to Pierce County. School assignment is parcel-specific: some lots track White River campuses in Buckley, others Sumner-Bonney Lake. We follow the calendar you actually run. We are not building a separate LaRita Drive, 203rd Avenue, Cedarview, Sky Island, or South Prairie town page.",
+      },
+    ],
+    image: "/images/from-lane/lane-26-4767.jpg",
+    heroIntro:
+      "Ponderosa Estates is the mid-1960s Bonanza lagoon plat just outside Bonney Lake — 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E south of SR 410 and west of 214th Avenue E. Paint, decks, and trim here face a private pond, Pierce County roads, and PEHOA CC&Rs, not Prairie Ridge’s 128th Street grid and not a Lake Tapps launch.",
+    mapQuery: "101st Street E and 203rd Avenue E, Bonney Lake, WA",
+    latitude: 47.1618,
+    longitude: -122.1562,
+    geoRadiusMeters: 1800,
+    introHeading: "A Private Lagoon South of 410, Not a Reservoir Dock",
+    introLead:
+      "Ponderosa Estates’ working streets sit south of SR 410 and west of 214th Avenue E: 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E, reached from South Prairie Road E onto 202nd Avenue E. Bonanza Development Company platted 329 lots around a centralized lagoon and park in the mid-1960s. The neighborhood’s own history is that the 1992 road district brought those streets to county standard — storm sewers, two retention ponds, regraded hills — and Pierce County now owns and maintains them. That is a different geometry than Prairie Ridge’s 128th Street E / 215th Avenue E CDP grid, and it is not Quiet Water’s 2004 wetland PDD east of 214th at 29th–40th Street E.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Ponderosa Estates jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 101st Street E or claim we stained the lagoon-side common park. We will walk your 1960s siding, manufactured-home skirt or later stick-built elevation, pond-facing deck, and occupied interiors honestly, then send structural questions to Pierce County Planning & Public Works and exterior-change questions to PEHOA when the lot is in the association. Membership followed resale after 1992; we confirm the file from the address instead of assuming every original owner is in the same packet. We are not building a separate LaRita, La Paloma, Cedarview, Sky Island, or South Prairie page. Those names sit on this corridor or next to it.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "County permits plus a 1996 PEHOA file",
+        body: "Ponderosa Estates is unincorporated Pierce County. A new deck is the Development Center and PALS+, not the Bonney Lake Permit Center by default. Ponderosa Estates Homeowners Association has been on file since January 2, 1996. We ask for today’s CC&R process instead of copying a Prairie Ridge Maintenance Co. park packet or a Quiet Water PDD form onto 101st Street E.",
+      },
+      {
+        icon: "waves",
+        title: "A neighborhood lagoon, not Cascade Water Alliance splash",
+        body: "The plat wraps a centralized pond and park. Pond-facing fences and north walls stay damp. This is still-water shade and tree cover — not reservoir drawdown rules and not Prairie Ridge’s inland greenbelt without a named lagoon in the middle of the loops.",
+      },
+      {
+        icon: "hammer",
+        title: "1960s lots with later infill, including manufactured homes",
+        body: "The association’s own site notes the community allows manufactured homes on some lots, and later site-built houses sit on the same county streets. Skirting, older trim, and 1990s fascia are not one elevation. We inspect before promising paint-only.",
+      },
+      {
+        icon: "school",
+        title: "White River and Sumner-Bonney Lake share this map",
+        body: "Listings on 101st and 104th split between White River campuses in Buckley and Sumner-Bonney Lake bells on 199th Avenue Court E. We follow the district on the parcel — we do not invent a Ponderosa elementary from the 98391 mailbox.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Mike T.", "Tina W."],
+    galleryHeading: "Our Work Near Ponderosa Estates",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and finish work from Lake Tapps-area and nearby jobs. They illustrate the work type for inland family houses and manufactured-home elevations — not geo-tagged to 101st Street E, 203rd Avenue E, or LaRita Drive E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-26-4767.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "Deck railing installation in progress",
+        caption: "Deck and rail work — nearby family home",
+      },
+      {
+        src: "/images/from-lane/lane-18-1203.jpg",
+        alt: "Residential paint and trim finish",
+        caption: "Trim and siding refresh after carpentry",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Ponderosa Estates",
+      image: "/images/from-lane/lane-22-62.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Deck staining and exterior prep — nearby Lake Tapps-area home",
+      body: "Ponderosa Estates houses sit on 1960s lagoon lots with pond-facing decks, county-road film on 203rd, and people living in them while the work happens. On a nearby inland exterior and deck we washed mildew and road grit, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a LaRita Drive E elevation needs when South Prairie Road E is already carrying SR 410 overflow. The photo is owned Lane HBS work in the parent-city area, not a verified address on 101st Street E or 104th Street E. Timeline followed dry windows and collector access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Ponderosa exterior we would also flag Pierce County review for a new deck, septic setbacks where they apply, and PEHOA architectural questions before color hits the loop.",
+    },
+    considerationsHeading: "Ponderosa Estates-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Ponderosa Estates county roads and PEHOA review",
+        body: "Pierce County owns the streets that the 1992 road district rebuilt. Cosmetic repaint is still usually maintenance, but color changes, fences, and new decks often need the association file as well as the Development Center when the work leaves the cosmetic category. We ask for the current PEHOA process instead of copying Prairie Ridge’s Recreation Hall rules or a Bonney Lake city storefront review onto La Paloma Drive E.",
+      },
+      {
+        heading: "Ponderosa Estates lagoon shade and South Prairie Road staging",
+        body: "The centralized pond keeps north fences and downhill lots damp longer than an open 128th Street wall. Access from SR 410 runs South Prairie Road E to 202nd Avenue E; wash water, ladders, and material drops have to stay off neighbor drives and those collectors. This is not Quiet Water’s no-through-traffic PDD east of 214th, not Victor Falls on Rhodes Lake Road E, and not Downtown Bonney Lake’s Main Street curb.",
+      },
+      {
+        heading: "Ponderosa Estates 1960s trim, septic lots, and mixed housing",
+        body: "Original Bonanza lots, later infill, and manufactured homes share the same county grid. Skirts, fascia, and pond-side decks fail at joints first. Many neighboring houses use approved septic systems — a kitchen or bath remodel that moves plumbing still belongs in the Tacoma-Pierce County Health conversation as well as the county building desk. We repair before coating so new paint is not hiding an active leak.",
+      },
+      {
+        heading: "Occupied days on a split school calendar",
+        body: "Some parcels run White River — Foothills Elementary at 10621 234th Avenue E in Buckley, Glacier Middle at 240 North C Street, White River High at 26928 120th Street E. Others sit closer to Sumner-Bonney Lake bells at Mountain View Middle on 199th Avenue Court E. Assignment is parcel-specific. We contain rooms and time noisy wash so 101st Street E and 203rd Avenue E still work at the bells you actually follow. We do not treat this plat as Prairie Ridge’s Liberty Ridge clock or as a Tehaleh amenity street.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Ponderosa Estates",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Ponderosa Estates pricing moves with lagoon dry time, 1960s trim or manufactured-home repairs, occupied interiors, South Prairie Road E access, septic or PEHOA questions, and whether Pierce County review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Lagoon shade, film, and dry time",
+        body: "Pond-facing fences stay damp longer than an open Prairie Ridge parking-lot wall. 203rd Avenue grit adds wash time. Cheap quotes skip that difference and fail on the downhill deck first.",
+      },
+      {
+        title: "County-road access and mixed housing types",
+        body: "Trailers share Pierce County streets with school traffic and SR 410 overflow on South Prairie Road E. A manufactured-home skirt is not the same elevation as later stick-built siding. We price the house we walk.",
+      },
+      {
+        title: "Carpentry, septic, and occupied rooms",
+        body: "Soft fascia, a pond-side rail, lived-in kitchens, and health-department or PEHOA questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Ponderosa exteriors need wash, scrape, and prime for lagoon shade and county-road film on 1960s and later siding — then coatings that can take neighbor scrutiny on a lagoon-loop street.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Fascia, skirts, and trim on original Bonanza lots fail at joints before the paint does. We repair what is soft so a new coat is not covering an active leak.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Pond-facing decks and side-yard fences on 329 lagoon lots — clean, dry, repair what is soft, then finish. New height or posts still belong in the county and PEHOA conversation when they leave cosmetic maintenance.",
+      },
+    ],
+    estimateBandCopy:
+      "Ponderosa Estates house ready for paint, trim repair, or a pond-side deck restain? Free on-site estimate — call or send the form. We plan around Pierce County permits, PEHOA rules where they apply, and the school calendar on your parcel.",
+    processHeading: "Our Ponderosa Estates Process",
+    processSteps: [
+      {
+        title: "Ponderosa Estates Site Assessment",
+        body: "Lagoon vs. 203rd-facing exposure, access off South Prairie Road E, occupancy, manufactured-home vs. stick-built, septic setbacks, and whether PEHOA applies.",
+      },
+      {
+        title: "Ponderosa Estates Scope, Colors & HOA",
+        body: "Written scope before coating days. PEHOA architectural questions and Pierce County permit flags get named. Neighbor fences on a lagoon loop get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and collector film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated 1960s siding and shaded deck wood.",
+      },
+      {
+        title: "Ponderosa Estates Paint / Build Days",
+        body: "Weather windows after lagoon shade; school-year timing on 234th Avenue E, 199th Avenue Court E, and South Prairie Road E. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Ponderosa Estates Homeowners Association",
+        url: "https://ponderosaestates.org/about/",
+        description:
+          "The neighborhood’s own history of the mid-1960s Bonanza plat, the 329 lots around the lagoon and park, and the 1992 road district that deeded the streets to Pierce County. We use it to confirm CC&Rs — not as a substitute for walking your lot.",
+      },
+      {
+        name: "Pierce County Development Center",
+        url: "https://www.piercecountywa.gov/applyforapermit",
+        description:
+          "Where Ponderosa Estates parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. The City of Bonney Lake building desk only applies if the lot actually sits inside city limits — these loops generally do not.",
+      },
+      {
+        name: "Foothills Elementary School",
+        url: "https://foothills.whiteriver.wednet.edu/",
+        description:
+          "White River’s campus at 10621 234th Avenue E in Buckley — the weekday clock for many east-side Ponderosa lots. Assignment is still parcel-specific; we do not invent an elementary from the Bonney Lake mailbox.",
+      },
+      {
+        name: "Cedarview Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+        description:
+          "Bonney Lake’s playground and picnic park at 93rd Street E between 206th and 208th Avenue E — just north of the Ponderosa loops, inside the city. It is not the HOA lagoon in the middle of the 1960s plat, and it is not a separate neighborhood page.",
+      },
+      {
+        name: "Bonney Lake Pierce County Library",
+        url: "https://mypcls.org/visit-the-library/locations-hours/",
+        description:
+          "The branch at 18501 90th Street E — indoor research time for color samples and occupied-home sequencing when SR 410 weather keeps a Ponderosa exterior on hold.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Ponderosa Estates runs on county-road and lagoon rhythm: 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and weekday bells that split by parcel. Confirm whether you sit in [White River School District](https://www.whiteriver.wednet.edu/) — including [Foothills Elementary](https://foothills.whiteriver.wednet.edu/) at 10621 234th Avenue E and [Glacier Middle School](https://glacier.whiteriver.wednet.edu/) at 240 North C Street in Buckley — or in [Sumner-Bonney Lake School District](https://www.sumnersd.org/). We do not invent a neighborhood elementary from the 98391 mailbox.",
+      "Structural decks and fence-height changes on these unincorporated streets typically start with the [Pierce County Development Center](https://www.piercecountywa.gov/applyforapermit). Plumbing that touches a drain field still belongs with the [Tacoma-Pierce County Health Department](https://www.tpchd.org/). Power sits with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that lagoon-and-school rhythm — not as a name-swap of [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E, [Quiet Water](/service-areas/lake-tapps/quiet-water) east of 214th, or [Victor Falls](/service-areas/lake-tapps/victor-falls) on Rhodes Lake Road E.",
+    ],
+  },
 ];

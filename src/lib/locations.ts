@@ -134,7 +134,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "Pierce County",
     heroTitle: "Painting & Remodeling Contractor in Lake Tapps, WA",
     heroDescription:
-      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations — including Tapps Island, Deer Island, Snag Island, Inlet Island, Driftwood Point, West Tapps, Allan Yorke, Tacoma Point, Prairie Ridge, North Lake Tapps around the county park, Lake Jane Estates around Debra Jane Lake, Victor Falls along Rhodes Lake Road E and Fennel Creek, Quiet Water east of 214th Avenue E, Downtown Bonney Lake along Main Street E, Veterans Memorial Drive E, and SR 410, and the plateau. Free estimates. Call (253) 414-3937.",
+      "Local Lake Tapps contractor for interior & exterior painting, cabinet refinishing, decks, fences, and home renovations — including Tapps Island, Deer Island, Snag Island, Inlet Island, Driftwood Point, West Tapps, Allan Yorke, Tacoma Point, Prairie Ridge, North Lake Tapps around the county park, Lake Jane Estates around Debra Jane Lake, Victor Falls along Rhodes Lake Road E and Fennel Creek, Quiet Water east of 214th Avenue E, Downtown Bonney Lake along Main Street E, Veterans Memorial Drive E, and SR 410, Ponderosa Estates on 101st Street E and 203rd Avenue E south of SR 410, and the plateau. Free estimates. Call (253) 414-3937.",
     metaTitle: "Lake Tapps Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Licensed painting, remodeling, deck & fence contractor in Lake Tapps, WA. Interior/exterior paint, cabinets, waterfront decks. Free estimates. (253) 414-3937.",
@@ -153,6 +153,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Victor Falls / Rhodes Lake Road",
       "Quiet Water / 214th Avenue E",
       "Downtown Bonney Lake / Main Street E",
+      "Ponderosa Estates / 101st Street E",
       "West Hylebos Wetlands",
       "Daffodil Valley",
     ],
@@ -184,7 +185,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Do you serve Tapps Island, Deer Island, and the rest of Lake Tapps?",
         answer:
-          "Yes. We work Tapps Island, Deer Island, Snag Island, Inlet Island and Maple Point off 64th Street E, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point on the northwest peninsulas, inland Prairie Ridge along 128th Street E and 215th Avenue E, North Lake Tapps along 198th Ave E and 9th St E by the county park, Lake Jane Estates on 68th Street E and McGhee Drive E around Debra Jane Lake, Victor Falls on Rhodes Lake Road E and 188th Avenue Court E around Fennel Creek, Quiet Water on Quiet Water Loop E east of 214th Avenue E, Downtown Bonney Lake on Main Street E, Veterans Memorial Drive E, and SR 410, the Lake Tapps Plateau, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
+          "Yes. We work Tapps Island, Deer Island, Snag Island, Inlet Island and Maple Point off 64th Street E, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point on the northwest peninsulas, inland Prairie Ridge along 128th Street E and 215th Avenue E, North Lake Tapps along 198th Ave E and 9th St E by the county park, Lake Jane Estates on 68th Street E and McGhee Drive E around Debra Jane Lake, Victor Falls on Rhodes Lake Road E and 188th Avenue Court E around Fennel Creek, Quiet Water on Quiet Water Loop E east of 214th Avenue E, Downtown Bonney Lake on Main Street E, Veterans Memorial Drive E, and SR 410, Ponderosa Estates on 101st Street E, 104th Street E, 203rd Avenue E, and LaRita Drive E south of SR 410, the Lake Tapps Plateau, Bonney Lake, and nearby Pierce County communities including Sumner, Auburn, and Edgewood.",
       },
       {
         question: "What painting services do you offer in Lake Tapps?",
@@ -206,7 +207,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Your Local Lake Tapps Painting & Remodeling Team",
-        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets — from gated Tapps Island off Island Parkway East to Deer Island Drive E, Snag Island, Inlet Island and Maple Point off 64th Street E, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point off Lake Tapps Parkway E, inland Prairie Ridge along 128th Street E and 215th Avenue E, North Lake Tapps along 198th Ave E and 9th St E by the county park, Lake Jane Estates on 68th Street E and McGhee Drive E around private Debra Jane Lake, Victor Falls on Rhodes Lake Road E and 188th Avenue Court E around the Fennel Creek ravine, Quiet Water on Quiet Water Loop E east of 214th Avenue E, Downtown Bonney Lake on Main Street E, Veterans Memorial Drive E, and the SR 410 civic campus, and the plateau. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
+        body: "Lane Home & Business Services LLC is rooted in Lake Tapps. That means we understand reservoir humidity, elevated decks, and the finish quality neighbors notice on lakeside streets — from gated Tapps Island off Island Parkway East to Deer Island Drive E, Snag Island, Inlet Island and Maple Point off 64th Street E, Driftwood Point, West Tapps, Allan Yorke around the south-end city park, Tacoma Point and Evergreen Point off Lake Tapps Parkway E, inland Prairie Ridge along 128th Street E and 215th Avenue E, North Lake Tapps along 198th Ave E and 9th St E by the county park, Lake Jane Estates on 68th Street E and McGhee Drive E around private Debra Jane Lake, Victor Falls on Rhodes Lake Road E and 188th Avenue Court E around the Fennel Creek ravine, Quiet Water on Quiet Water Loop E east of 214th Avenue E, Downtown Bonney Lake on Main Street E, Veterans Memorial Drive E, and the SR 410 civic campus, Ponderosa Estates on 101st Street E and 203rd Avenue E around the mid-1960s lagoon plat south of SR 410, and the plateau. Whether you need a full exterior repaint, a kitchen cabinet refresh, or a deck rebuild, you get licensed, insured craftsmanship with clear communication.",
       },
       {
         heading: "Services Built for Lakeside Living",
