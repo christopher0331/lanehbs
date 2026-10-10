@@ -419,6 +419,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Cherokee Bay", path: "/service-areas/maple-valley/cherokee-bay" },
       { name: "Lake Retreat", path: "/service-areas/maple-valley/lake-retreat" },
       { name: "Elk Run", path: "/service-areas/maple-valley/elk-run" },
+      {
+        name: "Lake Forest Estates",
+        path: "/service-areas/maple-valley/lake-forest-estates",
+      },
     ],
     knownLinks: [
       { name: "City of Maple Valley", url: "https://www.maplevalleywa.gov/" },
@@ -504,6 +508,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Tahoma High School",
         url: "https://tahomahighschool.tahomasd.us/",
+      },
+      {
+        name: "Lake Forest Estates HOA",
+        url: "https://lakeforestestateshoa.com/",
       },
     ],
     peers: [
