@@ -94,6 +94,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Downtown Bonney Lake",
         path: "/service-areas/lake-tapps/downtown-bonney-lake",
       },
+      {
+        name: "Ponderosa Estates",
+        path: "/service-areas/lake-tapps/ponderosa-estates",
+      },
     ],
     knownLinks: [
       {
