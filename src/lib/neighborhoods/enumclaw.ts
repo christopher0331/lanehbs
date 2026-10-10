@@ -1783,7 +1783,7 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     introLead:
       "SE Mud Mountain Road is the working driveway for acreage houses, shops, and a few White River lots — and it is also the public approach to Mud Mountain Dam Park and the south trailhead for Pinnacle Peak Park. That is a different job than Osceola’s SE 448th / SE 456th Way heritage loop, and it is not the generic “plateau lot” page. Siding picks up film from 410 and recreation weekends; river elevations stay wet; open pasture walls take wind off the cone locals call Mount Peak, Mount Pete, or Pinnacle Peak.",
     introBody:
-      "Lane Home & Business Services LLC estimates Mud Mountain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE Mud Mountain Road or claim we painted a named river deck. We will walk your trim, shop siding, and fence posts honestly, then tell you the parcel is almost certainly King County before anyone talks color. We are not building a separate Mount Peak, Pinnacle Peak, or Suntop page; the cone and the dam sit on this corridor. This is also not Greenwater — the Pierce County highway hamlet at the Greenwater and White River confluence farther east on SR 410.",
+      "Lane Home & Business Services LLC estimates Mud Mountain jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE Mud Mountain Road or claim we painted a named river deck. We will walk your trim, shop siding, and fence posts honestly, then tell you the parcel is almost certainly King County before anyone talks color. The north side of the cone — Cal Magnusson at 276th Avenue SE and SE 472nd Street, off 284th Avenue SE — is the Mount Peak neighborhood, not this dam-road page. The south trailhead near SE 481st Street stays here. We are not building a separate Suntop page. This is also not Greenwater — the Pierce County highway hamlet at the Greenwater and White River confluence farther east on SR 410.",
     trustCards: [
       {
         icon: "car",
@@ -1838,7 +1838,7 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     considerations: [
       {
         heading: "Mud Mountain Dam and Pinnacle Peak traffic on the same road",
-        body: "The Corps park at 30525 SE Mud Mountain Road runs seasonal hours, a wading pool, picnic shelters, and trailheads. Pinnacle Peak’s southern trailhead sits on SE Mud Mountain Road near SE 481st Street; the Cal Magnusson lot is a different approach at 276th Avenue SE and SE 472nd Street. We stage so we are not the extra trailer on a recreation shoulder. This is public-county and federal-park congestion, not Elk Meadows sidewalk parking and not downtown alley access.",
+        body: "The Corps park at 30525 SE Mud Mountain Road runs seasonal hours, a wading pool, picnic shelters, and trailheads. Pinnacle Peak’s southern trailhead sits on SE Mud Mountain Road near SE 481st Street. The Cal Magnusson lot at 276th Avenue SE and SE 472nd Street is the north approach on the Mount Peak side of the cone, not this dam road. We stage so we are not the extra trailer on a recreation shoulder. This is public-county and federal-park congestion, not Elk Meadows sidewalk parking and not downtown alley access.",
       },
       {
         heading: "Mud Mountain two exposures — river lots and Mount Peak pasture",
@@ -1946,7 +1946,7 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Daily life on Mud Mountain runs on a dam-road and in-town school rhythm: acreage errands off SR 410, weekend hikers at [Pinnacle Peak Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak), and picnic hours at [Mud Mountain Dam Park](https://www.nws.usace.army.mil/Missions/Civil-Works/Locks-and-Dams/Mud-Mountain-Dam/Recreation/). Households track [Enumclaw School District](https://www.enumclaw.wednet.edu/) calendars, including [Southwood Elementary](https://swe.enumclaw.wednet.edu/) on McDougall Avenue and [Enumclaw Middle School](https://ems.enumclaw.wednet.edu/) on Semanski Street South.",
-      "Structural decks and shops on these unincorporated streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). Confirm the parcel before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that recreation-and-school rhythm — not as a name-swap of Osceola’s farm-grid loop, Newaukum Creek’s Green River tributary, an Elk Meadows PUD packet, or [Greenwater](/service-areas/enumclaw/greenwater) farther up SR 410.",
+      "Structural decks and shops on these unincorporated streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use). Confirm the parcel before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that recreation-and-school rhythm — not as a name-swap of Osceola’s farm-grid loop, Newaukum Creek’s Green River tributary, an Elk Meadows PUD packet, or [Greenwater](/service-areas/enumclaw/greenwater) farther up SR 410. The Cal Magnusson approach just south of town is [Mount Peak](/service-areas/enumclaw/mount-peak).",
     ],
   },
   {
@@ -2167,6 +2167,226 @@ export const enumclawNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Greenwater runs on a two-lane and river-confluence rhythm: errands west through Enumclaw, weekend hikers at [Federation Forest State Park](https://parks.wa.gov/find-parks/state-parks/federation-forest-state-park), and summer stacks toward [Mount Rainier’s SR 410 north entrance](https://www.nps.gov/places/sr410-north-entrance-arch.htm). Households track [Enumclaw School District](https://www.enumclaw.wednet.edu/) calendars; the district lists Greenwater among the communities its buses serve.",
       "Structural decks and shops on these unincorporated streets typically start with the [Pierce County Development Center](https://www.piercecountywa.gov/applyforapermit). Confirm the parcel before you assume [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use) or the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/) in Enumclaw. We schedule coatings around that byway-and-school rhythm — not as a name-swap of [Mud Mountain](/service-areas/enumclaw/mud-mountain)’s dam road, Cumberland’s mining grid, or an Elk Meadows PUD packet.",
+    ],
+  },
+  {
+    slug: "mount-peak",
+    name: "Mount Peak",
+    description:
+      "Farmland and acreage just south of Enumclaw around the volcanic cone — SE 472nd Street, 276th Avenue SE, and 284th Avenue SE past the Expo Center.",
+    blurb:
+      "On Mount Peak — SE 472nd Street at 276th Avenue SE, and 284th Avenue SE south from the Enumclaw Expo Center — Lane HBS paints wind-exposed exteriors, repairs soft house and shop wood, and stains pasture fences and decks. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for open-farmland wind, UV, and shaded north walls",
+      "Deck stain and pasture-fence work after wash and dry time",
+      "Carpentry before paint on house, shop, and barn siding",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence on Mount Peak?",
+        answer:
+          "Repainting siding and restaining an existing deck are usually maintenance. New decks, structural rail changes, accessory buildings, and some fence-height changes typically go through King County Local Services — many parcels around the cone are unincorporated even when the mailbox says Enumclaw 98022. Lots closer to town can sit in the city instead. We name the desk on the free estimate instead of guessing from a 472nd milepost. Cosmetic paint is not a King County Parks trail permit.",
+      },
+      {
+        question:
+          "What prep fits Mount Peak’s mix of open wind, summer UV, and a forested north slope?",
+        answer:
+          "Houses on the farmland around the cone take wind-driven rain and sun on south and west walls. North elevations toward the forested Cal Magnusson slope stay damp and grow mildew. Elevations facing 284th Avenue SE and SE 472nd Street also pick up film from Expo Center events and trailhead weekends. We wash, scrape failed coatings, prime bare wood, and repair soft fascia before color. A stain-only bid that skips that inspection does not last on a pasture fence that faces the plateau one week and shade off the cone the next.",
+      },
+      {
+        question: "How do you price painting and remodeling on Mount Peak?",
+        answer:
+          "Repair quantity on house vs. shop or barn wood, wash-and-dry time after wind-driven rain and shade, gravel-drive staging, occupied interiors, and whether a pasture fence or deck is in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Mount Peak exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors, decks, and pasture fences depend on wash-dry windows and any carpentry. Shops and barns are separate elevations. We write the calendar after we see the parcel — we do not coat damp boards so a house looks finished before a fair weekend on 284th.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and around trailhead, Expo, and school traffic?",
+        answer:
+          "Yes. Most Mount Peak houses are occupied, and a pasture gate still has to work when animals are on the lot. We phase rooms, protect entries, and plan trailer placement on SE 472nd Street, 276th Avenue SE, and 284th Avenue SE so we are not extra overflow when the Cal Magnusson shoulder is full or the Enumclaw Expo Center is hosting. Weekday clocks follow Enumclaw School District. Elementary assignment is address-specific. Enumclaw Middle and Enumclaw High on Semanski Street South are the in-town secondary campuses — not Thunder Mountain’s queue on 264th.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Mount Peak is the farmland just south of Enumclaw around King County’s volcanic cone — SE 472nd Street and 276th Avenue SE at the Cal Magnusson trailhead, reached from SR 410 south on 284th Avenue SE at the Enumclaw Expo Center. Paint, fences, and decks here face open plateau weather and weekend trail and event traffic, not a Cole Street storefront and not Mud Mountain’s dam road.",
+    mapQuery: "276th Avenue SE and SE 472nd Street, Enumclaw, WA",
+    latitude: 47.1788,
+    longitude: -121.9736,
+    geoRadiusMeters: 1800,
+    introHeading: "A Volcanic Cone, a Fairgrounds Avenue, and Wood in the Wind",
+    introLead:
+      "Locals call this cone Mount Peak, Mount Pete, or Pinnacle Peak. King County’s Pinnacle Peak Park is the forested knob one mile southeast of downtown Enumclaw, surrounded by farmland with the White River valley to the east. The Cal Magnusson Trail starts at the corner of 276th Avenue SE and SE 472nd Street. From SR 410, the approach is south on 284th Avenue SE at the Enumclaw Expo Center — the former King County Fairgrounds at 45224 284th Avenue SE — then west on SE 472nd Street. USGS lists the summit at 1,801 feet. This is the Enumclaw cone, not the Pinnacle Peak in Mount Rainier’s Tatoosh Range, and it is not Osceola’s heritage loop on SE 448th Street and SE 456th Way.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Mount Peak jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE 472nd Street or claim we painted a named pasture fence. We will walk your siding, shop wood, and fence posts honestly, then tell you whether the parcel is King County or the City of Enumclaw before anyone talks color. The south trailhead on SE Mud Mountain Road near SE 481st Street stays with Mud Mountain. We are not building a separate Cal Magnusson, 284th Avenue, or Expo Center page. Those places sit on this approach. This is also not Greenwater, the Pierce County highway hamlet farther east on SR 410.",
+    trustCards: [
+      {
+        icon: "wind",
+        title: "Open farmland wind, not a sheltered cul-de-sac",
+        body: "King County describes the cone as rising out of surrounding farmland. South and west siding, decks, and pasture fences take wind-driven rain and summer UV with little canopy. We wash that film and let wood dry before coating. A weekend spray over damp boards fails first on the weather side.",
+      },
+      {
+        icon: "trees",
+        title: "A forested north slope next to open pasture",
+        body: "The Cal Magnusson climb is a steep forested trail. North walls and fences toward that slope stay shaded and pick up mildew even while the south elevation is bleaching. We spec wash and dry time for the lot you own — not a single color coat for every side.",
+      },
+      {
+        icon: "car",
+        title: "Expo weekends and a small trailhead lot",
+        body: "284th Avenue SE carries event traffic to the Enumclaw Expo Center at 45224 284th Avenue SE. The Cal Magnusson lot at 276th Avenue SE and SE 472nd Street is small, with shoulder parking when hikers fill it. We stage wash water and trailers so gravel drives still work.",
+      },
+      {
+        icon: "clipboard",
+        title: "King County on many lots, city on some",
+        body: "A 98022 mailbox does not put every SE 472nd parcel in the Enumclaw Building Division. Structural decks, shops, and many fences on unincorporated lots start at King County Permitting. Cosmetic paint is usually maintenance. We ask which rules apply instead of copying a Holdener Farm packet onto a pasture lane.",
+      },
+    ],
+    reviewNames: ["David R.", "Tina W.", "Jennifer L."],
+    galleryHeading: "Our Work Near Mount Peak",
+    galleryNote:
+      "Owned Lane HBS photos of exterior, deck, and fence-side work from Enumclaw-area and nearby jobs. They illustrate weather-facing acreage and outdoor work — not geo-tagged to SE 472nd Street, 276th Avenue SE, or 284th Avenue SE.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior house painting after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Stained deck boards and rail",
+        caption: "Deck staining after wash and dry time",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New cedar railing with metal balusters",
+        caption: "Outdoor rail work — nearby project, not a Mount Peak address",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these on Mount Peak",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Deck and exterior refresh — nearby Enumclaw-area home",
+      body: "Open-plateau decks and wind-facing siding fail when damp boards and a busy trail or fair weekend get a one-coat shortcut. On a nearby Enumclaw-area deck we washed, let the wood dry, repaired what was soft, and stained only after moisture said so. The photo is owned Lane HBS work in the parent-city region — not a house on SE 472nd Street or a fence at the Cal Magnusson lot. Timeline followed dry windows, occupied-home access, and how 284th Avenue SE already carries trailers when the Expo Center or the north trailhead is busy. We do not invent linear footage or a street name for a job we cannot verify.",
+    },
+    considerationsHeading: "Mount Peak-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Mount Peak trailhead shoulders and Expo traffic on 284th",
+        body: "The Cal Magnusson trailhead is a small lot plus road-shoulder parking at 276th Avenue SE and SE 472nd Street. The Enumclaw Expo Center at 45224 284th Avenue SE — the former King County Fairgrounds — puts fair, rodeo, and show traffic on the same avenue WTA uses to reach that lot. We stage so we are not the extra trailer on a recreation shoulder. This is county-park and event congestion, not Elk Meadows sidewalk parking and not Mud Mountain’s dam-gate picnic overflow.",
+      },
+      {
+        heading: "Mount Peak two exposures — open pasture and the forested cone",
+        body: "Not every wall here sees the same weather. South and west elevations on the farmland take wind and UV. North sides toward the forested slope stay damp. The White River valley is the view to the east; these lots are not the river-frontage parcels on SE Mud Mountain Road. Washing is the job either way. Coating damp wood so the house looks finished for a hike weekend is how last year’s paint already looks tired.",
+      },
+      {
+        heading: "Mount Peak county permits and no Holdener color board",
+        body: "Many of these parcels are unincorporated King County. Structural decks, shops, and additions start at Permitting — not the Enumclaw Building Division used on Cole Street, and not an Elk Meadows PUD packet. Some lots nearer town are inside the city. We ask which rules apply. A parks trail permit is not your building desk, and we do not invent an HOA palette for a pasture lane.",
+      },
+      {
+        heading: "Occupied days around in-town Enumclaw schools",
+        body: "These are primary homes on acreage — farmhouses, later houses, shops, and barns — not weekend cabins and not a sidewalk row. Bedrooms and kitchens stay in use. We contain rooms and sequence noisy wash around Enumclaw School District calendars. Elementary lines are address-specific; the district publishes a boundary map. Enumclaw Middle at 550 Semanski Street South and Enumclaw High at 226 Semanski Street South are the in-town secondary campuses. That is a short drive into town, not Thunder Mountain’s 264th queue and not a campus at the trailhead.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost on Mount Peak",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Mount Peak pricing moves with house-vs-shop repair quantity, wind and shade dry time, gravel-drive and event-weekend staging, occupied interiors, and whether a pasture fence or deck belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wind, UV, and a damp north slope",
+        body: "Open pasture walls and shaded fences toward the cone need different wash-dry labor before any coating. Cheap quotes skip the difference and fail on the wet or the weathered elevation first.",
+      },
+      {
+        title: "Access when the trailhead or Expo is full",
+        body: "Hiker shoulders on SE 472nd Street and event traffic on 284th Avenue SE change how long wash and material drops take. We price that time instead of pretending this is a closed subdivision.",
+      },
+      {
+        title: "Shops, pasture fences, and occupied rooms",
+        body: "Outbuildings and working fence lines are extra elevations. Lived-in houses take protection time. Permit questions for a new deck or shop are written into the schedule so they do not hide inside a paint bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Mount Peak exteriors need wash, scrape, and prime for plateau wind, summer UV, and mildew on the shaded side toward the cone — then coatings that can take King County winters.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Pasture fences and exposed decks — clean, dry, repair what is soft, then finish. Soil contact at posts is part of the look, not a stain over wet boards the morning the north lot fills.",
+      },
+      {
+        slug: "repairs-carpentry",
+        localDescription:
+          "Siding, soffit, and fascia repairs on house and shop wood so new paint is not hiding an active leak on a wind-facing acreage lot.",
+      },
+    ],
+    estimateBandCopy:
+      "Mount Peak house, shop, or pasture fence ready for paint? Free on-site estimate — call or send the form. We plan around SE 472nd and 284th traffic, wind versus shade, and whether the shop is in the same scope.",
+    processHeading: "Our Mount Peak Process",
+    processSteps: [
+      {
+        title: "Mount Peak Site Assessment",
+        body: "Wind versus shaded-slope exposure, trailhead and Expo access, occupied versus vacant, house versus shop, and fence or livestock logistics.",
+      },
+      {
+        title: "Mount Peak Scope, Colors & County Rules",
+        body: "King County permit questions when the work is structural — or the Enumclaw Building Division if the parcel is actually in the city. Neighbor sightlines from SE 472nd Street or 284th Avenue SE, and the fact that this is not a Holdener Farm color board.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash, scrape, prime, and carpentry on soft trim. This is the Lane HBS differentiator on previously coated plateau houses and shops.",
+      },
+      {
+        title: "Mount Peak Paint / Build Days",
+        body: "Weather windows plus hiker traffic at 276th and SE 472nd and event traffic on 284th Avenue SE. We do not wash a trailhead shoulder into overflow parking.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Punch list in daylight — house, shop, and gates. Licensed, insured closeout — LANEHHB7912R — same as every other Enumclaw job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Pinnacle Peak Park",
+        url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak",
+        description:
+          "King County’s volcanic cone one mile southeast of downtown Enumclaw — Mount Peak or Mount Pete locally. The Cal Magnusson trail is the steep forested climb from 276th Avenue SE and SE 472nd Street, about 1,000 feet up to the summit USGS lists at 1,801 feet, with columnar basalt and the concrete footings of the old fire lookout. Hiker parking is a staging problem for the houses on that corner. The south trailhead, on SE Mud Mountain Road near SE 481st Street, is a different road.",
+      },
+      {
+        name: "Enumclaw Expo Center",
+        url: "https://www.enumclawexpo.com/",
+        description:
+          "The former King County Fairgrounds at 45224 284th Avenue SE. Fair, rodeo, and show weekends use the same avenue that leads south from SR 410 toward SE 472nd Street. We treat that traffic as a staging constraint, not a brochure.",
+      },
+      {
+        name: "Enumclaw School District Boundary Maps",
+        url: "https://www.enumclaw.wednet.edu/page/district-boundary-maps/",
+        description:
+          "The district, headquartered at 2929 McDougall Avenue, serves Enumclaw and nearby unincorporated King County. Elementary assignment for a Mount Peak parcel is on this map — we do not guess a school from the trailhead.",
+      },
+      {
+        name: "Enumclaw Middle School",
+        url: "https://ems.enumclaw.wednet.edu/",
+        description:
+          "The in-town grades 6–8 campus at 550 Semanski Street South, with Enumclaw High School nearby at 226 Semanski Street South. That Semanski cluster is the secondary-school drive for this side of the plateau — a different clock than Thunder Mountain Middle School on 264th.",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
+        description:
+          "Structural decks, shops, fence-height questions, and additions on unincorporated streets around the cone typically start here — not at the Enumclaw Building Division on Cole Street and not at a parks trail desk. City review applies only if the parcel is inside Enumclaw.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life on Mount Peak runs on a farmland-and-trailhead rhythm: errands north into Enumclaw, weekend hikers at the Cal Magnusson lot in [Pinnacle Peak Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak), and event traffic on 284th Avenue SE at the [Enumclaw Expo Center](https://www.enumclawexpo.com/). Households track [Enumclaw School District](https://www.enumclaw.wednet.edu/) calendars. Elementary lines are on the [district boundary map](https://www.enumclaw.wednet.edu/page/district-boundary-maps/); [Enumclaw Middle School](https://ems.enumclaw.wednet.edu/) on Semanski Street South is the in-town secondary campus.",
+      "Structural decks and shops on these streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use) when the parcel is unincorporated. Confirm the lot before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that trail-and-school rhythm — not as a name-swap of [Osceola](/service-areas/enumclaw/osceola)’s heritage loop, [Mud Mountain](/service-areas/enumclaw/mud-mountain)’s dam road and south trailhead, or [Greenwater](/service-areas/enumclaw/greenwater) farther up SR 410.",
     ],
   },
 ];
