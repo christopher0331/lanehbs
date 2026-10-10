@@ -484,7 +484,7 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     introLead:
       "Streets around Lake Wilderness Park and the arboretum stay busy with walkers, events, and school-adjacent traffic. Homes pick up humidity from the lake and shade from mature trees. Curb appeal is public here — people walk past your fence on the way to the park.",
     introBody:
-      "Lane HBS treats Lake Wilderness as a core Maple Valley coverage area, not a distant add-on. We will not invent a Gaffney Road project count. We will estimate wash, deck condition, and occupied interiors honestly, then schedule around park-event weekends when the street is already full.",
+      "Lane HBS treats Lake Wilderness as a core Maple Valley coverage area, not a distant add-on. We will not invent a Gaffney Road project count. We will estimate wash, deck condition, and occupied interiors honestly, then schedule around park-event weekends when the street is already full. The Lake Forest Estates HOA pocket on SE 253rd Place — between SR 169 and the east shore — is a different page: private waterfront park, ACC color review, and highway-facing lots, not the public Witte Road beach.",
     trustCards: [
       {
         icon: "waves",
@@ -1073,7 +1073,7 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     ],
     localLivingParagraphs: [
       "Four Corners daily life runs on [Tahoma School District](https://www.tahomasd.us/) bells, errands at the SR 169 / Kent-Kangley shops, and weekends that still end at [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5) or [Summit Park](https://www.maplevalleywa.gov/government/departments/parks_and_recreation/parks_and_trails.php) on SE Tahoma Way. Permit questions start at [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and the [City of Maple Valley](https://www.maplevalleywa.gov/). Trail days often pick up the [Cedar River Trail](https://kingcounty.gov/en/dept/local-services/transit-transportation-roads/roads-and-bridges/trails) via the Green-to-Cedar corridor near the [Legacy Site](https://www.maplevalleywa.gov/government/departments/community_development/legacy_site.php).",
-      "Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). Broader recreation sits with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule Four Corners coatings around arterial access, school traffic, and those calendars — not as a name-swap of [Elk Run](/service-areas/maple-valley/elk-run)’s former-golf-course courts on SE 277th Place west of 228th Avenue SE.",
+      "Indoor hours still include the [King County Library System](https://kcls.org/), and power is [Puget Sound Energy](https://www.pse.com/). Broader recreation sits with [King County Parks](https://kingcounty.gov/en/dept/natural-resources-parks/parks). We schedule Four Corners coatings around arterial access, school traffic, and those calendars — not as a name-swap of [Elk Run](/service-areas/maple-valley/elk-run)’s former-golf-course courts on SE 277th Place west of 228th Avenue SE, or [Lake Forest Estates](/service-areas/maple-valley/lake-forest-estates) on SE 253rd Place between SR 169 and the east shore of Lake Wilderness.",
     ],
   },
   {
@@ -3692,6 +3692,226 @@ export const mapleValleyNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Elk Run runs on a court-and-collector rhythm: SE 277th Place, SE 279th Street, 226th Court SE, 227th Court SE, and weekday bells in [Tahoma School District](https://www.tahomasd.us/). Nearby campuses include [Glacier Park Elementary](https://glacierpark.tahomasd.us/) at 23700 SE 280th Street, [Tahoma High School](https://tahomahighschool.tahomasd.us/) at 23499 SE Tahoma Way, and [Maple View Middle School](https://mapleview.tahomasd.us/) at 18200 SE 240th Street in Covington when that is the assignment. Confirm your campus — we do not invent a neighborhood elementary from the 98038 mailbox, and Maple View is a school, not a separate neighborhood page.",
       "Structural decks and fence-height changes on these incorporated streets typically start with [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building). Farm days and the gravel entrance sit at [Elk Run Farm](https://skcfc.org/elk-run-farm/) on 228th. Indoor research time often goes to [Maple Valley Library](https://kcls.org/locations/maple-valley/) at 21844 SE 248th Street. Power sits with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that greenbelt-and-school rhythm — not as a name-swap of [Four Corners](/service-areas/maple-valley/four-corners) retail, [Maple Ridge Highlands](/service-areas/maple-valley/maple-ridge-highlands) on SE Maple Ridge Drive, or Enumclaw’s [Elk Meadows](/service-areas/enumclaw/elk-meadows).",
+    ],
+  },
+  {
+    slug: "lake-forest-estates",
+    name: "Lake Forest Estates",
+    description:
+      "Maple Valley city HOA between SR 169 and the east shore of Lake Wilderness — SE 253rd Place loops, ACC earth-tone colors, and a private waterfront park, not the public Witte Road beach.",
+    blurb:
+      "On SE 253rd Place, 232nd Avenue SE, 234th Avenue SE, 235th Way SE, and 236th Court SE, Lane HBS paints exteriors, refreshes occupied interiors, and stains decks inside Maple Valley’s Lake Forest Estates HOA. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for wood-look siding, lake humidity, and SR 169 film",
+      "ACC color packets and occupied interiors on cul-de-sac loops",
+      "Deck and fence work that stays out of Native Growth Protection Tracts",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, build a deck, or replace a fence in Lake Forest Estates?",
+        answer:
+          "Repainting siding and restaining an existing deck or fence are usually maintenance at the city. New decks, rail-height changes, accessory buildings, and some fence-height changes typically go through Maple Valley Building — Lake Forest Estates is inside the city, not unincorporated King County. The plat also has an Architectural Control Committee. The May 2004 CC&Rs (King County BALD File No. 888-21) require written ACC review for exterior color changes, new fences, and accessory structures. Native Growth Protection Tracts G, H, and I, plus building-setback lines toward Lake Wilderness, need Maple Valley Public Works before decks, patios, or tree work go past those lines. We name the city desk and the current ACC process on the free estimate instead of guessing from the public beach on Witte Road.",
+      },
+      {
+        question:
+          "What prep fits Lake Forest Estates’ lake humidity, SR 169 film, and wood-look siding?",
+        answer:
+          "These are city-street family houses on the east shore of Lake Wilderness — SE 253rd Place in from SR 169, then 232nd Avenue SE, 233rd Avenue SE, 234th Avenue SE, 235th Way SE, 236th Court SE, SE 252nd Court, and SE 254th Street — not the public park lawn and not Four Corners stall-row retail. Shore lots pick up lake moisture and native-growth shade. Lots along the SR 169 berm pick up highway film on the landscape fence the association paints on the highway face. The CC&Rs call for resawn wood or wood-appearance siding and trim; vinyl is not an accepted replacement. We wash mildew and film, scrape failed coatings, prime bare wood, and repair fascia before color. A stain-only bid that skips that inspection does not last on a shaded east-shore elevation.",
+      },
+      {
+        question: "How do you price painting and remodeling in Lake Forest Estates?",
+        answer:
+          "Story count, wash-and-dry time after lake shade or SR 169 film, trim carpentry on wood-look siding, occupied interiors, cul-de-sac planter staging, and whether Maple Valley review or an ACC color packet belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Lake Forest Estates exterior, deck, or interior take?",
+        answer:
+          "A straightforward occupied interior can be several days. Weather-facing exteriors and backyard decks depend on wash-dry windows after humidity and highway film come off, then on any carpentry. Lake Wilderness Elementary drop-off on Witte Road SE and Maple Valley Highway traffic at the SE 253rd Place entrance change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp boards so a house looks finished before a park Saturday.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on SE 253rd Place or the 232nd loops?",
+        answer:
+          "Yes. These are year-round family houses, not models. We phase rooms, protect entries, and plan trailer placement so SE 253rd Place, 232nd Avenue SE, 234th Avenue SE, 235th Way SE, 236th Court SE, and SE 254th Street stay usable for neighbors and the cul-de-sac planter islands the association maintains. We do not block the SR 169 entrance berm or the private waterfront park at 23192 SE 253rd Place. Elementary and middle-school assignment is parcel-specific in Tahoma School District; we follow the campus you actually run, including Lake Wilderness Elementary at 24216 Witte Road SE when that is the assignment. We are not building a separate SE 253rd Place, 232nd Avenue SE, Sawyer Crest, or Lake Wilderness Country Club page. Those names sit on this corridor.",
+      },
+    ],
+    image: "/images/from-lane/lane-01-46.jpg",
+    heroIntro:
+      "Lake Forest Estates is Maple Valley’s east-shore HOA between SR 169 and Lake Wilderness — SE 253rd Place, 232nd Avenue SE, and the 234th–236th loops. Paint, decks, and interiors here face private-park humidity, ACC earth-tone review, and highway film, not the public Witte Road beach and not Four Corners stall-row dust.",
+    mapQuery: "SE 253rd Place and 232nd Avenue SE, Maple Valley, WA",
+    latitude: 47.3736,
+    longitude: -122.0362,
+    geoRadiusMeters: 1400,
+    introHeading: "East-Shore Lots With a Private Park, Not the City Beach",
+    introLead:
+      "Lake Forest Estates’ working streets sit between Maple Valley Highway and the east shore of Lake Wilderness: SE 253rd Place at the Tract L entrance, 232nd Avenue SE, 233rd Avenue SE, 234th Avenue SE, 235th Way SE, 236th Court SE, SE 252nd Court, SE 252nd Street, SE 253rd Street, and SE 254th Street. The recorded plat (King County BALD File No. 888-21) set aside Tracts A and J as a private waterfront park, Tract F as private parking and recreation, and Native Growth Protection Tracts G, H, and I for shoreline and slope protection. That is a different geometry than Lake Wilderness Park’s public beach on Witte Road, and it is not Cherokee Bay’s private-road HOA on Pipe Lake and Lake Lucerne.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Lake Forest Estates jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 232nd Avenue SE or claim we painted the SR 169 association fence. We will walk your wood-look siding, backyard deck, and occupied interiors honestly, then send structural questions to Maple Valley Building and exterior-color questions to the Lake Forest Estates ACC at PO Box 782. The homeowners’ association incorporated on April 21, 2004 (UBI 602388351); the CC&Rs were revised that May after NOVASTAR Enterprises dedicated the common areas. The HOA park address is 23192 SE 253rd Place. This is not Cedar Downs off Witte Road SE and not Four Corners retail. We are not building a separate SE 253rd Place, 232nd Avenue, Sawyer Crest, or Lake Wilderness Country Club page.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus an ACC that reviews color",
+        body: "Lake Forest Estates is incorporated Maple Valley. A new deck is the city Building Division, not King County by default. The May 2004 CC&Rs also send exterior color changes, fences, and accessory structures to the Architectural Control Committee — generally muted earth tones, wood-look siding, no vinyl. We ask for today’s packet instead of copying a Four Corners storefront review or a public-park weekend onto SE 253rd Place.",
+      },
+      {
+        icon: "waves",
+        title: "Private shoreline humidity, not the Witte Road lawn",
+        body: "Second-class shorelands and Native Growth Protection Tracts keep east-shore decks and north fences damp. The association’s waterfront park at 23192 SE 253rd Place is resident use — not Lake Wilderness Park’s public beach. We wash and wait. This is not Cherokee Bay’s Pipe Lake canal and not a parking-lot wall.",
+      },
+      {
+        icon: "car",
+        title: "SR 169 film on the entrance berm",
+        body: "The association maintains the landscape berm, entrance signage, and the highway-facing paint on the SR 169 fence (including the Lots 91–93 face the HOA coats). Homeowner elevations that look at Maple Valley Highway still pick up that grit. We plan wash runoff so the berm and SE 253rd Place stay usable.",
+      },
+      {
+        icon: "home",
+        title: "Occupied family houses on cul-de-sac planters",
+        body: "Production plans with people living in them. Cul-de-sac planter islands on 252nd Court SE, SE 254th Street, 234th Avenue SE, 232nd Avenue SE, and 236th Court SE are association maintenance — we do not treat them as extra staging pads. Thirty-year wood-look siding, fascia, and deck wood need honest prep.",
+      },
+    ],
+    reviewNames: ["David R.", "Jennifer L.", "Tina W."],
+    galleryHeading: "Our Work Near Lake Forest Estates",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, occupied interiors, and outdoor finish work from Maple Valley-area and nearby jobs. They illustrate the work type for east-shore family houses — not geo-tagged to SE 253rd Place, 232nd Avenue SE, or the private HOA park.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-01-46.jpg",
+        alt: "Elevated deck and grey exterior on a residential home",
+        caption: "Elevated deck and exterior refresh — nearby Lane HBS work",
+      },
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep",
+      },
+      {
+        src: "/images/from-lane/lane-08-4766.jpg",
+        alt: "Interior hallway masked and primed for painting",
+        caption: "Interior painting in a lived-in house",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Lake Forest Estates",
+      image: "/images/from-lane/lane-03-45.jpg",
+      imageAlt: "Completed deck and exterior project",
+      serviceType: "Exterior painting and deck work — nearby Maple Valley-area home",
+      body: "Lake Forest Estates houses sit between a private waterfront park and an SR 169 berm — wood-look siding, backyard decks that cannot push into Native Growth Protection Tracts, and people living in them while the work happens. On a nearby Maple Valley-area exterior and deck we washed mildew and road film, repaired what was soft, and stained only after the wood was dry — the same occupied-home pattern a 232nd Avenue SE elevation needs when lake air is still on the boards and Maple Valley Highway is already moving at the SE 253rd Place entrance. The photo is owned Lane HBS work in the parent-city area, not a verified address on 234th Avenue SE or 236th Court SE. Timeline followed dry windows and cul-de-sac access, not a marketing weekend. We do not invent a street name or a linear-foot count for a job we cannot verify. On an actual Lake Forest Estates exterior we would also flag Maple Valley review for a new deck, Public Works if the work approaches an NGPE, and the ACC’s current earth-tone color process before paint hits the loop.",
+    },
+    considerationsHeading: "Lake Forest Estates-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Lake Forest Estates ACC review on a city parcel",
+        body: "Cosmetic same-color repaint is still usually maintenance at the city, but the CC&Rs send exterior color changes, fences, decks, sheds, and major landscaping to the Architectural Control Committee at PO Box 782. Samples of replacement siding and roofing go to the ACC; vinyl siding is written out. We ask for the current process instead of copying Four Corners retail hours or a public-park weekend onto 235th Way SE.",
+      },
+      {
+        heading: "Lake Forest Estates shoreline tracts and SR 169 staging",
+        body: "Native Growth Protection Tracts G, H, and I protect slopes and shoreline. No decks, patios, outbuildings, or overhangs past the building setback or inside those tracts without Maple Valley Public Works. The King County trail right-of-way across Tract B is not a material drop. Wash water, ladders, and trailers have to stay off neighbor drives, the Tract L entrance berm, and the private park at 23192 SE 253rd Place. This is not Lake Wilderness Park event parking on Witte Road, not Cedar Downs off Witte, and not Cherokee Bay’s private roads.",
+      },
+      {
+        heading: "Lake Forest Estates wood-look trim, decks, and occupied interiors",
+        body: "Resawn wood or wood-appearance siding and trim fail at joints and north-facing mildew first. Backyard decks take lake humidity at close range. Tract D is a private drive dedicated to Lots 51 and 52 — we do not treat it as a public cul-de-sac. A kitchen or bath remodel that moves plumbing still belongs in the city conversation. We repair before coating so new paint is not hiding an active leak, and we keep rooms livable — these are primary homes.",
+      },
+      {
+        heading: "Occupied days during Witte Road bells and highway hours",
+        body: "Tahoma School District sets the household clock. Lake Wilderness Elementary at 24216 Witte Road SE is the nearby Wildcats campus west of the lake — assignment is still parcel-specific, and Witte Road is not a Lake Forest Estates street. Maple Valley Highway at SE 253rd Place already carries through traffic. We contain rooms and time noisy wash so the entrance and the 232nd loops still work at bell time. We do not treat this plat as Four Corners retail hours or as the public beach lawn.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Lake Forest Estates",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Lake Forest Estates pricing moves with lake-side dry time, SR 169 film, wood-look trim repairs, occupied interiors, cul-de-sac access next to association planters, and whether Maple Valley or ACC review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Humidity, highway film, and dry time on an east-shore loop",
+        body: "North fences and park-facing decks stay damp longer than an open Four Corners parking-lot wall. SR 169 grit on the berm lots adds wash time. Cheap quotes skip that difference and fail on the backyard deck first.",
+      },
+      {
+        title: "Cul-de-sac access and entrance-berm timing",
+        body: "The loops share SE 253rd Place with the SR 169 entrance and the private park driveway. We price that staging time instead of pretending this is an empty county road or the public Witte Road lot.",
+      },
+      {
+        title: "Carpentry, ACC paperwork, and occupied rooms",
+        body: "Soft fascia, a fence that needs ACC approval, lived-in kitchens, and architectural or permit questions take calendar time. Those lines stay visible — not hidden inside a spray bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Lake Forest Estates exteriors need wash, scrape, and prime for lake humidity and SR 169 film on wood-look siding — then ACC-aware colors that can take neighbor scrutiny on a cul-de-sac planter loop.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and side-yard fences on east-shore lots — clean, dry, repair what is soft, then finish. New height, posts, or anything past an NGPE still belongs in the city, Public Works, and ACC conversation when it leaves cosmetic maintenance.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Year-round occupied houses on Tahoma calendars. We phase rooms and protect floors so the home stays usable through the job.",
+      },
+    ],
+    estimateBandCopy:
+      "Lake Forest Estates house ready for paint, an interior refresh, or a deck and fence restain? Free on-site estimate — call or send the form. We plan around Maple Valley permits, the Lake Forest Estates ACC, and SE 253rd Place highway hours.",
+    processHeading: "Our Lake Forest Estates Process",
+    processSteps: [
+      {
+        title: "Lake Forest Estates Site Assessment",
+        body: "Lake vs. SR 169 exposure, cul-de-sac access off SE 253rd Place, occupancy, whether an NGPE or Tract D private drive applies, and whether a deck, fence, or interior is in the same visit.",
+      },
+      {
+        title: "Lake Forest Estates Scope, Colors & HOA",
+        body: "Written scope before coating days. ACC color and material questions and Maple Valley permit flags get named. Neighbor fences on a planter-island court get agreed, not assumed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and highway film, scrape, carpentry, prime — the Lane HBS differentiator on previously coated wood-look siding and shaded deck wood.",
+      },
+      {
+        title: "Lake Forest Estates Paint / Build Days",
+        body: "Weather windows after lake humidity; school-year and highway timing on SE 253rd Place and Maple Valley Highway. We do not coat in a storm to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates walked in daylight. Licensed, insured closeout — LANEHHB7912R — same as every other Maple Valley-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "Lake Wilderness Park",
+        url: "https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5",
+        description:
+          "The city’s public beach, trails, and event lawn on the west side of the lake — the park Lake Forest Estates households actually drive to. It is not the private waterfront park at 23192 SE 253rd Place, and it is not a Lake Forest Estates street.",
+      },
+      {
+        name: "Lake Wilderness Arboretum",
+        url: "https://www.lakewildernessarboretum.org/",
+        description:
+          "The garden and forest sanctuary next to the public park. Same damp foothills air your north fence lives in, on the Witte Road side of the water rather than the SR 169 berm.",
+      },
+      {
+        name: "Lake Wilderness Elementary School",
+        url: "https://lakewilderness.tahomasd.us/",
+        description:
+          "Tahoma’s Wildcats campus at 24216 Witte Road SE — the nearby elementary west of the lake. Assignment is parcel-specific; we follow the campus on your notice, and we do not treat Witte Road as a Lake Forest Estates loop.",
+      },
+      {
+        name: "Lake Forest Estates HOA",
+        url: "https://lakeforestestateshoa.com/",
+        description:
+          "The association that holds the private waterfront park, the SR 169 entrance berm, and the ACC color process. The park address is 23192 SE 253rd Place; architectural mail still goes to PO Box 782.",
+      },
+      {
+        name: "Maple Valley Building Permits",
+        url: "https://www.maplevalleywa.gov/179/Building",
+        description:
+          "Where Lake Forest Estates parcels go once a deck, shop, or fence leaves the cosmetic-repaint category. Native Growth Protection questions also involve Maple Valley Public Works. King County Local Services applies only if the lot actually sits outside the city — these loops generally do not.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Lake Forest Estates runs on a cul-de-sac-and-highway rhythm: SE 253rd Place in from SR 169, 232nd Avenue SE toward the private park, and weekday bells in [Tahoma School District](https://www.tahomasd.us/). Nearby campuses include [Lake Wilderness Elementary](https://lakewilderness.tahomasd.us/) at 24216 Witte Road SE and [Tahoma High School](https://tahomahighschool.tahomasd.us/) at 23499 SE Tahoma Way. Confirm your campus — we do not invent a neighborhood elementary from the 98038 mailbox, and Witte Road is the public-park side of the lake, not a Lake Forest Estates street.",
+      "Structural decks and fence-height changes on these incorporated streets typically start with [Maple Valley Building Permits](https://www.maplevalleywa.gov/179/Building) and the [Lake Forest Estates HOA](https://lakeforestestateshoa.com/) ACC. Public swimming and events sit at [Lake Wilderness Park](https://www.maplevalleywa.gov/Facilities/Facility/Details/Lake-Wilderness-Park-5); the garden next door is the [Lake Wilderness Arboretum](https://www.lakewildernessarboretum.org/). Indoor research time often goes to [Maple Valley Library](https://kcls.org/locations/maple-valley/) at 21844 SE 248th Street. Power sits with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that east-shore-and-highway rhythm — not as a name-swap of the public [Lake Wilderness](/service-areas/maple-valley/lake-wilderness) park streets, [Four Corners](/service-areas/maple-valley/four-corners) retail, or [Cherokee Bay](/service-areas/maple-valley/cherokee-bay) on Pipe Lake.",
     ],
   },
 ];

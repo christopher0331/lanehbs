@@ -322,7 +322,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     county: "King County",
     heroTitle: "Painting & Remodeling Contractor in Maple Valley, WA",
     heroDescription:
-      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Elk Run on SE 277th Place west of 228th Ave SE, Lake Wilderness, Lake Desire, Lake Francis, Meadows at Rock Creek, Hobart, Shadow Lake, Cedar Downs, Maple Ridge Highlands, Dorre Don, Cherokee Bay, Lake Retreat on Retreat-Kanaskat Road SE & more. (253) 414-3937.",
+      "Maple Valley painting, remodeling, decks, and fences with clean job sites and lasting finishes. Serving Wilderness Rim, Summit, Tahoma, Four Corners, Elk Run on SE 277th Place west of 228th Ave SE, Lake Wilderness, Lake Forest Estates on SE 253rd Place between SR 169 and the east shore of Lake Wilderness, Lake Desire, Lake Francis, Meadows at Rock Creek, Hobart, Shadow Lake, Cedar Downs, Maple Ridge Highlands, Dorre Don, Cherokee Bay, Lake Retreat on Retreat-Kanaskat Road SE & more. (253) 414-3937.",
     metaTitle: "Maple Valley Painting & Remodeling Contractor | Lane HBS",
     metaDescription:
       "Maple Valley painting, remodeling, deck & fence contractor. Interior/exterior paint, cabinets, outdoor projects. Free estimates. (253) 414-3937.",
@@ -345,6 +345,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       "Cherokee Bay / Lake Lucerne",
       "Lake Retreat / Retreat-Kanaskat Road",
       "Elk Run / 228th Avenue SE",
+      "Lake Forest Estates / SE 253rd Place",
     ],
     climateDescription:
       "Maple Valley sits in the Cascade foothills with more precipitation and tree cover than many lowland suburbs. Shade, moss, and moisture mean exteriors and decks need washing, mildew awareness, and coatings chosen for wetter microclimates.",
@@ -374,7 +375,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
       {
         question: "Which Maple Valley neighborhoods do you serve?",
         answer:
-          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Elk Run on SE 277th Place, SE 279th Street, and 228th Avenue SE, Lake Wilderness communities, Lake Desire (Maple Heights–Lake Desire), Lake Francis along SE Lake Francis Road, Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs off Witte Road SE, Maple Ridge Highlands and Maple Woods on SE Maple Ridge Drive, Dorre Don along Dorre Don Way SE and the Cedar River, Cherokee Bay on SE 265th Way around Pipe Lake and Lake Lucerne, Lake Retreat on SE Lake Retreat North Drive and Retreat-Kanaskat Road SE, and Ravensdale.",
+          "We work across Maple Valley including Wilderness Rim, Summit, Tahoma along SE Tahoma Way, Four Corners, Elk Run on SE 277th Place, SE 279th Street, and 228th Avenue SE, Lake Wilderness communities, Lake Forest Estates on SE 253rd Place between SR 169 and the east shore of Lake Wilderness, Lake Desire (Maple Heights–Lake Desire), Lake Francis along SE Lake Francis Road, Meadows at Rock Creek along SE 268th Street, nearby Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs off Witte Road SE, Maple Ridge Highlands and Maple Woods on SE Maple Ridge Drive, Dorre Don along Dorre Don Way SE and the Cedar River, Cherokee Bay on SE 265th Way around Pipe Lake and Lake Lucerne, Lake Retreat on SE Lake Retreat North Drive and Retreat-Kanaskat Road SE, and Ravensdale.",
       },
       {
         question: "Do you handle HOA-friendly exterior colors?",
@@ -391,7 +392,7 @@ export const serviceAreaCities: ServiceAreaCity[] = [
     articleSections: [
       {
         heading: "Maple Valley’s Trusted Painting & Outdoor Contractor",
-        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Elk Run’s former-golf-course courts on SE 277th Place west of 228th Avenue SE, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, Lake Francis’s private kettle lake on SE Lake Francis Road, unincorporated Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs’ 1976 HOA lots off Witte Road SE, Maple Ridge Highlands’ 2007 hillside streets off SE Maple Ridge Drive, Dorre Don’s Cedar River lots on Dorre Don Way SE, Cherokee Bay’s private-road HOA on SE 265th Way south of Pipe Lake and Lake Lucerne, and Lake Retreat’s private 51-acre kettle lake on Retreat-Kanaskat Road SE, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
+        body: "From Wilderness Rim slopes to Summit streetscapes, Tahoma along SE Tahoma Way, Four Corners along SR 169 and Kent-Kangley, Elk Run’s former-golf-course courts on SE 277th Place west of 228th Avenue SE, Lake Forest Estates’ east-shore HOA on SE 253rd Place between SR 169 and Lake Wilderness, Meadows at Rock Creek on the SE 268th HOA streets, Lake Desire’s unincorporated two-lake pocket north of town, Lake Francis’s private kettle lake on SE Lake Francis Road, unincorporated Hobart along Issaquah-Hobart Road, Shadow Lake along Petrovitsky and Sweeney Road, Cedar Downs’ 1976 HOA lots off Witte Road SE, Maple Ridge Highlands’ 2007 hillside streets off SE Maple Ridge Drive, Dorre Don’s Cedar River lots on Dorre Don Way SE, Cherokee Bay’s private-road HOA on SE 265th Way south of Pipe Lake and Lake Lucerne, and Lake Retreat’s private 51-acre kettle lake on Retreat-Kanaskat Road SE, Lane HBS helps Maple Valley homeowners protect and upgrade their properties. Interior painting, exteriors, cabinets, decks, and fences — scoped clearly and finished carefully.",
       },
       {
         heading: "Foothills Moisture Demands Better Prep",
