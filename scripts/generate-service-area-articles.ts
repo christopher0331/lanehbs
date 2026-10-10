@@ -258,6 +258,7 @@ const AREAS: Record<string, AreaSeed> = {
       },
       { name: "Mud Mountain", path: "/service-areas/enumclaw/mud-mountain" },
       { name: "Greenwater", path: "/service-areas/enumclaw/greenwater" },
+      { name: "Mount Peak", path: "/service-areas/enumclaw/mount-peak" },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
@@ -310,6 +311,18 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Pinnacle Peak Park",
         url: "https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/trails/backcounty-trails/pinnacle-peak",
+      },
+      {
+        name: "Enumclaw School District Boundary Maps",
+        url: "https://www.enumclaw.wednet.edu/page/district-boundary-maps/",
+      },
+      {
+        name: "Enumclaw Middle School",
+        url: "https://ems.enumclaw.wednet.edu/",
+      },
+      {
+        name: "King County Permits, Inspections, and Codes",
+        url: "https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use",
       },
       {
         name: "Southwood Elementary",
