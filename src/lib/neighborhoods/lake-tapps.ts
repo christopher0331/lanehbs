@@ -2661,7 +2661,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     introLead:
       "Rhodes Lake Road E drops past a city park the town bought in 2013 so the public could finally stand at a fenced viewpoint over a 70-foot drop on Fennel Creek. Houses on 188th Avenue Court E, 119th Street Court E, 113th Street Court E, and Whiskey Run Road E sit in that same wooded pocket — moss on north siding, slick deck treads after a rain, and a collector road that already carries school and park traffic. That is a different job than Allan Yorke’s city launch, Lake Jane Estates’ still kettle lake, or Prairie Ridge’s inland county grid.",
     introBody:
-      "Lane Home & Business Services LLC estimates Victor Falls jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 188th Avenue Court E or claim we stained a named ravine deck. We will walk your trim, shaded deck, and occupied kitchen honestly, then send structural questions to the City of Bonney Lake — not Pierce County’s unincorporated desk and not Cascade Water Alliance — unless the parcel actually sits outside the city. Some plats still keep association packets; we read the one you have instead of assuming a single neighborhood HOA. Prep still starts the same way: wash, repair, prime, then coat. We are not building a separate Fennel Creek or Sky Island page; the falls, the school street, and the ravine are this neighborhood.",
+      "Lane Home & Business Services LLC estimates Victor Falls jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 188th Avenue Court E or claim we stained a named ravine deck. We will walk your trim, shaded deck, and occupied kitchen honestly, then send structural questions to the City of Bonney Lake — not Pierce County’s unincorporated desk and not Cascade Water Alliance — unless the parcel actually sits outside the city. Some plats still keep association packets; we read the one you have instead of assuming a single neighborhood HOA. Prep still starts the same way: wash, repair, prime, then coat. We are not building a separate Fennel Creek page; the falls, the school street, and the ravine are this neighborhood.",
     trustCards: [
       {
         icon: "trees",
@@ -3307,7 +3307,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
         question:
           "Can you paint while we live here — and how do you stage on 101st Street E or 203rd Avenue E?",
         answer:
-          "Yes. These are year-round family houses and manufactured homes, not cabins. We phase rooms, protect entries, and plan trailer placement so 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E stay usable for neighbors. Access off SR 410 is typically South Prairie Road E to 202nd Avenue E — we do not block that collector or the county roads the 1992 district deeded to Pierce County. School assignment is parcel-specific: some lots track White River campuses in Buckley, others Sumner-Bonney Lake. We follow the calendar you actually run. We are not building a separate LaRita Drive, 203rd Avenue, Cedarview, Sky Island, or South Prairie town page.",
+          "Yes. These are year-round family houses and manufactured homes, not cabins. We phase rooms, protect entries, and plan trailer placement so 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E stay usable for neighbors. Access off SR 410 is typically South Prairie Road E to 202nd Avenue E — we do not block that collector or the county roads the 1992 district deeded to Pierce County. School assignment is parcel-specific: some lots track White River campuses in Buckley, others Sumner-Bonney Lake. We follow the calendar you actually run. We are not building a separate LaRita Drive, 203rd Avenue, Cedarview, or South Prairie town page.",
       },
     ],
     image: "/images/from-lane/lane-26-4767.jpg",
@@ -3321,7 +3321,7 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     introLead:
       "Ponderosa Estates’ working streets sit south of SR 410 and west of 214th Avenue E: 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and La Paloma Drive E, reached from South Prairie Road E onto 202nd Avenue E. Bonanza Development Company platted 329 lots around a centralized lagoon and park in the mid-1960s. The neighborhood’s own history is that the 1992 road district brought those streets to county standard — storm sewers, two retention ponds, regraded hills — and Pierce County now owns and maintains them. That is a different geometry than Prairie Ridge’s 128th Street E / 215th Avenue E CDP grid, and it is not Quiet Water’s 2004 wetland PDD east of 214th at 29th–40th Street E.",
     introBody:
-      "Lane Home & Business Services LLC estimates Ponderosa Estates jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 101st Street E or claim we stained the lagoon-side common park. We will walk your 1960s siding, manufactured-home skirt or later stick-built elevation, pond-facing deck, and occupied interiors honestly, then send structural questions to Pierce County Planning & Public Works and exterior-change questions to PEHOA when the lot is in the association. Membership followed resale after 1992; we confirm the file from the address instead of assuming every original owner is in the same packet. We are not building a separate LaRita, La Paloma, Cedarview, Sky Island, or South Prairie page. Those names sit on this corridor or next to it.",
+      "Lane Home & Business Services LLC estimates Ponderosa Estates jobs from a Lake Tapps base with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on 101st Street E or claim we stained the lagoon-side common park. We will walk your 1960s siding, manufactured-home skirt or later stick-built elevation, pond-facing deck, and occupied interiors honestly, then send structural questions to Pierce County Planning & Public Works and exterior-change questions to PEHOA when the lot is in the association. Membership followed resale after 1992; we confirm the file from the address instead of assuming every original owner is in the same packet. We are not building a separate LaRita, La Paloma, Cedarview, or South Prairie page. Those names sit on this corridor or next to it.",
     trustCards: [
       {
         icon: "clipboard",
@@ -3485,6 +3485,222 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
     localLivingParagraphs: [
       "Daily life in Ponderosa Estates runs on county-road and lagoon rhythm: 101st Street E, 104th Street E, 203rd Avenue E, LaRita Drive E, and weekday bells that split by parcel. Confirm whether you sit in [White River School District](https://www.whiteriver.wednet.edu/) — including [Foothills Elementary](https://foothills.whiteriver.wednet.edu/) at 10621 234th Avenue E and [Glacier Middle School](https://glacier.whiteriver.wednet.edu/) at 240 North C Street in Buckley — or in [Sumner-Bonney Lake School District](https://www.sumnersd.org/). We do not invent a neighborhood elementary from the 98391 mailbox.",
       "Structural decks and fence-height changes on these unincorporated streets typically start with the [Pierce County Development Center](https://www.piercecountywa.gov/applyforapermit). Plumbing that touches a drain field still belongs with the [Tacoma-Pierce County Health Department](https://www.tpchd.org/). Power sits with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/). We schedule coatings around that lagoon-and-school rhythm — not as a name-swap of [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E, [Quiet Water](/service-areas/lake-tapps/quiet-water) east of 214th, or [Victor Falls](/service-areas/lake-tapps/victor-falls) on Rhodes Lake Road E.",
+    ],
+  },
+  {
+    slug: "sky-island",
+    name: "Sky Island",
+    description:
+      "HOA-governed Bonney Lake hillside community off Sky Island Drive E — Rainier and valley views, architectural review, and city permits, not a Lake Tapps dock street.",
+    blurb:
+      "On Sky Island Drive E, 97th Street E, 183rd Avenue E, and Mount Rainier Loop E in Bonney Lake, Lane HBS paints exteriors, refreshes interiors, and stains decks and fences for Sky Island’s view-side homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for open view-side elevations and shaded north walls",
+      "Deck and rail staining for elevated decks that face the valley",
+      "HOA and City of Bonney Lake questions named in the estimate, not guessed",
+    ],
+    faqs: [
+      {
+        question: "Do I need a permit or HOA approval to paint, stain, or replace a fence in Sky Island?",
+        answer:
+          "Sky Island is inside the City of Bonney Lake and is governed by a homeowners association with architectural review, so there are usually two questions: the city and the HOA. The city exempts fences up to six feet and finish work or minor repairs from a building permit, but it requires one for a deck that is over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door. Exterior color changes and new fences are the kind of change HOAs commonly review, so we ask you to check your CC&Rs and the association’s current process before color or fence height is decided. We name both questions in the estimate instead of assuming either answer.",
+      },
+      {
+        question: "What prep fits Sky Island’s view-side homes and wet Pacific Northwest winters?",
+        answer:
+          "Homes on view lots face open sky, which usually means more wind-driven rain and more afternoon sun on the exposed elevation, while shaded north walls and fences hold moisture longer. We wash mildew and film, scrape failed coatings, prime bare wood, and repair soft trim and fascia before any finish coat. We look at each elevation separately, because the south and west sides of the same house rarely fail the same way.",
+      },
+      {
+        question: "How do you price painting and remodeling in Sky Island?",
+        answer:
+          "Story count, wash-and-dry time, trim or deck repairs, how much of the work is interior and occupied, and whether HOA or city review belongs in the scope. We do not publish a square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate with a written scope.",
+      },
+      {
+        question: "Can you work around a gated section or a cul-de-sac?",
+        answer:
+          "Yes. At least one part of Sky Island, the Mount Rainier Loop E area off 183rd Avenue E, is described in listings as a gated section, and the rest is a mix of through streets and cul-de-sacs. We confirm gate access before work days and plan where trailers, ladders, and wash water go so neighbors keep their driveways and a clear street.",
+      },
+      {
+        question: "Can you paint or stain while we live here, and how long does it take?",
+        answer:
+          "Yes. Interiors are usually done occupied, room by room, with floors and furniture protected. A weather-facing exterior or deck depends on dry windows and on any carpentry found during prep, so we write the schedule after we see the house. Sky Island is in the Sumner-Bonney Lake School District, and bus and school-day traffic along Sky Island Drive E is one more thing we plan material drops around.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Sky Island is an HOA-governed hillside community in Bonney Lake, reached by Sky Island Drive E, with homes on 97th Street E, 183rd Avenue E, Mount Rainier Loop E, and the streets around them. Paint, stain, and carpentry here deal with open view-side exposure, shaded north walls, association review, and City of Bonney Lake permits.",
+    mapQuery: "Sky Island Drive E and 97th Street E, Bonney Lake, WA",
+    latitude: 47.1655,
+    longitude: -122.1905,
+    geoRadiusMeters: 1500,
+    introHeading: "View-Side Exposure and HOA Review in Bonney Lake",
+    introLead:
+      "Sky Island sits on the hillside above the valley in Bonney Lake, and its homes are known for Mount Rainier and valley views. That exposure is the practical story for a painter: view-facing elevations take more weather than a sheltered cul-de-sac, and the shaded sides of the same house stay damp and grow mildew. The community was built in phases. The association’s own records refer to numbered divisions, so siding, trim, and paint systems change from one street to the next.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Sky Island jobs from a Lake Tapps base with licensed, insured standards (LANEHHB7912R). We do not claim a house count on Sky Island Drive E or a project at a specific address. We walk your elevations, deck, and rooms, tell you what is soft or failing, and say plainly when a question belongs to the Sky Island HOA or the City of Bonney Lake Permit Center. That includes exterior colors, fences, and any deck that is attached, elevated, or large.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus HOA architectural review",
+        body: "Sky Island is in the City of Bonney Lake, so structural deck work goes to the city Permit Center, not Pierce County. The HOA adds its own review for exterior changes. We ask which rules apply to your address and put both questions in the written scope.",
+      },
+      {
+        icon: "sun",
+        title: "View lots get weather on the open side",
+        body: "Open elevations that face the valley collect wind-driven rain and afternoon sun, while north walls and fences stay shaded and damp. We inspect each side of the house and prep it for the exposure it actually has.",
+      },
+      {
+        icon: "home",
+        title: "Built in phases, so no two streets are identical",
+        body: "The HOA refers to numbered divisions, and builders and eras vary across them. Older and newer siding, trim, and decks fail in different places, so we inspect before promising a paint-only job.",
+      },
+      {
+        icon: "school",
+        title: "Sumner-Bonney Lake School District schedules",
+        body: "Sky Island homes are in the Sumner-Bonney Lake School District. School-year mornings and afternoons on Sky Island Drive E shape when we stage trailers and drop materials, and we confirm the details for your address.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Tina W.", "David R."],
+    galleryHeading: "Our Work Near Sky Island",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, interiors, and decks from Lake Tapps-area jobs. They show the type of work we do and are not geo-tagged to Sky Island Drive E, 97th Street E, or any Sky Island address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New deck railing installation in progress",
+        caption: "Deck rail installation — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting and trim — Lane HBS work in the Lake Tapps area",
+      },
+    ],
+    caseStudy: {
+      heading: "How we approach a view-side deck and exterior",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining and exterior prep — Lane HBS work in the Lake Tapps area",
+      body: "The photo is owned Lane HBS deck work elsewhere in the Lake Tapps area, not a Sky Island address, and we do not describe it as one. It shows the finish we aim for on an elevated deck. On a Sky Island view-side deck the sequence would be the same: check framing and rails for soft spots, wash off mildew and film, let the boards dry, repair what failed, and only then stain. Before work starts we would also confirm whether the deck is large, elevated, or attached enough to need a City of Bonney Lake building permit, and whether the HOA has a say in the finish or the rail.",
+    },
+    considerationsHeading: "Sky Island-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "HOA architectural review and City of Bonney Lake permits",
+        body: "Repainting and restaining existing surfaces is usually maintenance, but color changes, new fences, and new or enlarged decks can involve the association. The city also requires a building permit for decks over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door. Fences up to six feet are exempt from a city building permit, though HOA rules may still apply. We ask for your CC&Rs and the current HOA process rather than guessing.",
+      },
+      {
+        heading: "Exposed view elevations versus shaded north sides",
+        body: "A deck or wall that faces the valley takes wind-driven rain and long afternoon sun. A north wall or side fence under trees stays damp and grows mildew. We plan wash time, dry time, and coating choice per elevation instead of one approach for the whole house.",
+      },
+      {
+        heading: "Common-area fences and who owns what",
+        body: "The HOA’s own annual reports have mentioned HOA-owned fences and common areas such as the nature park and trails. Before we stain or replace a fence line, we confirm whether it is yours, a shared line, or an association fence, so we never work on something that is not the homeowner’s to change.",
+      },
+      {
+        heading: "Gate access, cul-de-sacs, and school-day traffic",
+        body: "Part of the Mount Rainier Loop E area is described in listings as gated, and many streets are cul-de-sacs or quiet loops. We confirm gate access ahead of time, keep trailers and wash water off neighbors’ drives, and schedule material drops around Sumner-Bonney Lake school-day traffic on Sky Island Drive E.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Sky Island",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Sky Island pricing moves with story count, exposure and wash-dry time, trim and deck repairs, occupied interiors, gate and street access, and whether HOA or City of Bonney Lake review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Exposure, wash time, and dry time",
+        body: "Open view-side elevations and shaded north walls need different prep. Mildew and film come off first, and the surface has to dry before coatings go on. Quotes that skip that step tend to fail on the exposed side first.",
+      },
+      {
+        title: "Carpentry and elevated decks",
+        body: "Soft trim, fascia, and deck boards found during prep are added to the written scope, not hidden inside a spray bid. Elevated decks also raise the permit and rail questions noted above.",
+      },
+      {
+        title: "Access, HOA, and occupied rooms",
+        body: "Gate access, cul-de-sac staging, HOA review time, and working around a family living in the house all take calendar time. We list them as separate lines so you can see what you are paying for.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and recoat for view-side elevations that take weather and shaded north walls that hold moisture, with HOA color questions flagged before work starts.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied-home interior painting and trim work for Sky Island’s family homes, with floors protected and rooms phased around the household.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Elevated decks and side-yard fences: clean, dry, repair what is soft, then stain. New or enlarged decks and fence changes still go through the City of Bonney Lake and the HOA where they apply.",
+      },
+    ],
+    estimateBandCopy:
+      "Sky Island home ready for an exterior repaint, deck restain, or interior refresh? Free on-site estimate. Call or send the form. We plan around HOA review, City of Bonney Lake permits where they apply, and the school-day rhythm on your street.",
+    processHeading: "Our Sky Island Process",
+    processSteps: [
+      {
+        title: "Sky Island Site Assessment",
+        body: "We walk each elevation, the deck, and the rooms: view-side versus shaded exposure, access and gate details, occupancy, and whether HOA or city review applies.",
+      },
+      {
+        title: "Scope, Colors & HOA",
+        body: "A written scope before any coating day. HOA architectural questions and City of Bonney Lake permit flags are named, and shared or association fence lines are confirmed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and film, scrape, repair soft trim or deck boards, and prime. This is the step that decides how long the finish lasts.",
+      },
+      {
+        title: "Sky Island Paint / Build Days",
+        body: "We work in dry weather windows and plan around school-day traffic on your street. We do not coat damp surfaces to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates are walked in daylight. Licensed, insured closeout, LANEHHB7912R, same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Bonney Lake Permit Center",
+        url: "https://www.bonneylake.gov/260/Permit-Center",
+        description:
+          "Where Sky Island decks and structural work go. The city lists which deck and fence projects are exempt from a building permit and which are not. We use it to confirm scope before work, not as a substitute for walking your lot.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "The city’s residential rules, including the 200-square-foot and 30-inch deck thresholds and the six-foot fence exemption.",
+      },
+      {
+        name: "Sumner-Bonney Lake School District",
+        url: "https://www.sumnersd.org/",
+        description:
+          "The district for Sky Island homes. Attendance is address-specific, so we do not name a neighborhood school for you.",
+      },
+      {
+        name: "Allan Yorke Park",
+        url: "https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1",
+        description:
+          "Bonney Lake’s public lakefront park on Lake Tapps, a short drive from Sky Island for residents who want water access without a private dock.",
+      },
+      {
+        name: "Pierce County Library System",
+        url: "https://mypcls.org/visit-the-library/locations-hours/",
+        description:
+          "Branch hours and locations, including Bonney Lake, for indoor research time on color samples when weather puts an exterior on hold.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Sky Island is a Bonney Lake hillside community known for Mount Rainier and valley views, a homeowners association with architectural review, and a mix of through streets, cul-de-sacs, and at least one gated section. Homes are in the [Sumner-Bonney Lake School District](https://www.sumnersd.org/), and attendance is set by address. The HOA’s own reports have mentioned common areas such as a playground, a nature park, and trails, which is one more reason to confirm what is common property before any fence or landscaping-adjacent work.",
+      "Because Sky Island is inside city limits, decks and structural changes start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and its [building permit rules](https://www.bonneylake.gov/279/Building-Permits), and exterior changes may also need HOA review. We schedule coatings around those questions and the weather, and we do not treat Sky Island as a name swap of [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E, [Quiet Water](/service-areas/lake-tapps/quiet-water) east of 214th Avenue E, or [Downtown Bonney Lake](/service-areas/lake-tapps/downtown-bonney-lake) along Main Street E.",
     ],
   },
 ];

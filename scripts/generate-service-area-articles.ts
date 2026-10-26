@@ -98,6 +98,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Ponderosa Estates",
         path: "/service-areas/lake-tapps/ponderosa-estates",
       },
+      {
+        name: "Sky Island",
+        path: "/service-areas/lake-tapps/sky-island",
+      },
     ],
     knownLinks: [
       {
