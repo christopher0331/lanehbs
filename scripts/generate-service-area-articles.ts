@@ -102,6 +102,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Sky Island",
         path: "/service-areas/lake-tapps/sky-island",
       },
+      {
+        name: "Ridge at Lake Tapps",
+        path: "/service-areas/lake-tapps/ridge-at-lake-tapps",
+      },
     ],
     knownLinks: [
       {
@@ -206,6 +210,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Quiet Water Homeowners Association",
         url: "https://quietwaterhoa.org/about/",
+      },
+      {
+        name: "The Ridge at Lake Tapps HOA",
+        url: "https://theridgeatlaketapps.frontsteps.net/about/",
       },
       {
         name: "Dieringer Heights Elementary",
