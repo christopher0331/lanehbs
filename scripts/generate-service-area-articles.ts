@@ -263,6 +263,10 @@ const AREAS: Record<string, AreaSeed> = {
       { name: "Mud Mountain", path: "/service-areas/enumclaw/mud-mountain" },
       { name: "Greenwater", path: "/service-areas/enumclaw/greenwater" },
       { name: "Mount Peak", path: "/service-areas/enumclaw/mount-peak" },
+      {
+        name: "Rainier Trails",
+        path: "/service-areas/enumclaw/rainier-trails",
+      },
     ],
     knownLinks: [
       { name: "City of Enumclaw", url: "https://www.cityofenumclaw.net/" },
