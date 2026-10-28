@@ -2389,4 +2389,223 @@ export const enumclawNeighborhoods: Neighborhood[] = [
       "Structural decks and shops on these streets typically start with [King County Permits](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use) when the parcel is unincorporated. Confirm the lot before you assume the [City of Enumclaw](https://www.cityofenumclaw.net/) building desk. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Indoor research time often goes to the [King County Library System](https://kcls.org/). We schedule coatings around that trail-and-school rhythm — not as a name-swap of [Osceola](/service-areas/enumclaw/osceola)’s heritage loop, [Mud Mountain](/service-areas/enumclaw/mud-mountain)’s dam road and south trailhead, or [Greenwater](/service-areas/enumclaw/greenwater) farther up SR 410.",
     ],
   },
+  {
+    slug: "rainier-trails",
+    name: "Rainier Trails",
+    description:
+      "In-city Enumclaw residential community off Hamilton Place, Garland Place, and Wetherbee Lane around Rainier Trails Park — mid-1990s family homes, city permits, and occupied-house painting.",
+    blurb:
+      "In Rainier Trails — Hamilton Place, Garland Place, Wetherbee Lane, and the streets around Rainier Trails Park — Lane HBS paints exteriors, refreshes interiors, and stains decks and fences for in-city Enumclaw homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior repaints that start with wash, scrape, and prime on aging siding and trim",
+      "Occupied-home interior painting, room by room",
+      "Deck and fence staining, with City of Enumclaw permit questions named up front",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit to paint, stain a deck, or replace a fence in Rainier Trails?",
+        answer:
+          "Rainier Trails is inside the City of Enumclaw, so the question goes to the city, not King County. The city’s published exemption list includes painting, papering, tiling, carpeting, cabinets, countertops, and similar finish work, and fences not over 7 feet — though fences still have to meet the city’s code, EMC 18.06.110. A deck is exempt only if it is 200 square feet or less, no more than 30 inches above grade at any point, not attached to the house, and not serving a required exit door. Anything bigger, attached, or raised starts with the city’s permit counter. We name the question in the estimate and do not guess from the street.",
+      },
+      {
+        question:
+          "What prep fits Rainier Trails’ homes and Enumclaw’s wet plateau winters?",
+        answer:
+          "Listing records for homes on Garland Place and Wetherbee Lane point to construction in the mid-1990s, so many exteriors have been through around thirty Enumclaw winters. We cannot know the condition of any one house until we walk it, but that age is when failed caulk, soft trim, and tired deck boards show up. We wash, scrape failed coatings, prime bare wood, and repair soft trim or fascia before any finish coat, and we look at each elevation separately because the shaded north wall rarely fails like the sunny one.",
+      },
+      {
+        question: "How do you price painting and remodeling in Rainier Trails?",
+        answer:
+          "Story count, repair quantity, wash-and-dry time, how much of the work is interior and occupied, and whether a deck or fence is in the same visit. We do not publish a square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate with a written scope.",
+      },
+      {
+        question: "Can you work on a cul-de-sac or a lot that backs to open space?",
+        answer:
+          "Yes. Street names around Rainier Trails Park include several “places” and “courts,” and some listings describe lots backing to open space — we confirm that on site. We plan where the trailer, ladders, and wash water go so neighbors keep their driveways, and we confirm any shared fence line with you before we touch it instead of assuming who owns it.",
+      },
+      {
+        question:
+          "Can you paint or stain while we live here, and how long does it take?",
+        answer:
+          "Yes. Interiors are usually done occupied, room by room, with floors and furniture protected. A weather-facing exterior or deck depends on dry windows and on any carpentry we find during prep, so we write the schedule after we see the house. School assignment in Enumclaw is address-specific, so we plan material drops and trailer placement around the school-day rhythm on your street rather than assuming a campus.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Rainier Trails is an in-city Enumclaw residential community, platted in divisions, with homes on Hamilton Place, Garland Place, Wetherbee Lane, and the places and courts around Rainier Trails Park, which the City of Enumclaw lists at 3450 Hamilton Place. Paint, stain, and carpentry here deal with aging mid-1990s siding and trim, damp plateau winters, and City of Enumclaw permits.",
+    mapQuery: "Hamilton Place, Enumclaw, WA",
+    latitude: 47.1955,
+    longitude: -122.015,
+    geoRadiusMeters: 800,
+    introHeading: "In-City Enumclaw, Mid-1990s Homes, and a Neighborhood Park",
+    introLead:
+      "Rainier Trails is a residential community inside Enumclaw city limits. Public plat and listing records refer to it in numbered divisions, such as Rainier Trails Division 1 and Division II, and the homes we found listed on Garland Place and Wetherbee Lane carry mid-1990s build years. The City of Enumclaw’s park amenities list shows Rainier Trails Park at 3450 Hamilton Place at 3.6 acres. We treat the listing-based details as secondary information and confirm the real condition of your house on site.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Rainier Trails jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on Hamilton Place or claim we painted a named house in the neighborhood. We will walk your siding, trim, deck, and fence honestly, tell you whether the city’s permit rules apply, and plan the work around your household. Rainier Trails is in town, so it is not the farmland-and-trailhead work of Mount Peak and it is not the Holdener Farm PUD color-standard question that comes with Elk Meadows.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City of Enumclaw, not King County",
+        body: "Rainier Trails is inside the city, so deck and structural questions start with the City of Enumclaw building and permit staff. The city exempts painting and similar finish work from a building permit, but decks over its size and height thresholds are not exempt. We put that question in the written scope.",
+      },
+      {
+        icon: "home",
+        title: "Homes that are roughly thirty years old",
+        body: "Listing records show mid-1990s build years on several Rainier Trails streets. That age is when caulk lines open, trim softens, and decks need more than a coat of stain. We inspect before we promise a paint-only job.",
+      },
+      {
+        icon: "wind",
+        title: "Plateau wind and rain on every elevation",
+        body: "Enumclaw’s plateau weather is wet and windy. South and west walls take the sun and driven rain, while shaded north walls and fences hold moisture and grow mildew. We prep each side for the exposure it actually has.",
+      },
+      {
+        icon: "trees",
+        title: "Park-edge lots and shared fence lines",
+        body: "Some homes may sit near Rainier Trails Park or other open space. Where a fence is shared, we confirm with you before work and keep wash water and overspray off the neighbor’s side.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Rainier Trails",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, interiors, and decks from our Lake Tapps and Enumclaw-area jobs. They show the type of work we do and are not geo-tagged to Hamilton Place, Garland Place, Wetherbee Lane, or any Rainier Trails address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep — Lane HBS work, not a Rainier Trails address",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Stained deck boards and rail",
+        caption: "Deck staining after wash and dry time — Lane HBS work, not a Rainier Trails address",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting and trim — Lane HBS work, not a Rainier Trails address",
+      },
+    ],
+    caseStudy: {
+      heading: "How we approach an older in-city exterior and deck",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining and exterior prep — Lane HBS work, not a Rainier Trails address",
+      body: "The photo is owned Lane HBS deck work elsewhere, not a Rainier Trails house, and we do not describe it as one. It shows the finish we aim for. On a mid-1990s Enumclaw home the sequence would be the same: check the deck framing, rails, and trim for soft spots, wash off mildew and film, let the wood dry, repair what failed, and only then prime and finish. Before work starts we would also confirm with the City of Enumclaw whether a deck is large, raised, or attached enough to need a building permit.",
+    },
+    considerationsHeading: "Rainier Trails-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "City of Enumclaw permit rules for decks and fences",
+        body: "The city’s exemption list covers painting and similar finish work and fences not over 7 feet, which must still meet city code. A deck is exempt only at 200 square feet or less, no more than 30 inches above grade, unattached, and not serving a required exit door. We ask early so a deck or fence change does not stall a repaint schedule.",
+      },
+      {
+        heading: "Aging siding, trim, and caulk",
+        body: "Several Rainier Trails homes show mid-1990s build years in listing records. We cannot tell the condition of a given house from the street, so we probe trim, window sills, and the lower courses of siding for soft wood before quoting a repaint, and we price repairs separately from coating.",
+      },
+      {
+        heading: "Cul-de-sac access and park-edge lots",
+        body: "Places and courts usually have less room to stage than a through street. We plan where the trailer and wash water go, keep driveways usable, and on lots near the park we keep overspray and runoff off shared fences and open space.",
+      },
+      {
+        heading: "Occupied days and school-day traffic",
+        body: "These are primary homes, so bedrooms and kitchens stay in use. We contain rooms and phase noisy work around the household. Enumclaw School District assignment is address-specific, so we check the district’s boundary map for your house instead of assuming a campus when planning drop-off hours.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Rainier Trails",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Rainier Trails pricing moves with repair quantity on older siding and trim, wash-and-dry time, story count, occupied interiors, and whether a deck or fence belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Age-related repairs before paint",
+        body: "Soft trim, failed caulk, and tired deck boards need carpentry before any coating. We price repairs separately so a low paint-only number does not hide them.",
+      },
+      {
+        title: "Access on cul-de-sacs and courts",
+        body: "Limited staging room changes how long wash and material drops take. We price that time instead of pretending every street is wide open.",
+      },
+      {
+        title: "Decks, fences, and occupied rooms",
+        body: "Decks and fence lines are extra elevations to wash, dry, and finish. Lived-in houses take protection time. Permit questions for a larger deck are written into the schedule so they do not hide inside a paint bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and recoat for older in-city Enumclaw exteriors, with soft trim and failed caulk repaired first and each elevation prepped for its own exposure.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied-home interior painting and trim work, with floors protected and rooms phased around the household.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks and side-yard fences: clean, dry, repair what is soft, then stain. New, raised, or attached decks still go through the City of Enumclaw first.",
+      },
+    ],
+    estimateBandCopy:
+      "Rainier Trails home ready for an exterior repaint, deck restain, or interior refresh? Free on-site estimate. Call or send the form. We plan around City of Enumclaw permit questions, weather windows, and the daily rhythm on your street.",
+    processHeading: "Our Rainier Trails Process",
+    processSteps: [
+      {
+        title: "Rainier Trails Site Assessment",
+        body: "We walk each elevation, the deck, and the rooms: exposure, soft trim, access on your street, occupancy, and whether a shared fence is involved.",
+      },
+      {
+        title: "Scope, Colors & City Rules",
+        body: "A written scope before any coating day. City of Enumclaw permit flags are named for any deck or fence change, and shared fence lines are confirmed with you.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and film, scrape, repair soft trim or deck boards, and prime. This step decides how long the finish lasts.",
+      },
+      {
+        title: "Rainier Trails Paint / Build Days",
+        body: "We work in dry weather windows and plan around your household. We do not coat damp surfaces to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates are walked in daylight. Licensed, insured closeout, LANEHHB7912R, same as every other Enumclaw job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Enumclaw Building Department",
+        url: "https://www.cityofenumclaw.net/186/Building-Department",
+        description:
+          "Where Rainier Trails deck and structural questions go, since the neighborhood is inside city limits. The department lists its permit contact and hours. We use it to confirm scope before work, not as a substitute for walking your lot.",
+      },
+      {
+        name: "City of Enumclaw Building Permit Exemptions",
+        url: "https://cityofenumclaw.net/188/Building-Permit-Exemptions",
+        description:
+          "The city’s own list of work that does not need a building permit — including painting and finish work, fences not over 7 feet, and decks at or under 200 square feet and 30 inches above grade, unattached and not serving an exit door.",
+      },
+      {
+        name: "City of Enumclaw Residential Fence Setback Requirements",
+        url: "https://www.cityofenumclaw.net/DocumentCenter/View/1267/City-Residential-Fence--Setback-Requirements-PDF",
+        description:
+          "The city’s fence height and setback guide. A fence can be exempt from a building permit and still have to meet city code, so we check it before a fence replacement is priced.",
+      },
+      {
+        name: "Enumclaw School District Boundary Maps",
+        url: "https://www.enumclaw.wednet.edu/page/district-boundary-maps/",
+        description:
+          "School assignment is address-specific. We do not name a school for your street; the district’s boundary map is the place to check.",
+      },
+      {
+        name: "City of Enumclaw Park Amenities List",
+        url: "https://www.cityofenumclaw.net/DocumentCenter/View/2786/Enumclaw-Park-Amenities-and-ADA-Accessibility",
+        description:
+          "The city’s park amenities document, which lists Rainier Trails Park at 3450 Hamilton Place at 3.6 acres. Confirm current park details with the city, since the document is not a live schedule.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Rainier Trails is an in-city Enumclaw community built around Rainier Trails Park on Hamilton Place. Homes are served by the [Enumclaw School District](https://www.enumclaw.wednet.edu/), with attendance set by address on the [district boundary map](https://www.enumclaw.wednet.edu/page/district-boundary-maps/). The city’s [park amenities list](https://www.cityofenumclaw.net/DocumentCenter/View/2786/Enumclaw-Park-Amenities-and-ADA-Accessibility) shows Rainier Trails Park at 3450 Hamilton Place, and the city is the place to confirm current park details.",
+      "Because Rainier Trails is inside city limits, decks and structural changes start with the [City of Enumclaw Building Department](https://www.cityofenumclaw.net/186/Building-Department), and the city’s [permit exemption list](https://cityofenumclaw.net/188/Building-Permit-Exemptions) shows what does not need a building permit. Fence work should be checked against the city’s [fence setback guide](https://www.cityofenumclaw.net/DocumentCenter/View/1267/City-Residential-Fence--Setback-Requirements-PDF). We schedule coatings around those questions and the weather, and we do not treat Rainier Trails as a name swap of [Elk Meadows](/service-areas/enumclaw/elk-meadows) and its Holdener Farm PUD standards, [Downtown Enumclaw](/service-areas/enumclaw/downtown-enumclaw) on Cole Street, or [Mount Peak](/service-areas/enumclaw/mount-peak)’s farmland south of town.",
+    ],
+  },
 ];
