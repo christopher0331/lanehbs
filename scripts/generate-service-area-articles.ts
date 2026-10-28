@@ -102,6 +102,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Sky Island",
         path: "/service-areas/lake-tapps/sky-island",
       },
+      {
+        name: "Falling Water",
+        path: "/service-areas/lake-tapps/falling-water",
+      },
     ],
     knownLinks: [
       {
@@ -210,6 +214,14 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "Dieringer Heights Elementary",
         url: "https://dhes.dieringer.wednet.edu/",
+      },
+      {
+        name: "Bonney Lake High School",
+        url: "https://blhs.sumnersd.org/",
+      },
+      {
+        name: "Fennel Creek Trail regional connections",
+        url: "https://www.bonneylake.gov/DocumentCenter/View/609/Map-Fennel-Creek-Trail-Regional-Connections-PDF",
       },
     ],
     peers: [
