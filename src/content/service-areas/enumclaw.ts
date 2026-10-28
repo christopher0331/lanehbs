@@ -24,7 +24,7 @@ const article: ServiceAreaArticle = {
     }
   ],
   "model": "sonar-pro",
-  "wordCount": 1426,
+  "wordCount": 1420,
   "linkCount": 61,
   "generatedAt": "2026-08-05T17:46:58.897Z"
 };
