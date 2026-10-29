@@ -3703,4 +3703,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Because Sky Island is inside city limits, decks and structural changes start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and its [building permit rules](https://www.bonneylake.gov/279/Building-Permits), and exterior changes may also need HOA review. We schedule coatings around those questions and the weather, and we do not treat Sky Island as a name swap of [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E, [Quiet Water](/service-areas/lake-tapps/quiet-water) east of 214th Avenue E, or [Downtown Bonney Lake](/service-areas/lake-tapps/downtown-bonney-lake) along Main Street E.",
     ],
   },
+  {
+    slug: "ridge-at-lake-tapps",
+    name: "Ridge at Lake Tapps",
+    description:
+      "2013–14 D.R. Horton sidewalk HOA on 78th Street Court E and 202nd Avenue E — city permits and CC&Rs a few blocks from Allan Yorke Park, not a dock street and not Ponderosa’s 1960s lagoon plat.",
+    blurb:
+      "On 78th Street Court E, 78th Street E, 77th Street Court E, and 202nd Avenue E, Lane HBS paints exteriors, refreshes interiors, and stains fences and patios for Ridge at Lake Tapps’ occupied production homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for sidewalk-lot elevations and collector film off West Tapps Highway E",
+      "Interior painting in occupied two-story D.R. Horton plans",
+      "Fence and patio stain after HOA and City of Bonney Lake questions are named",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint, stain, or replace a fence in Ridge at Lake Tapps?",
+        answer:
+          "Ridge at Lake Tapps sits inside the City of Bonney Lake, so there are usually two questions: the city and The Ridge At Lake Tapps Homeowners Association (Washington nonprofit UBI 603243623, articles filed October 4, 2012). The city treats finish painting and restaining an existing fence or patio as maintenance. A building permit is typically required for a deck over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door; fences up to six feet are usually exempt from a city building permit. Exterior color, new fences, and patio covers are the kind of change recorded CC&Rs commonly review. We ask you for the current association process — the HOA’s portal is at theridgeatlaketapps.frontsteps.net — and name both desks in the estimate instead of guessing from a 78th Street Court E mailbox.",
+      },
+      {
+        question:
+          "What prep fits Ridge at Lake Tapps’ sidewalk lots, collector film, and 2010s production siding?",
+        answer:
+          "These are 2013–14 D.R. Horton two-story plans on curb-and-sidewalk lots — 78th Street Court E, 78th Street E, 77th Street Court E, and 202nd Avenue E — a few blocks inland from Allan Yorke Park, not on a reservoir bulkhead. South and west walls take afternoon sun. North walls and side-yard fences stay damp between close neighbors. Elevations that face 202nd Avenue E and the 76th Street Court E approach off West Tapps Highway E pick up collector grit and summer park traffic. We wash mildew and film, scrape failed coatings, prime bare trim, and repair fascia or fence boards before color. A spray-only bid that skips that inspection does not last on a fenced 5,200-square-foot lot.",
+      },
+      {
+        question: "How do you price painting and remodeling in Ridge at Lake Tapps?",
+        answer:
+          "Story count, wash-and-dry time after collector film or shade between houses, carpentry on trim or fence boards, occupied interiors in two-story plans, cul-de-sac trailer space, and whether City of Bonney Lake review or an HOA architectural question belongs in the same scope. There is no published square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate.",
+      },
+      {
+        question:
+          "How long does a typical Ridge at Lake Tapps exterior, interior, or fence job take?",
+        answer:
+          "A straightforward occupied interior can be several days, room by room. Weather-facing exteriors and side-yard fences depend on wash-dry windows after film and mildew come off, then on any carpentry. Bonney Lake Elementary bells on 80th Street E and weekend launch traffic toward Allan Yorke Park change when a trailer can sit, not the chemistry. We write the calendar after we see the house — we do not coat damp Hardie or fence boards so a house looks finished before a Saturday at the park.",
+      },
+      {
+        question:
+          "Can you paint while we live here — and how do you stage on 78th Street Court E or 202nd Avenue E?",
+        answer:
+          "Yes. These are year-round family houses, not cabins. We phase rooms, protect entries, and plan trailer placement so 78th Street Court E, 78th Street E, 77th Street Court E, and 202nd Avenue E stay usable for neighbors and school buses. Access from SR 410 is typically Veterans Memorial Drive E to Church Lake Road E to West Tapps Highway E, then 76th Street Court E onto 202nd Avenue E — we do not block that collector or the park approach. School assignment in Sumner-Bonney Lake is parcel-specific; listings on the same streets name different elementary and middle campuses, so we follow the calendar you actually run. We are not building a separate 78th Street, 202nd Avenue, 76th Street Court, Church Lake, Highland Ridge, or Montanaro page.",
+      },
+    ],
+    image: "/images/from-lane/lane-03-45.jpg",
+    heroIntro:
+      "Ridge at Lake Tapps is the 2013–14 D.R. Horton sidewalk HOA a few blocks inland from Allan Yorke Park — 78th Street Court E, 78th Street E, 77th Street Court E, and 202nd Avenue E, reached from West Tapps Highway E on 76th Street Court E. Paint, fences, and interiors here face close-lot shade, collector film, and association review, not a Lake Tapps dock and not Ponderosa’s 1960s lagoon streets.",
+    mapQuery: "78th Street Court E and 202nd Avenue E, Bonney Lake, WA",
+    latitude: 47.1762,
+    longitude: -122.1658,
+    geoRadiusMeters: 1000,
+    introHeading: "Sidewalk Lots a Few Blocks from the Launch, Not on the Water",
+    introLead:
+      "Ridge at Lake Tapps is a City of Bonney Lake production-home pocket on 78th Street Court E and 202nd Avenue E — two-story D.R. Horton plans from 2013 and 2014, curb-and-sidewalk streets, and fully fenced yards on lots around five thousand square feet. That is a different painting problem than a waterfront bulkhead or a 1960s acreage street. Close neighbors mean wash water, ladders, and color have to stay on your lot. Collector grit from West Tapps Highway E and weekend traffic toward Allan Yorke Park sit on the same elevations that stay damp on the north side.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Ridge at Lake Tapps jobs from a Lake Tapps base with licensed, insured standards (LANEHHB7912R). We do not claim a house count on 78th Street Court E or a project at a specific address. We walk your elevations, fence, patio, and rooms, tell you what is soft or failing, and say plainly when a question belongs to The Ridge At Lake Tapps Homeowners Association or the City of Bonney Lake Permit Center. That includes exterior colors, fence replacements, and any deck or patio cover that is attached, elevated, or large. Church Lake Road E is only the drive in from Veterans Memorial Drive E — it is not this neighborhood, and we are not writing a Church Lake page.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus Ridge HOA review",
+        body: "These lots are inside Bonney Lake, so structural deck work goes to the city Permit Center, not Pierce County. The Ridge At Lake Tapps Homeowners Association, incorporated October 4, 2012, adds recorded CC&Rs. We ask which rules apply to your address and put both questions in the written scope instead of inventing a color palette.",
+      },
+      {
+        icon: "car",
+        title: "Collector film and park-weekend staging",
+        body: "Access is West Tapps Highway E to 76th Street Court E onto 202nd Avenue E. Elevations that face that approach pick up grit. Saturdays toward Allan Yorke Park fill the same collectors. We plan wash days and trailer placement so we are not extra overflow on a launch morning.",
+      },
+      {
+        icon: "home",
+        title: "2010s production elevations, not 1960s custom",
+        body: "D.R. Horton two-story plans share trim, fascia, and fence details from street to street, but shade and sun still fail on different walls. We inspect before promising a paint-only job, and we do not treat this pocket as Ponderosa Estates’ mid-1960s lagoon wood.",
+      },
+      {
+        icon: "school",
+        title: "Sumner-Bonney Lake calendars, address by address",
+        body: "Ridge homes are in the Sumner-Bonney Lake School District. Bonney Lake Elementary sits on 80th Street E nearby, but elementary and middle assignment on 78th Street Court E is parcel-specific. We follow the bells and after-school traffic you actually run.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Tina W.", "David R."],
+    galleryHeading: "Our Work Near Ridge at Lake Tapps",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, interiors, and decks from Lake Tapps-area jobs. They show the type of work we do and are not geo-tagged to 78th Street Court E, 202nd Avenue E, or any Ridge at Lake Tapps address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-03-45.jpg",
+        alt: "Completed deck and exterior project near Lake Tapps",
+        caption: "Exterior and deck finish after wash and prep — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting and trim — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-20-1512.jpg",
+        alt: "New deck railing installation in progress",
+        caption: "Deck rail installation — Lane HBS work in the Lake Tapps area",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Ridge at Lake Tapps",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining and exterior prep — Lane HBS work in the Lake Tapps area",
+      body: "The photo is owned Lane HBS deck work elsewhere in the Lake Tapps area, not a 78th Street Court E address, and we do not describe it as one. It shows the finish we aim for on an outdoor living surface. On a Ridge at Lake Tapps patio or side-yard fence the sequence would be the same: check boards and posts for soft spots, wash off mildew and collector film, let the wood dry between close neighbors, repair what failed, and only then stain. Before work starts we would also confirm whether a new or enlarged deck needs a City of Bonney Lake building permit, and whether the HOA has a say in the fence height or finish.",
+    },
+    considerationsHeading: "Ridge at Lake Tapps-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Ridge at Lake Tapps HOA review and City of Bonney Lake permits",
+        body: "Repainting siding and restaining an existing fence are usually maintenance. Color changes, new fences, patio covers, and new or enlarged decks can involve The Ridge At Lake Tapps Homeowners Association. The city also requires a building permit for decks over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door. We ask for your current CC&Rs and the association’s process rather than copying a Sky Island or Prairie Ridge packet.",
+      },
+      {
+        heading: "Ridge at Lake Tapps sidewalk lots and wash-water control",
+        body: "Lots here are curb-and-sidewalk parcels with fully fenced yards. Ladders, wash water, and overspray have a short run to the neighbor’s fence. We stage from the driveway and keep 78th Street Court E and 202nd Avenue E open instead of treating the court like a staging yard.",
+      },
+      {
+        heading: "Ridge at Lake Tapps shade between houses versus collector sun",
+        body: "North walls and the fence line between two-story plans stay damp. Elevations that face 202nd Avenue E and the West Tapps Highway E approach take sun and film. We plan wash time, dry time, and coating choice per elevation instead of one approach for the whole house.",
+      },
+      {
+        heading: "Ridge at Lake Tapps school mornings and Allan Yorke weekends",
+        body: "Weekday clocks follow Sumner-Bonney Lake buses on the 76th Street Court E / 202nd Avenue E approach. Weekend clocks follow launch and concert traffic at Allan Yorke Park a few blocks west. We schedule material drops around the calendar you actually live, not a generic plateau window.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Ridge at Lake Tapps",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Ridge at Lake Tapps pricing moves with story count, wash-dry time after collector film or close-lot shade, trim and fence repairs, occupied interiors, cul-de-sac access, and whether HOA or City of Bonney Lake review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Wash time, dry time, and collector film",
+        body: "Film off West Tapps Highway E and mildew between houses come off first, and the surface has to dry before coatings go on. Quotes that skip that step fail first on the shaded fence or the street-facing elevation.",
+      },
+      {
+        title: "Carpentry on trim, fascia, and fence boards",
+        body: "Soft trim, fascia, and fence boards found during prep are added to the written scope, not hidden inside a spray bid. A new or enlarged deck also raises the city permit and HOA questions noted above.",
+      },
+      {
+        title: "Access, HOA review, and occupied rooms",
+        body: "Cul-de-sac staging, HOA review time, and working around a family in a two-story plan all take calendar time. We list them as separate lines so you can see what you are paying for.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and recoat for street-facing elevations that take collector film and shaded north walls between two-story plans, with HOA color questions flagged before work starts.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied-home interior painting and trim work for Ridge at Lake Tapps’ two-story family plans, with floors protected and rooms phased around the household.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Side-yard fences and patios: clean, dry, repair what is soft, then stain. New or enlarged decks and fence changes still go through the City of Bonney Lake and the HOA where they apply.",
+      },
+    ],
+    estimateBandCopy:
+      "Ridge at Lake Tapps home ready for an exterior repaint, interior refresh, or fence restain? Free on-site estimate. Call or send the form. We plan around HOA review, City of Bonney Lake permits where they apply, and the school-and-park rhythm on 78th Street Court E.",
+    processHeading: "Our Ridge at Lake Tapps Process",
+    processSteps: [
+      {
+        title: "Ridge at Lake Tapps Site Assessment",
+        body: "We walk each elevation, the fence, the patio, and the rooms: close-lot shade versus collector sun, access off 76th Street Court E, occupancy, and whether HOA or city review applies.",
+      },
+      {
+        title: "Ridge at Lake Tapps Scope, Colors & HOA",
+        body: "A written scope before any coating day. HOA architectural questions and City of Bonney Lake permit flags are named, and shared or association fence lines are confirmed.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and film, scrape, repair soft trim or fence boards, and prime. This is the step that decides how long the finish lasts on a sidewalk lot.",
+      },
+      {
+        title: "Ridge at Lake Tapps Paint / Build Days",
+        body: "We work in dry weather windows and plan around school-day traffic and Allan Yorke Park weekends. We do not coat damp surfaces to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and fence lines are walked in daylight. Licensed, insured closeout, LANEHHB7912R, same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Bonney Lake Permit Center",
+        url: "https://www.bonneylake.gov/260/Permit-Center",
+        description:
+          "Where Ridge at Lake Tapps decks and structural work go. The city lists which deck and fence projects are exempt from a building permit and which are not. We use it to confirm scope before work, not as a substitute for walking your lot.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "The city’s residential rules, including the 200-square-foot and 30-inch deck thresholds and the six-foot fence exemption that apply on 78th Street Court E the same as elsewhere in the city.",
+      },
+      {
+        name: "Allan Yorke Park",
+        url: "https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1",
+        description:
+          "Bonney Lake’s public lakefront park a few blocks west of the Ridge — launch, swim beach, and summer events. It is why weekend collectors fill; it is not a Ridge street and not a private dock.",
+      },
+      {
+        name: "The Ridge at Lake Tapps HOA",
+        url: "https://theridgeatlaketapps.frontsteps.net/about/",
+        description:
+          "Association portal for The Ridge At Lake Tapps Homeowners Association. Exterior color, fence, and patio questions belong here alongside the city, and we ask you for the current packet instead of guessing.",
+      },
+      {
+        name: "Sumner-Bonney Lake School District",
+        url: "https://www.sumnersd.org/",
+        description:
+          "The district for Ridge at Lake Tapps homes. Attendance is address-specific — Bonney Lake Elementary on 80th Street E is nearby, but we do not name a neighborhood school for your lot.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Ridge at Lake Tapps is a City of Bonney Lake sidewalk HOA on 78th Street Court E, 78th Street E, 77th Street Court E, and 202nd Avenue E — 2013–14 D.R. Horton two-story plans a few blocks inland from [Allan Yorke Park](https://www.bonneylake.gov/Facilities/Facility/Details/Allan-Yorke-Park-1). Homes are in the [Sumner-Bonney Lake School District](https://www.sumnersd.org/). [Bonney Lake Elementary](https://ble.sumnersd.org/) at 18715 80th Street E is the nearest campus many families know, but elementary and middle assignment is set by address. The association — The Ridge At Lake Tapps Homeowners Association, UBI 603243623 — maintains common areas and recorded CC&Rs; confirm what is yours before any fence line is stained or moved. Look up the filing on the [Washington Secretary of State corporations search](https://www.sos.wa.gov/corporations-charities) if you need the entity record.",
+      "Because the Ridge is inside city limits, decks and structural changes start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and its [building permit rules](https://www.bonneylake.gov/279/Building-Permits), and exterior changes may also need review through the [HOA portal](https://theridgeatlaketapps.frontsteps.net/about/). Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/visit-the-library/locations-hours/). We schedule coatings around those questions, school-day traffic, and park weekends — not as a name-swap of [Allan Yorke](/service-areas/lake-tapps/allan-yorke) around the launch, [Lake Jane Estates](/service-areas/lake-tapps/lake-jane-estates) on 68th Street E, [Ponderosa Estates](/service-areas/lake-tapps/ponderosa-estates) on 101st Street E, or [Downtown Bonney Lake](/service-areas/lake-tapps/downtown-bonney-lake) along Main Street E.",
+    ],
+  },
 ];
