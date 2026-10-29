@@ -3703,4 +3703,224 @@ export const lakeTappsNeighborhoods: Neighborhood[] = [
       "Because Sky Island is inside city limits, decks and structural changes start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and its [building permit rules](https://www.bonneylake.gov/279/Building-Permits), and exterior changes may also need HOA review. We schedule coatings around those questions and the weather, and we do not treat Sky Island as a name swap of [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E, [Quiet Water](/service-areas/lake-tapps/quiet-water) east of 214th Avenue E, or [Downtown Bonney Lake](/service-areas/lake-tapps/downtown-bonney-lake) along Main Street E.",
     ],
   },
+  {
+    slug: "falling-water",
+    name: "Falling Water",
+    description:
+      "Bonney Lake hillside HOA south of Rhodes Lake Road E — Falling Water Boulevard E, 126th Street E, and Rainier-facing lots with city permits, not Victor Falls’ creek-ravine park streets and not Tehaleh.",
+    blurb:
+      "On Falling Water Boulevard E, 126th Street E, 127th Street Court E, 122nd Street Court E, and Falling Water Place E, Lane HBS paints exteriors, refreshes occupied interiors, and stains decks and fences for Falling Water’s Bonney Lake hillside homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior painting for Rainier-facing elevations and shaded greenbelt walls",
+      "Deck and fence staining inside Falling Water Owners Association review",
+      "Occupied interiors staged around Rhodes Lake Road E school and park traffic",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint, stain, or replace a fence in Falling Water?",
+        answer:
+          "Falling Water is inside the City of Bonney Lake, and Falling Water Owners Association (Washington nonprofit UBI 603289448, incorporated 2 April 2013) reviews exterior changes. The city exempts fences up to six feet and finish work or minor repairs from a building permit, but it requires one for a deck that is over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door. Color changes and new fences are the kind of work associations commonly review. Later divisions are not always the same file — Division 4 has been managed separately — so we ask which packet covers your lot instead of assuming one form for the whole boulevard. We name both the city desk and the association on the free estimate.",
+      },
+      {
+        question:
+          "What prep fits Falling Water’s view lots, greenbelt shade, and still-building streets?",
+        answer:
+          "Open elevations that face the mountain take more wind-driven rain and afternoon sun. Lots against HOA greenbelt stay damp, grow mildew, and hold wash water longer. Production siding, fascia, and backyard decks still need a wash, scrape, and prime before a second coat — new construction is not a reason to skip prep. We look at each elevation separately, because the view side and the greenbelt side of the same house rarely fail the same way.",
+      },
+      {
+        question: "How do you price painting and remodeling in Falling Water?",
+        answer:
+          "Story count, wash-and-dry time on view versus greenbelt walls, trim or deck repairs, occupied interiors, hillside trailer placement on 126th Street E and 127th Street Court E, and whether city or association review belongs in the scope. We do not publish a square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate with a written scope.",
+      },
+      {
+        question:
+          "Can you paint or stain while we live here, and how long does it take?",
+        answer:
+          "Yes. Interiors are usually done occupied, room by room, with floors and furniture protected. A weather-facing exterior or deck depends on dry windows and on any carpentry found during prep, so we write the schedule after we see the house. Falling Water is in the Sumner-Bonney Lake School District. Rhodes Lake Road E already carries Victor Falls Elementary and city-park traffic before you even turn onto Falling Water Boulevard E, and we plan material drops around that pulse instead of blocking the entry.",
+      },
+      {
+        question:
+          "Is Falling Water the same as Tehaleh, Victor Falls, or the industrial center on Falling Water Boulevard?",
+        answer:
+          "No. This page is the residential HOA south of Rhodes Lake Road E — Falling Water Boulevard E, 126th Street E, 127th Street Court E, 122nd Street Court E, and Falling Water Place E. It is not Tehaleh’s master-planned villages, not Victor Falls’ ravine streets around 188th Avenue Court E and the city falls park, and not the Falling Water Industrial Center listings that reuse the boulevard name. We estimate the house in front of us, not a marketing map.",
+      },
+    ],
+    image: "/images/from-lane/lane-22-62.jpg",
+    heroIntro:
+      "Falling Water is a Bonney Lake hillside HOA reached from Rhodes Lake Road E onto Falling Water Boulevard E, with homes on 126th Street E, 127th Street Court E, 122nd Street Court E, and Falling Water Place E. Paint, stain, and carpentry here deal with Rainier-facing weather, greenbelt shade, association review, and City of Bonney Lake permits — not a creek-ravine park street and not Tehaleh.",
+    mapQuery: "Falling Water Boulevard E and 126th Street E, Bonney Lake, WA",
+    latitude: 47.14994,
+    longitude: -122.17919,
+    geoRadiusMeters: 1600,
+    introHeading: "Hillside Production Streets, Not a Ravine or a Master Plan",
+    introLead:
+      "Falling Water sits south of Rhodes Lake Road E in Bonney Lake, on the hillside between Sky Island Drive E and the Tehaleh plateau. The living streets are Falling Water Boulevard E, 126th Street E, 126th Street Court E, 127th Street Court E, 122nd Street Court E, Falling Water Place E, and 173rd Avenue E. The city’s plat map labels Falling Water Division 1 in this pocket. The association incorporated in 2013, and KB Home still keeps a sales office at 17248 127th Street Court E, so siding, trim, and paint systems change from an earlier court to a house that just closed. View lots take weather. Greenbelt lots stay damp. That mix is the painting story, not a one-coat suburban shortcut.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Falling Water jobs from a Lake Tapps base with licensed, insured standards (LANEHHB7912R). Lane Vanderwaal will not invent a house count on Falling Water Boulevard E or claim we painted a model on 127th Street Court E. We walk your elevations, deck, and rooms, tell you what is soft or chalking, and say plainly when a question belongs to Falling Water Owners Association or the City of Bonney Lake Permit Center. That includes exterior colors, fences, and any deck that is attached, elevated, or large. We are not building a Tehaleh page, a Fennel Creek page, or a 126th Street page. Those corridors are already spoken for here or on the Victor Falls and Sky Island pages.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City permits plus a 2013 owners association",
+        body: "Falling Water is incorporated Bonney Lake, so structural deck work goes to the city Permit Center, not Pierce County’s unincorporated desk and not Cascade Water Alliance shoreline rules. Falling Water Owners Association has been on file since 2013. Later divisions are not always the same manager. We ask which packet covers your lot and put both questions in the written scope.",
+      },
+      {
+        icon: "sun",
+        title: "Rainier-facing walls are not greenbelt walls",
+        body: "Open elevations collect wind-driven rain and afternoon sun. Lots against association greenbelt stay shaded and grow mildew. We inspect each side of the house and prep it for the exposure it actually has — the same street can hold both conditions.",
+      },
+      {
+        icon: "car",
+        title: "Rhodes Lake Road E is already a busy collector",
+        body: "You reach Falling Water Boulevard E from Rhodes Lake Road E after Prairie Road E or Sky Island Drive E. That collector already carries Victor Falls Elementary, city-park visitors, and hillside construction traffic. We keep trailers and wash water off the boulevard entry so neighbors still make that left turn.",
+      },
+      {
+        icon: "home",
+        title: "Occupied production houses, not a vacant model row",
+        body: "Some courts are still finishing; most households already live here. We contain rooms, protect floors, and do not treat a 126th Street E driveway like an empty sales lot. New siding still gets washed and primed when the film and mill glaze are in the way.",
+      },
+    ],
+    reviewNames: ["Sarah M.", "David R.", "Tina W."],
+    galleryHeading: "Our Work Near Falling Water",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, decks, and interiors from Lake Tapps-area and nearby Bonney Lake jobs. They show the type of work we do and are not geo-tagged to Falling Water Boulevard E, 126th Street E, or 127th Street Court E.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-22-62.jpg",
+        alt: "Modern deck on a Lake Tapps-area home",
+        caption: "Deck finish after prep — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-03-45.jpg",
+        alt: "Completed deck and exterior project near Lake Tapps",
+        caption: "Exterior and deck upgrade — Lane HBS work in the Lake Tapps area",
+      },
+      {
+        src: "/images/from-lane/lane-12-1198.jpg",
+        alt: "Interior painting on a residential project",
+        caption: "Interior painting — Lane HBS work in the Lake Tapps area",
+      },
+    ],
+    caseStudy: {
+      heading: "Featured project for homes like these in Falling Water",
+      image: "/images/from-lane/lane-05-1d7c6264-414c-4303-b396-b8786e3a1eea-1_all_205.jpg",
+      imageAlt: "Deck pressure washing and prep by Lane HBS",
+      serviceType: "Deck wash, repairs, and stain — Lane HBS work in the Lake Tapps area",
+      body: "The photo is owned Lane HBS deck prep elsewhere in the Lake Tapps area, not a Falling Water Boulevard E address, and we do not describe it as one. It shows the wash-and-dry step we start with on an elevated deck. On a Falling Water view-side or greenbelt deck the sequence would be the same: check framing and rails for soft spots, wash off mill glaze, pollen, and mildew, let the boards dry, repair what failed, and only then stain. Before work starts we would also confirm whether the deck is large, elevated, or attached enough to need a City of Bonney Lake building permit, and which Falling Water association packet — Owners Association or a later division — has a say in the finish or the rail.",
+    },
+    considerationsHeading: "Falling Water-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "Falling Water HOA review and City of Bonney Lake permits",
+        body: "Repainting and restaining existing surfaces is usually maintenance, but color changes, new fences, and new or enlarged decks can involve the association. Falling Water Owners Association incorporated on 2 April 2013 (UBI 603289448). Do not use fallingwatershoa.com — that site is a different community in Indiana. The city also requires a building permit for decks over 200 square feet, more than 30 inches above grade, attached to the house, or serving a required exit door. Fences up to six feet are exempt from a city building permit, though HOA rules may still apply. We ask for the packet that matches your division.",
+      },
+      {
+        heading: "Falling Water view elevations versus greenbelt shade",
+        body: "A wall or deck that faces open sky takes wind-driven rain and long afternoon sun. A north wall or side fence against HOA open space stays damp. We plan wash time, dry time, and coating choice per elevation instead of one approach for the whole house, including lots still next to active building on 127th Street Court E.",
+      },
+      {
+        heading: "Falling Water access from Rhodes Lake Road E",
+        body: "The signed drive is Rhodes Lake Road E onto Falling Water Boulevard E, then 126th Street E toward Falling Water Place E and 127th Street Court E. Alternate approach is SR 410 to Sky Island Drive E, then Rhodes Lake Road E. We do not stage on Rhodes Lake Road E as if it were a quiet cul-de-sac — Victor Falls Park at 18212 Rhodes Lake Road E and Victor Falls Elementary at 11401 188th Avenue Court E already use that collector.",
+      },
+      {
+        heading: "Falling Water is not Tehaleh and not the industrial center",
+        body: "Realtor and industrial listings sometimes put Falling Water Boulevard E in Tehaleh or next to a warehouse campus that reuses the name. This residential HOA is the hillside courts south of Rhodes Lake Road E. We will not copy a Tehaleh master-association packet onto a Falling Water lot, and we will not treat a family house on 122nd Street Court E as a dock street or a Prairie Ridge county grid.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Falling Water",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Falling Water pricing moves with story count, view versus greenbelt wash-dry time, trim and deck repairs, occupied interiors, hillside court access, and whether HOA or City of Bonney Lake review belongs in the scope. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Exposure, wash time, and dry time",
+        body: "Rainier-facing elevations and shaded greenbelt walls need different prep. Film, pollen, and mildew come off first, and the surface has to dry before coatings go on. Quotes that skip that step tend to fail on the open side first.",
+      },
+      {
+        title: "Carpentry and elevated decks",
+        body: "Soft trim, fascia, and deck boards found during prep are added to the written scope, not hidden inside a spray bid. Elevated backyard decks also raise the permit and rail questions noted above.",
+      },
+      {
+        title: "Access, HOA, and occupied rooms",
+        body: "Hillside courts, Rhodes Lake Road E timing, association review, and working around a family living in the house all take calendar time. We list them as separate lines so you can see what you are paying for.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, scrape, prime, and recoat for Rainier-facing elevations that take weather and greenbelt walls that hold moisture, with Falling Water HOA color questions flagged before work starts.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied-home interior painting and trim work for Falling Water’s family houses, with floors protected and rooms phased around the household — including homes that still have builder film on the trim.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Backyard decks and side-yard fences: clean, dry, repair what is soft, then stain. New or enlarged decks and fence changes still go through the City of Bonney Lake and the association that actually covers the lot.",
+      },
+    ],
+    estimateBandCopy:
+      "Falling Water home ready for an exterior repaint, deck restain, or interior refresh? Free on-site estimate. Call or send the form. We plan around Falling Water Owners Association review, City of Bonney Lake permits where they apply, and the school-day rhythm on Rhodes Lake Road E.",
+    processHeading: "Our Falling Water Process",
+    processSteps: [
+      {
+        title: "Falling Water Site Assessment",
+        body: "We walk each elevation, the deck, and the rooms: view-side versus greenbelt exposure, boulevard and court access, occupancy, and whether HOA or city review applies.",
+      },
+      {
+        title: "Falling Water Scope, Colors & HOA",
+        body: "A written scope before any coating day. Falling Water Owners Association questions and City of Bonney Lake permit flags are named, and we confirm which division packet covers the lot.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash film and mildew, scrape, repair soft trim or deck boards, and prime. This is the step that decides how long the finish lasts on a hillside production house.",
+      },
+      {
+        title: "Falling Water Paint / Build Days",
+        body: "We work in dry weather windows and plan around Rhodes Lake Road E school and park traffic. We do not coat damp greenbelt walls to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and the street in front of the house are walked in daylight. Licensed, insured closeout, LANEHHB7912R, same as every other Lake Tapps-area job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Bonney Lake Permit Center",
+        url: "https://www.bonneylake.gov/260/Permit-Center",
+        description:
+          "Where Falling Water decks and structural work go. The city lists which deck and fence projects are exempt from a building permit and which are not. We use it to confirm scope before work, not as a substitute for walking your lot.",
+      },
+      {
+        name: "City of Bonney Lake Building Permits",
+        url: "https://www.bonneylake.gov/279/Building-Permits",
+        description:
+          "The city’s residential rules, including the 200-square-foot and 30-inch deck thresholds and the six-foot fence exemption that still sit next to HOA review on Falling Water courts.",
+      },
+      {
+        name: "Victor Falls Park",
+        url: "https://www.bonneylake.gov/293/Parks-Trails",
+        description:
+          "Bonney Lake’s 2013 falls park at 18212 Rhodes Lake Road E, on the same collector you use to reach Falling Water Boulevard E. Soft-surface paths and a 70-foot viewpoint — a weekend traffic pulse we plan around, not a job-site address.",
+      },
+      {
+        name: "Victor Falls Elementary",
+        url: "https://vfe.sumnersd.org/",
+        description:
+          "Sumner-Bonney Lake campus at 11401 188th Avenue Court E, about a mile from Falling Water’s courts. Nearby, not a Falling Water street. Attendance is still set by address.",
+      },
+      {
+        name: "Sumner-Bonney Lake School District",
+        url: "https://www.sumnersd.org/",
+        description:
+          "The district for Falling Water homes. Listings often name Victor Falls Elementary, Mountain View Middle, and Bonney Lake High as nearby campuses; we still treat assignment as parcel-specific.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Daily life in Falling Water runs on hillside courts and a collector: Falling Water Boulevard E off Rhodes Lake Road E, 126th Street E, 127th Street Court E, and 122nd Street Court E. Households follow the [Sumner-Bonney Lake School District](https://www.sumnersd.org/) calendar. Nearby campuses include [Victor Falls Elementary](https://vfe.sumnersd.org/) at 11401 188th Avenue Court E and [Bonney Lake High School](https://blhs.sumnersd.org/) at 10920 199th Avenue Court E — both off this ridge, neither a Falling Water street. Mountain View Middle at 10921 199th Avenue Court E is the same ridge. Weekend walking often goes to [Victor Falls Park](https://www.bonneylake.gov/293/Parks-Trails) on the same Rhodes Lake Road E approach.",
+      "Because Falling Water is inside city limits, decks and structural changes start with the [City of Bonney Lake Permit Center](https://www.bonneylake.gov/260/Permit-Center) and its [building permit rules](https://www.bonneylake.gov/279/Building-Permits). Exterior color and fence questions go to Falling Water Owners Association (UBI 603289448) or the later division that actually covers the lot — not an Indiana HOA site and not a Tehaleh master packet. Indoor research time often goes to the [Pierce County Library System](https://mypcls.org/visit-the-library/locations-hours/). Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). We schedule coatings around that hillside-and-school rhythm, and we do not treat Falling Water as a name-swap of [Victor Falls](/service-areas/lake-tapps/victor-falls) on 188th Avenue Court E, [Sky Island](/service-areas/lake-tapps/sky-island) on Sky Island Drive E, or [Prairie Ridge](/service-areas/lake-tapps/prairie-ridge) on 128th Street E.",
+    ],
+  },
 ];
