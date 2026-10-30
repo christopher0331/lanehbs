@@ -293,7 +293,7 @@ export default function Contact({
                     </div>
                   </a>
                   <a
-                    href="mailto:lane@lanehbsllc.com"
+                    href="mailto:lanehbs@gmail.com"
                     className="flex items-start gap-4 group"
                   >
                     <div className="w-10 h-10 bg-[#c9a458]/10 border border-[#c9a458]/20 flex items-center justify-center flex-shrink-0 group-hover:bg-[#c9a458]/20 transition-colors">
@@ -302,7 +302,7 @@ export default function Contact({
                     <div>
                       <div className="text-xs tracking-widest uppercase text-white/30 mb-0.5">Email Us</div>
                       <div className="text-white group-hover:text-[#c9a458] transition-colors text-sm font-medium">
-                        lane@lanehbsllc.com
+                        lanehbs@gmail.com
                       </div>
                     </div>
                   </a>
