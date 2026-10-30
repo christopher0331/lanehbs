@@ -609,6 +609,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Crystal View",
         path: "/service-areas/covington/crystal-view",
       },
+      {
+        name: "Coho Creek",
+        path: "/service-areas/covington/coho-creek",
+      },
     ],
     knownLinks: [
       { name: "City of Covington", url: "https://www.covingtonwa.gov/" },

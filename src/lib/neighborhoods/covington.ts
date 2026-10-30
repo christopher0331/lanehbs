@@ -2402,4 +2402,222 @@ export const covingtonNeighborhoods: Neighborhood[] = [
       "Structural decks and shops on these incorporated streets typically start with the [Covington Building Division](https://www.covingtonwa.gov/city_departments/community_development/building.php). Indoor research time often goes to [Covington Library](https://kcls.org/locations/covington/) at 27100 164th Avenue SE. Power and storm timing sit with [Puget Sound Energy](https://www.pse.com/). Weekend hours still land at [Crystal View Park](https://www.covingtonwa.gov/parks/crystalviewpark.php). We schedule coatings around that park-and-school rhythm — not as a name-swap of [Highpointe](/service-areas/covington/highpointe)’s 1990s 164th loops, [Tahoma Crest](/service-areas/covington/tahoma-crest)’s 2021 sidewalk pocket, or Downtown’s SE 272nd storefronts.",
     ],
   },
+  {
+    slug: "coho-creek",
+    name: "Coho Creek",
+    description:
+      "Covington’s Wingfield (Coho Creek) plat off 168th Avenue SE and SE 261st Street — early-2010s two-story homes, an HOA, a community park, and City of Covington permits.",
+    blurb:
+      "In Coho Creek — the Wingfield plat off 168th Avenue SE and SE 261st Street in Covington — Lane HBS paints exteriors, refreshes occupied interiors, and stains decks and fences for early-2010s family homes. Free estimates. Call (253) 414-3937.",
+    highlights: [
+      "Exterior repaints with wash, caulk, and prime on early-2010s siding and trim",
+      "Occupied-home interior painting, room by room",
+      "Deck and fence staining, with HOA and City of Covington questions named up front",
+    ],
+    faqs: [
+      {
+        question:
+          "Do I need a permit or HOA approval to paint, build a deck, or replace a fence in Coho Creek?",
+        answer:
+          "Often there are two questions. Coho Creek is inside the City of Covington, and the city’s permit FAQ says decks and similar platforms require building permits, with exceptions handled under the building code’s exempted-work section. Washington’s state business registry also lists an active Wingfield HOA – Coho Creek Homeowners’ Association, and associations commonly review exterior color, fence, and deck changes. We ask you to check your CC&Rs and the association’s current process, and we name the city question in the estimate instead of guessing.",
+      },
+      {
+        question: "What prep fits Coho Creek’s homes and Covington’s wet winters?",
+        answer:
+          "Listing records for homes on SE 261st Street show build years around 2012 and 2013, so many exteriors are on their first or second paint cycle. Around that age, caulk joints at trim and windows open up, north walls collect mildew, and decks start to gray. We wash, re-caulk, spot-prime, and repair soft trim before color, and we look at each elevation separately. We confirm what your siding is made of on site rather than assuming from a listing.",
+      },
+      {
+        question: "How do you price painting and remodeling in Coho Creek?",
+        answer:
+          "Story count, repair quantity, wash-and-dry time, how much of the work is interior and occupied, HOA sample or approval steps if required, and whether a deck or fence is in the same visit. We do not publish a square-foot or linear-foot menu. Call (253) 414-3937 or use the contact form for a free on-site estimate with a written scope.",
+      },
+      {
+        question: "Can you work on tight lots with neighbors close by?",
+        answer:
+          "Yes. Listing records describe lots here of roughly 4,000 to 4,500 square feet with curbs and sidewalks, so houses sit close together. We plan where the trailer, ladders, and wash water go, keep sidewalks clear, protect the neighbor’s side from overspray, and confirm any shared fence line with you before we touch it.",
+      },
+      {
+        question:
+          "Can you paint or stain while we live here, and how long does it take?",
+        answer:
+          "Yes. Interiors are usually done occupied, room by room, with floors and furniture protected. A two-story exterior or a deck depends on dry windows and on any repairs found during prep, so we write the schedule after we see the house. Coho Creek is in the Kent School District and close to Kentwood High School on 164th Avenue SE, so we plan material drops around school-day traffic on 168th Avenue SE.",
+      },
+    ],
+    image: "/images/from-lane/lane-07-1199.jpg",
+    heroIntro:
+      "Coho Creek is the City of Covington plat its plat map labels “Wingfield (Coho Creek),” reached from 168th Avenue SE south of SE 256th Street, with homes on SE 261st Street and the courts around it. Paint, stain, and carpentry here deal with early-2010s two-story houses on close lots, an HOA, and City of Covington permits.",
+    mapQuery: "SE 261st Street and 168th Avenue SE, Covington, WA",
+    latitude: 47.368,
+    longitude: -122.117,
+    geoRadiusMeters: 600,
+    introHeading: "Early-2010s Homes, an HOA, and City Permits in Covington",
+    introLead:
+      "The City of Covington’s residential plat map labels this area “Wingfield (Coho Creek).” Listing records for homes on SE 261st Street name Polygon as the builder and show build years around 2012 and 2013, on lots of roughly 4,000 to 4,500 square feet with curbs and sidewalks. Listings also describe a community park, trails, and a creek within the neighborhood. We treat listing details as secondary information and confirm the real condition of your house on site.",
+    introBody:
+      "Lane Home & Business Services LLC estimates Coho Creek jobs from Lake Tapps with licensed, insured standards — LANEHHB7912R. Lane Vanderwaal will not invent a house count on SE 261st Street or claim we painted a named house in the neighborhood. We will walk your siding, trim, deck, and fence honestly, flag HOA and city questions early, and plan the work around your household. Coho Creek is a newer plat than Crystal View’s late-1960s ramblers just to the north, so the prep story is different: caulk, mildew, and first-repaint decisions, not decades-old fascia rot.",
+    trustCards: [
+      {
+        icon: "clipboard",
+        title: "City of Covington plus an HOA",
+        body: "Coho Creek is inside the city, and the city’s permit FAQ says decks require building permits. The state business registry lists an active Wingfield HOA – Coho Creek Homeowners’ Association. We put both questions in the written scope.",
+      },
+      {
+        icon: "home",
+        title: "Early-2010s homes nearing a repaint",
+        body: "Listing records show 2012–2013 build years on SE 261st Street. That age is when caulk lines open and the original paint and deck stain start to fade. We inspect before quoting a paint-only job.",
+      },
+      {
+        icon: "users",
+        title: "Close lots and sidewalks",
+        body: "Listings describe small lots with curbs and sidewalks. We stage so neighbors keep their driveways and the sidewalk stays clear, and we protect the house next door from overspray.",
+      },
+      {
+        icon: "school",
+        title: "Kent School District traffic",
+        body: "Kentwood High School sits on 164th Avenue SE nearby. School-day mornings and afternoons on 168th Avenue SE and SE 256th Street shape when we drop materials.",
+      },
+    ],
+    reviewNames: ["Jennifer L.", "Sarah M.", "Mike T."],
+    galleryHeading: "Our Work Near Coho Creek",
+    galleryNote:
+      "Owned Lane HBS photos of exteriors, interiors, and decks from our Lake Tapps and South King County jobs. They show the type of work we do and are not geo-tagged to SE 261st Street, 168th Avenue SE, or any Coho Creek address.",
+    gallery: [
+      {
+        src: "/images/from-lane/lane-07-1199.jpg",
+        alt: "Completed residential exterior painting",
+        caption: "Exterior repaint after wash and prep — Lane HBS work, not a Coho Creek address",
+      },
+      {
+        src: "/images/from-lane/lane-34-1511.jpg",
+        alt: "Stained deck boards and rail",
+        caption: "Deck staining after wash and dry time — Lane HBS work, not a Coho Creek address",
+      },
+      {
+        src: "/images/from-lane/lane-11-4765.jpg",
+        alt: "Interior painting and trim",
+        caption: "Interior painting and trim — Lane HBS work, not a Coho Creek address",
+      },
+    ],
+    caseStudy: {
+      heading: "How we approach a first repaint on a newer two-story",
+      image: "/images/from-lane/lane-25-1450.jpg",
+      imageAlt: "Freshly stained multi-level deck by Lane HBS",
+      serviceType: "Deck staining and exterior prep — Lane HBS work, not a Coho Creek address",
+      body: "The photo is owned Lane HBS deck work elsewhere, not a Coho Creek house, and we do not describe it as one. It shows the finish we aim for. On an early-2010s Covington two-story the sequence would be: wash off mildew and film, re-caulk open joints at trim and windows, spot-prime bare areas, repair anything soft, and then apply finish coats in dry weather. Before any deck or fence change we would confirm the City of Covington permit question and the HOA’s review process with you.",
+    },
+    considerationsHeading: "Coho Creek-Specific Project Considerations",
+    considerations: [
+      {
+        heading: "HOA review and City of Covington permits",
+        body: "Repainting existing surfaces is usually maintenance, but color changes, fences, and decks are the kind of change associations commonly review. The city’s permit FAQ says decks require building permits. We ask early so approvals do not stall the schedule.",
+      },
+      {
+        heading: "First or second repaint on early-2010s siding",
+        body: "Listing records show 2012–2013 build years. We check caulk, trim, and the lower courses of siding, and we price any repairs separately from coating so a low paint-only number does not hide them.",
+      },
+      {
+        heading: "Close lots, sidewalks, and the neighbor’s side",
+        body: "Small lots mean less staging room and a neighbor’s wall a few feet away. We plan trailer placement, keep sidewalks open, and mask or shield to keep overspray and wash water off adjoining property.",
+      },
+      {
+        heading: "Occupied days and school-day traffic",
+        body: "These are primary homes, so bedrooms and kitchens stay in use. We phase rooms around the household and time deliveries around Kent School District traffic on 168th Avenue SE. School assignment is address-specific, so check the district for your house.",
+      },
+    ],
+    costHeading: "What Painting & Remodeling Cost in Coho Creek",
+    costIntro:
+      "We do not publish dollar-per-square-foot or linear-foot menus. Coho Creek pricing moves with story count, caulk and trim repair, wash-and-dry time, occupied interiors, HOA steps, and whether a deck or fence belongs in the same visit. A free on-site visit is how we write a real number.",
+    costDrivers: [
+      {
+        title: "Two-story access and prep",
+        body: "Upper walls need ladders or staging, and re-caulking every trim joint takes time. We price that labor instead of skipping it.",
+      },
+      {
+        title: "Tight lots and sidewalk staging",
+        body: "Limited room between houses changes how long setup, masking, and wash take. We include that time up front.",
+      },
+      {
+        title: "Decks, fences, and approvals",
+        body: "Decks and fence lines are extra surfaces to wash, dry, and finish. HOA samples or approvals and any city permit question are written into the schedule so they do not hide inside a paint bid.",
+      },
+    ],
+    featuredServices: [
+      {
+        slug: "exterior-painting",
+        localDescription:
+          "Wash, re-caulk, spot-prime, and recoat for early-2010s two-story exteriors, with HOA color questions flagged before work starts.",
+      },
+      {
+        slug: "interior-painting",
+        localDescription:
+          "Occupied-home interior painting and trim work, with floors protected and rooms phased around the household.",
+      },
+      {
+        slug: "decks-fences",
+        localDescription:
+          "Decks and side-yard fences: clean, dry, repair what is soft, then stain. New or changed decks still start with the City of Covington, and the HOA where it applies.",
+      },
+    ],
+    estimateBandCopy:
+      "Coho Creek home ready for an exterior repaint, deck restain, or interior refresh? Free on-site estimate. Call or send the form. We plan around HOA review, City of Covington permits where they apply, and school-day traffic on 168th Avenue SE.",
+    processHeading: "Our Coho Creek Process",
+    processSteps: [
+      {
+        title: "Coho Creek Site Assessment",
+        body: "We walk each elevation, the deck, and the rooms: caulk and trim condition, exposure, staging room on your lot, occupancy, and any shared fence.",
+      },
+      {
+        title: "Scope, Colors & HOA",
+        body: "A written scope before any coating day. HOA review and City of Covington permit flags are named, and shared fence lines are confirmed with you.",
+      },
+      {
+        title: "Prep & Repairs",
+        body: "Wash mildew and film, re-caulk, repair soft trim or deck boards, and prime. This step decides how long the finish lasts.",
+      },
+      {
+        title: "Coho Creek Paint / Build Days",
+        body: "We work in dry weather windows and plan around your household and school-day traffic. We do not coat damp surfaces to hit a date.",
+      },
+      {
+        title: "Walkthrough & Licensed Closeout",
+        body: "Elevations, rooms, and gates are walked in daylight. Licensed, insured closeout, LANEHHB7912R, same as every other Covington job.",
+      },
+    ],
+    attractions: [
+      {
+        name: "City of Covington Permit FAQs",
+        url: "https://covingtonwa.gov/city_departments/communitydevelopment/permitservices/permitfaq.php",
+        description:
+          "The city’s answers on when a permit is needed, including that decks and similar platforms require building permits. We use it to confirm scope before work, not as a substitute for walking your lot.",
+      },
+      {
+        name: "City of Covington Plat and Neighborhood Map",
+        url: "https://cms2.revize.com/revize/cityofcovington/residential_plat_info_map_updated_2023.pdf",
+        description:
+          "The city’s residential plat map, which labels this area “Wingfield (Coho Creek)” off SE 261st Street.",
+      },
+      {
+        name: "Kentwood High School",
+        url: "https://www.kent.k12.wa.us/o/kwhs",
+        description:
+          "The Kent School District high school on 164th Avenue SE, near the 168th Avenue SE entrance to Coho Creek. School assignment is address-specific, so check the district for your house.",
+      },
+      {
+        name: "Kent School District",
+        url: "https://www.kent.k12.wa.us/",
+        description:
+          "The district for Coho Creek homes. Calendars and school assignment for your address are here.",
+      },
+      {
+        name: "City of Covington",
+        url: "https://www.covingtonwa.gov/",
+        description:
+          "City services, parks, and contacts for Coho Creek addresses inside city limits.",
+      },
+    ],
+    localLivingParagraphs: [
+      "Coho Creek is a Covington neighborhood the city’s [plat map](https://cms2.revize.com/revize/cityofcovington/residential_plat_info_map_updated_2023.pdf) labels “Wingfield (Coho Creek),” reached from 168th Avenue SE south of SE 256th Street. Listings describe a community park, trails, and a creek inside the neighborhood. Homes are in the [Kent School District](https://www.kent.k12.wa.us/), and [Kentwood High School](https://www.kent.k12.wa.us/o/kwhs) is close by on 164th Avenue SE.",
+      "Because Coho Creek is inside city limits, decks and structural changes start with the [City of Covington](https://www.covingtonwa.gov/), whose [permit FAQ](https://covingtonwa.gov/city_departments/communitydevelopment/permitservices/permitfaq.php) says decks require building permits, and exterior changes may also need HOA review. We schedule coatings around those questions and the weather, and we do not treat Coho Creek as a name swap of [Crystal View](/service-areas/covington/crystal-view)’s late-1960s ramblers on 170th Place SE, [Highpointe](/service-areas/covington/highpointe)’s 1990s loops on 161st Avenue SE, or [Tahoma Crest](/service-areas/covington/tahoma-crest)’s 2021 pocket on 181st Place SE.",
+    ],
+  },
 ];
