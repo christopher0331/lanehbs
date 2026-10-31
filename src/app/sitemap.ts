@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getAllCitySlugs, getAllNeighborhoodParams } from "@/lib/locations";
 import { getAllServiceSlugs } from "@/lib/services";
 import { absoluteUrl } from "@/lib/seo";
+import { blogPosts } from "@/content/blog";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
@@ -14,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/reviews",
     "/contact",
     "/service-areas",
+    "/blog",
   ].map((path) => ({
     url: absoluteUrl(path),
     lastModified: now,
@@ -42,5 +44,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.75,
   }));
 
-  return [...staticRoutes, ...serviceRoutes, ...cityRoutes, ...neighborhoodRoutes];
+  const blogRoutes = blogPosts.map((post) => ({
+    url: absoluteUrl(`/blog/${post.slug}`),
+    lastModified: new Date(`${post.dateModified ?? post.datePublished}T12:00:00Z`),
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [...staticRoutes, ...serviceRoutes, ...cityRoutes, ...neighborhoodRoutes, ...blogRoutes];
 }

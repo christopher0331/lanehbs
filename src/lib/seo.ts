@@ -176,3 +176,39 @@ export function buildServiceSchema({
     url: canonical,
   };
 }
+
+export function buildBlogPosting({
+  title,
+  description,
+  path,
+  image,
+  datePublished,
+  dateModified,
+}: {
+  title: string;
+  description: string;
+  path: string;
+  image: string;
+  datePublished: string;
+  dateModified?: string;
+}): Record<string, unknown> {
+  const org = {
+    "@type": "Organization",
+    name: SITE_CONFIG.fullName,
+    url: absoluteUrl("/"),
+    logo: { "@type": "ImageObject", url: SITE_CONFIG.logoUrl },
+  };
+  return {
+    "@type": "BlogPosting",
+    headline: title,
+    description,
+    url: absoluteUrl(path),
+    mainEntityOfPage: { "@type": "WebPage", "@id": absoluteUrl(path) },
+    image: absoluteUrl(image),
+    datePublished,
+    dateModified: dateModified ?? datePublished,
+    inLanguage: "en-US",
+    author: org,
+    publisher: org,
+  };
+}
