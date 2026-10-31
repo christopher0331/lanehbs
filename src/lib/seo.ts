@@ -116,12 +116,6 @@ export function buildLocalBusiness({
       },
     ],
     areaServed,
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "5",
-      bestRating: "5",
-      reviewCount: "5",
-    },
     hasOfferCatalog: {
       "@type": "OfferCatalog",
       name: "Home Improvement Services",
