@@ -8,7 +8,10 @@ export const SITE_CONFIG = {
   owner: "Lane Vanderwaal",
   phone: "(253) 414-3937",
   phoneLink: "2534143937",
-  email: "lane@lanehbsllc.com",
+  /** Public contact email shown on the site and in JSON-LD. */
+  email: "lanehbs@gmail.com",
+  /** Where estimate-form notifications are sent. Not displayed. */
+  formRecipientEmail: "lane@lanehbsllc.com",
   license: "LANEHHB7912R",
   address: {
     city: "Lake Tapps",

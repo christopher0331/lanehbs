@@ -73,7 +73,7 @@ export const HOME_FAQS: FaqItem[] = [
   {
     question: "How do I get a free estimate?",
     answer:
-      "Call or text (253) 414-3937, email lane@lanehbsllc.com, or use the contact form. We will discuss the project and schedule a visit. Estimates are free with no pressure. Office hours are Monday–Friday, 9:00 AM – 5:00 PM.",
+      "Call or text (253) 414-3937, email lanehbs@gmail.com, or use the contact form. We will discuss the project and schedule a visit. Estimates are free with no pressure. Office hours are Monday–Friday, 9:00 AM – 5:00 PM.",
   },
   {
     question: "Can you paint while we live in the house?",
@@ -151,7 +151,7 @@ Downtown storefronts, light commercial interiors, and outbuildings all show up i
 
 ## How a Lane HBS project typically runs
 
-Most jobs start with a [contact / free estimate](/contact) or a call to (253) 414-3937. Email is lane@lanehbsllc.com. Estimates are free. The visit is to see the surfaces, talk through timing, and write a clear scope — painting only, carpentry plus paint, a cabinet refinish, a deck stain, or a remodel sequence.
+Most jobs start with a [contact / free estimate](/contact) or a call to (253) 414-3937. Email is lanehbs@gmail.com. Estimates are free. The visit is to see the surfaces, talk through timing, and write a clear scope — painting only, carpentry plus paint, a cabinet refinish, a deck stain, or a remodel sequence.
 
 Once you approve the work, the crew protects the site, completes repairs, then applies the finish system. Interior work is usually done while you live in the house. Exteriors get scheduled around Northwest weather windows; spring through early fall is the typical exterior season, and interior work often fills wetter months. The job is not done at 90 percent. A walkthrough closes the punch list.
 

@@ -100,11 +100,11 @@ export default function Footer() {
                 (253) 414-3937
               </a>
               <a
-                href="mailto:lane@lanehbsllc.com"
+                href="mailto:lanehbs@gmail.com"
                 className="flex items-center gap-3 text-sm hover:text-[#c9a458] transition-colors"
               >
                 <Mail size={14} className="text-[#c9a458] flex-shrink-0" />
-                lane@lanehbsllc.com
+                lanehbs@gmail.com
               </a>
               <div className="flex items-start gap-3 text-sm">
                 <MapPin size={14} className="text-[#c9a458] flex-shrink-0 mt-0.5" />

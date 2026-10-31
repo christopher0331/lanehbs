@@ -32,7 +32,7 @@ function notifyList(extraRecipients?: string): string[] {
     .split(",")
     .map((value) => value.trim())
     .filter(Boolean);
-  return Array.from(new Set([SITE_CONFIG.email, ...extra]));
+  return Array.from(new Set([SITE_CONFIG.formRecipientEmail, ...extra]));
 }
 
 export function buildEstimateEmailHtml(data: EstimatePayload): string {
