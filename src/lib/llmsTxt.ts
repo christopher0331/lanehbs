@@ -75,6 +75,11 @@ export function buildLlmsTxt(): string {
       "/reviews",
       "Customer reviews of Lane HBS painting and remodeling work.",
     ),
+    item(
+      "Blog",
+      "/blog",
+      "Painting and home-care guidance for Lake Tapps, Enumclaw, and nearby homeowners.",
+    ),
     "",
     "## Services",
     "",

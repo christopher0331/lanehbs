@@ -12,6 +12,7 @@ const navLinks = [
   { label: "Gallery", href: "/gallery" },
   { label: "Areas", href: "/service-areas" },
   { label: "Reviews", href: "/reviews" },
+  { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -105,7 +106,7 @@ export default function Navbar() {
 
       <div
         className={`lg:hidden overflow-hidden transition-all duration-500 ${
-          menuOpen ? "max-h-[500px] opacity-100" : "max-h-0 opacity-0"
+          menuOpen ? "max-h-[640px] opacity-100" : "max-h-0 opacity-0"
         } bg-[#0d0d0d]/98 backdrop-blur-md`}
       >
         <div className="px-6 py-6 flex flex-col gap-5 border-t border-white/10">
