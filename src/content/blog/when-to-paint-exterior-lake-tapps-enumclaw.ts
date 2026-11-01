@@ -10,6 +10,8 @@ export const whenToPaintExteriorLakeTappsEnumclaw: BlogPost = {
     "Temperature, dew point, wet siding, and a short dry season. Here is how we think about timing an exterior paint job east of Tacoma, and why booking early helps.",
   datePublished: "2026-10-31",
   image: "/images/painting.jpg",
+  breadcrumbLabel: "Exterior Painting Timing",
+  ctaHeading: "Planning an exterior paint job?",
   imageAlt: "Exterior siding prepped for paint with windows masked and ladders in place",
   intro: [
     "Ask anyone who has lived near Lake Tapps or Enumclaw for a few years and they will tell you the same thing: the weather decides the exterior painting schedule. The paint can be excellent and the prep can be careful, but if the film goes on a damp board or gets hit by dew before it has formed, the job will not last the way it should.",

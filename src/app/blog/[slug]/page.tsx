@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, Phone } from "lucide-react";
@@ -71,7 +72,7 @@ export default async function BlogPostPage({ params }: Props) {
         crumbs={[
           { label: "Home", href: "/" },
           { label: "Blog", href: "/blog" },
-          { label: "Exterior Painting Timing" },
+          { label: post.breadcrumbLabel },
         ]}
       />
 
@@ -106,12 +107,36 @@ export default async function BlogPostPage({ params }: Props) {
                     ))}
                   </ul>
                 )}
+                {section.callout && (
+                  <aside className="my-8 border-l-4 border-[#c9a458] bg-[#111111] px-6 py-5">
+                    <p className="text-xs tracking-widest uppercase text-[#c9a458] mb-2">{section.callout.title}</p>
+                    <p className="text-white/80 text-base leading-relaxed">
+                      <InlineLinks text={section.callout.body} />
+                    </p>
+                  </aside>
+                )}
+                {section.image && (
+                  <figure className="my-8">
+                    <div className="relative aspect-[4/3] overflow-hidden border border-white/10">
+                      <Image
+                        src={section.image.src}
+                        alt={section.image.alt}
+                        fill
+                        className="object-cover"
+                        sizes="(max-width: 768px) 100vw, 768px"
+                      />
+                    </div>
+                    {section.image.caption && (
+                      <figcaption className="text-white/40 text-sm mt-2">{section.image.caption}</figcaption>
+                    )}
+                  </figure>
+                )}
               </section>
             ))}
           </article>
 
           <div className="mt-14 border border-[#c9a458]/30 bg-[#111111] p-8">
-            <h2 className="font-display text-2xl font-bold text-white mb-3">Planning an exterior paint job?</h2>
+            <h2 className="font-display text-2xl font-bold text-white mb-3">{post.ctaHeading}</h2>
             <p className="text-white/60 mb-6">
               Call or text {SITE_CONFIG.phone} or request a free estimate. We will walk the house and talk timing.
             </p>
