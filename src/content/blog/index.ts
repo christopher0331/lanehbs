@@ -1,10 +1,14 @@
 import type { BlogPost } from "./types";
+import { deckStainVsPaintWesternWashington } from "./deck-stain-vs-paint-western-washington";
 import { whenToPaintExteriorLakeTappsEnumclaw } from "./when-to-paint-exterior-lake-tapps-enumclaw";
 
 export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
-export const blogPosts: BlogPost[] = [whenToPaintExteriorLakeTappsEnumclaw].sort((a, b) =>
+export const blogPosts: BlogPost[] = [
+  deckStainVsPaintWesternWashington,
+  whenToPaintExteriorLakeTappsEnumclaw,
+].sort((a, b) =>
   b.datePublished.localeCompare(a.datePublished),
 );
 
