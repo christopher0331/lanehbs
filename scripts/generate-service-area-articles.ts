@@ -106,6 +106,10 @@ const AREAS: Record<string, AreaSeed> = {
         name: "Ridge at Lake Tapps",
         path: "/service-areas/lake-tapps/ridge-at-lake-tapps",
       },
+      {
+        name: "Falling Water",
+        path: "/service-areas/lake-tapps/falling-water",
+      },
     ],
     knownLinks: [
       {
@@ -214,6 +218,10 @@ const AREAS: Record<string, AreaSeed> = {
       {
         name: "The Ridge at Lake Tapps HOA",
         url: "https://theridgeatlaketapps.frontsteps.net/about/",
+      },
+      {
+        name: "Bonney Lake High School",
+        url: "https://blhs.sumnersd.org/",
       },
       {
         name: "Dieringer Heights Elementary",
