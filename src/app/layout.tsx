@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import EstimatePopup from "@/components/EstimatePopup";
 import PostHogScript from "@/components/PostHogScript";
 import { SITE_CONFIG } from "@/constants/siteConfig";
 import "./globals.css";
@@ -49,7 +48,6 @@ export default function RootLayout({
           <Navbar />
           {children}
           <Footer />
-          <EstimatePopup />
         </div>
       </body>
     </html>
