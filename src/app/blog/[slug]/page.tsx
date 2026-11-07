@@ -10,6 +10,14 @@ import { SITE_CONFIG } from "@/constants/siteConfig";
 import { formatBlogDate, getAllBlogSlugs, getBlogPost } from "@/content/blog";
 import { absoluteUrl, buildBlogPosting, buildBreadcrumbList } from "@/lib/seo";
 
+
+function sectionId(heading: string): string {
+  return heading
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
 type Props = { params: Promise<{ slug: string }> };
 
 export const dynamicParams = false;
@@ -88,8 +96,24 @@ export default async function BlogPostPage({ params }: Props) {
                 <InlineLinks text={p} />
               </p>
             ))}
+
+            <nav aria-label="Table of contents" className="my-10 border border-white/10 bg-[#111111] px-6 py-6">
+              <p className="text-xs tracking-widest uppercase text-[#c9a458] mb-4">In this article</p>
+              <ol className="space-y-2 list-decimal pl-5 marker:text-[#c9a458]">
+                {post.sections.map((section) => (
+                  <li key={section.heading}>
+                    <a
+                      href={`#${sectionId(section.heading)}`}
+                      className="text-white/75 hover:text-[#c9a458] transition-colors"
+                    >
+                      {section.heading}
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
             {post.sections.map((section) => (
-              <section key={section.heading} className="mt-12">
+              <section key={section.heading} id={sectionId(section.heading)} className="mt-12 scroll-mt-24">
                 <h2 className="font-display text-2xl md:text-3xl font-bold text-white mb-5">
                   {section.heading}
                 </h2>
