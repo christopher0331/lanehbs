@@ -1,4 +1,5 @@
 import type { BlogPost } from "./types";
+import { commercialPaintingMinimalDisruption } from "./commercial-painting-minimal-disruption";
 import { deckStainVsPaintWesternWashington } from "./deck-stain-vs-paint-western-washington";
 import { whenToPaintExteriorLakeTappsEnumclaw } from "./when-to-paint-exterior-lake-tapps-enumclaw";
 import { prepareHomeForInteriorRepaint } from "./prepare-home-for-interior-repaint";
@@ -7,6 +8,7 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  commercialPaintingMinimalDisruption,
   prepareHomeForInteriorRepaint,
   deckStainVsPaintWesternWashington,
   whenToPaintExteriorLakeTappsEnumclaw,
