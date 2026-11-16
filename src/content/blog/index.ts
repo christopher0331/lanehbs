@@ -1,4 +1,6 @@
 import type { BlogPost } from "./types";
+import { planHomeRemodelSequence } from "./plan-home-remodel-sequence";
+import { commercialPaintingMinimalDisruption } from "./commercial-painting-minimal-disruption";
 import { fixTrimBeforeExteriorPaint } from "./fix-trim-before-exterior-paint";
 import { deckStainVsPaintWesternWashington } from "./deck-stain-vs-paint-western-washington";
 import { whenToPaintExteriorLakeTappsEnumclaw } from "./when-to-paint-exterior-lake-tapps-enumclaw";
@@ -8,6 +10,8 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  planHomeRemodelSequence,
+  commercialPaintingMinimalDisruption,
   fixTrimBeforeExteriorPaint,
   prepareHomeForInteriorRepaint,
   deckStainVsPaintWesternWashington,
