@@ -1,4 +1,5 @@
 import type { BlogPost } from "./types";
+import { bathroomMoistureAndPaint } from "./bathroom-moisture-and-paint";
 import { drywallRepairBeforePaint } from "./drywall-repair-before-paint";
 import { washBeforeExteriorPaint } from "./wash-before-exterior-paint";
 import { planHomeRemodelSequence } from "./plan-home-remodel-sequence";
@@ -13,6 +14,7 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  bathroomMoistureAndPaint,
   drywallRepairBeforePaint,
   washBeforeExteriorPaint,
   planHomeRemodelSequence,
