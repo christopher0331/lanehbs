@@ -1,4 +1,5 @@
 import type { BlogPost } from "./types";
+import { chooseInteriorPaintSheenByRoom } from "./choose-interior-paint-sheen-by-room";
 import { bathroomMoistureAndPaint } from "./bathroom-moisture-and-paint";
 import { drywallRepairBeforePaint } from "./drywall-repair-before-paint";
 import { washBeforeExteriorPaint } from "./wash-before-exterior-paint";
@@ -14,6 +15,7 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  chooseInteriorPaintSheenByRoom,
   bathroomMoistureAndPaint,
   drywallRepairBeforePaint,
   washBeforeExteriorPaint,
