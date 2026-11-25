@@ -2,6 +2,7 @@ import type { BlogPost } from "./types";
 import { chooseInteriorPaintSheenByRoom } from "./choose-interior-paint-sheen-by-room";
 import { bathroomMoistureAndPaint } from "./bathroom-moisture-and-paint";
 import { drywallRepairBeforePaint } from "./drywall-repair-before-paint";
+import { fenceRepairVsReplacement } from "./fence-repair-vs-replacement";
 import { washBeforeExteriorPaint } from "./wash-before-exterior-paint";
 import { planHomeRemodelSequence } from "./plan-home-remodel-sequence";
 import { commercialPaintingMinimalDisruption } from "./commercial-painting-minimal-disruption";
@@ -15,6 +16,7 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  fenceRepairVsReplacement,
   chooseInteriorPaintSheenByRoom,
   bathroomMoistureAndPaint,
   drywallRepairBeforePaint,
