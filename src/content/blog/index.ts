@@ -1,4 +1,5 @@
 import type { BlogPost } from "./types";
+import { chooseExteriorPaintColorsPacificNorthwest } from "./choose-exterior-paint-colors-pacific-northwest";
 import { chooseInteriorPaintSheenByRoom } from "./choose-interior-paint-sheen-by-room";
 import { bathroomMoistureAndPaint } from "./bathroom-moisture-and-paint";
 import { drywallRepairBeforePaint } from "./drywall-repair-before-paint";
@@ -16,6 +17,7 @@ export type { BlogPost, BlogSection, BlogLink } from "./types";
 
 /** Newest first. */
 export const blogPosts: BlogPost[] = [
+  chooseExteriorPaintColorsPacificNorthwest,
   fenceRepairVsReplacement,
   chooseInteriorPaintSheenByRoom,
   bathroomMoistureAndPaint,
